@@ -30,7 +30,7 @@ In the extracted source folder, `npm start` serves the app at http://localhost:3
 - Ten categories, fiction/nonfiction, cultural tradition, original language, country, and date filters.
 - Country shading by count, leading category, earliest work, or leading language.
 - Schematic Ancient Greek cross-border highlight, clearly distinguished from historical borders.
-- Date controls snap to 50 years; ancient/medieval/renaissance/modern shortcuts; chronological list.
+- Drag across the timeline ruler in either direction to select a range; release to filter the map and books. Click any year for a centered 200-year window (1600 selects 1500–1700), shifted inward at the timeline edges. A live selection preview, 50-year snapping, touch/pointer support, and Escape-to-cancel are included. Existing handles, numeric inputs, era shortcuts, and chronological list remain available. Keyboard users can focus the ruler, choose a year with arrow keys, and press Enter for a 200-year window.
 - All 1,430 catalog entries have a date or range; unlocated entries remain searchable. Missing non-date metadata is explicit.
 - Read status (Want to read, Reading, Read), personal 1–5-star ratings; click a selected star again to clear.
 - Browser-local persistence plus JSON backup export/import. Selecting Remove from shelf removes that item and its rating; exports are recommended.

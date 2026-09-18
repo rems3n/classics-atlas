@@ -2,6 +2,8 @@
 
 ## Passed
 
+- Timeline brush update: 17 core tests and simulated-DOM checks passed, including forward/reverse 50–500 AD drags, 1600 → 1500–1700 click, edge clamping, cancellation, secondary-pointer isolation, keyboard selection, result filtering, and preserved numeric controls. The browser cannot open local file previews in this environment; live-site verification follows publishing. Physical touch-device testing remains outstanding.
+
 - Reproducible Python-standard-library build of the self-contained HTML.
 - JavaScript syntax checks on core and UI sources.
 - 16 Node tests: date-confidence display and complete date coverage, unique catalog IDs, 10-category bound, Greek poetry before the fourth century BC, before/after BC and AD century boundaries, uncertain date overlap, strict boundary exclusion, unknown metadata behavior, cross-border counting, private share serialization, malformed state normalization, fiction/nonfiction disambiguation, unsupported search requests, shelf filtering, keyword fallback, and translation grouping.
