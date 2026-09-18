@@ -1,0 +1,29 @@
+# Validation report — 2026-09-18
+
+## Passed
+
+- Reproducible Python-standard-library build of the self-contained HTML.
+- JavaScript syntax checks on core and UI sources.
+- 15 Node tests: unique catalog IDs, 10-category bound, Greek poetry before the fourth century BC, before/after BC and AD century boundaries, uncertain date overlap, strict boundary exclusion, unknown metadata behavior, cross-border counting, private share serialization, malformed state normalization, fiction/nonfiction disambiguation, unsupported search requests, shelf filtering, keyword fallback, and translation grouping.
+- jsdom simulated-browser integration: application initialization, 177 real country SVG paths, 1,430 title records, paginated book cards, local phrase search/undo, country/culture filtering and empty results, map color choice, theme switching, globe/map switching, shelf/status changes, personal ratings, persistence across a simulated reload, book-detail dialogs, share privacy, mobile filter controls, timeline/list switching, numeric date controls, result-panel close/reopen, and data-notes dialog.
+- Geographic winding sanity checked against D3 spherical areas.
+- V1.1 regression checks confirm that the headline was removed from the DOM, filters start closed, filter-toggle accessibility state updates, and mobile results start closed.
+- Real Chromium desktop (1440×900) and mobile (390×844) tests passed after obtaining a bundled test browser: measured panel/map separation, automatic map expansion, no horizontal mobile overflow, filters, Greek-poetry search, themes, globe switching, shelves/ratings, timeline, and view switching. Screenshots were visually inspected in light/dark desktop and mobile with/without book results.
+- Expanded-catalog build: 1,430 stable work IDs, 924 dates, 641 geographic associations, 1,055 classifications, 1,000 language records, and 756 cover matches (638 Penguin-family editions).
+- Five Python source-data regression tests: empty infobox fields, original/composition dates versus later translations, non-Latin author identity, cover/edition integrity, and coverage totals.
+- Node static-host checks: root HTML, health endpoint, ETag revalidation, HEAD, source/cache isolation, and disallowed HTTP methods.
+- A real Middlemarch cover was retrieved from its recorded Covers API URL with HTTP 200 and verified as a 128×198 JPEG. Browser rendering, edition attribution, source disclosures, and broken-image fallback passed using that downloaded image as a test fixture.
+
+## Network-related limitations
+
+Direct remote-cover loading in this sandbox's Chromium timed out, including with its configured proxy. The separate HTTP download succeeded; the rendering test used the actual downloaded image, not fabricated cover art. All 756 remote images were **not** exhaustively downloaded or visually inspected. Open Library discourages bulk cover crawling, so normal browser lazy loading is retained.
+
+Edition-detail endpoints did not produce usable page-count data during this run. The UI continues to display unknown page lengths; it does not substitute first-edition or work-level page counts.
+
+## Not completed
+
+- Exhaustive cross-browser, accessibility, and physical-device gesture testing. Chromium checks do not substitute for Safari/Firefox or physical touch-device validation.
+- Production deployment, authenticated accounts, cross-device sync, live AI, verified page lengths, and Goodreads integration. Railway configuration is supplied, but no connected Railway tool, CLI, or credential was available; no project or public URL was created.
+- Full editorial verification and complete geographic/date/cover coverage. Imported facts and automatic image matches expose their provenance and uncertainty; unresolved.json lists remaining gaps.
+
+This is a portable working prototype with Chromium layout/interaction coverage, not a complete production catalog or a fully cross-browser-certified release.
