@@ -1,10 +1,12 @@
 # Catalog enrichment
 
-The full supplied Wikipedia index is retained. Metadata gaps remain explicit rather than being filled with guessed original dates, nationality-as-residence, edition-wide page counts, or fabricated ratings.
+The full supplied Wikipedia index is retained. Dates now have explicit sourced or editorial assignments, with probable dates and estimated ranges visibly distinguished. Non-date metadata gaps remain explicit: no nationality-as-residence, edition-wide page counts, or fabricated ratings.
 
 ## Reproducible build
 
 `python3 scripts/build.py` combines the catalog snapshot, editorial seed rows, saved Wikipedia facts, saved Wikidata work/residence facts, and saved cover matches. It requires no network and writes catalog.json, coverage.json, unresolved.json, and the portable HTML. Existing work IDs are preserved, including IDs already used by personal shelves.
+
+The build first runs `compile_date_decisions.py`: `date-decisions.json` contains explicit assignments for the 505 previously undated IDs; `date-verification.json` records source-supported exceptions to the default estimated/probable labels. The compiler produces `date-overrides.json` and `DATE_AUDIT.md`, including a separate Satyricon correction. The build fails if any catalog record remains undated. Edit the decision/verification inputs, not the generated catalog. `research_dates.py` is an optional, cached Wikipedia research helper; its results in `date-research.json` do not automatically establish dates.
 
 ## Refresh public sources
 
