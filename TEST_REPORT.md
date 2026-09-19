@@ -46,3 +46,11 @@ This is a portable working prototype with Chromium layout/interaction coverage, 
 - Regression checks place Manas in a medieval query, African Myths in an ancient query, and Narayan’s Rama source tradition before the Common Era; later publication windows do not match those primary dates.
 - Book details show separate version dates and uncertain component origins. Explore this period updates the date filters and closes the dialog.
 - 1,430 unique IDs, 1,430 mapped works, 1,430 dated works and 756 covers remain.
+
+## World-classics expansion
+
+- 11 data tests, 21 core tests, and the UI integration suite pass.
+- All 1,479 entries are dated and mapped; all 1,430 baseline IDs remain.
+- New checks cover all four Chinese novels, alternate English titles, apostrophes, collection filters, share round-trips, and geographic counts.
+- UI checks include all four title searches, 100 Years of Solitude, the Four Great Classics collection, Murty filtering, selected-edition page counts, and existing desktop/mobile controls and shelves.
+- Coverage: 49 additions, 787 cover links (31 new publisher covers), 12 selected-edition page counts; unavailable metadata remains explicit.

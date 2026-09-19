@@ -44,3 +44,7 @@ The merge ends with `scripts/complete_mapping.py`. It preserves established asso
 ## Story origins and later versions
 
 `data/tradition-dates.json` overrides 14 reviewed traditional narratives and retellings after the older date decisions compile. The main date drives the existing timeline, sorting and filtering; `textDate` keeps a later version/recording reference separate. Optional `dateLayers` provide a partial source-tradition breakdown with notes and references. Their titles are searchable and dated layers have an Explore this period action. They do not create duplicate catalog records. Undated individual oral roots are explicit; no modern collection date is substituted for them. See `TRADITION_DATE_AUDIT.md` for old/new dates and limitations.
+
+## Curated world-classics extension
+
+After legacy mapping, `scripts/expand_catalog.py` applies title aliases and merges `data/expanded-catalog.json`. Coverage is calculated after this merge. `data/baseline-ids.json` protects the 1,430 original reading IDs. New works must have source provenance, a documented original date interval, a renderable country code, categories, and a collection label. Publisher cover links come from product-page metadata and are separately identified from Open Library matches. See EXPANSION_AUDIT.md for all 49 additions and limitations.
