@@ -1,6 +1,6 @@
 # Catalog enrichment
 
-The full supplied Wikipedia index is retained. Dates now have explicit sourced or editorial assignments, with probable dates and estimated ranges visibly distinguished. Non-date metadata gaps remain explicit: no nationality-as-residence, edition-wide page counts, or fabricated ratings.
+The full supplied Wikipedia index is retained. Dates now have explicit sourced or editorial assignments, with probable dates and estimated ranges visibly distinguished. Every work also has a geographic association: documented residence/work locations, author origin/birthplace, or a labeled original-work/anthology regional fallback. Origin is not presented as residence. Other metadata gaps remain explicit, including edition page counts and ratings.
 
 ## Reproducible build
 
@@ -36,3 +36,7 @@ Images are **not bulk downloaded**. The browser loads visible covers directly fr
 - Cover matching is automated; long anonymous-title matches and author-initial/name-variant matches are marked. Selected-edition publisher metadata can describe Penguin Random House imprints other than Penguin Classics.
 - Covers are externally hosted and may fail. Their availability and copyright are not guaranteed by the catalog metadata.
 - Missing fields, scores, and page counts remain unknown. See unresolved.json for the remaining work.
+
+## Complete geographic mapping
+
+The merge ends with `scripts/complete_mapping.py`. It preserves established associations, applies explicit work/author decisions from `data/mapping-decisions.json`, and resolves remaining named authors from cached biography origin fields. Historical empire labels are not treated as modern borders. Translated and anonymous texts use original source traditions. The generated `data/mapping-overrides.json` and `MAPPING_AUDIT.md` record methods and sources. The build fails if any work has no location or a country code lacks a polygon/point. `data/map-places.json` supplies small-territory markers.

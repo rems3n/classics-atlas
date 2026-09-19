@@ -11,7 +11,7 @@
 - Geographic winding sanity checked against D3 spherical areas.
 - V1.1 regression checks confirm that the headline was removed from the DOM, filters start closed, filter-toggle accessibility state updates, and mobile results start closed.
 - Real Chromium desktop (1440×900) and mobile (390×844) tests passed after obtaining a bundled test browser: measured panel/map separation, automatic map expansion, no horizontal mobile overflow, filters, Greek-poetry search, themes, globe switching, shelves/ratings, timeline, and view switching. Screenshots were visually inspected in light/dark desktop and mobile with/without book results.
-- Expanded-catalog build: 1,430 stable work IDs, 1,430 dates/ranges, zero undated entries, 641 geographic associations, 1,055 classifications, 1,000 language records, and 756 cover matches (638 Penguin-family editions).
+- Expanded-catalog build: 1,430 stable work IDs, 1,430 dates/ranges, zero undated entries, 1,430 mapped works (zero unplaced), 1,055 classifications, 1,000 language records, and 756 cover matches (638 Penguin-family editions).
 - Eight Python source-data regression tests: empty infobox fields, original/composition dates versus later translations, non-Latin author identity, cover/edition integrity, coverage totals, early-AD/BC-century parsing, complete date coverage with no year zero, and explicit date-assignment provenance. These validate consistency, not the historical accuracy of every estimate.
 - Node static-host checks: root HTML, health endpoint, ETag revalidation, HEAD, source/cache isolation, and disallowed HTTP methods.
 - A real Middlemarch cover was retrieved from its recorded Covers API URL with HTTP 200 and verified as a 128×198 JPEG. Browser rendering, edition attribution, source disclosures, and broken-image fallback passed using that downloaded image as a test fixture.
@@ -26,6 +26,15 @@ Edition-detail endpoints did not produce usable page-count data during this run.
 
 - Exhaustive cross-browser, accessibility, and physical-device gesture testing. Chromium checks do not substitute for Safari/Firefox or physical touch-device validation.
 - Authenticated accounts, cross-device sync, live AI, verified page lengths, and Goodreads integration. The public static app is hosted on GitHub Pages at https://rems3n.github.io/classics-atlas/; Railway configuration remains optional and unconfigured.
-- Full editorial verification and complete geographic/cover coverage. Date coverage is complete through sourced dates and clearly labeled estimates, not exhaustive independent verification. Imported facts and automatic image matches expose their provenance and uncertainty; unresolved.json lists remaining non-date gaps.
+- Full independent editorial verification and complete cover coverage. Geographic coverage is complete through documented associations and labeled origin/tradition fallbacks. Date coverage is complete through sourced dates and clearly labeled estimates, not exhaustive independent verification. Imported facts and automatic image matches expose their provenance and uncertainty; unresolved.json lists remaining non-date gaps.
 
 This is a portable working prototype with Chromium layout/interaction coverage, not a complete production catalog or a fully cross-browser-certified release.
+
+## Complete geographic coverage update
+
+- 9 data tests, 17 core tests, UI integration checks and static-host checks passed.
+- Every one of 1,430 works contributes to country counts; every assigned code has a map polygon or point marker.
+- Translator-origin regressions cover Egyptian texts, the Quran and The Tale of the Heike.
+- Small-territory checks cover Bermuda results; Guernsey and Saint Kitts and Nevis have explicit marker coordinates.
+- No IDs or dates changed; shelves remain compatible. Covers remain 756.
+- Mapping decisions and source notes are reproducible through scripts/complete_mapping.py and documented in MAPPING_AUDIT.md.
