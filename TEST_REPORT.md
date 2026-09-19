@@ -38,3 +38,11 @@ This is a portable working prototype with Chromium layout/interaction coverage, 
 - Small-territory checks cover Bermuda results; Guernsey and Saint Kitts and Nevis have explicit marker coordinates.
 - No IDs or dates changed; shelves remain compatible. Covers remain 756.
 - Mapping decisions and source notes are reproducible through scripts/complete_mapping.py and documented in MAPPING_AUDIT.md.
+
+## Story-origin review
+
+- 14 reviewed entries use source-tradition or original-composition ranges, with later versions separate.
+- 10 data tests, 18 core tests, and the UI integration suite pass.
+- Regression checks place Manas in a medieval query, African Myths in an ancient query, and Narayan’s Rama source tradition before the Common Era; later publication windows do not match those primary dates.
+- Book details show separate version dates and uncertain component origins. Explore this period updates the date filters and closes the dialog.
+- 1,430 unique IDs, 1,430 mapped works, 1,430 dated works and 756 covers remain.

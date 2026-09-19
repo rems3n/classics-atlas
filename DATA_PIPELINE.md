@@ -40,3 +40,7 @@ Images are **not bulk downloaded**. The browser loads visible covers directly fr
 ## Complete geographic mapping
 
 The merge ends with `scripts/complete_mapping.py`. It preserves established associations, applies explicit work/author decisions from `data/mapping-decisions.json`, and resolves remaining named authors from cached biography origin fields. Historical empire labels are not treated as modern borders. Translated and anonymous texts use original source traditions. The generated `data/mapping-overrides.json` and `MAPPING_AUDIT.md` record methods and sources. The build fails if any work has no location or a country code lacks a polygon/point. `data/map-places.json` supplies small-territory markers.
+
+## Story origins and later versions
+
+`data/tradition-dates.json` overrides 14 reviewed traditional narratives and retellings after the older date decisions compile. The main date drives the existing timeline, sorting and filtering; `textDate` keeps a later version/recording reference separate. Optional `dateLayers` provide a partial source-tradition breakdown with notes and references. Their titles are searchable and dated layers have an Explore this period action. They do not create duplicate catalog records. Undated individual oral roots are explicit; no modern collection date is substituted for them. See `TRADITION_DATE_AUDIT.md` for old/new dates and limitations.
