@@ -30,7 +30,7 @@ In the extracted source folder, `npm start` serves the app at http://localhost:3
 
 ## Features
 
-- Pan/zoom world map; rotate and zoom globe; clickable countries and count markers.
+- Pan/zoom world map; drag to rotate the globe and pinch with two fingers to zoom on a trackpad or touchscreen. Mouse-wheel and +/− controls also work. Countries and count markers remain clickable.
 - Ten categories, fiction/nonfiction, cultural tradition, original language, source collection, country, and date filters.
 - Country shading by count, leading category, earliest work, or leading language.
 - Twelve sourced historical basemaps with dated snapshots, inspectable political/cultural regions, explicit hatching for coverage gaps, six additional African historical centers in AD 1600, and source notes; a schematic Greek lens remains available only in modern mode.

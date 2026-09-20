@@ -1,5 +1,7 @@
 # Current validation — September 20, 2026
 
+- Globe pinch update: focused simulated-DOM gesture regression passes for trackpad Ctrl+wheel, wheel units, actual SVG repaint, scale limits, two-contact pinch, single-contact rotation, finger lift without jumping, ordinary taps, drag/pinch click suppression, cancelled/lost contacts, coincident contacts, projection switching and window blur. Physical touchscreen and Safari gesture validation remain outstanding.
+
 - 26 core tests pass, including all exact historical cutoffs, linked era selections, preserved 50-year brush behavior and embedded spherical geometry at three globe rotations.
 - 13 source-data checks pass. All 1,479 stable catalog entries still have dates and renderable locations; coverage is now 965 cover links.
 - Simulated desktop/mobile UI regression covers default-open filters, all 12 maps applying book cutoffs, automatic era highlighting, six African center markers, date dialog opening/closing, drag/click ranges, chronology, search, shelves/ratings, and sharing. Live Chromium verification confirmed the sidebar/date-dialog layout, AD 1600 filtering to 367 works, visible African centers and hatching, light/dark themes, and the wide date picker. Live pointer checks confirmed a 1600 click selects 1500–1700 and a forward drag selects 50–500 AD; Medieval selects AD 500–1500 and the available 1492 map. A narrow-sidebar era overflow was found and corrected with wrapped buttons.
