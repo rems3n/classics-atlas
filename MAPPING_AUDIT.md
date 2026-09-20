@@ -1,4 +1,6 @@
-> Current policy, 20 September 2026: origin is now separate from broader associations. See GEOGRAPHY_QA.md and data/geography-audit.json for the current 1,479-record audit and 298 changed records. The earlier import log below is retained for provenance.
+# Current map policy
+
+All 1,479 works are mapped. Author origin/source context is the default; broader residence/travel associations are separate. See GEOGRAPHY_QA.md for the 298 corrected records, 217 explicitly retained fallbacks and the historical-map review. Historical map selection now filters books through its snapshot date; custom intervals retain their exact dates. This report below describes the earlier fallback mapping pass, not verified author birthplaces.
 
 # Geographic mapping audit
 

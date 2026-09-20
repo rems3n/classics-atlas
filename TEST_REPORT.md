@@ -1,3 +1,13 @@
+# Current validation — September 20, 2026
+
+- 26 core tests pass, including all exact historical cutoffs, linked era selections, preserved 50-year brush behavior and embedded spherical geometry at three globe rotations.
+- 13 source-data checks pass. All 1,479 stable catalog entries still have dates and renderable locations; coverage is now 965 cover links.
+- Simulated desktop/mobile UI regression covers default-open filters, all 12 maps applying book cutoffs, automatic era highlighting, six African center markers, date dialog opening/closing, drag/click ranges, chronology, search, shelves/ratings, and sharing. Live visual verification follows publication.
+- Three newly matched cover files were fetched and visually inspected. The alternate Seneca volume did not sufficiently match and was replaced with a sourced Penguin edition record. This is a sample review, not an exhaustive image-content audit.
+- This environment blocks local-file browser previews. This release does not claim new physical mobile, Safari, or Firefox verification. Earlier reports below describe earlier releases and should not be interpreted as current layout evidence.
+
+---
+
 # Validation report — 2026-09-18
 
 ## Passed

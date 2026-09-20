@@ -1,3 +1,21 @@
+## September 20 update: historical coverage and linked time controls
+
+Africa in AD 1600 was not empty: the underlying dataset already contains Kongo, Benin, Oyo, Mossi, Kanem-Bornu, Ethiopia, Mutapa and other regions. An overly restrictive label cutoff concealed many smaller states. Labels now have a lower area threshold, more room and collision checks. “Explore Africa” zooms directly to the continent.
+
+All historical snapshots show hatched land where named territorial coverage is missing. These are data gaps, not uninhabited land. This is not a complete historical atlas.
+
+Six sourced diamond markers supplement AD 1600: Funj/Sennar, Ndongo, Ajuran, Butua/Khami, Saadi/Marrakesh and Moroccan-held Timbuktu. These locate historical centers or approximate heartlands without fabricating territorial polygons. Each has a reference and a location-precision note in the map dialog.
+
+The AD 1600 source incorrectly uses several earlier/later polities. Wattasid Morocco and the intact Songhai Empire are omitted rather than relabeled onto unverified replacement boundaries. Guanches, Adal, Wadai, Darfur and Lunda polygons are also withheld from this snapshot because the depicted political entity/extent does not reliably represent AD 1600. The original source remains unchanged in the archive. This targeted correction is recorded with references in `data/historical/review-1600.json`; other source polygons still require independent review.
+
+Choosing a map now sets the book range to 2500 BC through its exact date, including 323 BC and AD 1492 without rounding. Choosing an era sets its own range and an available historical snapshot. Dragging/clicking custom dates keeps the exact requested range and chooses the latest snapshot at or before its end (modern borders before 1500 BC or after AD 1700). The UI labels the book period and border year separately. Approximate book dates continue to match on interval overlap. Counts remain modern book-origin regions, not empire membership.
+
+Sources: [Funj](https://en.wikipedia.org/wiki/Funj_Sultanate), [Ndongo](https://en.wikipedia.org/wiki/Kingdom_of_Ndongo), [Ajuran](https://en.wikipedia.org/wiki/Ajuran_Sultanate), [Butua](https://en.wikipedia.org/wiki/Torwa_dynasty), [Saadi](https://en.wikipedia.org/wiki/Saadi_Sultanate), [Songhai](https://en.wikipedia.org/wiki/Songhai_Empire). All correction references are in the saved review file.
+
+---
+
+The following records the earlier review; independent-time behavior described below has been superseded by this update.
+
 # Geography QA and historical maps — 20 September 2026
 
 ## Geographic review
