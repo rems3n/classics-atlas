@@ -1,6 +1,6 @@
 # Current map policy
 
-All 1,479 works are mapped. Author origin/source context is the default; broader residence/travel associations are separate. See GEOGRAPHY_QA.md for the 298 corrected records, 217 explicitly retained fallbacks and the historical-map review. Historical map selection now filters books through its snapshot date; custom intervals retain their exact dates. This report below describes the earlier fallback mapping pass, not verified author birthplaces.
+All 1,479 works are mapped. Default author origin/source context is separate from broader life associations. See GEOGRAPHY_QA.md for the latest policy and historical-map review. The following is the earlier fallback mapping report, not verified birthplaces.
 
 # Geographic mapping audit
 
