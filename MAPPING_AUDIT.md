@@ -1,3 +1,5 @@
+> Superseded policy note, 20 September 2026: the default now separates origin from broader associations. See GEOGRAPHY_QA.md and data/geography-audit.json for the current 1,479-record audit and 298 changed records. The earlier fallback-import log below remains for provenance.
+
 # Geographic mapping audit
 
 Every catalog work has at least one modern-country or territory association. Previously documented residence/work associations are retained. Remaining works use author origin or birthplace first, then documented career, original literary tradition, or representative anthology source regions. Translators are not substituted for original authors. Approximate and disputed choices are explained below.

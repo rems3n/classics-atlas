@@ -54,3 +54,7 @@ This is a portable working prototype with Chromium layout/interaction coverage, 
 - New checks cover all four Chinese novels, alternate English titles, apostrophes, collection filters, share round-trips, and geographic counts.
 - UI checks include all four title searches, 100 Years of Solitude, the Four Great Classics collection, Murty filtering, selected-edition page counts, and existing desktop/mobile controls and shelves.
 - Coverage: 49 additions, 787 cover links (31 new publisher covers), 12 selected-edition page counts; unavailable metadata remains explicit.
+
+## Geography QA and historical maps — 20 September 2026
+
+13 data tests, 24 core tests, and extended UI integration checks passed. All 12 historical snapshots generate real SVG geometry. Origin versus association filtering/counts, Seneca regression, map-year independence, historical source dialog/date shortcut, share state, modern-mode restoration, dark/globe mode and mobile marker controls are covered. Every named source polygon was checked for inverted winding. See GEOGRAPHY_QA.md for audit scope and limitations. Live-site visual verification follows deployment; no claim of exhaustive historical accuracy is made.
