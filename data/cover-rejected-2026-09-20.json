@@ -1,0 +1,686 @@
+[
+  {
+    "id": "6b443c7c183d",
+    "title": "Prometheus Bound and Other Plays (The Suppliants, Seven Against Thebes, The Persians)",
+    "author": "Aeschylus",
+    "matchedTitle": "Prometheus Bound And Other Plays",
+    "matchedAuthors": [
+      "Aeschylus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10318355-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28419244M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL28419244M",
+      "title": "Prometheus Bound And Other Plays",
+      "cover_i": 10318355,
+      "publisher": [
+        "Loki's Publishing"
+      ],
+      "publish_date": [
+        "Jul 02, 2017"
+      ],
+      "isbn": [
+        "9781636002156",
+        "1636002153"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20982362W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "1831e91516db",
+    "title": "Medea and Other Plays (Hecabe, Electra, Heracles)",
+    "author": "Euripides",
+    "matchedTitle": "Medea and other plays",
+    "matchedAuthors": [
+      "Euripides"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/118598-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL353211M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL353211M",
+      "title": "Medea and other plays",
+      "cover_i": 118598,
+      "publisher": [
+        "Oxford University Press"
+      ],
+      "publish_date": [
+        "1998"
+      ],
+      "isbn": [
+        "0192824422",
+        "9780192824424"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL66446W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "4174196018a3",
+    "title": "Orestes and Other Plays (The Children of Heracles, Andromache, The Suppliant Women, The Phoenician Women, Iphigenia in Aulis)",
+    "author": "Euripides",
+    "matchedTitle": "Orestes and Other Plays (Oxford World's Classics (Oxford University Press).)",
+    "matchedAuthors": [
+      "Euripides"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/119019-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7383982M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7383982M",
+      "title": "Orestes and Other Plays (Oxford World's Classics (Oxford University Press).)",
+      "cover_i": 119019,
+      "publisher": [
+        "Oxford University Press, USA"
+      ],
+      "publish_date": [
+        "October 29, 2001"
+      ],
+      "isbn": [
+        "9780192832603",
+        "0192832603"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15006386W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "25944f21e951",
+    "title": "Letters from a Stoic",
+    "author": "Seneca",
+    "matchedTitle": "Letters from a Stoic",
+    "matchedAuthors": [
+      "Seneca"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13228002-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL40117270M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL40117270M",
+      "title": "Letters from a Stoic",
+      "cover_i": 13228002,
+      "publisher": [
+        "Lulu Press, Inc."
+      ],
+      "publish_date": [
+        "2020"
+      ],
+      "isbn": [
+        "9781716497964",
+        "1716497965"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL29096812W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "984d5ec85243",
+    "title": "Le Morte d'Arthur (in two volumes)",
+    "author": "Thomas Malory",
+    "matchedTitle": "Le Morte d’Arthur",
+    "matchedAuthors": [
+      "Thomas Malory"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12621778-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL37044521M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL37044521M",
+      "title": "Le Morte d’Arthur",
+      "cover_i": 12621778,
+      "publisher": [
+        "Standard Ebooks"
+      ],
+      "publish_date": [
+        "2020"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15450151W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "ae5a01678cc6",
+    "title": "La Celestina (The Spanish Bawd)",
+    "author": "Fernando de Rojas",
+    "matchedTitle": "La Celestina",
+    "matchedAuthors": [
+      "Fernando de Rojas"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9667369-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5995196M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL5995196M",
+      "title": "La Celestina",
+      "cover_i": 9667369,
+      "publisher": [
+        "New York University Press"
+      ],
+      "publish_date": [
+        "1966"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL938934W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "722888ac86e0",
+    "title": "Lives of the Artists (in two volumes)",
+    "author": "Giorgio Vasari",
+    "matchedTitle": "Lives of the Artists",
+    "matchedAuthors": [
+      "Giorgio Vasari"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1469203-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL8108066M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL8108066M",
+      "title": "Lives of the Artists",
+      "cover_i": 1469203,
+      "publisher": [
+        "Blackstone Audiobooks"
+      ],
+      "publish_date": [
+        "June 2006"
+      ],
+      "isbn": [
+        "9780786173556",
+        "0786173556"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL7968421W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "8da68c8e62a1",
+    "title": "Selected Fables",
+    "author": "Jean de La Fontaine",
+    "matchedTitle": "Selected Fables",
+    "matchedAuthors": [
+      "Jean de La Fontaine"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8536460-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL26843968M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL26843968M",
+      "title": "Selected Fables",
+      "cover_i": 8536460,
+      "publisher": [
+        "OUP Oxford"
+      ],
+      "publish_date": [
+        "Mar 13, 2014"
+      ],
+      "isbn": [
+        "9780191507885",
+        "0191507881"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL19622972W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "7f466529ddda",
+    "title": "The School for Scandal and Other Plays",
+    "author": "Richard Brinsley Sheridan",
+    "matchedTitle": "The School for Scandal and Other Plays",
+    "matchedAuthors": [
+      "Richard Brinsley Sheridan"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/118640-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7383813M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7383813M",
+      "title": "The School for Scandal and Other Plays",
+      "cover_i": 118640,
+      "publisher": [
+        "Oxford University Press, USA"
+      ],
+      "publish_date": [
+        "September 11, 1998"
+      ],
+      "isbn": [
+        "9780192825674",
+        "0192825674"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1062593W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "3a2872810d8e",
+    "title": "Selected Poems",
+    "author": "William Wordsworth",
+    "matchedTitle": "Selected poems",
+    "matchedAuthors": [
+      "William Wordsworth"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11711421-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL33029720M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL33029720M",
+      "title": "Selected poems",
+      "cover_i": 11711421,
+      "publisher": [
+        "Appleton-Century-Crofts"
+      ],
+      "publish_date": [
+        "1950"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24850447W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "b73221ca6ecb",
+    "title": "Selected Poems",
+    "author": "Samuel Taylor Coleridge",
+    "matchedTitle": "Selected Poems",
+    "matchedAuthors": [
+      "Samuel Taylor Coleridge"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/274912-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7508223M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7508223M",
+      "title": "Selected Poems",
+      "cover_i": 274912,
+      "publisher": [
+        "Heinemann Educational Secondary Division"
+      ],
+      "publish_date": [
+        "June 24, 1969"
+      ],
+      "isbn": [
+        "9780435150211",
+        "0435150219"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15201404W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "2630537eb90f",
+    "title": "The Interesting Narrative and Other Writings",
+    "author": "Olaudah Equiano",
+    "matchedTitle": "The Interesting Narrative and other writings",
+    "matchedAuthors": [
+      "Olaudah Equiano"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9170537-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27759012M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27759012M",
+      "title": "The Interesting Narrative and other writings",
+      "cover_i": 9170537,
+      "publisher": [
+        "Independently published"
+      ],
+      "publish_date": [
+        "Apr 01, 2019"
+      ],
+      "isbn": [
+        "9781091614239",
+        "1091614237"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20520244W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "0a86b532759a",
+    "title": "Selected Poems",
+    "author": "Percy Bysshe Shelley",
+    "matchedTitle": "Selected Poems",
+    "matchedAuthors": [
+      "Percy Bysshe Shelley"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12431517-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL33910339M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL33910339M",
+      "title": "Selected Poems",
+      "cover_i": 12431517,
+      "publisher": [
+        "Alma Classics"
+      ],
+      "publish_date": [
+        "2021"
+      ],
+      "isbn": [
+        "9781847498670",
+        "1847498671"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL25319341W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "776a15e8d1c8",
+    "title": "Selected Poems and Prose",
+    "author": "Percy Shelley",
+    "matchedTitle": "Selected poems and prose",
+    "matchedAuthors": [
+      "Percy Bysshe Shelley"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9578003-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5937685M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL5937685M",
+      "title": "Selected poems and prose",
+      "cover_i": 9578003,
+      "publisher": [
+        "Oxford University Press"
+      ],
+      "publish_date": [
+        "1964"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14853306W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "9eb131bee7df",
+    "title": "Selected Poems",
+    "author": "Henry Wadsworth Longfellow",
+    "matchedTitle": "Selected Poems",
+    "matchedAuthors": [
+      "Henry Wadsworth Longfellow",
+      "Anthony Thwaite"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14474470-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL28666254W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL28666254W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "1b80a2d8e36a",
+    "title": "Selected Short Stories",
+    "author": "Honoré de Balzac",
+    "matchedTitle": "Selected short stories =",
+    "matchedAuthors": [
+      "Honoré de Balzac"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/312836-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL44479M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL44479M",
+      "title": "Selected short stories =",
+      "cover_i": 312836,
+      "publisher": [
+        "Dover Publications"
+      ],
+      "publish_date": [
+        "1999"
+      ],
+      "isbn": [
+        "0486408957",
+        "9780486408958"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL230321W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "a523b0edc7fa",
+    "title": "History of the Thirteen: (Ferragus, The Duchess of Langeais, The Girl with the Golden Eyes)",
+    "author": "Honoré de Balzac",
+    "matchedTitle": "History of the thirteen",
+    "matchedAuthors": [
+      "Honoré de Balzac"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6039543-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL22882698M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL22882698M",
+      "title": "History of the thirteen",
+      "cover_i": 6039543,
+      "publisher": [
+        "George Barrie & Son"
+      ],
+      "publish_date": [
+        "1896"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL85033W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "51609eee12bd",
+    "title": "Selected Tales",
+    "author": "Henry James",
+    "matchedTitle": "Selected Tales",
+    "matchedAuthors": [
+      "Henry James"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/297720-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7592545M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7592545M",
+      "title": "Selected Tales",
+      "cover_i": 297720,
+      "publisher": [
+        "Everymans Library"
+      ],
+      "publish_date": [
+        "March 1993"
+      ],
+      "isbn": [
+        "9780460872096",
+        "0460872095"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14914591W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "603f7b7da3e8",
+    "title": "Selected Poems",
+    "author": "Thomas Hardy",
+    "matchedTitle": "Selected Poems",
+    "matchedAuthors": [
+      "Thomas Hardy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9122530-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27682187M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27682187M",
+      "title": "Selected Poems",
+      "cover_i": 9122530,
+      "publisher": [
+        "Digireads.com"
+      ],
+      "publish_date": [
+        "Jan 01, 2010"
+      ],
+      "isbn": [
+        "9781420934816",
+        "1420934813"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20457074W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "8546fdb6552c",
+    "title": "Collected Poems",
+    "author": "Arthur Rimbaud",
+    "matchedTitle": "Collected Poems (Rimbaud, Arthur)",
+    "matchedAuthors": [
+      "Arthur Rimbaud"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/102857-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL15399711W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL15399711W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "47d43125b614",
+    "title": "The Wonderful World of Oz (The Wizard of Oz, The Emerald City of Oz, Glinda of Oz)",
+    "author": "L. Frank Baum",
+    "matchedTitle": "The Wonderful World of Oz",
+    "matchedAuthors": [
+      "L. Frank Baum"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15207868-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL9779235M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL9779235M",
+      "title": "The Wonderful World of Oz",
+      "cover_i": 15207868,
+      "publisher": [
+        "Diane Pub Co"
+      ],
+      "publish_date": [
+        "August 1998"
+      ],
+      "isbn": [
+        "9780756760397",
+        "0756760399"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45111624W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "210bc0b8d33d",
+    "title": "Selected Poems",
+    "author": "D. H. Lawrence",
+    "matchedTitle": "Selected Poems",
+    "matchedAuthors": [
+      "D. H. Lawrence"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/2423072-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL10277227M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL10277227M",
+      "title": "Selected Poems",
+      "cover_i": 2423072,
+      "publisher": [
+        "Phoenix Press",
+        "Orion Publishing Group, Limited"
+      ],
+      "publish_date": [
+        "May 21, 1992"
+      ],
+      "isbn": [
+        "9780460871297",
+        "0460871293"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL5257964W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "602f659e2033",
+    "title": "Selected Poems",
+    "author": "Austin Clarke",
+    "matchedTitle": "Selected Poems",
+    "matchedAuthors": [
+      "Austin Clarke"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8520224-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL19550648W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL19550648W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  },
+  {
+    "id": "77b46a0afa7c",
+    "title": "Billy Budd and Other Tales (including Bartleby, the Scrivener and Benito Cereno)",
+    "author": "Herman Melville",
+    "matchedTitle": "Billy Budd and Other Tales",
+    "matchedAuthors": [
+      "Herman Melville"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9220745-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7576684M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7576684M",
+      "title": "Billy Budd and Other Tales",
+      "cover_i": 9220745,
+      "publisher": [
+        "Signet Classic (New American Library)"
+      ],
+      "publish_date": [
+        "1979"
+      ],
+      "isbn": [
+        "9780451517142",
+        "0451517148"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL102708W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20",
+    "reason": "Selection/volume correspondence not established"
+  }
+]

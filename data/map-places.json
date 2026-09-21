@@ -1,0 +1,37 @@
+[
+  {
+    "id": "GGY",
+    "name": "Guernsey",
+    "label": [
+      -2.58,
+      49.45
+    ],
+    "note": "Point marker for an island omitted by the coarse world polygons."
+  },
+  {
+    "id": "BMU",
+    "name": "Bermuda",
+    "label": [
+      -64.75,
+      32.3
+    ],
+    "note": "Point marker for an island omitted by the coarse world polygons."
+  },
+  {
+    "id": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "label": [
+      -62.7,
+      17.3
+    ],
+    "note": "Point marker for islands omitted by the coarse world polygons."
+  },
+  {
+    "id": "MUS",
+    "name": "Mauritius",
+    "label": [
+      57.55,
+      -20.28
+    ]
+  }
+]

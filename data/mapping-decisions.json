@@ -1,0 +1,2386 @@
+{
+  "authors": {
+    "Benjamin Franklin": {"countries":["USA"],"basis":"author origin","note":"Born in Boston, in the English colonies in North America, now the United States. Historical colonial labels do not assign his birthplace to modern Britain.","sources":["https://en.wikipedia.org/wiki/Benjamin_Franklin"]},
+    "Jules Laforgue": {"countries":["URY","FRA"],"basis":"author origin and literary career","note":"Born in Montevideo, Uruguay; raised and wrote in France.","sources":["https://en.wikipedia.org/wiki/Jules_Laforgue"]},
+    "Ammianus Marcellinus": {
+      "countries": [
+        "TUR",
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Traditionally from Antioch (modern Antakya, Turkey), later writing in Rome; birthplace attribution is uncertain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ammianus_Marcellinus"
+      ]
+    },
+    "Apollonius of Rhodes": {
+      "countries": [
+        "EGY",
+        "GRC"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Alexandrian origin and association with Rhodes, mapped to modern Egypt and Greece.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Apollonius_of_Rhodes"
+      ]
+    },
+    "Arrian": {
+      "countries": [
+        "TUR",
+        "GRC"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Nicomedia (modern İzmit, Turkey), with a later Athenian career.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arrian"
+      ]
+    },
+    "Epictetus": {
+      "countries": [
+        "TUR",
+        "GRC"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Hierapolis in modern Turkey; taught at Nicopolis in modern Greece.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Epictetus"
+      ]
+    },
+    "Lucian": {
+      "countries": [
+        "TUR",
+        "GRC"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "From Samosata in modern Turkey; Greek literary career, including Athens. Historical Syria is not mapped to modern Syria.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lucian"
+      ]
+    },
+    "Eusebius": {
+      "countries": [
+        "ISR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Associated with Caesarea Maritima, in modern Israel; exact birthplace is uncertain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eusebius"
+      ]
+    },
+    "Procopius": {
+      "countries": [
+        "ISR",
+        "TUR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "From Caesarea Maritima in modern Israel; worked in Constantinople, modern Istanbul.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Procopius"
+      ]
+    },
+    "Cassius Dio": {
+      "countries": [
+        "TUR",
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Nicaea (modern İznik, Turkey), with a Roman political and literary career.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cassius_Dio"
+      ]
+    },
+    "Apuleius": {
+      "countries": [
+        "DZA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Madaura, modern Mdaourouch in Algeria.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Apuleius"
+      ]
+    },
+    "Boethius": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Roman author, born and active in Italy.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Boethius"
+      ]
+    },
+    "Lucretius": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Exact birthplace is unknown; the Roman author's Italian literary context is the fallback.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lucretius"
+      ]
+    },
+    "Plautus": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Sarsina in modern Italy.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plautus"
+      ]
+    },
+    "Sallust": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Amiternum in modern Italy.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sallust"
+      ]
+    },
+    "Quintus Curtius Rufus": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "The author's biography is uncertain; Roman literary context is used as the regional fallback.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quintus_Curtius_Rufus"
+      ]
+    },
+    "Tacitus": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Birthplace is disputed; documented Roman career supplies the Italian association.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tacitus"
+      ]
+    },
+    "Philostratus": {
+      "countries": [
+        "GRC",
+        "ITA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Associated with Lemnos and the imperial court in Rome.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philostratus"
+      ]
+    },
+    "Gregory of Tours": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Clermont and active in Tours, both in modern France.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gregory_of_Tours"
+      ]
+    },
+    "Michael Psellus": {
+      "countries": [
+        "TUR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born and active in Constantinople, modern Istanbul, Turkey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Michael_Psellos"
+      ]
+    },
+    "Beroul": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Probable Norman/Old French literary origin; exact biography is uncertain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/B%C3%A9roul"
+      ]
+    },
+    "Farid Ud-Din Attar": {
+      "countries": [
+        "IRN"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Associated with Nishapur in modern Iran.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Attar_of_Nishapur"
+      ]
+    },
+    "Usama ibn Munqidh": {
+      "countries": [
+        "SYR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Shaizar in modern Syria.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Usama_ibn_Munqidh"
+      ]
+    },
+    "Rumi": {
+      "countries": [
+        "TJK",
+        "AFG",
+        "TUR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Birth is associated with Wakhsh in modern Tajikistan or traditionally Balkh in Afghanistan; later lived in Konya, Turkey. Both disputed birth traditions are represented.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rumi"
+      ]
+    },
+    "Mary Prince": {
+      "countries": [
+        "BMU",
+        "GBR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born enslaved in Bermuda; her narrative was recorded and published during her later life in Britain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mary_Prince"
+      ]
+    },
+    "Black Hawk": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "From the Sauk settlement of Saukenuk in present-day Illinois, United States.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Hawk_(Sauk_leader)"
+      ]
+    },
+    "Zitkala-Ša": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born on the Yankton Reservation in present-day South Dakota; Dakota American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zitkala-Sa"
+      ]
+    },
+    "E. T. A. Hoffmann": {
+      "countries": [
+        "RUS",
+        "DEU"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born in Königsberg, now Kaliningrad, Russia; German cultural origin and later career in Germany.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/E._T._A._Hoffmann"
+      ]
+    },
+    "Gottfried von Strassburg": {
+      "countries": [
+        "FRA",
+        "DEU"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Associated with Strasbourg, now France, within the medieval German literary tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gottfried_von_Strassburg"
+      ]
+    },
+    "Joseph Conrad": {
+      "countries": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born in Berdychiv, modern Ukraine, to a Polish family; later lived and wrote in Britain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Joseph_Conrad"
+      ]
+    },
+    "Mikhail Bulgakov": {
+      "countries": [
+        "UKR",
+        "RUS"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born in Kyiv, modern Ukraine; later lived and wrote in Moscow, Russia.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+      ]
+    },
+    "Philippe de Commynes": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born at Renescure, now in France, and active at the French court; historical Flanders is not treated as modern Belgium.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philippe_de_Commines"
+      ]
+    },
+    "Richard E. Kim": {
+      "countries": [
+        "PRK",
+        "USA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born in Hamhung, now North Korea; later lived and wrote in the United States.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Richard_E._Kim"
+      ]
+    },
+    "María Amparo Ruíz de Burton": {
+      "countries": [
+        "MEX",
+        "USA"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Born in Loreto, Mexico; later lived and wrote in the United States.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mar%C3%ADa_Ruiz_de_Burton"
+      ]
+    },
+    "Adomnán of Iona": {
+      "countries": [
+        "IRL",
+        "GBR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Irish origin in present-day County Donegal and monastic career on Iona, Scotland.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adomn%C3%A1n"
+      ]
+    },
+    "Aesop": {
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "author origin / documented regional fallback",
+      "note": "Traditional Greek/Phrygian association, represented by modern Greece and Turkey; historicity and birthplace are uncertain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aesop"
+      ]
+    }
+  },
+  "works": {
+    "4a39f2c13e91": {"countries":["IRL","GBR"],"basis":"original literary tradition","note":"Medieval Irish Ulster Cycle narrative, associated with Ireland and Ulster across the modern Ireland–United Kingdom border. Location follows the original tradition rather than its modern translator.","sources":["https://en.wikipedia.org/wiki/T%C3%A1in_B%C3%B3_C%C3%BAailnge"]},
+    "76e97a085a64": {"countries":["USA"],"basis":"original author origin","note":"Selection of William Faulkner's writings; born and active in Mississippi, United States.","sources":["https://en.wikipedia.org/wiki/William_Faulkner"]},
+    "b4fc4d74f1bf": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Hindu textual traditions of the Indian subcontinent.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hindu_mythology"
+      ]
+    },
+    "56b1af0227f7": {
+      "countries": [
+        "IND",
+        "PAK"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Vedic composition region in the northwestern Indian subcontinent, crossing modern India and Pakistan.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rigveda"
+      ]
+    },
+    "9fe06480ba1b": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Vedic philosophical traditions; broad origin region rather than a single composition site.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Upanishads"
+      ]
+    },
+    "356f101646fc": {
+      "countries": [
+        "GRC"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Hesiod and Theognis: ancient Greek poets associated with Boeotia and Megara.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hesiod"
+      ]
+    },
+    "f4d54a5adee1": {
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Early Greek philosophy in mainland Greece and the Ionian cities of modern Turkey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pre-Socratic_philosophy"
+      ]
+    },
+    "1f24c7afdd16": {
+      "countries": [
+        "IND",
+        "NPL",
+        "LKA",
+        "CHN",
+        "JPN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Buddhist anthology spanning South and East Asian textual traditions; broad regional scope, not one author's birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Buddhist_texts"
+      ]
+    },
+    "f7ef8098d4f9": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Classical Indian medical textual tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ayurveda"
+      ]
+    },
+    "d7cda55b4d71": {
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Hippocratic corpus associated with Kos and the Greek medical world of the Aegean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hippocratic_Corpus"
+      ]
+    },
+    "f0eb82bf293f": {
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Greek sophists from mainland and Aegean/Ionian communities.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sophist"
+      ]
+    },
+    "a910ac397c4a": {
+      "countries": [
+        "GRC"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Athenian orators and historians; original authors rather than modern translators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Attic_orators"
+      ]
+    },
+    "7437c596ec72": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Classical Chinese Confucian tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Doctrine_of_the_Mean"
+      ]
+    },
+    "bd269dc5e15b": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Classical Chinese Confucian tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Learning"
+      ]
+    },
+    "21777cbb145e": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit epic tradition; a broad composition region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahabharata"
+      ]
+    },
+    "2d06a2f28620": {
+      "countries": [
+        "GRC"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Aristophanes' Athenian comedies collected as Women in Power.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aristophanes"
+      ]
+    },
+    "fc7f125e37fe": {
+      "countries": [
+        "GRC",
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Greek and Roman literary criticism; a combined source-author tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Literary_criticism"
+      ]
+    },
+    "01373887e5b9": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Qu Yuan and the poetry of the ancient Chu region in China.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chu_Ci"
+      ]
+    },
+    "5e8072703004": {
+      "countries": [
+        "GRC"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Demosthenes and Aeschines were Athenian orators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Demosthenes"
+      ]
+    },
+    "7b4e487cf6c4": {
+      "countries": [
+        "GRC"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Menander and Theophrastus in the Greek literary tradition, associated with Athens and Lesbos.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Menander"
+      ]
+    },
+    "f1a3697281a1": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Mencius came from Zou, in modern Shandong, China.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mencius"
+      ]
+    },
+    "d060b7f73b0f": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Chinese Daoist textual tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
+      ]
+    },
+    "52478ead11b0": {
+      "countries": [
+        "IND",
+        "LKA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Buddhist origins with Sri Lankan Pali textual preservation; cross-border tradition mapping.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dhammapada"
+      ]
+    },
+    "daa6e0fc3854": {
+      "countries": [
+        "IND",
+        "LKA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Buddhist story tradition and Sri Lankan Pali collection/transmission.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jataka_tales"
+      ]
+    },
+    "4b5a6587ae5a": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Chinese authors represented in the anthology; source culture replaces missing individual attribution.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinese_literature"
+      ]
+    },
+    "def2e5451bd8": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit legal and religious textual tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Manusmriti"
+      ]
+    },
+    "e901e9586485": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Classical Chinese mythographic tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Classic_of_Mountains_and_Seas"
+      ]
+    },
+    "8e63c95ace88": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Persius and Horace were Roman poets from the Italian peninsula.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persius"
+      ]
+    },
+    "a6d1bd6f0cbc": {
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Longus is associated with Lesbos; Chariton with Aphrodisias in modern Turkey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chariton"
+      ]
+    },
+    "8381bea5662f": {
+      "countries": [
+        "ESP",
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Seneca was born at Corduba, modern Spain, and worked in Rome. This entry is his Apocolocyntosis, despite the combined catalog author label.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+      ]
+    },
+    "c039d711e853": {
+      "countries": [
+        "ITA",
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Petronius' birthplace is uncertain, often associated with Massalia; his literary and political career belongs to the Roman world. France and Italy are approximate associations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Petronius"
+      ]
+    },
+    "46baa3c627ee": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit yoga tradition attributed to Patanjali.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
+      ]
+    },
+    "b5f9c61957af": {
+      "countries": [
+        "ISR",
+        "ESP",
+        "FRA",
+        "IRQ"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Jewish mystical texts spanning the Levant, Babylonia and medieval European centers; representative origin regions rather than exhaustive contributor locations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kabbalah"
+      ]
+    },
+    "bfec5c894c3e": {
+      "countries": [
+        "IRQ",
+        "ISR",
+        "PSX"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Babylonian and Jerusalem Talmud traditions; modern Iraq and the Israel/Palestine region. Regional association is not a territorial claim.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Talmud"
+      ]
+    },
+    "24ee0513292f": {
+      "countries": [
+        "EGY"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Early Christian desert monastic tradition centered in Egypt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Desert_Fathers"
+      ]
+    },
+    "e1812e725aae": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Kalidasa, Vishakhadatta and Bhavabhuti: original Indian Sanskrit dramatists.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sanskrit_drama"
+      ]
+    },
+    "4deaa16adb50": {
+      "countries": [
+        "EGY",
+        "ITA",
+        "FRA",
+        "HRV"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Collected early Christian lives by Athanasius, Jerome, Sulpicius Severus and Gregory; representative original-author regions. Jerome's precise Balkan birthplace is disputed.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+      ]
+    },
+    "96c0b977b56d": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Latin Historia Augusta; Roman literary context is the best available origin association.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Historia_Augusta"
+      ]
+    },
+    "953925001b1e": {
+      "countries": [
+        "TUR",
+        "MKD"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Compiled under Justinian at Constantinople, modern Istanbul; Justinian was born near modern Skopje. Original legal compilation, not the translator's location.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Digest_(Roman_law)"
+      ]
+    },
+    "cf07c1c894b5": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Benedict of Nursia and the Italian monastic tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict"
+      ]
+    },
+    "725a90594b26": {
+      "countries": [
+        "IRL",
+        "GBR",
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Celtic source literatures from Ireland, Scotland, Wales, Cornwall and Brittany; not translator Kenneth Jackson's birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Celtic_literature"
+      ]
+    },
+    "2e9a8b888222": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Old English source poetry from Anglo-Saxon Britain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_English_literature"
+      ]
+    },
+    "34321867f6d2": {
+      "countries": [
+        "SAU"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Quranic revelation and earliest formation associated with Mecca and Medina, modern Saudi Arabia.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quran"
+      ]
+    },
+    "40c4947f58e9": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Early medieval Northumbrian and Anglo-Saxon source writings.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bede"
+      ]
+    },
+    "6aa0fe2b1684": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Old English composition/transmission in England; Scandinavian story setting is not used as authorship location.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beowulf"
+      ]
+    },
+    "d46d0dcd6bd1": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Old English composition/transmission in England; not its translator's home or the story setting.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beowulf"
+      ]
+    },
+    "7e1cca7d61c1": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Old English composition/transmission in England; not its translator's home or the story setting.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beowulf"
+      ]
+    },
+    "74f7d2d0a328": {
+      "countries": [
+        "IRL",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Irish tradition across the island of Ireland, including present-day Northern Ireland.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Irish_mythology"
+      ]
+    },
+    "96c1fc51ed2c": {
+      "countries": [
+        "IRN",
+        "IRQ",
+        "AFG",
+        "TJK",
+        "TUR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Sufi anthology spanning Persian, Mesopotamian, Central Asian and Anatolian traditions. These are broad representative source regions.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sufi_poetry"
+      ]
+    },
+    "19b47f4c69b8": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Indian Jain story traditions.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jain_literature"
+      ]
+    },
+    "36c802490dec": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Shankara and Indian Vedanta philosophical writings.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adi_Shankara"
+      ]
+    },
+    "97ced27bed1e": {
+      "countries": [
+        "IRQ",
+        "EGY",
+        "IRN",
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Composite Arabic collection with major Iraqi/Egyptian transmission and Persian/Indian source traditions; no single author.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights"
+      ]
+    },
+    "1feea7ebc200": {
+      "countries": [
+        "IRQ",
+        "EGY",
+        "IRN",
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Composite Arabic collection with major Iraqi/Egyptian transmission and Persian/Indian source traditions; no single author.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights"
+      ]
+    },
+    "7f4a0de7c4e4": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit fable collection traditionally attributed to Narayana.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hitopadesha"
+      ]
+    },
+    "fc5d47013bd0": {
+      "countries": [
+        "DEU",
+        "CHE"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Einhard's Frankish origin in modern Germany and Notker's St Gall context in modern Switzerland.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Einhard"
+      ]
+    },
+    "0d3f346f852e": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Alfred and Asser: Anglo-Saxon/Welsh source contexts in modern Britain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asser"
+      ]
+    },
+    "acbc87848e4c": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit Vaishnava source tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bhagavata_Purana"
+      ]
+    },
+    "0b9530a8b1e1": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit tales of Vikramaditya's throne.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Singhasan_Battisi"
+      ]
+    },
+    "b9c05f442c1f": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Indian Sanskrit tales; the catalog author field is actually the source text title.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Singhasan_Battisi"
+      ]
+    },
+    "a10153456927": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Welsh prose traditions, mapped to Wales within modern UK borders.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mabinogion"
+      ]
+    },
+    "44069e8e090a": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Domesday's original English survey context, not the modern editor/translator.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Domesday_Book"
+      ]
+    },
+    "b17311f6d14a": {
+      "countries": [
+        "GBR",
+        "FRA",
+        "DEU",
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval European women mystics; representative regional scope of the anthology rather than one editor's birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christian_mysticism"
+      ]
+    },
+    "6aa9e60da4fd": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Kannada Virashaiva devotional poetry from Karnataka, India.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vachana_sahitya"
+      ]
+    },
+    "db8156bc7c70": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Old French epic composition and transmission; not the Spanish battle setting.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Song_of_Roland"
+      ]
+    },
+    "5255d9be28db": {
+      "countries": [
+        "FRA",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Twelfth-century Cistercian authors, particularly French and English monastic centers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cistercians"
+      ]
+    },
+    "3c665af250cd": {
+      "countries": [
+        "ISL",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic/Norse compilation concerning the earls of Orkney; Icelandic textual origin and Orkney's literary region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orkneyinga_saga"
+      ]
+    },
+    "ca207eada048": {
+      "countries": [
+        "ESP"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Castilian epic tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cantar_de_mio_Cid"
+      ]
+    },
+    "42615f87d0f2": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Gui de Cambrai, a medieval French author from Cambrai; not the Indian setting of the underlying story.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gui_de_Cambrai"
+      ]
+    },
+    "789f2fd01eac": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Icelandic saga composition/transmission.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gisla_saga"
+      ]
+    },
+    "ba06c94bdf06": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Icelandic legendary sagas; countries visited in the stories are not treated as author origins.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Legendary_saga"
+      ]
+    },
+    "d53db4ac93e9": {
+      "countries": [
+        "GMB"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Named performers Bamba Suso and Banna Kanute were Gambian griots. This version maps to their origin, not exclusively to the medieval Mali setting.",
+      "sources": [
+        "https://books.google.com/books/about/Sunjata.html?id=2WigLXZgGnQC"
+      ]
+    },
+    "2c83fb6d7df1": {
+      "countries": [
+        "DEU",
+        "AUT"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Middle High German epic, probably composed in the Passau/Danube region; modern German/Austrian literary region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nibelungenlied"
+      ]
+    },
+    "828ec5588c71": {
+      "countries": [
+        "EGY",
+        "TUR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Arabic Dhat al-Himma epic, conventionally associated with Egyptian compilation and the Anatolian frontier tradition. Approximate regional fallback.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dhat_al-Himma"
+      ]
+    },
+    "a98ec70e5265": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic saga origins, rather than the North American voyage destinations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vinland_sagas"
+      ]
+    },
+    "05828249600e": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Joinville and Villehardouin: French chroniclers; their origins rather than Crusade destinations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jean_de_Joinville"
+      ]
+    },
+    "0bb87f0aef84": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Old French Arthurian prose romance.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vulgate_Quest"
+      ]
+    },
+    "faa7cb6e295a": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Icelandic composition and manuscript tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Egil%27s_Saga"
+      ]
+    },
+    "95911c3e988c": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Old French Mort Artu; source literature rather than modern translator or legendary British setting.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vulgate_Mort_Artu"
+      ]
+    },
+    "3d6f20b42140": {
+      "countries": [
+        "MNG"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Medieval Mongolian historical tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Secret_History_of_the_Mongols"
+      ]
+    },
+    "f887587004fe": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic prose saga composition; a Norse/Germanic legendary setting does not identify the author.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Völsunga_saga"
+      ]
+    },
+    "1c227835c35b": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Original Yuan-period Chinese dramatists.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yuan_drama"
+      ]
+    },
+    "b1cd08b2996a": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Dante, born in Florence; original writer rather than anthology editor.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dante_Alighieri"
+      ]
+    },
+    "00fa39c28941": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Middle English religious text associated with the West Midlands.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancrene_Wisse"
+      ]
+    },
+    "913605f3e6bd": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic saga source literature.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hrafnkels_saga"
+      ]
+    },
+    "c7c050939a1c": {
+      "countries": [
+        "JPN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Japanese Noh dramatists and theatrical tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Noh"
+      ]
+    },
+    "cea0796ea198": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic saga source literature.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Laxdæla_saga"
+      ]
+    },
+    "fd323cca9380": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic saga source literature.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Njáls_saga"
+      ]
+    },
+    "45fb2e9c302b": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic poet-sagas; source literature rather than modern editors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sagas_of_Icelanders"
+      ]
+    },
+    "a307bb6d2832": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Middle English poem associated with northwestern England.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight"
+      ]
+    },
+    "e36abd26ff4c": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Tibetan biography by Ra Yeshe Senge; Tibet is represented within modern China borders, without reducing its distinct cultural identity.",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/311487/the-all-pervading-melodious-drumbeat-by-ra-yeshe-senge-translated-with-an-introduction-and-notes-by-bryan-j-cuevas/"
+      ]
+    },
+    "3fc166f44672": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic saga source literature.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grettis_saga"
+      ]
+    },
+    "59588bbf2e60": {
+      "countries": [
+        "ISL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Icelandic saga source literature.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Laxdæla_saga"
+      ]
+    },
+    "666d721ca0c4": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Tibetan Buddhist textual origin; Tibet within modern China borders, not the editor's origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bardo_Thodol"
+      ]
+    },
+    "3ae0c43e1b47": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Middle English mystical text, associated with England.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing"
+      ]
+    },
+    "d684c0de3e56": {
+      "countries": [
+        "JPN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Kamo no Chomei and Yoshida Kenko: original Japanese authors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tsurezuregusa"
+      ]
+    },
+    "216eb5b888fc": {
+      "countries": [
+        "GBR",
+        "FRA",
+        "BEL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Authorship disputed; English persona and French-language continental manuscript tradition. Broad textual-origin fallback, not purported travel destinations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/John_Mandeville"
+      ]
+    },
+    "804253e6db0f": {
+      "countries": [
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Vallabhadeva's Sanskrit anthology from Kashmir; regional textual origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Subhashitavali"
+      ]
+    },
+    "eac8fb6b7a35": {
+      "countries": [
+        "TUR",
+        "AZE"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Oghuz Turkish epic tradition crossing modern Turkey and Azerbaijan.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Book_of_Dede_Korkut"
+      ]
+    },
+    "fef1db755126": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Colonial North American source-writing context; broad anthology region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "79bd6ace551c": {
+      "countries": [
+        "ITA",
+        "ESP"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Columbus' Genoese origin and Spanish-sponsored documentary context.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christopher_Columbus"
+      ]
+    },
+    "627ad70860e5": {
+      "countries": [
+        "UZB",
+        "AFG",
+        "IND"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Babur was born in Andijan, modern Uzbekistan; his memoir also reflects his Afghan and Indian literary/political life.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Babur"
+      ]
+    },
+    "dcee89d1feaa": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "English Renaissance women poets; source-author tradition rather than a modern editor.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/English_Renaissance"
+      ]
+    },
+    "6d717a459367": {
+      "countries": [
+        "POL",
+        "DEU",
+        "ITA",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Representative original-author regions of the early modern European cosmological texts; broad anthology scope.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scientific_Revolution"
+      ]
+    },
+    "1a6d51ce3ab0": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "English Renaissance poetry anthology.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/English_Renaissance"
+      ]
+    },
+    "8e58455494c3": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Original Italian Renaissance dramatists named in the volume.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italian_literature"
+      ]
+    },
+    "a071dd8f50a5": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Philip Sidney and English Renaissance criticism.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philip_Sidney"
+      ]
+    },
+    "2ea9018caf95": {
+      "countries": [
+        "ESP"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anonymous Lazarillo and Quevedo: Spanish picaresque source tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lazarillo_de_Tormes"
+      ]
+    },
+    "695bab0fe511": {
+      "countries": [
+        "ESP"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Teresa of Avila is the original author; Herself is not a separate author identity.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Teresa_of_Ávila"
+      ]
+    },
+    "c8e3ae88dc1b": {
+      "countries": [
+        "GBR",
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "English and colonial American witchcraft documents; representative source regions.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Witchcraft"
+      ]
+    },
+    "423534f10de6": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "English metaphysical poets.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Metaphysical_poets"
+      ]
+    },
+    "6dbeef093e5b": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American religious source writings; editor's birthplace is not used.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Religion_in_the_United_States"
+      ]
+    },
+    "8e7f17580979": {
+      "countries": [
+        "GBR",
+        "USA",
+        "JAM"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "English-language Atlantic piracy accounts; representative textual/historical regions, not an exhaustive set of origins.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Piracy_in_the_Caribbean"
+      ]
+    },
+    "304a4049c4f4": {
+      "countries": [
+        "GBR",
+        "ISR",
+        "PSX"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "This named 1611 translation was produced in England; biblical source traditions are associated with the Israel/Palestine region. David Norton is its modern editor.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/King_James_Version"
+      ]
+    },
+    "485d13c38dc0": {
+      "countries": [
+        "KOR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Heo Gyun was born in Gangneung, in modern South Korea; his authorship of this Korean novel is traditionally attributed.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heo_Gyun"
+      ]
+    },
+    "061d85e6d5fb": {
+      "countries": [
+        "ITA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Maria Celeste, born in Padua, wrote from Tuscany.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maria_Celeste"
+      ]
+    },
+    "64718d7a5975": {
+      "countries": [
+        "GBR",
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "British and American Quaker source-writing traditions.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quakers"
+      ]
+    },
+    "7a2f142e37db": {
+      "countries": [
+        "MEX"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Sor Juana was born near present-day Mexico City and wrote in New Spain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juana_Inés_de_la_Cruz"
+      ]
+    },
+    "9231098a1f91": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Original colonial North American women writers; broad anthology context.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "441fc0d8d04b": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Colonial North American source-writing context; broad anthology region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "bca7c1746d60": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "North American captivity narratives; the word Indian refers to Indigenous American peoples, not India.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Captivity_narrative"
+      ]
+    },
+    "f9862f9eedc7": {
+      "countries": [
+        "GBR",
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "British and American abolitionist source texts; representative anthology regions.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abolitionism"
+      ]
+    },
+    "fd199a012d8c": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Historical London source accounts selected by Lucy Moore; source-writing region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lucy_Moore_(historian)"
+      ]
+    },
+    "403fb8ce4de7": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Cao Xueqin and Gao E: original Chinese authors/editors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+      ]
+    },
+    "1d7ecebde0ea": {
+      "countries": [
+        "CHN"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Cao Xueqin and Gao E: original Chinese authors/editors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+      ]
+    },
+    "a3ec5c426c11": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "John Adams' American origin and writings.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/John_Adams"
+      ]
+    },
+    "53c4408a8c71": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Abigail and John Adams were born in Massachusetts; original letter writers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abigail_Adams"
+      ]
+    },
+    "285840262523": {
+      "countries": [
+        "GBR",
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Thomas Paine's English origin and American intellectual life.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thomas_Paine"
+      ]
+    },
+    "2adf61e805d2": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "British Romantic source poets.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Romanticism_in_English_literature"
+      ]
+    },
+    "354d97890f81": {
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Russian dramatists including Gogol, born in modern Ukraine; combined original-author origins.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nikolai_Gogol"
+      ]
+    },
+    "a1d42cec13df": {
+      "countries": [
+        "USA",
+        "IRL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American playwrights with Irish-born Dion Boucicault; combined source-author associations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dion_Boucicault"
+      ]
+    },
+    "2d855ce12a6b": {
+      "countries": [
+        "USA",
+        "KNA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Madison and Jay were born in modern USA; Hamilton in Nevis, modern Saint Kitts and Nevis.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alexander_Hamilton"
+      ]
+    },
+    "97ac988dc840": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Mary Wollstonecraft and Mary Shelley: English original authors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mary_Wollstonecraft"
+      ]
+    },
+    "540c4a9a22f5": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "William Hill Brown and Hannah Webster Foster were American authors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/William_Hill_Brown"
+      ]
+    },
+    "8ff04b374185": {
+      "countries": [
+        "DEU"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "German Romantic literary fairy-tale tradition; anthology source culture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/German_Romanticism"
+      ]
+    },
+    "b980421e3f3e": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "William Bligh and Edward Christian were British; not the Pacific voyage destination.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/William_Bligh"
+      ]
+    },
+    "8f85238d2838": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American source poets.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_poetry"
+      ]
+    },
+    "a3708ed3cc92": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "African American source writers; original author community rather than editorial birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/African-American_literature"
+      ]
+    },
+    "12a36ec86993": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Meriwether Lewis and William Clark were American writers/explorers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+      ]
+    },
+    "dcc4e0ff564d": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "French source-poetry tradition; representative origin region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_poetry"
+      ]
+    },
+    "f924f21830df": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Original accounts by American seamen Thomas Nickerson and Owen Chase.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thomas_Nickerson"
+      ]
+    },
+    "f408a0fa7686": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American story authors collected by S. T. Joshi; not the editor's birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "63e12106e383": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Edgar Allan Poe's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+      ]
+    },
+    "3bf92d33f048": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "The named African American poets' original writing community.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Moses_Horton"
+      ]
+    },
+    "92455ffc63a5": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American literary source texts, as specified by the anthology.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "a88d96023737": {
+      "countries": [
+        "DEU"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Clausewitz was born in Burg bei Magdeburg, in modern Germany.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carl_von_Clausewitz"
+      ]
+    },
+    "d042e74dcdd1": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Abraham Lincoln's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+      ]
+    },
+    "eda89e23526c": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Boz is Charles Dickens' pen name; English original author.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charles_Dickens"
+      ]
+    },
+    "014b8f5e5a74": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Edgar Allan Poe's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+      ]
+    },
+    "5d6e5c34fb64": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "British Victorian source poets.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Victorian_poetry"
+      ]
+    },
+    "cbe2aa812849": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Henry David Thoreau's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+      ]
+    },
+    "d87521a9db9c": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Walt Whitman's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Walt_Whitman"
+      ]
+    },
+    "b523f9b9ca59": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Charles Baudelaire's French origin; not the English translators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charles_Baudelaire"
+      ]
+    },
+    "1fb398c22799": {
+      "countries": [
+        "DEU",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Karl Marx, born in Trier, wrote journalism while living in London; modern editors are not the source author.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karl_Marx"
+      ]
+    },
+    "347b20648cfb": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American dime-novel source-writing tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dime_novel"
+      ]
+    },
+    "52e5f4176353": {
+      "countries": [
+        "USA",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Henry James' American origin and later British literary life.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Henry_James"
+      ]
+    },
+    "d5fde613825b": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Mark Twain's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mark_Twain"
+      ]
+    },
+    "1eb0d92ec219": {
+      "countries": [
+        "CUB"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Jose Marti was born in Havana; Cuban origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/José_Martí"
+      ]
+    },
+    "942792ef0ce0": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Gilbert and Sullivan were English authors/composers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan"
+      ]
+    },
+    "8943fb3550b6": {
+      "countries": [
+        "NLD",
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Vincent van Gogh's Dutch origin and French creative life.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      ]
+    },
+    "9662f5cc3859": {
+      "countries": [
+        "DEU"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Nietzsche's German origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+      ]
+    },
+    "7d6caa820703": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American source writers specified by the anthology.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "4ed3ebeda9a3": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Charles W. Chesnutt's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charles_W._Chesnutt"
+      ]
+    },
+    "9f7bf06357a4": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Elizabeth Garver Jordan was born in Milwaukee, Wisconsin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elizabeth_Jordan"
+      ]
+    },
+    "682e89e5acb0": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Edith Wharton's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Edith_Wharton"
+      ]
+    },
+    "cd5956b1c3a7": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Anna Julia Cooper's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anna_J._Cooper"
+      ]
+    },
+    "36f349cf14a8": {
+      "countries": [
+        "IRL",
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "George Bernard Shaw's Irish origin and British theatrical career; catalog preface text is not another author.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+      ]
+    },
+    "6c0f1b5e462e": {
+      "countries": [
+        "RUS"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Russian source-literature anthology; broad literary-region association.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russian_literature"
+      ]
+    },
+    "d19960cb17d6": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Marcel Allain and Pierre Souvestre were French authors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantômas"
+      ]
+    },
+    "96e6ff35cbe7": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Marcel Proust's French origin; the catalog accidentally included part of the title in the author field.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marcel_Proust"
+      ]
+    },
+    "fb79d1f8986e": {
+      "countries": [
+        "GBR",
+        "IRL",
+        "USA",
+        "FRA",
+        "DEU",
+        "ITA",
+        "RUS"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "International First World War source-poetry traditions; representative contributor regions, not battle locations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/War_poet"
+      ]
+    },
+    "cd71d8b377d5": {
+      "countries": [
+        "RUS"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Lenin was born in Simbirsk, modern Ulyanovsk, Russia.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+      ]
+    },
+    "128c93724417": {
+      "countries": [
+        "KGZ"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Sagymbay Orozbakov was a Kyrgyz epic singer; source performer and Manas tradition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sagymbay_Orozbakov"
+      ]
+    },
+    "ee7874e952b9": {
+      "countries": [
+        "GBR"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Graham Greene's English origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Graham_Greene"
+      ]
+    },
+    "e39b05fac467": {
+      "countries": [
+        "DEU",
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Hannah Arendt's German origin and American intellectual life.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hannah_Arendt"
+      ]
+    },
+    "a6c2ed5b0afd": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American Beat movement source writers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beat_Generation"
+      ]
+    },
+    "e064e4e1699f": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "The named Captain America creators were American comic-book authors/artists.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Captain_America"
+      ]
+    },
+    "19f5ed6ec1a5": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Japanese American incarceration writings from the United States; source-author context, not modern editors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Internment_of_Japanese_Americans"
+      ]
+    },
+    "60d470bb2d9f": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Arthur Miller's American origin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arthur_Miller"
+      ]
+    },
+    "075486fbb603": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Dorothy Parker and Arnaud d'Usseau: American original playwrights.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Ladies_of_the_Corridor"
+      ]
+    },
+    "5f2a87c4b667": {
+      "countries": [
+        "NZL"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Ian Cross was born in Whanganui, New Zealand.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_Cross_(novelist)"
+      ]
+    },
+    "b9cfd46799fa": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "American 1960s source writings; the anthology's literary context.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_literature"
+      ]
+    },
+    "6c1b80a7f2bf": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Stonewall and LGBTQ source writings centered on New York and the United States.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stonewall_riots"
+      ]
+    },
+    "91ec089211b4": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "The named Black Panther creators were American; fictional Wakanda is not an author-origin location.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+      ]
+    },
+    "c86451f08174": {
+      "countries": [
+        "FRA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Gilles Deleuze and Felix Guattari were French authors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anti-Oedipus"
+      ]
+    },
+    "ead3eb8ea6d8": {
+      "countries": [
+        "USA"
+      ],
+      "basis": "source-author / literary-origin fallback",
+      "note": "Wallace and Page Stegner's American origins and literary context.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wallace_Stegner"
+      ]
+    },
+    "1264b8238e90": {
+      "countries": [
+        "EGY"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "Ancient Egyptian funerary texts; mapped by the original culture, rather than the English translator.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Book_of_the_Dead"
+      ]
+    },
+    "38a7fd60974a": {
+      "countries": [
+        "ISR",
+        "PSX"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "Ancient Jewish texts associated with Judaea and the Qumran finds in the modern West Bank; mapped to the source region, not the translator.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+      ]
+    },
+    "b91967ed48c3": {
+      "countries": [
+        "SAU"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "Quranic revelation and early compilation associated with Mecca and Medina, in modern Saudi Arabia; translator origin is not used.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quran"
+      ]
+    },
+    "5bc2b8a65668": {
+      "countries": [
+        "JPN"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "Medieval Japanese narrative tradition; location follows the original work, not its English translator.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Tale_of_the_Heike"
+      ]
+    },
+    "50990c3626af": {
+      "countries": [
+        "GRC",
+        "ITA",
+        "ISR",
+        "PSX",
+        "SAU",
+        "TUR",
+        "CHN",
+        "USA",
+        "CAN"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "International anthology: representative regions explicitly described in the publisher summary include Greek and Roman, biblical, Arabian, Byzantine, Chinese and North American traditions. These are browsing associations, not an exhaustive inventory of every tale.",
+      "sources": [
+        "https://books.google.com/books/about/The_Penguin_Book_of_Demons.html?id=f97sEAAAQBAJ"
+      ]
+    },
+    "26f2cf2025bb": {
+      "countries": [
+        "GBR",
+        "IND",
+        "CHL"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "International anthology: the publisher specifically identifies Scottish selkies, Hindu water-serpents and Chilean sea-fairies. These confirmed source traditions provide representative geographic associations, not an exhaustive country inventory.",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/588498/the-penguin-book-of-mermaids-by-edited-by-cristina-bacchilega-and-marie-alohalani-brown/"
+      ]
+    },
+    "5739e0183ff5": {
+      "countries": [
+        "ZAF",
+        "NAM",
+        "BWA",
+        "COD",
+        "COG",
+        "MLI",
+        "NER",
+        "GIN",
+        "SEN",
+        "GMB",
+        "NGA",
+        "BEN",
+        "GHA",
+        "CIV",
+        "BFA",
+        "TCD",
+        "CMR",
+        "GAB",
+        "EGY",
+        "ETH",
+        "SDS",
+        "UGA",
+        "KEN",
+        "TZA",
+        "RWA",
+        "BDI",
+        "ZMB",
+        "ZWE",
+        "AGO",
+        "SWZ",
+        "DZA"
+      ],
+      "basis": "original work / anthology source regions",
+      "note": "Pan-African anthology mapped to modern regions of traditions named in the publisher's table of contents, including San, Manden, Yoruba, Akan, Egyptian, Oromo, Great Lakes, Congo and southern African traditions. Cross-border cultures use representative modern regions; this is not an assertion of a single author's nationality.",
+      "sources": [
+        "https://penguinrandomhousehighereducation.com/book/?isbn=9780140449457"
+      ]
+    }
+  }
+}

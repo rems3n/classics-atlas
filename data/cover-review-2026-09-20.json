@@ -1,0 +1,4856 @@
+[
+  {
+    "id": "1264b8238e90",
+    "title": "Egyptian Book of the Dead, translated",
+    "author": "E. A. Wallis Budge",
+    "matchedTitle": "Egyptian Book of the Dead",
+    "matchedAuthors": [
+      "E. A. Wallis Budge"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14666167-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL53328225M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL53328225M",
+      "title": "Egyptian Book of the Dead",
+      "cover_i": 14666167,
+      "publisher": [
+        "Arcturus Publishing"
+      ],
+      "publish_date": [
+        "2024"
+      ],
+      "isbn": [
+        "9781398840782",
+        "1398840785"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL37940640W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "356f101646fc",
+    "title": "Hesiod (Theogony, Works and Days) and Theognis (Elegies)",
+    "author": "Various / unverified",
+    "matchedTitle": "Hesiod and Theognis (Penguin Classics)",
+    "matchedAuthors": [
+      "Hesiod"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103844-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355195M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355195M",
+      "title": "Hesiod and Theognis (Penguin Classics)",
+      "cover_i": 103844,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "August 26, 1976"
+      ],
+      "isbn": [
+        "9780140442830",
+        "0140442839"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14997722W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f7ef8098d4f9",
+    "title": "The Roots of Ayurveda",
+    "author": "Various / unverified",
+    "matchedTitle": "The Roots of Ayurveda (Penguin Classics)",
+    "matchedAuthors": [
+      "Dominik Wujastyk"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104319-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355441M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355441M",
+      "title": "The Roots of Ayurveda (Penguin Classics)",
+      "cover_i": 104319,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "April 29, 2003"
+      ],
+      "isbn": [
+        "9780140448245",
+        "0140448241"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL13018314W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "37e3f8924149",
+    "title": "The Analects",
+    "author": "Confucius",
+    "matchedTitle": "The Analects",
+    "matchedAuthors": [
+      "Confucius"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12541270-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL36649282M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL36649282M",
+      "title": "The Analects",
+      "cover_i": 12541270,
+      "publisher": [
+        "Simon & Brown"
+      ],
+      "publish_date": [
+        "Nov 12, 2018"
+      ],
+      "isbn": [
+        "9781731705051",
+        "1731705050"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL27033818W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f0eb82bf293f",
+    "title": "The Greek Sophists",
+    "author": "Various / unverified",
+    "matchedTitle": "The Greek Sophists",
+    "matchedAuthors": [
+      "John M. Dillon"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103476-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3323996M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3323996M",
+      "title": "The Greek Sophists",
+      "cover_i": 103476,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "2003"
+      ],
+      "isbn": [
+        "0140436898",
+        "9780140436891"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL18304560W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b0870a367c7f",
+    "title": "The Three Theban Plays: (Antigone, Oedipus the King, Oedipus at Colonus)",
+    "author": "Sophocles",
+    "matchedTitle": "The three Theban plays",
+    "matchedAuthors": [
+      "Sophocles",
+      "Robert Fagles"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6638287-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3170879M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3170879M",
+      "title": "The three Theban plays",
+      "cover_i": 6638287,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1984"
+      ],
+      "isbn": [
+        "0140444254",
+        "9780140444254"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL43844W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "4189ecc47731",
+    "title": "The Histories",
+    "author": "Herodotus",
+    "matchedTitle": "The Histories (Penguin Classics)",
+    "matchedAuthors": [
+      "Herodotus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14979319-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL47776630M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL47776630M",
+      "title": "The Histories (Penguin Classics)",
+      "cover_i": 14979319,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1965-01-01"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL35358764W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a910ac397c4a",
+    "title": "Greek Political Oratory (Thucydides, Lysias, Andocides, Isocrates, Demosthenes)",
+    "author": "Various / unverified",
+    "matchedTitle": "Greek political oratory",
+    "matchedAuthors": [
+      "A. N. W. Saunders"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103773-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL4652779M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL4652779M",
+      "title": "Greek political oratory",
+      "cover_i": 103773,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1970"
+      ],
+      "isbn": [
+        "0140442235",
+        "9780140442236"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL6759229W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c57816976d75",
+    "title": "The Bacchae and Other Plays (Ion, The Women of Troy, Helen)",
+    "author": "Euripides",
+    "matchedTitle": "The  Bacchae, and other plays.",
+    "matchedAuthors": [
+      "Euripides"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103629-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5457008M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL5457008M",
+      "title": "The  Bacchae, and other plays.",
+      "cover_i": 103629,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1972"
+      ],
+      "isbn": [
+        "0140440445",
+        "9780140440447"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15401967W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "7d0387a22fb0",
+    "title": "The Birds and Other Plays (The Knights, Peace, The Assemblywomen and Wealth)",
+    "author": "Aristophanes",
+    "matchedTitle": "The Birds and Other Plays (Penguin Classics)",
+    "matchedAuthors": [
+      "Aristophanes"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104372-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355498M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355498M",
+      "title": "The Birds and Other Plays (Penguin Classics)",
+      "cover_i": 104372,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "October 28, 2003"
+      ],
+      "isbn": [
+        "9780140449518",
+        "0140449515"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15101083W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "d5993fa5a93e",
+    "title": "The Frogs and Other Plays (The Wasps and The Poet and the Women)",
+    "author": "Aristophanes",
+    "matchedTitle": "The  frogs, and other plays.",
+    "matchedAuthors": [
+      "Aristophanes"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13106483-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5934836M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL5934836M",
+      "title": "The  frogs, and other plays.",
+      "cover_i": 13106483,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1964"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20200W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "708fc173225e",
+    "title": "Lysistrata and Other Plays (The Acharnians and The Clouds)",
+    "author": "Aristophanes",
+    "matchedTitle": "Lysistrata and other plays",
+    "matchedAuthors": [
+      "Aristophanes"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104310-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3702612M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3702612M",
+      "title": "Lysistrata and other plays",
+      "cover_i": 104310,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "2002"
+      ],
+      "isbn": [
+        "0140448144",
+        "9780140448146"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15101040W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "04cea60cefb8",
+    "title": "Electra and Other Plays (Ajax, Women of Trachis, Philoctetes)",
+    "author": "Sophocles",
+    "matchedTitle": "Electra and Other Plays (Classics)",
+    "matchedAuthors": [
+      "Sophocles"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103615-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355045M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355045M",
+      "title": "Electra and Other Plays (Classics)",
+      "cover_i": 103615,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "April 30, 1953"
+      ],
+      "isbn": [
+        "9780140440287",
+        "0140440283"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL372096W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f6df9652392a",
+    "title": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "matchedTitle": "Tao Te Ching",
+    "matchedAuthors": [
+      "LAO TZU"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12333776-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL35626741M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL35626741M",
+      "title": "Tao Te Ching",
+      "cover_i": 12333776,
+      "publisher": [
+        "GRADIFCO"
+      ],
+      "publish_date": [
+        "Nov 02, 2014"
+      ],
+      "isbn": [
+        "9789871093908",
+        "987109390X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26386694W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "13594ba6697d",
+    "title": "The Metaphysics",
+    "author": "Aristotle",
+    "matchedTitle": "The Metaphysics ...",
+    "matchedAuthors": [
+      "Aristotle"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10702956-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28402464M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL28402464M",
+      "title": "The Metaphysics ...",
+      "cover_i": 10702956,
+      "publisher": [
+        "Harvard University Press"
+      ],
+      "publish_date": [
+        "1968"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20966539W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "61067e3bb0dd",
+    "title": "The Politics",
+    "author": "Aristotle",
+    "matchedTitle": "The Politics (Classics)",
+    "matchedAuthors": [
+      "Aristotle"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10990584-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355108M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355108M",
+      "title": "The Politics (Classics)",
+      "cover_i": 10990584,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "December 30, 1962"
+      ],
+      "isbn": [
+        "9780140441253",
+        "0140441255"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14998292W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5fd284ecfd29",
+    "title": "The Republic",
+    "author": "Plato",
+    "matchedTitle": "The Republic",
+    "matchedAuthors": [
+      "Plato"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15223028-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL62016791M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL62016791M",
+      "title": "The Republic",
+      "cover_i": 15223028,
+      "publisher": [
+        "Samaira Book Publishers"
+      ],
+      "publish_date": [
+        "March 19, 2019"
+      ],
+      "isbn": [
+        "9789387550322",
+        "938755032X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45528036W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6891aa3eb7b7",
+    "title": "The Art of Rhetoric",
+    "author": "Aristotle",
+    "matchedTitle": "The \"art\" of rhetoric",
+    "matchedAuthors": [
+      "Aristotle"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/5749535-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL23279053M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL23279053M",
+      "title": "The \"art\" of rhetoric",
+      "cover_i": 5749535,
+      "publisher": [
+        "Harvard University Press",
+        "Heinemann"
+      ],
+      "publish_date": [
+        "1926"
+      ],
+      "isbn": [
+        "0674992121",
+        "0434991937",
+        "9780674992122",
+        "9780434991938"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL13703820W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "38a7fd60974a",
+    "title": "The Complete Dead Sea Scrolls in English translated",
+    "author": "Geza Vermes",
+    "matchedTitle": "The complete Dead Sea scrolls in English",
+    "matchedAuthors": [
+      "Géza Vermès"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104373-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3322072M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3322072M",
+      "title": "The complete Dead Sea scrolls in English",
+      "cover_i": 104373,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "2004"
+      ],
+      "isbn": [
+        "0140449523",
+        "9780140449525"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL18309117W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "18ec643b4fc2",
+    "title": "The Rope and Other Plays (The Ghost, A Three-Dollar Day, Amphitryo)",
+    "author": "Plautus",
+    "matchedTitle": "The Rope and Other Plays",
+    "matchedAuthors": [
+      "Plautus",
+      "E.F. Watling"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10313945-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28401842M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL28401842M",
+      "title": "The Rope and Other Plays",
+      "cover_i": 10313945,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "May 30, 1964"
+      ],
+      "isbn": [
+        "9780140441369",
+        "0140441360"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20966106W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "aaca43225e2e",
+    "title": "Heroides",
+    "author": "Ovid",
+    "matchedTitle": "Heroides",
+    "matchedAuthors": [
+      "Ovid",
+      "Isocrates",
+      "G. Mathieu"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/341046-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL97776W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL97776W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f3ff56100add",
+    "title": "The Erotic Poems (including Amores and Ars Amatoria)",
+    "author": "Ovid",
+    "matchedTitle": "The erotic poems",
+    "matchedAuthors": [
+      "Ovid"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103910-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3249549M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3249549M",
+      "title": "The erotic poems",
+      "cover_i": 103910,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1982"
+      ],
+      "isbn": [
+        "0140443606",
+        "9780140443608"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL441955W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c039d711e853",
+    "title": "The Satyricon",
+    "author": "Petronius",
+    "matchedTitle": "The Satyricon",
+    "matchedAuthors": [
+      "Petronius",
+      "Vittorio de Simone"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13106850-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL44081238M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL44081238M",
+      "title": "The Satyricon",
+      "cover_i": 13106850,
+      "publisher": [
+        "Simpkin Marshall"
+      ],
+      "publish_date": [
+        "1694"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL503861W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f62ff85faf93",
+    "title": "The Jewish War",
+    "author": "Flavius Josephus",
+    "matchedTitle": "The Jewish war ...",
+    "matchedAuthors": [
+      "Flavius Josephus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13401632-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL26290023M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL26290023M",
+      "title": "The Jewish war ...",
+      "cover_i": 13401632,
+      "publisher": [
+        "Houlston & Stoneman"
+      ],
+      "publish_date": [
+        "1847"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL17687100W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "01fdb5548e48",
+    "title": "Discourses",
+    "author": "Epictetus",
+    "matchedTitle": "Discourses",
+    "matchedAuthors": [
+      "Epictetus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/314110-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL13572W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL13572W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "237589f59748",
+    "title": "The Civil Wars",
+    "author": "Appian",
+    "matchedTitle": "The Civil Wars",
+    "matchedAuthors": [
+      "Appian"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12603213-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL37023869M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL37023869M",
+      "title": "The Civil Wars",
+      "cover_i": 12603213,
+      "publisher": [
+        "Digireads.com"
+      ],
+      "publish_date": [
+        "Jan 01, 2014"
+      ],
+      "isbn": [
+        "9781420949568",
+        "142094956X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL25336281W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "2ff804cb6762",
+    "title": "The Later Roman Empire",
+    "author": "Ammianus Marcellinus",
+    "matchedTitle": "The later Roman Empire (A.D. 354-378)",
+    "matchedAuthors": [
+      "Ammianus Marcellinus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6719097-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL2313753M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL2313753M",
+      "title": "The later Roman Empire (A.D. 354-378)",
+      "cover_i": 6719097,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1986"
+      ],
+      "isbn": [
+        "0140444068",
+        "9780140444063"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL4896581W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "dfd28ce9f3df",
+    "title": "A History of the Franks",
+    "author": "Gregory of Tours",
+    "matchedTitle": "A History of the Franks",
+    "matchedAuthors": [
+      "Of Tours Gregory of Tours",
+      "Gregory of Tours"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9122529-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27682186M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27682186M",
+      "title": "A History of the Franks",
+      "cover_i": 9122529,
+      "publisher": [
+        "Digireads.com"
+      ],
+      "publish_date": [
+        "Jan 01, 2010"
+      ],
+      "isbn": [
+        "9781420934793",
+        "1420934791"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20457073W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "4a39f2c13e91",
+    "title": "The Táin, translated",
+    "author": "Ciarán Carson",
+    "matchedTitle": "The Tain",
+    "matchedAuthors": [
+      "Ciaran Carson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/2546923-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL11067223M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL11067223M",
+      "title": "The Tain",
+      "cover_i": 2546923,
+      "publisher": [
+        "Viking Adult",
+        "Viking"
+      ],
+      "publish_date": [
+        "February 21, 2008"
+      ],
+      "isbn": [
+        "9780670018680",
+        "0670018686"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL638123W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "fc5d47013bd0",
+    "title": "Two Lives of Charlemagne",
+    "author": "Einhard (Vita Karoli Magni) and Notker the Stammerer (De Carolo Magno",
+    "matchedTitle": "Two lives of Charlemagne",
+    "matchedAuthors": [
+      "Einhard",
+      "Lewis G. M. Thorpe"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14607182-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL20953666M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL20953666M",
+      "title": "Two lives of Charlemagne",
+      "cover_i": 14607182,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1980"
+      ],
+      "isbn": [
+        "0140442138",
+        "9780140442137"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL18943767W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "acbc87848e4c",
+    "title": "Krishna: The Beautiful Legend of God (Śrīmad Bhāgavata Purāṇa Book X)",
+    "author": "Various / unverified",
+    "matchedTitle": "Krishna, the beautiful legend of God",
+    "matchedAuthors": [
+      "Edwin F. Bryant"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12578044-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL17922288M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL17922288M",
+      "title": "Krishna, the beautiful legend of God",
+      "cover_i": 12578044,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "2003"
+      ],
+      "isbn": [
+        "0140447997",
+        "9780140447996"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL18991914W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5d12c59b73dc",
+    "title": "The Tale of Genji",
+    "author": "Murasaki Shikibu",
+    "matchedTitle": "The Tale of Genji",
+    "matchedAuthors": [
+      "Murasaki Shikibu"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/313084-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7638256M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7638256M",
+      "title": "The Tale of Genji",
+      "cover_i": 313084,
+      "publisher": [
+        "Dover Publications"
+      ],
+      "publish_date": [
+        "August 24, 2000"
+      ],
+      "isbn": [
+        "9780486414157",
+        "0486414159"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL7910145W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "4dab8e2653b7",
+    "title": "Fourteen Byzantine Rulers (The Chronographia)",
+    "author": "Michael Psellus",
+    "matchedTitle": "Fourteen Byzantine rulers",
+    "matchedAuthors": [
+      "Michael Psellus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9309545-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL13586153M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL13586153M",
+      "title": "Fourteen Byzantine rulers",
+      "cover_i": 9309545,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1966"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1323519W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b17311f6d14a",
+    "title": "Medieval Writings on Female Spirituality",
+    "author": "Various / unverified",
+    "matchedTitle": "Medieval Writings on Female Spirituality (Penguin Classics)",
+    "matchedAuthors": [
+      "Various"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103582-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355004M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355004M",
+      "title": "Medieval Writings on Female Spirituality (Penguin Classics)",
+      "cover_i": 103582,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "May 28, 2002"
+      ],
+      "isbn": [
+        "9780140439250",
+        "0140439250"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15063621W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6aa9e60da4fd",
+    "title": "Speaking of Śiva",
+    "author": "Various / unverified",
+    "matchedTitle": "Speaking of Śiva",
+    "matchedAuthors": [
+      "A. K. Ramanujan"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103826-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5463196M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL5463196M",
+      "title": "Speaking of Śiva",
+      "cover_i": 103826,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1973"
+      ],
+      "isbn": [
+        "0140442707",
+        "9780140442700"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL350763W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b8985820c0c3",
+    "title": "The Letters of Abelard and Heloise",
+    "author": "Peter Abelard",
+    "matchedTitle": "Letters of Abelard and Heloise",
+    "matchedAuthors": [
+      "Héloïse",
+      "Peter Abelard"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13118598-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL30465298W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL30465298W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "3c665af250cd",
+    "title": "Orkneyinga Saga",
+    "author": "Various / unverified",
+    "matchedTitle": "Orkneyinga saga",
+    "matchedAuthors": [
+      "Hermann Pálsson",
+      "Paul Geoffrey Edwards"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103923-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3377782M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3377782M",
+      "title": "Orkneyinga saga",
+      "cover_i": 103923,
+      "publisher": [
+        "",
+        "Penguin"
+      ],
+      "publish_date": [
+        "1981"
+      ],
+      "isbn": [
+        "0140443835",
+        "9780140443837"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL19397224W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "ba06c94bdf06",
+    "title": "Seven Viking Romances (Arrow-Odd, King Gautrek, Halfdan Eysteinsson, Bosi and Herraud, Egil and Asmund, Thorstein Mansion-Might and Helgi Thorisson)",
+    "author": "Various / unverified",
+    "matchedTitle": "Seven Viking Romances",
+    "matchedAuthors": [
+      "Hermann Palsson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104028-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355286M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355286M",
+      "title": "Seven Viking Romances",
+      "cover_i": 104028,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "January 7, 1986"
+      ],
+      "isbn": [
+        "9780140444742",
+        "0140444742"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL7982583W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "2c83fb6d7df1",
+    "title": "The Nibelungenlied",
+    "author": "Various / unverified",
+    "matchedTitle": "The Nibelungenlied",
+    "matchedAuthors": [
+      "Arthur Thomas Hatto"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6630372-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24381381M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL24381381M",
+      "title": "The Nibelungenlied",
+      "cover_i": 6630372,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1984"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL12327263W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "04f874d87512",
+    "title": "Tristan",
+    "author": "Gottfried von Strassburg",
+    "matchedTitle": "Tristan",
+    "matchedAuthors": [
+      "Gottfried von Strassburg"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/996695-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL9018697M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL9018697M",
+      "title": "Tristan",
+      "cover_i": 996695,
+      "publisher": [
+        "Philipp Reclam jun. Verlag GmbH"
+      ],
+      "publish_date": [
+        "January 1, 2002"
+      ],
+      "isbn": [
+        "9783150044728",
+        "3150044723"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL9055894W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "95911c3e988c",
+    "title": "The Death of King Arthur (Mort Artu)",
+    "author": "Various / unverified",
+    "matchedTitle": "The death of King Arthur",
+    "matchedAuthors": [
+      "James Cable"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103813-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5338742M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL5338742M",
+      "title": "The death of King Arthur",
+      "cover_i": 103813,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1971"
+      ],
+      "isbn": [
+        "0140442553",
+        "9780140442557"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL16515355W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f887587004fe",
+    "title": "The Saga of the Volsungs",
+    "author": "Various / unverified",
+    "matchedTitle": "The Saga of the Volsungs (Penguin Classics)",
+    "matchedAuthors": [
+      "Anonymous"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104249-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355396M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355396M",
+      "title": "The Saga of the Volsungs (Penguin Classics)",
+      "cover_i": 104249,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "January 1, 2000"
+      ],
+      "isbn": [
+        "9780140447385",
+        "0140447385"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14908653W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1e9649da11d3",
+    "title": "Spiritual Verses",
+    "author": "Rumi",
+    "matchedTitle": "The Spiritual Verses",
+    "matchedAuthors": [
+      "Rumi"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11046263-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL32382063M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL32382063M",
+      "title": "The Spiritual Verses",
+      "cover_i": 11046263,
+      "publisher": [
+        "Naxos and Blackstone Publishing",
+        "Naxos"
+      ],
+      "publish_date": [
+        "Jan 14, 2020"
+      ],
+      "isbn": [
+        "9781094014616",
+        "1094014613"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24448739W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c1022209623a",
+    "title": "La Vita Nuova",
+    "author": "Dante Alighieri",
+    "matchedTitle": "La vita nuova (The new life)",
+    "matchedAuthors": [
+      "Dante Alighieri",
+      "Stanley Appelbaum"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6890316-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL93122W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL93122W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "45fb2e9c302b",
+    "title": "Sagas of Warrior-Poets (Kormak's Saga, The Saga of Hallfred Troublesome-Poet, The Saga of Gunnlaug Serpent-Tongue, The Saga of Bjorn, Champion of the Hitardal People and Viglund's Saga)",
+    "author": "Various / unverified",
+    "matchedTitle": "Sagas of Warrior-Poets",
+    "matchedAuthors": [
+      "Diana Whaley"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104278-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355412M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355412M",
+      "title": "Sagas of Warrior-Poets",
+      "cover_i": 104278,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "October 29, 2002"
+      ],
+      "isbn": [
+        "9780140447712",
+        "0140447717"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL6246263W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "59588bbf2e60",
+    "title": "The Saga of the People of Laxardal and Bolli Bollason's Tale",
+    "author": "Various / unverified",
+    "matchedTitle": "The Saga of the People of Laxardal and Bolli Bollason's Tale (Penguin Classics)",
+    "matchedAuthors": [
+      "Anonymous"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/2324110-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL10097357M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL10097357M",
+      "title": "The Saga of the People of Laxardal and Bolli Bollason's Tale (Penguin Classics)",
+      "cover_i": 2324110,
+      "publisher": [
+        "Penguin Classics",
+        "Penguin"
+      ],
+      "publish_date": [
+        "July 29, 2008"
+      ],
+      "isbn": [
+        "9780140447750",
+        "014044775X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14908652W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "438603062396",
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "matchedTitle": "The Divine Comedy",
+    "matchedAuthors": [
+      "Dante Alighieri",
+      "Gustave Dore",
+      "Henry Wadsworth  Longfellow"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14920459-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL58716029M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL58716029M",
+      "title": "The Divine Comedy",
+      "cover_i": 14920459,
+      "publisher": [
+        "International Collectors Library"
+      ],
+      "publish_date": [
+        "1946"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL42545468W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "19c559fd5773",
+    "title": "The Decameron",
+    "author": "Giovanni Boccaccio",
+    "matchedTitle": "The Decameron",
+    "matchedAuthors": [
+      "Giovanni Boccaccio",
+      "Thomas Wright"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15231406-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL62165200M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL62165200M",
+      "title": "The Decameron",
+      "cover_i": 15231406,
+      "publisher": [
+        "For private circulation"
+      ],
+      "publish_date": [
+        "1872"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45654279W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "4ed52b89af5e",
+    "title": "Praise of Folly",
+    "author": "Desiderius Erasmus",
+    "matchedTitle": "The praise of folly",
+    "matchedAuthors": [
+      "Desiderius Erasmus"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11063418-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL21168902W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL21168902W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "33abb7c65901",
+    "title": "The Complete English Poems",
+    "author": "John Donne",
+    "matchedTitle": "The Complete English Poems",
+    "matchedAuthors": [
+      "John Donne"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/102872-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL14943908W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL14943908W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a57ba14e6a7f",
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "matchedTitle": "Don Quixote",
+    "matchedAuthors": [
+      "Miguel De Cervantes"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14947856-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL58718146M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL58718146M",
+      "title": "Don Quixote",
+      "cover_i": 14947856,
+      "publisher": [
+        "the modern Library, inc."
+      ],
+      "publish_date": [
+        "1930"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL43110094W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5495c74f4bb9",
+    "title": "Five Plays: (A Trick to Catch the Old One, A Chaste Maid in Cheapside, Women Beware Women, The Changeling, The Revenger's Tragedy)",
+    "author": "Thomas Middleton",
+    "matchedTitle": "Five plays",
+    "matchedAuthors": [
+      "Thomas Middleton"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103138-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL2139339M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL2139339M",
+      "title": "Five plays",
+      "cover_i": 103138,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1988"
+      ],
+      "isbn": [
+        "0140432191",
+        "9780140432190"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1339644W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "world-f2d80397dc2a",
+    "title": "The First New Chronicle and Good Government",
+    "author": "Felipe Guaman Poma de Ayala",
+    "matchedTitle": "The First New Chronicle and Good Government",
+    "matchedAuthors": [
+      "Felipe Guamán Poma de Ayala"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1619864-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL8374444M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL8374444M",
+      "title": "The First New Chronicle and Good Government",
+      "cover_i": 1619864,
+      "publisher": [
+        "Hackett Pub Co Inc"
+      ],
+      "publish_date": [
+        "November 30, 2006"
+      ],
+      "isbn": [
+        "9780872208414",
+        "0872208419"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL8702149W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "8587a2d008cb",
+    "title": "Life is a Dream",
+    "author": "Pedro Calderón de la Barca",
+    "matchedTitle": "Life is a dream",
+    "matchedAuthors": [
+      "Pedro Calderón de la Barca"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6806982-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24753235M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL24753235M",
+      "title": "Life is a dream",
+      "cover_i": 6806982,
+      "publisher": [
+        "Oregon Shakespeare Festival"
+      ],
+      "publish_date": [
+        "2001"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15725930W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "15767a020ed5",
+    "title": "A Journal of the Plague Year",
+    "author": "Daniel Defoe",
+    "matchedTitle": "A Journal of the Plague Year",
+    "matchedAuthors": [
+      "Daniel Defoe"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11731046-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL24856150W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL24856150W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "ba4111a62acc",
+    "title": "Letters on England",
+    "author": "Voltaire",
+    "matchedTitle": "Letters on England",
+    "matchedAuthors": [
+      "Voltaire"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13461629-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL42249413M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL42249413M",
+      "title": "Letters on England",
+      "cover_i": 13461629,
+      "publisher": [
+        "Independently Published",
+        "Independently published"
+      ],
+      "publish_date": [
+        "2019"
+      ],
+      "isbn": [
+        "9781797752655",
+        "1797752650"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL30200612W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "20dacca493fa",
+    "title": "Four Comedies",
+    "author": "Carlo Goldoni",
+    "matchedTitle": "Four Comedies",
+    "matchedAuthors": [
+      "Carlo Goldoni",
+      "Eleanor Farjeon",
+      "Marguerite Tracy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11947338-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL25034024W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL25034024W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "450fbbf01448",
+    "title": "Clarissa",
+    "author": "Samuel Richardson",
+    "matchedTitle": "Clarissa",
+    "matchedAuthors": [
+      "Samuel Richardson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14634103-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL49949907M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL49949907M",
+      "title": "Clarissa",
+      "cover_i": 14634103,
+      "publisher": [
+        "Standard Ebooks"
+      ],
+      "publish_date": [
+        "2021"
+      ],
+      "isbn": [
+        "9780404638108",
+        "0404638104"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL36997457W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "7d393c489a61",
+    "title": "The Adventures of Roderick Random",
+    "author": "Tobias Smollett",
+    "matchedTitle": "The adventures of Roderick Random",
+    "matchedAuthors": [
+      "Tobias Smollett"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8294528-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL17021717M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL17021717M",
+      "title": "The adventures of Roderick Random",
+      "cover_i": 8294528,
+      "publisher": [
+        "Oxford University Press, H. Milford"
+      ],
+      "publish_date": [
+        "1930"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL814632W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "7110e9a55f6f",
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "author": "Samuel Johnson",
+    "matchedTitle": "The History of Rasselas, Prince of Abissinia",
+    "matchedAuthors": [
+      "Samuel Johnson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12371414-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL35666585M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL35666585M",
+      "title": "The History of Rasselas, Prince of Abissinia",
+      "cover_i": 12371414,
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "publish_date": [
+        "Jan 14, 2010"
+      ],
+      "isbn": [
+        "9781450532921",
+        "1450532926"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26416530W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c2064c0bf371",
+    "title": "Maxims and Reflections",
+    "author": "Johann Wolfgang von Goethe",
+    "matchedTitle": "Maxims and Reflections",
+    "matchedAuthors": [
+      "Johann Wolfgang von Goethe"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10489433-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL21996824W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL21996824W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "4365a6972070",
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "matchedTitle": "The Sorrows of Young Werther",
+    "matchedAuthors": [
+      "Johann Wolfgang von Goethe"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9412891-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28032100M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL28032100M",
+      "title": "The Sorrows of Young Werther",
+      "cover_i": 9412891,
+      "publisher": [
+        "Dover Publications"
+      ],
+      "publish_date": [
+        "Oct 29, 2002"
+      ],
+      "isbn": [
+        "9780486424552",
+        "0486424553"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20555161W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1c314ba1516b",
+    "title": "The History of the Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
+    "matchedTitle": "The history of the decline and fall of the Roman Empire",
+    "matchedAuthors": [
+      "Edward Gibbon"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9320716-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27933758M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27933758M",
+      "title": "The history of the decline and fall of the Roman Empire",
+      "cover_i": 9320716,
+      "publisher": [
+        "Methuen"
+      ],
+      "publish_date": [
+        "1928"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20659013W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "2b725008d35a",
+    "title": "A Vindication of the Rights of Woman",
+    "author": "Mary Wollstonecraft",
+    "matchedTitle": "A vindication of the rights of woman",
+    "matchedAuthors": [
+      "Mary Wollstonecraft"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9659527-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL25597948M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL25597948M",
+      "title": "A vindication of the rights of woman",
+      "cover_i": 9659527,
+      "publisher": [
+        "A. J. Matsell"
+      ],
+      "publish_date": [
+        "1833"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL17027327W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1d5b8d1989ff",
+    "title": "Castle Rackrent",
+    "author": "Maria Edgeworth",
+    "matchedTitle": "Castle Rackrent",
+    "matchedAuthors": [
+      "Maria Edgeworth",
+      "Richard Lovell Edgeworth"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10272232-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL25529295M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL25529295M",
+      "title": "Castle Rackrent",
+      "cover_i": 10272232,
+      "publisher": [
+        "The Century co."
+      ],
+      "publish_date": [
+        "1903"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1124049W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6cba9c28bc06",
+    "title": "Rameau's Nephew",
+    "author": "Denis Diderot",
+    "matchedTitle": "Rameau's Nephew",
+    "matchedAuthors": [
+      "Denis Diderot"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9103375-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27659958M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27659958M",
+      "title": "Rameau's Nephew",
+      "cover_i": 9103375,
+      "publisher": [
+        "Benediction Classics"
+      ],
+      "publish_date": [
+        "Aug 10, 2011"
+      ],
+      "isbn": [
+        "9781849023573",
+        "1849023573"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20436915W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "10531909564a",
+    "title": "Faust, Part I",
+    "author": "Johann Wolfgang von Goethe",
+    "matchedTitle": "Faust, part I",
+    "matchedAuthors": [
+      "Johann Wolfgang von Goethe"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6937524-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24622945M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL24622945M",
+      "title": "Faust, part I",
+      "cover_i": 6937524,
+      "publisher": [
+        "Bantam Books"
+      ],
+      "publish_date": [
+        "1985"
+      ],
+      "isbn": [
+        "9780553213485",
+        "0553213482"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15697158W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "0128e59e9b5d",
+    "title": "Elective Affinities",
+    "author": "Johann Wolfgang von Goethe",
+    "matchedTitle": "Elective affinities",
+    "matchedAuthors": [
+      "Johann Wolfgang von Goethe"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14951958-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL43418641M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL43418641M",
+      "title": "Elective affinities",
+      "cover_i": 14951958,
+      "publisher": [
+        "F. Ungar"
+      ],
+      "publish_date": [
+        "1962-01-01"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL31655409W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "0020e5e438d5",
+    "title": "Ennui",
+    "author": "Maria Edgeworth",
+    "matchedTitle": "Ennui",
+    "matchedAuthors": [
+      "Maria Edgeworth"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10284182-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL4730841M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL4730841M",
+      "title": "Ennui",
+      "cover_i": 10284182,
+      "publisher": [
+        "Garland Pub."
+      ],
+      "publish_date": [
+        "1978"
+      ],
+      "isbn": [
+        "082403452X",
+        "9780824034528"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1124003W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "398ea0903a2d",
+    "title": "Tales of Hoffmann",
+    "author": "E. T. A. Hoffmann",
+    "matchedTitle": "Tales of Hoffmann",
+    "matchedAuthors": [
+      "E. T. A. Hoffmann"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8478458-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL26818567M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL26818567M",
+      "title": "Tales of Hoffmann",
+      "cover_i": 8478458,
+      "publisher": [
+        "Ungar Pub Co"
+      ],
+      "publish_date": [
+        "Jun 01, 1960"
+      ],
+      "isbn": [
+        "9780804462754",
+        "0804462755"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL19362563W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1006cd91164b",
+    "title": "The Swiss Family Robinson",
+    "author": "Johann Wyss",
+    "matchedTitle": "The Swiss Family Robinson",
+    "matchedAuthors": [
+      "Johann Wyss"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14912448-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL58633241M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL58633241M",
+      "title": "The Swiss Family Robinson",
+      "cover_i": 14912448,
+      "publisher": [
+        "Children Press, Chicago"
+      ],
+      "publish_date": [
+        "1968"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL35295825W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "828e62129617",
+    "title": "Love (De L'Amour)",
+    "author": "Stendhal",
+    "matchedTitle": "Love",
+    "matchedAuthors": [
+      "Stendhal"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103864-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL4932600M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL4932600M",
+      "title": "Love",
+      "cover_i": 103864,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1975"
+      ],
+      "isbn": [
+        "014044307X",
+        "9780140443073"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL733394W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "158f38726474",
+    "title": "The Private Memoirs and Confessions of a Justified Sinner",
+    "author": "James Hogg",
+    "matchedTitle": "The Private Memoirs and Confessions of a Justified Sinner",
+    "matchedAuthors": [
+      "James Hogg"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14634313-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL51733692M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL51733692M",
+      "title": "The Private Memoirs and Confessions of a Justified Sinner",
+      "cover_i": 14634313,
+      "publisher": [
+        "Standard Ebooks"
+      ],
+      "publish_date": [
+        "2023"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL240077W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "daf94f415392",
+    "title": "The Betrothed",
+    "author": "Alessandro Manzoni",
+    "matchedTitle": "The Betrothed",
+    "matchedAuthors": [
+      "Alessandro Manzoni"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8805010-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL20159687W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL20159687W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "e3d8bb7de3a1",
+    "title": "The Physiology of Taste",
+    "author": "Jean-Anthelme Brillat-Savarin",
+    "matchedTitle": "Physiology of Taste",
+    "matchedAuthors": [
+      "Jean Anthelme Brillat-Savarin",
+      "Bill Buford",
+      "M. F. K. Fisher",
+      "Everyman's Library Staff"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13514433-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL21021429W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL21021429W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "0b0d52d63bd9",
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "matchedTitle": "The Last Man",
+    "matchedAuthors": [
+      "Mary Shelley"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14634041-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL51733443M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL51733443M",
+      "title": "The Last Man",
+      "cover_i": 14634041,
+      "publisher": [
+        "Standard Ebooks"
+      ],
+      "publish_date": [
+        "2022"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL450124W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "840baee1eb47",
+    "title": "The Book of Mormon translated",
+    "author": "Joseph Smith Jr.",
+    "matchedTitle": "The Book Of Mormon",
+    "matchedAuthors": [
+      "Joseph Smith, Jr."
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/2039592-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL8965089M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL8965089M",
+      "title": "The Book Of Mormon",
+      "cover_i": 2039592,
+      "publisher": [
+        "Echo Library"
+      ],
+      "publish_date": [
+        "September 27, 2006"
+      ],
+      "isbn": [
+        "9781847024879",
+        "1847024874"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL269227W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c41e755c39db",
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "matchedTitle": "Red and the Black",
+    "matchedAuthors": [
+      "Stendhal",
+      "C. K. Scott Moncrieff"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15050012-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL41132226W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL41132226W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "20f0aa4136e0",
+    "title": "The Wild Ass's Skin",
+    "author": "Honoré de Balzac",
+    "matchedTitle": "The Wild Ass's Skin",
+    "matchedAuthors": [
+      "Honoré de Balzac"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11215711-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL32573240M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL32573240M",
+      "title": "The Wild Ass's Skin",
+      "cover_i": 11215711,
+      "publisher": [
+        "Nabu Press"
+      ],
+      "publish_date": [
+        "Apr 02, 2010"
+      ],
+      "isbn": [
+        "9781148310374",
+        "1148310371"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24565643W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "e07ed7f2f1c5",
+    "title": "The Confession of a Child of the Century",
+    "author": "Alfred de Musset",
+    "matchedTitle": "The Confession of a Child of the Century",
+    "matchedAuthors": [
+      "Alfred de Musset"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11263537-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL32629568M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL32629568M",
+      "title": "The Confession of a Child of the Century",
+      "cover_i": 11263537,
+      "publisher": [
+        "Pinnacle Press"
+      ],
+      "publish_date": [
+        "May 25, 2017"
+      ],
+      "isbn": [
+        "9781374888302",
+        "1374888303"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24463060W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a4fedc81c035",
+    "title": "Lost Illusions",
+    "author": "Honoré de Balzac",
+    "matchedTitle": "Lost illusions",
+    "matchedAuthors": [
+      "Honoré de Balzac"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9523658-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL26569712M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL26569712M",
+      "title": "Lost illusions",
+      "cover_i": 9523658,
+      "publisher": [
+        "J. M. Dent",
+        "E. P. Dutton"
+      ],
+      "publish_date": [
+        "1913"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL17982752W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f0bfe013fbbe",
+    "title": "The Voyage of the Beagle",
+    "author": "Charles Darwin",
+    "matchedTitle": "The Voyage of the Beagle",
+    "matchedAuthors": [
+      "Charles Darwin"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8805015-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27340951M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27340951M",
+      "title": "The Voyage of the Beagle",
+      "cover_i": 8805015,
+      "publisher": [
+        "Digireads.com Publishing"
+      ],
+      "publish_date": [
+        "Feb 15, 2019"
+      ],
+      "isbn": [
+        "9781420960860",
+        "1420960865"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20159692W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1a4cfc0e4df0",
+    "title": "A Hero of Our Time",
+    "author": "Mikhail Lermontov",
+    "matchedTitle": "A Hero of Our Time",
+    "matchedAuthors": [
+      "Mikhail Lermontov"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8910936-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27452291M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27452291M",
+      "title": "A Hero of Our Time",
+      "cover_i": 8910936,
+      "publisher": [
+        "Northwestern University Press"
+      ],
+      "publish_date": [
+        "Aug 15, 2016"
+      ],
+      "isbn": [
+        "9780810133518",
+        "0810133512"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20254523W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "dc8abc8808b8",
+    "title": "London Labour and the London Poor",
+    "author": "Henry Mayhew",
+    "matchedTitle": "London Labour and the London Poor",
+    "matchedAuthors": [
+      "Henry Mayhew",
+      "Victor E. Neuberg"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103156-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL2757522M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL2757522M",
+      "title": "London Labour and the London Poor",
+      "cover_i": 103156,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1985"
+      ],
+      "isbn": [
+        "0140432418",
+        "9780140432411"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14993715W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "33304c0645f5",
+    "title": "Dead Souls",
+    "author": "Nikolai Gogol",
+    "matchedTitle": "DEAD SOULS ",
+    "matchedAuthors": [
+      "NIKOLAI GOGOL "
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15184972-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL61417035M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL61417035M",
+      "title": "DEAD SOULS ",
+      "cover_i": 15184972,
+      "publisher": [
+        "MODERN LIBRARY"
+      ],
+      "publish_date": [
+        "1923"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45019925W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b755827ea49d",
+    "title": "Fear and Trembling",
+    "author": "Søren Kierkegaard",
+    "matchedTitle": "Fear and trembling",
+    "matchedAuthors": [
+      "Søren Kierkegaard"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15095511-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL57729018M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL57729018M",
+      "title": "Fear and trembling",
+      "cover_i": 15095511,
+      "publisher": [
+        "Princeton University Press"
+      ],
+      "publish_date": [
+        "1954"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL42531993W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "597171ffa435",
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "matchedTitle": "The Count of Monte Cristo",
+    "matchedAuthors": [
+      "Alexandre Dumas"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14937760-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL58783727M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL58783727M",
+      "title": "The Count of Monte Cristo",
+      "cover_i": 14937760,
+      "publisher": [
+        "Playmore,Inc."
+      ],
+      "publish_date": [
+        "1979"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL43161739W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "71679f5f0c64",
+    "title": "The Three Musketeers",
+    "author": "Alexandre Dumas",
+    "matchedTitle": "The three musketeers",
+    "matchedAuthors": [
+      "Alexandre Dumas"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15103947-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL52300895M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL52300895M",
+      "title": "The three musketeers",
+      "cover_i": 15103947,
+      "publisher": [
+        "London : Daily Express"
+      ],
+      "publish_date": [
+        "1933"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL38438001W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "edd5a8acebe1",
+    "title": "The Man in the Iron Mask",
+    "author": "Alexandre Dumas",
+    "matchedTitle": "The Man in the Iron Mask",
+    "matchedAuthors": [
+      "Alexandre Dumas"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15196653-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL43046420W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL43046420W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "aab3c4839b97",
+    "title": "Civil Disobedience",
+    "author": "Henry David Thoreau",
+    "matchedTitle": "Civil Disobedience",
+    "matchedAuthors": [
+      "Henry David Thoreau"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12679584-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL55631W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL55631W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "aed537c30917",
+    "title": "The Oregon Trail",
+    "author": "Francis Parkman",
+    "matchedTitle": "The Oregon Trail",
+    "matchedAuthors": [
+      "Francis Parkman"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/7032734-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL20616013M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL20616013M",
+      "title": "The Oregon Trail",
+      "cover_i": 7032734,
+      "publisher": [
+        "Longmans, Green, and co."
+      ],
+      "publish_date": [
+        "1910"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL102787W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "8918f561521a",
+    "title": "The Black Tulip",
+    "author": "Alexandre Dumas",
+    "matchedTitle": "The Black Tulip",
+    "matchedAuthors": [
+      "Alexandre Dumas"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14892919-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL50987523M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL50987523M",
+      "title": "The Black Tulip",
+      "cover_i": 14892919,
+      "publisher": [
+        "Thomas Nelson"
+      ],
+      "publish_date": [
+        "1933"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL37787150W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "9908a2d2c2a9",
+    "title": "White Jacket",
+    "author": "Herman Melville",
+    "matchedTitle": "White-Jacket",
+    "matchedAuthors": [
+      "Herman Melville"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10720299-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL32062271M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL32062271M",
+      "title": "White-Jacket",
+      "cover_i": 10720299,
+      "publisher": [
+        "LibriVox"
+      ],
+      "publish_date": [
+        "2011-04-11"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL102744W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "2ae3ee8d174c",
+    "title": "The House of the Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "matchedTitle": "The House of the Seven Gables",
+    "matchedAuthors": [
+      "Nathaniel Hawthorne"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12506481-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL36360037M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL36360037M",
+      "title": "The House of the Seven Gables",
+      "cover_i": 12506481,
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "publish_date": [
+        "Dec 04, 2013"
+      ],
+      "isbn": [
+        "9781494370664",
+        "1494370662"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26726287W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "2c3ebe78dd74",
+    "title": "Villette",
+    "author": "Charlotte Brontë",
+    "matchedTitle": "Villette",
+    "matchedAuthors": [
+      "Charlotte Brontë",
+      "Mallory Ortberg"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12860999-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL35791648M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL35791648M",
+      "title": "Villette",
+      "cover_i": 12860999,
+      "publisher": [
+        "HarperCollins Publishers Limited"
+      ],
+      "publish_date": [
+        "2015"
+      ],
+      "isbn": [
+        "9780062356161",
+        "006235616X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26485181W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "205859548252",
+    "title": "The Lifted Veil and Brother Jacob",
+    "author": "George Eliot",
+    "matchedTitle": "The Lifted Veil and Brother Jacob",
+    "matchedAuthors": [
+      "George Eliot"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13838879-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL47319144M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL47319144M",
+      "title": "The Lifted Veil and Brother Jacob",
+      "cover_i": 13838879,
+      "publisher": [
+        "Brand: Serenity Publishers, LLC",
+        "Serenity Publishers, LLC"
+      ],
+      "publish_date": [
+        "Oct 10, 2008"
+      ],
+      "isbn": [
+        "9781604505375",
+        "1604505370"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL34957649W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c5e230253773",
+    "title": "The Ruba'iyat of Omar Khayyam",
+    "author": "Omar Khayyam",
+    "matchedTitle": "The Ruba'iyat of Omar Khayyam",
+    "matchedAuthors": [
+      "Omar Khayyam"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9609991-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL22892544M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL22892544M",
+      "title": "The Ruba'iyat of Omar Khayyam",
+      "cover_i": 9609991,
+      "publisher": [
+        "H. S. Nichols"
+      ],
+      "publish_date": [
+        "1898"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL998027W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "e70efc1eb4eb",
+    "title": "The Water-Babies",
+    "author": "Charles Kingsley",
+    "matchedTitle": "The Water-Babies",
+    "matchedAuthors": [
+      "Charles Kingsley"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9619330-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28090043M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL28090043M",
+      "title": "The Water-Babies",
+      "cover_i": 9619330,
+      "publisher": [
+        "Macmillan Children's Books"
+      ],
+      "publish_date": [
+        "Dec 01, 2015"
+      ],
+      "isbn": [
+        "9780230770331",
+        "0230770339"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20368730W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "285e86669c8a",
+    "title": "Atalanta in Calydon",
+    "author": "Algernon Charles Swinburne",
+    "matchedTitle": "Atalanta in Calydon",
+    "matchedAuthors": [
+      "Algernon Charles Swinburne"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1789468-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL1148249W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL1148249W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "49cbb5d9d04d",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "matchedTitle": "War and Peace",
+    "matchedAuthors": [
+      "Leo Tolstoy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15183543-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL61414472M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL61414472M",
+      "title": "War and Peace",
+      "cover_i": 15183543,
+      "publisher": [
+        "The John C. Winston Company"
+      ],
+      "publish_date": [
+        "1949"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45017724W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "0108ec13bd88",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky",
+    "matchedTitle": "Crime and Punishment",
+    "matchedAuthors": [
+      "Fyodor Dostoyevsky"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15216625-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL61722350M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL61722350M",
+      "title": "Crime and Punishment",
+      "cover_i": 15216625,
+      "publisher": [
+        "Samaira Book Publishers"
+      ],
+      "publish_date": [
+        "July 1, 2021"
+      ],
+      "isbn": [
+        "9789390280025",
+        "9390280028"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45277107W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "3f762a6d8b08",
+    "title": "Behind the Scenes",
+    "author": "Elizabeth Keckley",
+    "matchedTitle": "Behind The Scenes",
+    "matchedAuthors": [
+      "Elizabeth Keckley"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10234978-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL20898573W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL20898573W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a59dc755fd71",
+    "title": "Sentimental Education",
+    "author": "Gustave Flaubert",
+    "matchedTitle": "Sentimental Education",
+    "matchedAuthors": [
+      "Gustave Flaubert"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12602042-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL27103128W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL27103128W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "aac59dde79d2",
+    "title": "Under the Greenwood Tree",
+    "author": "Thomas Hardy",
+    "matchedTitle": "Under the greenwood tree",
+    "matchedAuthors": [
+      "Thomas Hardy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9142884-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27707599M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27707599M",
+      "title": "Under the greenwood tree",
+      "cover_i": 9142884,
+      "publisher": [
+        "Osgood, McIlvaine"
+      ],
+      "publish_date": [
+        "1896"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL17966238W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6923b753710e",
+    "title": "The Exploration of the Colorado River and Its Canyons",
+    "author": "John Wesley Powell",
+    "matchedTitle": "The Exploration of the Colorado River and Its Canyons",
+    "matchedAuthors": [
+      "John Wesley Powell"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8893802-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27433311M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27433311M",
+      "title": "The Exploration of the Colorado River and Its Canyons",
+      "cover_i": 8893802,
+      "publisher": [
+        "Simon & Brown"
+      ],
+      "publish_date": [
+        "Feb 22, 2013"
+      ],
+      "isbn": [
+        "9781613824344",
+        "1613824343"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20239233W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c536795efd5e",
+    "title": "L'Assommoir (The Drinking Den)",
+    "author": "Émile Zola",
+    "matchedTitle": "L'Assommoir (The Dram Shop)",
+    "matchedAuthors": [
+      "Émile Zola"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104261-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355403M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355403M",
+      "title": "L'Assommoir (The Dram Shop)",
+      "cover_i": 104261,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "April 3, 2001"
+      ],
+      "isbn": [
+        "9780140447538",
+        "0140447539"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL7982334W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6b2e02b6032d",
+    "title": "The Drinking Den (L'Assommoir)",
+    "author": "Émile Zola",
+    "matchedTitle": "The drinking den",
+    "matchedAuthors": [
+      "Émile Zola"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104375-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL3322250M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL3322250M",
+      "title": "The drinking den",
+      "cover_i": 104375,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "2003"
+      ],
+      "isbn": [
+        "014044954X",
+        "9780140449549"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL7982886W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "d67de406497d",
+    "title": "A Doll's House and Other Plays (The League of Youth, The Lady From the Sea)",
+    "author": "Henrik Ibsen",
+    "matchedTitle": "A doll's house and other plays",
+    "matchedAuthors": [
+      "Henrik Ibsen"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6896233-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24976659M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL24976659M",
+      "title": "A doll's house and other plays",
+      "cover_i": 6896233,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "1965"
+      ],
+      "isbn": [
+        "9780140441468",
+        "0140441468"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL382354W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "accaca9f3242",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoyevsky",
+    "matchedTitle": "The Brothers Karamazov",
+    "matchedAuthors": [
+      "Fyodor Dostoyevsky"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15215022-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL61658769M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL61658769M",
+      "title": "The Brothers Karamazov",
+      "cover_i": 15215022,
+      "publisher": [
+        "General Press"
+      ],
+      "publish_date": [
+        "February 6, 2019"
+      ],
+      "isbn": [
+        "9789388760195",
+        "9388760190"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45224198W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "35e77503da88",
+    "title": "Uncle Remus",
+    "author": "Joel Chandler Harris",
+    "matchedTitle": "Uncle Remus",
+    "matchedAuthors": [
+      "Joel Chandler Harris"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/5600932-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7078226M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7078226M",
+      "title": "Uncle Remus",
+      "cover_i": 5600932,
+      "publisher": [
+        "Hawthorn Books"
+      ],
+      "publish_date": [
+        "1921"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL2344334W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "bf6e839c3916",
+    "title": "The Adventures of Pinocchio",
+    "author": "Carlo Collodi",
+    "matchedTitle": "The Adventures Of Pinocchio",
+    "matchedAuthors": [
+      "Carlo Collodi"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12531672-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL36638440M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL36638440M",
+      "title": "The Adventures Of Pinocchio",
+      "cover_i": 12531672,
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "publish_date": [
+        "Nov 28, 2016"
+      ],
+      "isbn": [
+        "9781540677211",
+        "1540677214"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26502233W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6b910fd020b8",
+    "title": "Ghosts and Other Plays (A Public Enemy and When We Dead Wake)",
+    "author": "Henrik Ibsen",
+    "matchedTitle": "Ghosts and Other Plays",
+    "matchedAuthors": [
+      "Henrik Ibsen"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103705-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355114M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355114M",
+      "title": "Ghosts and Other Plays",
+      "cover_i": 103705,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "June 30, 1964"
+      ],
+      "isbn": [
+        "9780140441352",
+        "0140441352"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15086177W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5637b7ab0ad4",
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "matchedTitle": "Thus Spoke Zarathustra",
+    "matchedAuthors": [
+      "Friedrich Nietzsche"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11183350-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL32533838M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL32533838M",
+      "title": "Thus Spoke Zarathustra",
+      "cover_i": 11183350,
+      "publisher": [
+        "Digireads.com"
+      ],
+      "publish_date": [
+        "Sep 19, 2016"
+      ],
+      "isbn": [
+        "9781420954067",
+        "1420954067"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24528372W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5461d50afb0a",
+    "title": "The Origin of the Family, Private Property and the State",
+    "author": "Friedrich Engels",
+    "matchedTitle": "The origin of the family, private property, and the state",
+    "matchedAuthors": [
+      "Friedrich Engels"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12806752-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL38568732M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL38568732M",
+      "title": "The origin of the family, private property, and the state",
+      "cover_i": 12806752,
+      "publisher": [
+        "CreateSpace"
+      ],
+      "publish_date": [
+        "2015"
+      ],
+      "isbn": [
+        "9781508760412",
+        "1508760411"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL27531840W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b99978fab353",
+    "title": "The Amateur Emigrant",
+    "author": "Robert Louis Stevenson",
+    "matchedTitle": "The  amateur emigrant",
+    "matchedAuthors": [
+      "Robert Louis Stevenson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/5973015-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL16536595M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL16536595M",
+      "title": "The  amateur emigrant",
+      "cover_i": 5973015,
+      "publisher": [
+        "C. Scribner's sons"
+      ],
+      "publish_date": [
+        "1905"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24134W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "322686831551",
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "matchedTitle": "Beyond Good and Evil (AmazonClassics Edition)",
+    "matchedAuthors": [
+      "Friedrich Nietzsche"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14444933-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28898910M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL28898910M",
+      "title": "Beyond Good and Evil (AmazonClassics Edition)",
+      "cover_i": 14444933,
+      "publisher": [
+        "Amazon Publishing"
+      ],
+      "publish_date": [
+        "2017"
+      ],
+      "isbn": [
+        "9781542049405",
+        "1542049407"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL21336519W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f03756b3a180",
+    "title": "Pierre and Jean",
+    "author": "Guy de Maupassant",
+    "matchedTitle": "Pierre and Jean",
+    "matchedAuthors": [
+      "Guy de Maupassant"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9049541-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27598135M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27598135M",
+      "title": "Pierre and Jean",
+      "cover_i": 9049541,
+      "publisher": [
+        "SMK Books"
+      ],
+      "publish_date": [
+        "Apr 26, 2012"
+      ],
+      "isbn": [
+        "9781617207266",
+        "1617207268"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20382436W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "45f0410e82ee",
+    "title": "Looking Backward",
+    "author": "Edward Bellamy",
+    "matchedTitle": "Looking backward",
+    "matchedAuthors": [
+      "Edward Bellamy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/295669-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL2981504W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL2981504W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "43629e14d336",
+    "title": "By the Open Sea",
+    "author": "August Strindberg",
+    "matchedTitle": "By the Open Sea",
+    "matchedAuthors": [
+      "August Strindberg",
+      "Ellie Schleussner"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10606574-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL24181999W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL24181999W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "8c284ee9b3c7",
+    "title": "Hunger",
+    "author": "Knut Hamsun",
+    "matchedTitle": "Hunger",
+    "matchedAuthors": [
+      "Knut Hamsun"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14634050-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL51733446M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL51733446M",
+      "title": "Hunger",
+      "cover_i": 14634050,
+      "publisher": [
+        "Standard Ebooks"
+      ],
+      "publish_date": [
+        "2024"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL37771558W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "aae64a044502",
+    "title": "La Bête Humaine",
+    "author": "Émile Zola",
+    "matchedTitle": "La Bete Humaine",
+    "matchedAuthors": [
+      "Émile Zola"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/968837-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL118931W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL118931W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1a34508d44e2",
+    "title": "Struggling Upward",
+    "author": "Horatio Alger Jr.",
+    "matchedTitle": "Struggling upward",
+    "matchedAuthors": [
+      "Horatio Alger, Jr."
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1254851-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL2341709W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL2341709W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "fce2ae6e2cad",
+    "title": "Hedda Gabler and Other Plays (The Wild Duck and The Pillars of the Community)",
+    "author": "Henrik Ibsen",
+    "matchedTitle": "Hedda Gabler and Other Plays (Penguin Classics)",
+    "matchedAuthors": [
+      "Henrik Ibsen"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103607-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355036M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355036M",
+      "title": "Hedda Gabler and Other Plays (Penguin Classics)",
+      "cover_i": 103607,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "March 30, 1951"
+      ],
+      "isbn": [
+        "9780140440164",
+        "014044016X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL52376W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f4c86481271e",
+    "title": "Tales of Soldiers and Civilians",
+    "author": "Ambrose Bierce",
+    "matchedTitle": "Tales of Soldiers and Civilians",
+    "matchedAuthors": [
+      "Ambrose Bierce"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13905602-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL34152712M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL34152712M",
+      "title": "Tales of Soldiers and Civilians",
+      "cover_i": 13905602,
+      "publisher": [
+        "West Margin Press",
+        "Mint Editions"
+      ],
+      "publish_date": [
+        "2020"
+      ],
+      "isbn": [
+        "9781513219615",
+        "1513219618"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24837583W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "82d4650ec142",
+    "title": "The Star-Child",
+    "author": "Oscar Wilde",
+    "matchedTitle": "The Star Child",
+    "matchedAuthors": [
+      "Oscar Wilde"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9552662-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL4407376M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL4407376M",
+      "title": "The Star Child",
+      "cover_i": 9552662,
+      "publisher": [
+        "Four Winds Press"
+      ],
+      "publish_date": [
+        "1979"
+      ],
+      "isbn": [
+        "0590076418",
+        "9780590076418"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL14877842W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "02cd238db7f3",
+    "title": "The Story of Gösta Berling",
+    "author": "Selma Lagerlöf",
+    "matchedTitle": "The Story of Gösta Berling",
+    "matchedAuthors": [
+      "Selma Lagerlöf"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12621801-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL37044538M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL37044538M",
+      "title": "The Story of Gösta Berling",
+      "cover_i": 12621801,
+      "publisher": [
+        "Standard Ebooks"
+      ],
+      "publish_date": [
+        "2018"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15230711W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "4566330d1a00",
+    "title": "The Adventure of the Blue Carbuncle",
+    "author": "Arthur Conan Doyle",
+    "matchedTitle": "The Adventure of the Blue Carbuncle",
+    "matchedAuthors": [
+      "Arthur Conan Doyle"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/767108-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL1518317W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL1518317W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "ce58021d04e0",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "matchedTitle": "The Adventures of Sherlock Holmes",
+    "matchedAuthors": [
+      "D. H. Howe",
+      "Arthur Conan Doyle"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/3206394-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL12729113M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL12729113M",
+      "title": "The Adventures of Sherlock Holmes",
+      "cover_i": 3206394,
+      "publisher": [
+        "Cornelsen & Oxford University Press"
+      ],
+      "publish_date": [
+        "January 1, 1992"
+      ],
+      "isbn": [
+        "9783464106303",
+        "3464106306"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL17494673W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "ef18288a391d",
+    "title": "The Pursuit of the Well-Beloved",
+    "author": "Thomas Hardy",
+    "matchedTitle": "The Pursuit of the Well Beloved",
+    "matchedAuthors": [
+      "Thomas Hardy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1803522-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL8482274M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL8482274M",
+      "title": "The Pursuit of the Well Beloved",
+      "cover_i": 1803522,
+      "publisher": [
+        "Kessinger Publishing"
+      ],
+      "publish_date": [
+        "June 30, 2004"
+      ],
+      "isbn": [
+        "9781419179525",
+        "1419179527"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15239306W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "de9a2da516b9",
+    "title": "Maggie: A Girl of the Streets",
+    "author": "Stephen Crane",
+    "matchedTitle": "Maggie, a girl of the streets",
+    "matchedAuthors": [
+      "Stephen Crane",
+      "Stephen Crane"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1924043-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL20839W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL20839W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "8e17e2241816",
+    "title": "The Master Builder and Other Plays (Rosmersholm, Little Eyolf and John Gabriel Borkman)",
+    "author": "Henrik Ibsen",
+    "matchedTitle": "The master builder and other plays",
+    "matchedAuthors": [
+      "Henrik Ibsen"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9462493-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL18563430M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL18563430M",
+      "title": "The master builder and other plays",
+      "cover_i": 9462493,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1975"
+      ],
+      "isbn": [
+        "0140440534",
+        "9780140440539"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL52355W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "94ae647f8b93",
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "matchedTitle": "The Memoirs of Sherlock Holmes",
+    "matchedAuthors": [
+      "Arthur Conan Doyle"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14241133-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL47617205M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL47617205M",
+      "title": "The Memoirs of Sherlock Holmes",
+      "cover_i": 14241133,
+      "publisher": [
+        "Suzeteo Enterprises"
+      ],
+      "publish_date": [
+        "Oct 14, 2018"
+      ],
+      "isbn": [
+        "9781947844742",
+        "1947844741"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL35220621W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "61b19ace3c9a",
+    "title": "Bayou Folk",
+    "author": "Kate Chopin",
+    "matchedTitle": "Bayou folk",
+    "matchedAuthors": [
+      "Kate Chopin"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12001738-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL33221469M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL33221469M",
+      "title": "Bayou folk",
+      "cover_i": 12001738,
+      "publisher": [
+        "Houghton, Mifflin and Company",
+        "The Riverside Press"
+      ],
+      "publish_date": [
+        "1895"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL65441W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "e5ab15755d6f",
+    "title": "Pudd'nhead Wilson",
+    "author": "Mark Twain",
+    "matchedTitle": "Pudd' Nhead Wilson",
+    "matchedAuthors": [
+      "Mark Twain"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15198711-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL61429835M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL61429835M",
+      "title": "Pudd' Nhead Wilson",
+      "cover_i": 15198711,
+      "publisher": [
+        "Book-of-the-Month Club"
+      ],
+      "publish_date": [
+        "1992"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45030913W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "9d459d33d906",
+    "title": "Studies on Hysteria",
+    "author": "Sigmund Freud",
+    "matchedTitle": "Studies On Hysteria",
+    "matchedAuthors": [
+      "Sigmund Freud"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12211755-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL35368810M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL35368810M",
+      "title": "Studies On Hysteria",
+      "cover_i": 12211755,
+      "publisher": [
+        "Alter Yayıncılık"
+      ],
+      "publish_date": [
+        "Oct 28, 2019"
+      ],
+      "isbn": [
+        "9786051911090",
+        "605191109X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26213682W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a4256981b743",
+    "title": "The Anti-Christ",
+    "author": "Friedrich Nietzsche",
+    "matchedTitle": "The Anti-Christ",
+    "matchedAuthors": [
+      "Friedrich Nietzsche"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10184846-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28255689M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL28255689M",
+      "title": "The Anti-Christ",
+      "cover_i": 10184846,
+      "publisher": [
+        "Wilder Publications",
+        "Brand: Wilder Publications"
+      ],
+      "publish_date": [
+        "Dec 18, 2008"
+      ],
+      "isbn": [
+        "9781604593266",
+        "1604593261"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20180249W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5dd6126d581e",
+    "title": "A Prince of Swindlers",
+    "author": "Guy Boothby",
+    "matchedTitle": "A Prince of Swindlers",
+    "matchedAuthors": [
+      "Guy Boothby"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/858184-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL8843576M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL8843576M",
+      "title": "A Prince of Swindlers",
+      "cover_i": 858184,
+      "publisher": [
+        "Fredonia Books (NL)"
+      ],
+      "publish_date": [
+        "June 2002"
+      ],
+      "isbn": [
+        "9781589638914",
+        "1589638913"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1065771W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b13c1f978bdb",
+    "title": "Rupert of Hentzau",
+    "author": "Anthony Hope",
+    "matchedTitle": "Rupert of Hentzau",
+    "matchedAuthors": [
+      "Anthony Hope"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8915099-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL20258258W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL20258258W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "738847e3ec06",
+    "title": "Youth, The End of the Tether",
+    "author": "Joseph Conrad",
+    "matchedTitle": "Youth / The End of the Tether",
+    "matchedAuthors": [
+      "Joseph Conrad"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/97023-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL38790W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL38790W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "45f8fc6cf697",
+    "title": "The Awakening and Selected Stories",
+    "author": "Kate Chopin",
+    "matchedTitle": "The Awakening and Selected Stories",
+    "matchedAuthors": [
+      "Kate Chopin"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14555102-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7354475M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7354475M",
+      "title": "The Awakening and Selected Stories",
+      "cover_i": 14555102,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1986"
+      ],
+      "isbn": [
+        "9780140390223",
+        "0140390227"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL65435W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "f70f9c2eaff7",
+    "title": "The Sleeper Awakes",
+    "author": "H. G. Wells",
+    "matchedTitle": "THE SLEEPER AWAKES (COLLINS NEW CLASSICS SERIES-NO.691)",
+    "matchedAuthors": [
+      "H. G. Wells"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15064104-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL46863648M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL46863648M",
+      "title": "THE SLEEPER AWAKES (COLLINS NEW CLASSICS SERIES-NO.691)",
+      "cover_i": 15064104,
+      "publisher": [
+        "Collins"
+      ],
+      "publish_date": [
+        "1954-01-01"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL34549694W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "7cc2c2fe2c31",
+    "title": "The Octopus",
+    "author": "Frank Norris",
+    "matchedTitle": "THE OCTOPUS",
+    "matchedAuthors": [
+      "FRANK NORRIS"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15193230-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL61424889M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL61424889M",
+      "title": "THE OCTOPUS",
+      "cover_i": 15193230,
+      "publisher": [
+        "ASTOUNDING STORIES"
+      ],
+      "publish_date": [
+        "2015"
+      ],
+      "isbn": [
+        "9781532902642",
+        "1532902646"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45026543W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "c304bf03498c",
+    "title": "The Psychopathology of Everyday Life",
+    "author": "Sigmund Freud",
+    "matchedTitle": "The Psychopathology of Everyday Life",
+    "matchedAuthors": [
+      "Sigmund Freud"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15223014-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL62016518M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL62016518M",
+      "title": "The Psychopathology of Everyday Life",
+      "cover_i": 15223014,
+      "publisher": [
+        "Samaira Book Publishers"
+      ],
+      "publish_date": [
+        "January 15, 2019"
+      ],
+      "isbn": [
+        "9789387550292",
+        "938755029X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL45527809W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "dabeded50b99",
+    "title": "The Call of the Wild, White Fang, and Other Stories",
+    "author": "Jack London",
+    "matchedTitle": "The call of the wild, White Fang, and other stories",
+    "matchedAuthors": [
+      "Jack London"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9382526-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL18352918M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL18352918M",
+      "title": "The call of the wild, White Fang, and other stories",
+      "cover_i": 9382526,
+      "publisher": [
+        "Penguin Books"
+      ],
+      "publish_date": [
+        "1986"
+      ],
+      "isbn": [
+        "0140390014",
+        "9780140390018"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL74442W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "68463067bf8e",
+    "title": "The Gift of the Magi",
+    "author": "O. Henry",
+    "matchedTitle": "The gift of the Magi",
+    "matchedAuthors": [
+      "O. Henry"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/819241-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL1081048M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL1081048M",
+      "title": "The gift of the Magi",
+      "cover_i": 819241,
+      "publisher": [
+        "Ideals Children's Books"
+      ],
+      "publish_date": [
+        "1994"
+      ],
+      "isbn": [
+        "1571020039",
+        "9781571020031"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL181953W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5090ccbf73b9",
+    "title": "Complete Poems",
+    "author": "Marianne Moore",
+    "matchedTitle": "Complete Poems (Twentieth-Century Classics)",
+    "matchedAuthors": [
+      "Marianne Moore"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/97884-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7349896M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7349896M",
+      "title": "Complete Poems (Twentieth-Century Classics)",
+      "cover_i": 97884,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "November 1, 1994"
+      ],
+      "isbn": [
+        "9780140188516",
+        "0140188517"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL3357081W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a7161bb8007f",
+    "title": "Selected Stories",
+    "author": "D. H. Lawrence",
+    "matchedTitle": "Selected Stories (Lawrence, D. H.)",
+    "matchedAuthors": [
+      "D. H. Lawrence"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/1118679-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7359970M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7359970M",
+      "title": "Selected Stories (Lawrence, D. H.)",
+      "cover_i": 1118679,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "February 26, 2008"
+      ],
+      "isbn": [
+        "9780141441658",
+        "0141441658"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL7965878W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b4ff98bd66a5",
+    "title": "Ecce Homo",
+    "author": "Friedrich Nietzsche",
+    "matchedTitle": "Ecce Homo",
+    "matchedAuthors": [
+      "Friedrich Nietzsche"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/12292964-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL35455951M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL35455951M",
+      "title": "Ecce Homo",
+      "cover_i": 12292964,
+      "publisher": [
+        "Is Bankasi Kültür Yayinlari"
+      ],
+      "publish_date": [
+        "Nov 02, 2017"
+      ],
+      "isbn": [
+        "9789944887335",
+        "9944887331"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL26276979W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "bac1da6124aa",
+    "title": "The Autobiography of an Ex-Coloured Man",
+    "author": "James Weldon Johnson",
+    "matchedTitle": "The autobiography of an ex-coloured man",
+    "matchedAuthors": [
+      "James Weldon Johnson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14899842-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL50992772M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL50992772M",
+      "title": "The autobiography of an ex-coloured man",
+      "cover_i": 14899842,
+      "publisher": [
+        "Alfred A. Knopf"
+      ],
+      "publish_date": [
+        "1970"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL37791422W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "5db4d185933d",
+    "title": "Virginia",
+    "author": "Ellen Glasgow",
+    "matchedTitle": "Virginia",
+    "matchedAuthors": [
+      "Ellen Glasgow"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13186308-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL39084954M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL39084954M",
+      "title": "Virginia",
+      "cover_i": 13186308,
+      "publisher": [
+        "Creative Media Partners, LLC"
+      ],
+      "publish_date": [
+        "2018"
+      ],
+      "isbn": [
+        "9781376717389",
+        "1376717387"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL28508627W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "6db479eb190a",
+    "title": "Dear Enemy",
+    "author": "Jean Webster",
+    "matchedTitle": "Dear enemy",
+    "matchedAuthors": [
+      "Jean Webster"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8284774-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL26593003M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL26593003M",
+      "title": "Dear enemy",
+      "cover_i": 8284774,
+      "publisher": [
+        "Copp Clark"
+      ],
+      "publish_date": [
+        "1915"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL4322176W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1b347f1e404d",
+    "title": "The Underdogs",
+    "author": "Mariano Azuela",
+    "matchedTitle": "The Underdogs",
+    "matchedAuthors": [
+      "Mariano Azuela"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15085013-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL46923899M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL46923899M",
+      "title": "The Underdogs",
+      "cover_i": 15085013,
+      "publisher": [
+        "New American Library"
+      ],
+      "publish_date": [
+        "1962-01-01"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL20370581W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "89c95ab1757a",
+    "title": "The Home and the World",
+    "author": "Rabindranath Tagore",
+    "matchedTitle": "The Home And The World",
+    "matchedAuthors": [
+      "Rabindranath Tagore",
+      "Surendranath Tagore"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11367800-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL32742005M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL32742005M",
+      "title": "The Home And The World",
+      "cover_i": 11367800,
+      "publisher": [
+        "Independently Published",
+        "Independently published"
+      ],
+      "publish_date": [
+        "May 15, 2019"
+      ],
+      "isbn": [
+        "9781098794354",
+        "1098794354"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24669354W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "0732b3d91f6d",
+    "title": "R.U.R.",
+    "author": "Karel Čapek",
+    "matchedTitle": "R.U.R.",
+    "matchedAuthors": [
+      "Karel Čapek"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8441780-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/works/OL19330505W",
+    "coverLabel": "Other edition · Open Library",
+    "edition": null,
+    "workSource": "https://openlibrary.org/works/OL19330505W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "3f83a64c3f9c",
+    "title": "Twenty Love Poems and a Song of Despair",
+    "author": "Pablo Neruda",
+    "matchedTitle": "Twenty Love Poems and a Song of Despair",
+    "matchedAuthors": [
+      "J. Simon Harris",
+      "Pablo Neruda"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13642179-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL41969936M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL41969936M",
+      "title": "Twenty Love Poems and a Song of Despair",
+      "cover_i": 13642179,
+      "publisher": [
+        "Independently Published",
+        "Independently published"
+      ],
+      "publish_date": [
+        "2020"
+      ],
+      "isbn": [
+        "9781710627640",
+        "1710627646"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL30526511W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "de12b46df240",
+    "title": "The Castle",
+    "author": "Franz Kafka",
+    "matchedTitle": "The castle,",
+    "matchedAuthors": [
+      "Franz Kafka",
+      "J. A. Underwood",
+      "John Zilcosky"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14891120-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL50985845M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL50985845M",
+      "title": "The castle,",
+      "cover_i": 14891120,
+      "publisher": [
+        "Secker and Warburg"
+      ],
+      "publish_date": [
+        "1942"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL37585491W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "13be04253839",
+    "title": "The Threepenny Opera",
+    "author": "Bertolt Brecht",
+    "matchedTitle": "The Threepenny Opera",
+    "matchedAuthors": [
+      "Bertolt Brecht"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14918148-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL51004862M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL51004862M",
+      "title": "The Threepenny Opera",
+      "cover_i": 14918148,
+      "publisher": [
+        "Vintage Books"
+      ],
+      "publish_date": [
+        "1977"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL37801503W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1c2746a0190a",
+    "title": "Orient Express",
+    "author": "Graham Greene",
+    "matchedTitle": "Orient Express",
+    "matchedAuthors": [
+      "Graham Greene"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9937598-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL25418034M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL25418034M",
+      "title": "Orient Express",
+      "cover_i": 9937598,
+      "publisher": [
+        "Sun Dial Press"
+      ],
+      "publish_date": [
+        "1943"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL8259016W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "b9bb57f743df",
+    "title": "Sunset Song",
+    "author": "Lewis Grassic Gibbon",
+    "matchedTitle": "Sunset Song",
+    "matchedAuthors": [
+      "Lewis Grassic Gibbon",
+      "Alastair Cording"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/14433976-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL48169934M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL48169934M",
+      "title": "Sunset Song",
+      "cover_i": 14433976,
+      "publisher": [
+        "Hern Books, Limited, Nick"
+      ],
+      "publish_date": [
+        "2019"
+      ],
+      "isbn": [
+        "9781788502290",
+        "1788502299"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL35708062W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "3eef8ffb5354",
+    "title": "Grundrisse",
+    "author": "Karl Marx",
+    "matchedTitle": "The Grundrisse",
+    "matchedAuthors": [
+      "Karl Marx"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8656048-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL27042241M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL27042241M",
+      "title": "The Grundrisse",
+      "cover_i": 8656048,
+      "publisher": [
+        "Harper & Row"
+      ],
+      "publish_date": [
+        "1972"
+      ],
+      "isbn": [
+        "9780061316630",
+        "0061316636"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL19853913W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "8be760014dc8",
+    "title": "Mother Courage and Her Children",
+    "author": "Bertolt Brecht",
+    "matchedTitle": "Mother Courage and Her Children",
+    "matchedAuthors": [
+      "Bertolt Brecht"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/452048-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7797815M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL7797815M",
+      "title": "Mother Courage and Her Children",
+      "cover_i": 452048,
+      "publisher": [
+        "Methuen"
+      ],
+      "publish_date": [
+        "September 2007"
+      ],
+      "isbn": [
+        "9780713684667",
+        "0713684666"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL3802453W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "1b3949cc9b4d",
+    "title": "The Good Person of Szechwan",
+    "author": "Bertolt Brecht",
+    "matchedTitle": "The Good Person Of Szechwan",
+    "matchedAuthors": [
+      "Bertolt Brecht",
+      "John Willett",
+      "Tom Kuhn",
+      "Charlotte Ryland"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13152396-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL37930884M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL37930884M",
+      "title": "The Good Person Of Szechwan",
+      "cover_i": 13152396,
+      "publisher": [
+        "Methuen Drama"
+      ],
+      "publish_date": [
+        "Mar 01, 2012"
+      ],
+      "isbn": [
+        "9781408100073",
+        "140810007X"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL25681813W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "63dd97f865cb",
+    "title": "The Need for Roots",
+    "author": "Simone Weil",
+    "matchedTitle": "The need for roots",
+    "matchedAuthors": [
+      "Simone Weil"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8125723-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24397211M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL24397211M",
+      "title": "The need for roots",
+      "cover_i": 8125723,
+      "publisher": [
+        "Harper & Row"
+      ],
+      "publish_date": [
+        "1971"
+      ],
+      "isbn": [
+        "9780060902261",
+        "0060902264"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15428558W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "world-b2832b3b217f",
+    "title": "Giovanni’s Room",
+    "author": "James Baldwin",
+    "matchedTitle": "Giovanni's Room",
+    "matchedAuthors": [
+      "James Baldwin"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6790980-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24737293M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL24737293M",
+      "title": "Giovanni's Room",
+      "cover_i": 6790980,
+      "publisher": [
+        "Dell Publ."
+      ],
+      "publish_date": [
+        "1988"
+      ],
+      "isbn": [
+        "9780440328810",
+        "0440328810"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL228702W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "86227bc0cb86",
+    "title": "A Tourist in Africa",
+    "author": "Evelyn Waugh",
+    "matchedTitle": "A tourist in Africa.",
+    "matchedAuthors": [
+      "Evelyn Waugh"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/9459416-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5811695M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL5811695M",
+      "title": "A tourist in Africa.",
+      "cover_i": 9459416,
+      "publisher": [
+        "Chapman & Hall"
+      ],
+      "publish_date": [
+        "1960"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL5721554W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "world-fc5bbede21d3",
+    "title": "Coal",
+    "author": "Audre Lorde",
+    "matchedTitle": "Coal",
+    "matchedAuthors": [
+      "Audre Lorde"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10025305-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL4877539M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL4877539M",
+      "title": "Coal",
+      "cover_i": 10025305,
+      "publisher": [
+        "Norton"
+      ],
+      "publish_date": [
+        "1976"
+      ],
+      "isbn": [
+        "0393044394",
+        "0393044467",
+        "9780393044393",
+        "9780393044461"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL2191784W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "7c3df3d81393",
+    "title": "J R",
+    "author": "William Gaddis",
+    "matchedTitle": "J R",
+    "matchedAuthors": [
+      "William Gaddis"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/4481342-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5188429M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL5188429M",
+      "title": "J R",
+      "cover_i": 4481342,
+      "publisher": [
+        "Knopf : distributed by Random House"
+      ],
+      "publish_date": [
+        "1975"
+      ],
+      "isbn": [
+        "0394495500",
+        "0394731425",
+        "9780394495507",
+        "9780394731421"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL3412515W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "9eb7b3b152d9",
+    "title": "The Murderer",
+    "author": "Roy Heath",
+    "matchedTitle": "The Murderer",
+    "matchedAuthors": [
+      "Roy Heath"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/4761526-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL8231937M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL8231937M",
+      "title": "The Murderer",
+      "cover_i": 4761526,
+      "publisher": [
+        "Persea Books"
+      ],
+      "publish_date": [
+        "March 1993"
+      ],
+      "isbn": [
+        "9780892551699",
+        "0892551690"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL6579842W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "ff0f0a856890",
+    "title": "The American Clock",
+    "author": "Arthur Miller",
+    "matchedTitle": "The American clock",
+    "matchedAuthors": [
+      "Arthur Miller"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10309606-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL16171609M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL16171609M",
+      "title": "The American clock",
+      "cover_i": 10309606,
+      "publisher": [
+        "Methuen"
+      ],
+      "publish_date": [
+        "1983"
+      ],
+      "isbn": [
+        "0413520900",
+        "0413521001",
+        "9780413520906",
+        "9780413521002"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL66323W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "51045f89aeef",
+    "title": "Sixty Stories",
+    "author": "Donald Barthelme",
+    "matchedTitle": "Sixty stories",
+    "matchedAuthors": [
+      "Donald Barthelme"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/4380625-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL21371707M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL21371707M",
+      "title": "Sixty stories",
+      "cover_i": 4380625,
+      "publisher": [
+        "Putnam"
+      ],
+      "publish_date": [
+        "1981"
+      ],
+      "isbn": [
+        "0399126597",
+        "9780399126598"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL10538569W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "a07e1b6591c6",
+    "title": "Why Read the Classics?",
+    "author": "Italo Calvino",
+    "matchedTitle": "Why read the classics?",
+    "matchedAuthors": [
+      "Italo Calvino"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6656804-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL36058M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL36058M",
+      "title": "Why read the classics?",
+      "cover_i": 6656804,
+      "publisher": [
+        "Pantheon Books"
+      ],
+      "publish_date": [
+        "1999"
+      ],
+      "isbn": [
+        "0679415246",
+        "9780679415244"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL10423748W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "61a09645acc8",
+    "title": "The Knockout Artist",
+    "author": "Harry Crews",
+    "matchedTitle": "The Knockout Artist",
+    "matchedAuthors": [
+      "Harry Crews"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/7696880-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL26084992M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL26084992M",
+      "title": "The Knockout Artist",
+      "cover_i": 7696880,
+      "publisher": [
+        "HarperCollins Publishers"
+      ],
+      "publish_date": [
+        "1989-01-01"
+      ],
+      "isbn": [
+        "9780060915742",
+        "0060915749"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL17497555W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "134562b3b611",
+    "title": "MAMista",
+    "author": "Len Deighton",
+    "matchedTitle": "MAMista",
+    "matchedAuthors": [
+      "Len Deighton"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/3976295-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL1567729M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL1567729M",
+      "title": "MAMista",
+      "cover_i": 3976295,
+      "publisher": [
+        "HarperCollinsPublishers"
+      ],
+      "publish_date": [
+        "1991"
+      ],
+      "isbn": [
+        "0060179368",
+        "9780060179366"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15831895W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "2ee8edcc7d20",
+    "title": "A Taste of Power",
+    "author": "Elaine Brown",
+    "matchedTitle": "A Taste of Power",
+    "matchedAuthors": [
+      "Elaine Brown"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/5075386-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL10751368M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL10751368M",
+      "title": "A Taste of Power",
+      "cover_i": 5075386,
+      "publisher": [
+        "Farrar Straus & Giroux"
+      ],
+      "publish_date": [
+        "January 1993"
+      ],
+      "isbn": [
+        "9780374272562",
+        "0374272565"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL3940492W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "506731628368",
+    "title": "City of Gold",
+    "author": "Len Deighton",
+    "matchedTitle": "City of gold",
+    "matchedAuthors": [
+      "Len Deighton"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6474942-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL1743811M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL1743811M",
+      "title": "City of gold",
+      "cover_i": 6474942,
+      "publisher": [
+        "HarperCollins Publishers"
+      ],
+      "publish_date": [
+        "1992"
+      ],
+      "isbn": [
+        "0060179376",
+        "9780060179373"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL2425017W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "fb855911cfc9",
+    "title": "Dirty Bird Blues",
+    "author": "Clarence Major",
+    "matchedTitle": "Dirty bird blues",
+    "matchedAuthors": [
+      "Clarence Major"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/6805731-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL24751981M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL24751981M",
+      "title": "Dirty bird blues",
+      "cover_i": 6805731,
+      "publisher": [
+        "Mercury House"
+      ],
+      "publish_date": [
+        "1996"
+      ],
+      "isbn": [
+        "1562790838",
+        "9781562790837"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL15842423W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "9ac2007d49ce",
+    "title": "Heat Wave",
+    "author": "Penelope Lively",
+    "matchedTitle": "Heat wave",
+    "matchedAuthors": [
+      "Penelope Lively"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/7119250-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL997993M",
+    "coverLabel": "Other edition · Open Library",
+    "edition": {
+      "key": "/books/OL997993M",
+      "title": "Heat wave",
+      "cover_i": 7119250,
+      "publisher": [
+        "G.K. Hall"
+      ],
+      "publish_date": [
+        "1997"
+      ],
+      "isbn": [
+        "0783819889",
+        "9780783819884"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1983028W",
+    "match": "Normalized title (catalog parenthetical contents removed) and author match; anonymous titles require matching Penguin-family edition. Automated match; review recommended.",
+    "retrieved": "2026-09-20"
+  },
+  {
+    "id": "25944f21e951",
+    "title": "Letters from a Stoic",
+    "author": "Seneca",
+    "matchedTitle": "Letters from a Stoic.",
+    "matchedAuthors": [
+      "Seneca the Younger"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/103759-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL5725664M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL5725664M",
+      "title": "Letters from a Stoic.",
+      "cover_i": 103759,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1969"
+      ],
+      "isbn": [
+        "0140442103",
+        "9780140442106"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL102290W",
+    "match": "Reviewed title and author identity: Seneca the Younger is Seneca; Penguin edition ISBN 9780140442106.",
+    "retrieved": "2026-09-20"
+  }
+]

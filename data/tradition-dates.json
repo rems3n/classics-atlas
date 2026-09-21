@@ -1,0 +1,432 @@
+{
+  "128c93724417": {
+    "title": "The Memorial Feast for Kökötöy Khan",
+    "author": "Sagymbaĭ Orozbak uulu",
+    "start": 1400,
+    "end": 1800,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Tentative late-medieval to early-modern formation window for the Manas story tradition. The tradition's age is disputed: claims of much earlier origins coexist with arguments for substantial sixteenth–eighteenth-century formation. These rounded bounds are an editorial browsing estimate, not established dates for this episode's first telling. Orozbak uulu's 1920s dictation and the 2022 English edition are later witnesses, not the oral story's origin.",
+    "sources": [
+      "https://penguinrandomhousehighereducation.com/book/?isbn=9780241544211",
+      "https://en.wikipedia.org/wiki/Epic_of_Manas"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1922,
+      "end": 1926,
+      "label": "Orozbak uulu's recorded performance"
+    },
+    "dateLayers": [
+      {
+        "title": "Manas / Kökötöy oral tradition",
+        "start": 1400,
+        "end": 1800,
+        "note": "Broad, disputed formation estimate. Individual motifs may be older; no exact medieval composition date is known.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Epic_of_Manas"
+        ]
+      }
+    ]
+  },
+  "5739e0183ff5": {
+    "title": "African Myths of Origin",
+    "author": "Various / unverified",
+    "start": -2400,
+    "end": 1800,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Mixed-age collection, not a work composed in 1800–1970. The displayed span is a broad editorial envelope from ancient Egyptian mythic traditions to later African kingdom traditions. Its endpoints do not date every story or imply continuous composition. Individual traditions are separated below; oral first tellings that cannot responsibly be dated remain explicitly uncertain. The ancient endpoint uses Egyptian mythological attestations as context, not a verified date for every Egyptian story selected by Belcher.",
+    "sources": [
+      "https://penguinrandomhousehighereducation.com/book/?isbn=9780140449457",
+      "https://en.wikipedia.org/wiki/Egyptian_mythology",
+      "https://en.wikipedia.org/wiki/Epic_of_Sundiata",
+      "https://en.wikipedia.org/wiki/Kebra_Nagast"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1800,
+      "end": 1970,
+      "label": "Former documentary / collection window"
+    },
+    "dateLayers": [
+      {
+        "title": "Egyptian stories (chapter 20): ancient mythic background",
+        "start": -2400,
+        "end": -500,
+        "note": "Approximate background window: Egyptian mythic narratives are attested from the Pyramid Texts onward. This is a tradition-level anchor, not a dating of each selected tale.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Egyptian_mythology"
+        ]
+      },
+      {
+        "title": "Ethiopian royal legends (chapter 21): medieval literary context",
+        "start": 1200,
+        "end": 1400,
+        "note": "Approximate medieval context for Solomonic legends, including the Kebra Nagast tradition; the purported age of Solomon is not the composition date. The exact selected-story lineage has not been established.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kebra_Nagast"
+        ]
+      },
+      {
+        "title": "Maninka / Mali origin stories (chapter 64)",
+        "start": 1250,
+        "end": 1500,
+        "note": "Tentative early formation window for the Sunjata-related dynastic tradition after the thirteenth-century foundation of Mali; a historical-context inference, not a surviving medieval transcript.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Epic_of_Sundiata"
+        ]
+      },
+      {
+        "title": "Kingdom and people origin traditions",
+        "start": 1400,
+        "end": 1800,
+        "note": "Very broad contextual estimate for later dynastic narrative layers, including Kongo and Dahomey sections. Stories may preserve older motifs; kingdom dates do not establish first tellings.",
+        "sources": [
+          "https://penguinrandomhousehighereducation.com/book/?isbn=9780140449457"
+        ]
+      },
+      {
+        "title": "Hunter, cattle and trickster traditions",
+        "start": null,
+        "end": null,
+        "note": "Long-transmitted oral material, including San, Eshu, Legba and Ananse traditions. No defensible single origin year or bounded range was established. These stories are not being dated to nineteenth-century collecting.",
+        "sources": [
+          "https://penguinrandomhousehighereducation.com/book/?isbn=9780140449457"
+        ]
+      }
+    ]
+  },
+  "d53db4ac93e9": {
+    "title": "Sunjata",
+    "author": "Bamba Suso and Banna Kanute",
+    "start": 1250,
+    "end": 1500,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Tentative early formation of the Sunjata dynastic epic after the thirteenth-century Mali founder. The upper bound is an editorial allowance for generations of oral development, not a dated manuscript. Modern performances by Suso and Kanute preserve a changing tradition; their recording date does not date its origin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Epic_of_Sundiata",
+      "https://books.google.com/books/about/Sunjata.html?id=2WigLXZgGnQC"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1900,
+      "end": 1999,
+      "dateConfidence": "estimated",
+      "label": "Modern performances (century only; exact recording dates not verified)"
+    },
+    "dateLayers": []
+  },
+  "eac8fb6b7a35": {
+    "title": "The Book of Dede Korkut",
+    "author": "Various / unverified",
+    "start": 800,
+    "end": 1400,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Broad origin-and-development range for the Oghuz oral stories, with early layers commonly connected to the ninth–tenth centuries and recognisable versions developed by the thirteenth–fourteenth centuries. Scholars differ on these layers. Fifteenth–sixteenth-century manuscripts are later witnesses, not the beginning of the entire tradition.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Book_of_Dede_Korkut"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1400,
+      "end": 1600,
+      "label": "Written compilation / surviving manuscript tradition"
+    },
+    "dateLayers": [
+      {
+        "title": "Bamsı Beyrek / Alpamysh-related narrative",
+        "start": 800,
+        "end": 1300,
+        "note": "Approximate early Oghuz oral background; the relationship does not establish an exact first-telling date.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Book_of_Dede_Korkut"
+        ]
+      },
+      {
+        "title": "Basat and Tepegöz",
+        "start": 1200,
+        "end": 1340,
+        "note": "An associated story is attested in an early-fourteenth-century Arabic history. Earlier oral origins are possible.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Book_of_Dede_Korkut"
+        ]
+      }
+    ]
+  },
+  "fec052ffd12e": {
+    "title": "Italian Folktales",
+    "author": "Italo Calvino",
+    "start": 1500,
+    "end": 1850,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Tentative early-modern to pre-collection Italian tale-tradition window, informed by the written fairy-tale lineages of Straparola and Basile and later regional oral traditions. Not a claim that every tale began after 1500 or before 1850: first tellings are generally unknown. Calvino's 1956 literary compilation is retained separately.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Italian_Folktales",
+      "https://en.wikipedia.org/wiki/Cinderella",
+      "https://en.wikipedia.org/wiki/Sleeping_Beauty"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1956,
+      "end": 1956,
+      "label": "Calvino's modern compilation"
+    },
+    "dateLayers": []
+  },
+  "b3cc5d2d1712": {
+    "title": "Selected Tales",
+    "author": "Jacob and Wilhelm Grimm",
+    "start": 1300,
+    "end": 1800,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Broad editorial window for medieval and early-modern antecedents of the Grimms' tale traditions, rather than their 1812–1857 editions. The dating varies by tale and does not establish a first telling for each selected story. No prehistoric date is inferred merely from a recurring motif.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales",
+      "https://en.wikipedia.org/wiki/Sleeping_Beauty",
+      "https://en.wikipedia.org/wiki/Cinderella"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1812,
+      "end": 1857,
+      "label": "Grimm collection editions / revisions"
+    },
+    "dateLayers": []
+  },
+  "169c469a20fc": {
+    "title": "Little Red Riding Hood, Cinderella, and Other Classic Fairy Tales",
+    "author": "Charles Perrault",
+    "start": 1300,
+    "end": 1697,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Approximate window for recoverable medieval and early-modern tale antecedents through Perrault's versions. Some motifs and international parallels are much older, but resemblance alone does not date the French tale. The individual examples below are attestations and antecedents, not exact oral birth dates.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_pass%C3%A9",
+      "https://en.wikipedia.org/wiki/Sleeping_Beauty",
+      "https://en.wikipedia.org/wiki/Cinderella"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1694,
+      "end": 1697,
+      "label": "Perrault's verse and prose versions"
+    },
+    "dateLayers": [
+      {
+        "title": "Sleeping Beauty antecedents",
+        "start": 1330,
+        "end": 1636,
+        "note": "Medieval Perceforest precursor and Basile's seventeenth-century version precede Perrault.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sleeping_Beauty"
+        ]
+      },
+      {
+        "title": "Cinderella: European literary lineage",
+        "start": 1634,
+        "end": 1697,
+        "note": "Basile's European prose version precedes Perrault. Older Egyptian and Chinese analogues do not establish when this specific European lineage began.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Cinderella"
+        ]
+      },
+      {
+        "title": "Little Red Riding Hood",
+        "start": null,
+        "end": null,
+        "note": "Earlier oral circulation is likely, but an exact origin range for Perrault's specific story is not established here.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_pass%C3%A9"
+        ]
+      }
+    ]
+  },
+  "c89eee717bd1": {
+    "title": "Tales of the Greek Heroes",
+    "author": "Roger Lancelyn Green",
+    "start": -800,
+    "end": -100,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Broad ancient Greek literary-tradition window for the heroic myths retold by Roger Lancelyn Green. Earlier oral roots cannot be dated individually here. The 1958 retelling is modern; the timeline follows the source stories.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Greek_mythology",
+      "https://en.wikipedia.org/wiki/Roger_Lancelyn_Green"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1958,
+      "end": 1958,
+      "label": "Green's modern retelling"
+    },
+    "dateLayers": []
+  },
+  "5f3f78b22fef": {
+    "title": "The Ramayana: A Shortened Modern Prose Version",
+    "author": "R. K. Narayan",
+    "start": -750,
+    "end": -400,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Approximate proposed early formation range of the Rama narrative, encompassing differing scholarly dates for its oldest layers. Narayan's modern prose retelling draws especially on the medieval Tamil Ramayana; neither that adaptation nor the 1972 publication is the origin of the Rama story.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ramayana"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1972,
+      "end": 1972,
+      "label": "Narayan's modern retelling"
+    },
+    "dateLayers": [
+      {
+        "title": "Early Rama / Sanskrit epic tradition",
+        "start": -750,
+        "end": -400,
+        "note": "Approximate disputed early composition range; later books and redactions continued to develop.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ramayana"
+        ]
+      },
+      {
+        "title": "Kamban's Tamil Ramayana",
+        "start": 1100,
+        "end": 1200,
+        "note": "Medieval source adaptation important to Narayan's retelling, not the origin of the Rama narrative.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ramavataram"
+        ]
+      }
+    ]
+  },
+  "19f49019b4fb": {
+    "title": "Rama the Steadfast",
+    "author": "Valmiki",
+    "start": -750,
+    "end": -400,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Approximate proposed early formation of the Rama narrative. Scholars differ between an early first-millennium-BC oral core and fifth–fourth-century-BC formation; later written redaction is separate. This dates the source tradition rather than a modern translation.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ramayana"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": -500,
+      "end": 100,
+      "label": "Previously used Sanskrit composition / redaction span"
+    },
+    "dateLayers": []
+  },
+  "811806c7cd44": {
+    "title": "The Acts of King Arthur and His Noble Knights",
+    "author": "John Steinbeck",
+    "start": 1100,
+    "end": 1485,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Medieval Arthurian romance tradition underlying Steinbeck's adaptation, from twelfth-century literary development to Malory. This does not use the purported fifth–sixth-century life of Arthur as a composition date. Steinbeck's posthumous 1976 publication is retained separately.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Acts_of_King_Arthur_and_His_Noble_Knights",
+      "https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1976,
+      "end": 1976,
+      "label": "Steinbeck's modern adaptation publication"
+    },
+    "dateLayers": []
+  },
+  "42615f87d0f2": {
+    "title": "Barlaam and Josaphat: A Christian Tale of the Buddha",
+    "author": "Gui de Cambrai",
+    "start": 100,
+    "end": 1000,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Source narrative develops from Buddhist life-story traditions dated to the second–fourth centuries through Arabic transmission and tenth-century Christian adaptation. Gui de Cambrai's thirteenth-century French poem is a later version; these are story-lineage dates, not dates for his French wording.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barlaam_and_Josaphat"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1200,
+      "end": 1230,
+      "label": "Gui de Cambrai's French version"
+    },
+    "dateLayers": [
+      {
+        "title": "Buddhist narrative source",
+        "start": 100,
+        "end": 400,
+        "note": "Approximate date of the Sanskrit source tradition identified in scholarship.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Barlaam_and_Josaphat"
+        ]
+      },
+      {
+        "title": "Arabic Bilawhar and Budhasaf",
+        "start": 700,
+        "end": 800,
+        "note": "Eighth-century transmission stage, not a modern translation.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Barlaam_and_Josaphat"
+        ]
+      },
+      {
+        "title": "Georgian Christian adaptation",
+        "start": 900,
+        "end": 1000,
+        "note": "Tenth-century Christian form precedes the later European versions.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Barlaam_and_Josaphat"
+        ]
+      }
+    ]
+  },
+  "e901e9586485": {
+    "title": "The Classic of Mountains and Seas",
+    "author": "Various / unverified",
+    "start": -400,
+    "end": -100,
+    "kind": "story origins / tradition",
+    "confidence": "estimated",
+    "note": "Estimated formation from fourth-century-BC early versions through early Han compilation. Replaces a falsely precise single year of 124 BC; this dates recoverable textual development, with oral mythic roots potentially older.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Classic_of_Mountains_and_Seas"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": -124,
+      "end": -124,
+      "label": "Previously imported single-year assignment"
+    },
+    "dateLayers": []
+  },
+  "6e2a9a2351ee": {
+    "title": "Strange Tales From a Chinese Studio",
+    "author": "Pu Songling",
+    "start": 1670,
+    "end": 1714,
+    "kind": "original composition",
+    "confidence": "estimated",
+    "note": "Pu Songling composed and revised these stories from the early 1670s to the early eighteenth century; the 1766 first print edition is posthumous. Older folklore influenced the stories, but does not date Pu's individual literary inventions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Strange_Tales_from_a_Chinese_Studio"
+    ],
+    "reviewed": "2026-09-19",
+    "textDate": {
+      "start": 1766,
+      "end": 1766,
+      "label": "First printed edition"
+    },
+    "dateLayers": []
+  }
+}

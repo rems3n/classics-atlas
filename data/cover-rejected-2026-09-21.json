@@ -1,0 +1,327 @@
+[
+  {
+    "id": "21777cbb145e",
+    "title": "The Mahābhārata (abridged)",
+    "author": "Various / unverified",
+    "matchedTitle": "The Mahabharata: Volume 2",
+    "matchedAuthors": [
+      "Bibek Debroy"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/15241440-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL34758431M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL34758431M",
+      "title": "The Mahabharata: Volume 2",
+      "cover_i": 15241440,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "2015"
+      ],
+      "isbn": [
+        "9780143425151",
+        "0143425153"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL24473277W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Volume 2 of a multi-volume translation, not the catalog abridgment."
+  },
+  {
+    "id": "8fd8dcd4dc74",
+    "title": "Guide to Greece: Volume 2, Southern Greece",
+    "author": "Pausanias",
+    "matchedTitle": "Guide to Greece",
+    "matchedAuthors": [
+      "Pausanias"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/11500869-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL21278305M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL21278305M",
+      "title": "Guide to Greece",
+      "cover_i": 11500869,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "1979"
+      ],
+      "isbn": [
+        "0140442251",
+        "9780140442250"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL10719804W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Candidate is the Central Greece volume; this record requires Southern Greece."
+  },
+  {
+    "id": "34321867f6d2",
+    "title": "The Koran: With Parallel Arabic Text",
+    "author": "Various / unverified",
+    "matchedTitle": "The Koran (Penguin Classics)",
+    "matchedAuthors": [
+      "Anonymous"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/104349-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7355483M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7355483M",
+      "title": "The Koran (Penguin Classics)",
+      "cover_i": 104349,
+      "publisher": [
+        "Penguin Classics"
+      ],
+      "publish_date": [
+        "September 28, 2004"
+      ],
+      "isbn": [
+        "9780140449204",
+        "0140449205"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL264506W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Parallel Arabic text not established for the candidate edition."
+  },
+  {
+    "id": "6aa0fe2b1684",
+    "title": "Beowulf: A Glossed Text",
+    "author": "Various / unverified",
+    "matchedTitle": "Beowulf",
+    "matchedAuthors": [
+      "Rosemary Sutcliff"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13351528-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28507167M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL28507167M",
+      "title": "Beowulf",
+      "cover_i": 13351528,
+      "publisher": [
+        "Penguin Random House"
+      ],
+      "publish_date": [
+        "2014"
+      ],
+      "isbn": [
+        "9781849417914",
+        "1849417911"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1417708W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Rosemary Sutcliff retelling, not the glossed original-language text."
+  },
+  {
+    "id": "d46d0dcd6bd1",
+    "title": "Beowulf: A Prose Translation",
+    "author": "Various / unverified",
+    "matchedTitle": "Beowulf",
+    "matchedAuthors": [
+      "Rosemary Sutcliff"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13351528-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28507167M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL28507167M",
+      "title": "Beowulf",
+      "cover_i": 13351528,
+      "publisher": [
+        "Penguin Random House"
+      ],
+      "publish_date": [
+        "2014"
+      ],
+      "isbn": [
+        "9781849417914",
+        "1849417911"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1417708W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Rosemary Sutcliff retelling, not the catalog prose translation."
+  },
+  {
+    "id": "7e1cca7d61c1",
+    "title": "Beowulf: A Verse Translation",
+    "author": "Various / unverified",
+    "matchedTitle": "Beowulf",
+    "matchedAuthors": [
+      "Rosemary Sutcliff"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/13351528-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL28507167M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL28507167M",
+      "title": "Beowulf",
+      "cover_i": 13351528,
+      "publisher": [
+        "Penguin Random House"
+      ],
+      "publish_date": [
+        "2014"
+      ],
+      "isbn": [
+        "9781849417914",
+        "1849417911"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1417708W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Rosemary Sutcliff retelling, not the catalog verse translation."
+  },
+  {
+    "id": "f2568034a86d",
+    "title": "The Canterbury Tales: The First Fragment",
+    "author": "Geoffrey Chaucer",
+    "matchedTitle": "The Canterbury Tales",
+    "matchedAuthors": [
+      "Geoffrey Chaucer",
+      "John E. Cunningham",
+      "Peter Ackroyd",
+      "Ted Stearn",
+      "V. A. Kolve",
+      "Glending Olson"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/8329908-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL19717213M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL19717213M",
+      "title": "The Canterbury Tales",
+      "cover_i": 8329908,
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [
+        "2003"
+      ],
+      "isbn": [
+        "9780140424386",
+        "0140424385"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL531767W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Nevill Coghill general translation, not specifically The First Fragment."
+  },
+  {
+    "id": "e01f5dee35e4",
+    "title": "Peter Pan: Peter and Wendy and Peter Pan in Kensington Gardens",
+    "author": "J. M. Barrie",
+    "matchedTitle": "Peter Pan",
+    "matchedAuthors": [
+      "J. M. Barrie"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/10560400-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL29121515M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL29121515M",
+      "title": "Peter Pan",
+      "cover_i": 10560400,
+      "publisher": [
+        "Penguin Books, Limited"
+      ],
+      "publish_date": [
+        "2012"
+      ],
+      "isbn": [
+        "9781409312222",
+        "1409312224"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL462007W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Candidate does not establish inclusion of both Peter and Wendy and Kensington Gardens."
+  },
+  {
+    "id": "412456cb6a4c",
+    "title": "In Search of Lost Time: In the Shadow of Young Girls in Flower",
+    "author": "Marcel Proust",
+    "matchedTitle": "In Search of Lost Time",
+    "matchedAuthors": [
+      "Marcel Proust"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/106370-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7357890M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7357890M",
+      "title": "In Search of Lost Time",
+      "cover_i": 106370,
+      "publisher": [
+        "Penguin Books Ltd"
+      ],
+      "publish_date": [
+        "October 2, 2003"
+      ],
+      "isbn": [
+        "9780140911169",
+        "0140911162"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1190289W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Generic multi-volume record does not establish In the Shadow of Young Girls in Flower."
+  },
+  {
+    "id": "2f3025ca13d0",
+    "title": "In Search of Lost Time: The Guernmantes Way",
+    "author": "Marcel Proust",
+    "matchedTitle": "In Search of Lost Time",
+    "matchedAuthors": [
+      "Marcel Proust"
+    ],
+    "cover": "https://covers.openlibrary.org/b/id/106370-M.jpg?default=false",
+    "coverSource": "https://openlibrary.org/books/OL7357890M",
+    "coverLabel": "Penguin-family edition",
+    "edition": {
+      "key": "/books/OL7357890M",
+      "title": "In Search of Lost Time",
+      "cover_i": 106370,
+      "publisher": [
+        "Penguin Books Ltd"
+      ],
+      "publish_date": [
+        "October 2, 2003"
+      ],
+      "isbn": [
+        "9780140911169",
+        "0140911162"
+      ]
+    },
+    "workSource": "https://openlibrary.org/works/OL1190289W",
+    "match": "Matching main title and author in a Penguin-published edition; catalog subtitle/contents normalized. Unattributed catalog entries matched on title and publisher. Metadata reviewed; artwork may vary by printing.",
+    "retrieved": "2026-09-21",
+    "decision": "rejected",
+    "reason": "Generic multi-volume record does not establish The Guermantes Way."
+  }
+]

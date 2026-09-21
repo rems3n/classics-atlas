@@ -1,7 +1,3 @@
-# Current geography policy
-
-All 1,479 works are mapped. The default uses author origin or original literary/source region. Broader life and work associations are separately selectable. See GEOGRAPHY_QA.md for the latest review; the historic fallback audit below is retained for provenance.
-
 # Geographic mapping audit
 
 Every catalog work has at least one modern-country or territory association. Previously documented residence/work associations are retained. Remaining works use author origin or birthplace first, then documented career, original literary tradition, or representative anthology source regions. Translators are not substituted for original authors. Approximate and disputed choices are explained below.

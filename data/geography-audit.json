@@ -1,0 +1,5899 @@
+{
+  "screenedWorks": 1479,
+  "changedWorks": 298,
+  "sourceBackedWorks": 1262,
+  "retainedFallbackWorks": 217,
+  "changes": [
+    {
+      "id": "fb7e29349db1",
+      "title": "The Absentee",
+      "author": "Maria Edgeworth",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Black Bourton, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c7d7c7e2410d",
+      "title": "According to Mark",
+      "author": "Penelope Lively",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "EGY"
+      ],
+      "reason": "Birthplace recorded as Cairo, Egypt. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3eca5cfc8932",
+      "title": "The Actual",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "a908d5588dd0",
+      "title": "Adolphe",
+      "author": "Benjamin Constant",
+      "before": [
+        "FRA"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Birthplace recorded as Lausanne, Swiss Confederacy. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "cdd82065ce22",
+      "title": "The Adventures of Augie March",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c92870b2115a",
+      "title": "Against Nature",
+      "author": "Joris-Karl Huysmans",
+      "before": [
+        "NLD"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Born and worked in Paris, France. Visits to the Netherlands do not establish Dutch origin."
+    },
+    {
+      "id": "e245d66f8f0b",
+      "title": "Against Sainte-Beuve and Other Essays",
+      "author": "Marcel Proust",
+      "before": [
+        "FRA",
+        "NLD"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "630377df38fe",
+      "title": "The Ambassadors",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c78260b2be5a",
+      "title": "The American",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "85bb3aef3122",
+      "title": "America is in the Heart",
+      "author": "Carlos Bulosan",
+      "before": [
+        "USA",
+        "PHL"
+      ],
+      "after": [
+        "PHL"
+      ],
+      "reason": "Born at Binalonan, Pangasinan, Philippines; later wrote in the United States."
+    },
+    {
+      "id": "5543edc7f92d",
+      "title": "Angle of Repose",
+      "author": "Wallace Stegner",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Lake Mills, Iowa, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "bd4ed01727d3",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "before": [
+        "GBR",
+        "FRA",
+        "IND"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born at Motihari, Bihar, in present-day India; British literary identity and later career are separate associations."
+    },
+    {
+      "id": "a4256981b743",
+      "title": "The Anti-Christ",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "b7ee6a79a9b8",
+      "title": "Apologia Pro Vita Sua",
+      "author": "John Henry Newman",
+      "before": [
+        "GBR",
+        "ITA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6ca8fcdace0e",
+      "title": "Arabian Sands",
+      "author": "Wilfred Thesiger",
+      "before": [
+        "ETH",
+        "GBR"
+      ],
+      "after": [
+        "ETH"
+      ],
+      "reason": "Birthplace recorded as Addis Ababa, Ethiopian Empire. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "10519270fe09",
+      "title": "The Aspern Papers",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "494c01dd0f6a",
+      "title": "The Athenian Constitution",
+      "author": "Aristotle",
+      "before": [
+        "GRC",
+        "TUR"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Born in Stagira, now Greece; later taught in Athens and elsewhere."
+    },
+    {
+      "id": "91caa67bb0c2",
+      "title": "Autobiography",
+      "author": "Benvenuto Cellini",
+      "before": [
+        "ITA",
+        "FRA"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Born in Florence, now Italy; later worked in France."
+    },
+    {
+      "id": "ccc0741d9023",
+      "title": "The Awkward Age",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6203c5029b81",
+      "title": "The Bell",
+      "author": "Iris Murdoch",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "65f54aff62d7",
+      "title": "Between Past and Future",
+      "author": "Hannah Arendt",
+      "before": [
+        "DEU",
+        "USA",
+        "RUS"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Linden, now Hanover, Germany; later lived in France and the United States. Königsberg childhood is a modern Russian association, not her birthplace."
+    },
+    {
+      "id": "322686831551",
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "a786839843e4",
+      "title": "The Birth of Tragedy",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "177eb85b5606",
+      "title": "The Black Prince",
+      "author": "Iris Murdoch",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "62418546d1ce",
+      "title": "Blood, Toil, Tears and Sweat: The Great Speeches",
+      "author": "Winston Churchill",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Blenheim, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "dc146fb00a36",
+      "title": "The Book of the City of Ladies",
+      "author": "Christine de Pizan",
+      "before": [
+        "FRA",
+        "ITA"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Born in Venice; raised and wrote in France."
+    },
+    {
+      "id": "63825bfa4628",
+      "title": "The Bostonians",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "fac456afd414",
+      "title": "Brand",
+      "author": "Henrik Ibsen",
+      "before": [
+        "NOR",
+        "DNK",
+        "DEU",
+        "ITA",
+        "SWE",
+        "AUT",
+        "HUN"
+      ],
+      "after": [
+        "NOR"
+      ],
+      "reason": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3c2a59edf738",
+      "title": "Brighton Rock",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "cdf6f418a5dd",
+      "title": "Brigitta and Other Tales",
+      "author": "Adalbert Stifter",
+      "before": [
+        "CZE",
+        "AUT"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Oberplan (Horní Planá), now Czechia; Austrian literary career."
+    },
+    {
+      "id": "879ea52c2f96",
+      "title": "A Burnt-Out Case",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "43629e14d336",
+      "title": "By the Open Sea",
+      "author": "August Strindberg",
+      "before": [
+        "SWE",
+        "DEU"
+      ],
+      "after": [
+        "SWE"
+      ],
+      "reason": "Birthplace recorded as Stockholm, Sweden. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "b7bb29d4f3ee",
+      "title": "The Campaigns of Alexander",
+      "author": "Arrian",
+      "before": [
+        "TUR",
+        "GRC"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Born in Nicomedia, modern İzmit, Turkey; a Greek-speaking Roman author."
+    },
+    {
+      "id": "e643fdb0eecc",
+      "title": "Candide",
+      "author": "Voltaire",
+      "before": [
+        "FRA",
+        "CHE"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "cb442ff4e739",
+      "title": "Capital, Volume I; Capital, Volume II; and Capital, Volume III",
+      "author": "Karl Marx",
+      "before": [
+        "GBR",
+        "DEU",
+        "FRA",
+        "BEL"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Trier, now Germany; later lived in Paris, Brussels and London."
+    },
+    {
+      "id": "bd2bc08f7455",
+      "title": "Captain Blood",
+      "author": "Rafael Sabatini",
+      "before": [
+        "ITA",
+        "GBR"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Birthplace recorded as Jesi, Kingdom of Italy. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "28764b6c7cfd",
+      "title": "Captains Courageous",
+      "author": "Rudyard Kipling3",
+      "before": [
+        "IND",
+        "GBR"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born in Bombay (Mumbai), present-day India; later worked in Britain and elsewhere."
+    },
+    {
+      "id": "1d5b8d1989ff",
+      "title": "Castle Rackrent",
+      "author": "Maria Edgeworth",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Black Bourton, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "ae5a01678cc6",
+      "title": "La Celestina (The Spanish Bawd)",
+      "author": "Fernando de Rojas",
+      "before": [
+        "FRA"
+      ],
+      "after": [
+        "ESP"
+      ],
+      "reason": "Born at La Puebla de Montalbán and worked in Talavera de la Reina, Spain. The imported Kingdom of France association was erroneous."
+    },
+    {
+      "id": "01535c081bb6",
+      "title": "Chance",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "f3de4a253b6d",
+      "title": "Charlotte Temple and Lucy Temple",
+      "author": "Susanna Rowson",
+      "before": [
+        "GBR",
+        "USA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Portsmouth, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "771c64dcb6ef",
+      "title": "Chattering Courtesans and Other Sardonic Sketches",
+      "author": "Lucian",
+      "before": [
+        "TUR",
+        "GRC"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Born at Samosata, now in Turkey; Roman Syria is not equivalent to modern Syria."
+    },
+    {
+      "id": "14c8c4001a8a",
+      "title": "Chess",
+      "author": "Stefan Zweig",
+      "before": [
+        "AUT",
+        "DEU",
+        "BRA"
+      ],
+      "after": [
+        "AUT"
+      ],
+      "reason": "Birthplace recorded as Vienna, Austria-Hungary (present-day Austria). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "343de9a60718",
+      "title": "Collected Stories",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "113ef9525ce7",
+      "title": "Collected Stories",
+      "author": "Vladimir Nabokov",
+      "before": [
+        "CHE",
+        "USA",
+        "RUS",
+        "DEU",
+        "FRA",
+        "ITA",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Saint Petersburg, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6f95a6702076",
+      "title": "The Comedians",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "b19faa25aca3",
+      "title": "The Comedies: Adelphoe, Andria, Eunuchus, Heauton Timorumenos, Hecyra and Phormio",
+      "author": "Terence",
+      "before": [
+        "ITA"
+      ],
+      "after": [
+        "TUN"
+      ],
+      "reason": "Traditionally born in Carthage, now Tunisia; enslaved and later a playwright in Rome. Biographical details are uncertain."
+    },
+    {
+      "id": "f2fe9631a558",
+      "title": "Common Sense",
+      "author": "Thomas Paine",
+      "before": [
+        "FRA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Thetford, Norfolk, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d9a0764e0ad9",
+      "title": "The Complete Poems",
+      "author": "John Keats",
+      "before": [
+        "GBR",
+        "IRL",
+        "ITA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Moorgate, London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "47d9b3dfbda4",
+      "title": "The Complete Poems",
+      "author": "Jean-Jacques Rousseau",
+      "before": [
+        "ITA",
+        "GBR"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Born in Geneva, now Switzerland; later residences belong in the broader association view."
+    },
+    {
+      "id": "bb4767b948c2",
+      "title": "Complete Short Fiction",
+      "author": "Oscar Wilde",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "caef19b97973",
+      "title": "Complete Short Stories",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "93f9da9706a1",
+      "title": "Complete Writings",
+      "author": "Phillis Wheatley",
+      "before": [
+        "USA"
+      ],
+      "after": [
+        "SEN",
+        "GMB"
+      ],
+      "reason": "Born in West Africa, possibly present-day Senegal or Gambia; the exact birthplace is unknown. These regions are an approximate source-region range, not a verified country. Later wrote in Boston."
+    },
+    {
+      "id": "bd22b26b5cac",
+      "title": "The Confessions",
+      "author": "Jean-Jacques Rousseau",
+      "before": [
+        "ITA",
+        "GBR"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Born in Geneva, now Switzerland; later residences belong in the broader association view."
+    },
+    {
+      "id": "0a19bd6471e8",
+      "title": "The Curious Case of Benjamin Button and Other Jazz Age Stories",
+      "author": "F. Scott Fitzgerald",
+      "before": [
+        "USA",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Saint Paul, Minnesota, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "943b58206ac9",
+      "title": "Daisy Miller",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "2fc5faca8cf3",
+      "title": "D'Alembert's Dream",
+      "author": "Denis Diderot",
+      "before": [
+        "FRA",
+        "RUS"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Langres, Champagne, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d855418e810a",
+      "title": "The Damned",
+      "author": "Joris-Karl Huysmans",
+      "before": [
+        "NLD"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Born and worked in Paris, France. Visits to the Netherlands do not establish Dutch origin."
+    },
+    {
+      "id": "c1bce13c5db4",
+      "title": "Dangling Man",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "15f247357b17",
+      "title": "De Anima",
+      "author": "Aristotle",
+      "before": [
+        "GRC",
+        "TUR"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Born in Stagira, now Greece; later taught in Athens and elsewhere."
+    },
+    {
+      "id": "5d401970d991",
+      "title": "De Profundis and Other Writings",
+      "author": "Oscar Wilde",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3a062d64d5b0",
+      "title": "A Dead Man's Memoir (A Theatrical Novel)",
+      "author": "Mikhail Bulgakov",
+      "before": [
+        "UKR",
+        "RUS"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born in Kyiv, now Ukraine; later worked in Russia."
+    },
+    {
+      "id": "33304c0645f5",
+      "title": "Dead Souls",
+      "author": "Nikolai Gogol",
+      "before": [
+        "UKR",
+        "RUS"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Birthplace recorded as Sorochyntsi, Russian Empire (now in Ukraine). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "eb512c66075d",
+      "title": "The Dean's December",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0ff524e5acd8",
+      "title": "Death in Venice and Other Tales",
+      "author": "Thomas Mann",
+      "before": [
+        "DEU",
+        "USA"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Lübeck, Germany; later lived in Switzerland and the United States."
+    },
+    {
+      "id": "2bc8460730d3",
+      "title": "Despair",
+      "author": "Vladimir Nabokov",
+      "before": [
+        "CHE",
+        "USA",
+        "RUS",
+        "DEU",
+        "FRA",
+        "ITA",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Saint Petersburg, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9c3c21ae4438",
+      "title": "Diary of a Madman and Other Stories",
+      "author": "Nikolai Gogol",
+      "before": [
+        "UKR",
+        "RUS"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Birthplace recorded as Sorochyntsi, Russian Empire (now in Ukraine). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "eecef5dbba97",
+      "title": "Discourse on Inequality",
+      "author": "Jean-Jacques Rousseau",
+      "before": [
+        "ITA",
+        "GBR"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Born in Geneva, now Switzerland; later residences belong in the broader association view."
+    },
+    {
+      "id": "4f35a469a1ce",
+      "title": "Discourse on Method and Related Writings",
+      "author": "René Descartes",
+      "before": [
+        "FRA",
+        "SWE"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as La Haye-en-Touraine, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "01fdb5548e48",
+      "title": "Discourses",
+      "author": "Epictetus",
+      "before": [
+        "TUR",
+        "GRC"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Traditionally born at Hierapolis, near Pamukkale in modern Turkey; later taught in Greece."
+    },
+    {
+      "id": "be6633a58722",
+      "title": "A Dog's Heart",
+      "author": "Mikhail Bulgakov",
+      "before": [
+        "UKR",
+        "RUS"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born in Kyiv, now Ukraine; later worked in Russia."
+    },
+    {
+      "id": "d67de406497d",
+      "title": "A Doll's House and Other Plays (The League of Youth, The Lady From the Sea)",
+      "author": "Henrik Ibsen",
+      "before": [
+        "NOR",
+        "DNK",
+        "DEU",
+        "ITA",
+        "SWE",
+        "AUT",
+        "HUN"
+      ],
+      "after": [
+        "NOR"
+      ],
+      "reason": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "a8a58e533ef8",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Clontarf, Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "ac45f41d471c",
+      "title": "Early Writings",
+      "author": "Karl Marx",
+      "before": [
+        "GBR",
+        "DEU",
+        "FRA",
+        "BEL"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Trier, now Germany; later lived in Paris, Brussels and London."
+    },
+    {
+      "id": "b4ff98bd66a5",
+      "title": "Ecce Homo",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "7b7b554d96ef",
+      "title": "Eichmann in Jerusalem",
+      "author": "Hannah Arendt3",
+      "before": [
+        "USA",
+        "DEU"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Linden, now Hanover, Germany; later lived in France and the United States. Königsberg childhood is a modern Russian association, not her birthplace."
+    },
+    {
+      "id": "5014b780d770",
+      "title": "Either/Or",
+      "author": "Søren Kierkegaard",
+      "before": [
+        "DNK",
+        "DEU"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Copenhagen, Denmark, Denmark–Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "1f19969d2ae1",
+      "title": "The End of the Affair",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9f166e21b8de",
+      "title": "England Made Me",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6fde88d9cb97",
+      "title": "The Enneads",
+      "author": "Plotinus",
+      "before": [
+        "EGY",
+        "GRC"
+      ],
+      "after": [
+        "EGY"
+      ],
+      "reason": "Birthplace recorded as Asyut or Lycopolis, Egypt, Roman Empire. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0020e5e438d5",
+      "title": "Ennui",
+      "author": "Maria Edgeworth",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Black Bourton, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "f3ff56100add",
+      "title": "The Erotic Poems (including Amores and Ars Amatoria)",
+      "author": "Ovid",
+      "before": [
+        "ROU"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Birthplace recorded as Sulmo, Italy, Roman Republic. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9c20b9624590",
+      "title": "Essays and Aphorisms",
+      "author": "Arthur Schopenhauer",
+      "before": [
+        "POL",
+        "DEU"
+      ],
+      "after": [
+        "POL"
+      ],
+      "reason": "Birthplace recorded as Danzig (Gdańsk), Crown of the Kingdom of Poland, Polish–Lithuanian Commonwealth. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e64514dd4a30",
+      "title": "Eugene Onegin",
+      "author": "Alexander Pushkin",
+      "before": [
+        "RUS",
+        "MDA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Moscow, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "5bc814aa142c",
+      "title": "The Europeans",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "8ca30e3ae45d",
+      "title": "A Fairly Honourable Defeat",
+      "author": "Iris Murdoch",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "db2e657e7e3c",
+      "title": "The Fall of the House of Usher and Other Writings",
+      "author": "Edgar Allan Poe",
+      "before": [
+        "USA",
+        "GBR"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Boston, Massachusetts, US. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "50029eb3e410",
+      "title": "The Fallen Idol",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6c471fcee7f8",
+      "title": "Fasti",
+      "author": "Ovid",
+      "before": [
+        "ROU"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Birthplace recorded as Sulmo, Italy, Roman Republic. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "34eca079ab3a",
+      "title": "Fathers and Sons",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "b755827ea49d",
+      "title": "Fear and Trembling",
+      "author": "Søren Kierkegaard",
+      "before": [
+        "DNK",
+        "DEU"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Copenhagen, Denmark, Denmark–Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0c0da3ca312e",
+      "title": "The Figure in the Carpet and Other Stories",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "29ca7ca4a759",
+      "title": "First Love",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3368bffb05ad",
+      "title": "Four Tragedies",
+      "author": "Seneca",
+      "before": [
+        "FRA",
+        "ITA"
+      ],
+      "after": [
+        "ESP"
+      ],
+      "reason": "Corduba (Córdoba), Spain. Rome was his principal career location; Corsica was a place of exile, not his origin."
+    },
+    {
+      "id": "6c223b5e7b8e",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "before": [
+        "CHE",
+        "GBR"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "702bf6017fa2",
+      "title": "From Here to Eternity",
+      "author": "James Jones",
+      "before": [
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Robinson, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6b910fd020b8",
+      "title": "Ghosts and Other Plays (A Public Enemy and When We Dead Wake)",
+      "author": "Henrik Ibsen",
+      "before": [
+        "NOR",
+        "DNK",
+        "DEU",
+        "ITA",
+        "SWE",
+        "AUT",
+        "HUN"
+      ],
+      "after": [
+        "NOR"
+      ],
+      "reason": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4db7e17ba29e",
+      "title": "Glory",
+      "author": "Vladimir Nabokov",
+      "before": [
+        "CHE",
+        "USA",
+        "RUS",
+        "DEU",
+        "FRA",
+        "ITA",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Saint Petersburg, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d7f565bd0083",
+      "title": "Going to Meet the Man",
+      "author": "James Baldwin",
+      "before": [
+        "FRA",
+        "USA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e90bce3aadc1",
+      "title": "The Golden Bowl",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "f9e917f1fa23",
+      "title": "The Good Apprentice",
+      "author": "Iris Murdoch",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "72c88c228ddc",
+      "title": "The Gospel of Wealth: Essays and Other Writings",
+      "author": "Andrew Carnegie",
+      "before": [
+        "USA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Dunfermline, Fife, Scotland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3eef8ffb5354",
+      "title": "Grundrisse",
+      "author": "Karl Marx",
+      "before": [
+        "GBR",
+        "DEU",
+        "FRA",
+        "BEL"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Trier, now Germany; later lived in Paris, Brussels and London."
+    },
+    {
+      "id": "0cb158b880cc",
+      "title": "Guide to Greece: Volume 1, Central Greece",
+      "author": "Pausanias",
+      "before": [
+        "TUR",
+        "GRC"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Birthplace recorded as Lydia, Asia Minor (modern-day Turkey). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "8fd8dcd4dc74",
+      "title": "Guide to Greece: Volume 2, Southern Greece",
+      "author": "Pausanias",
+      "before": [
+        "TUR",
+        "GRC"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Birthplace recorded as Lydia, Asia Minor (modern-day Turkey). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "fdbf38a64e80",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "de8c0a5646bc",
+      "title": "The Heart of the Matter",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9ac2007d49ce",
+      "title": "Heat Wave",
+      "author": "Penelope Lively",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "EGY"
+      ],
+      "reason": "Birthplace recorded as Cairo, Egypt. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "fce2ae6e2cad",
+      "title": "Hedda Gabler and Other Plays (The Wild Duck and The Pillars of the Community)",
+      "author": "Henrik Ibsen",
+      "before": [
+        "NOR",
+        "DNK",
+        "DEU",
+        "ITA",
+        "SWE",
+        "AUT",
+        "HUN"
+      ],
+      "after": [
+        "NOR"
+      ],
+      "reason": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "a59dd93120af",
+      "title": "Henderson the Rain King",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c389631d3de0",
+      "title": "Her Lover",
+      "author": "Albert Cohen",
+      "before": [
+        "FRA"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Born on Corfu, now Greece; raised in Marseille and later based in Geneva, Switzerland. Geneva must not be assigned to France."
+    },
+    {
+      "id": "aaca43225e2e",
+      "title": "Heroides",
+      "author": "Ovid",
+      "before": [
+        "ROU"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Birthplace recorded as Sulmo, Italy, Roman Republic. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "48fe92ca1b2b",
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4189ecc47731",
+      "title": "The Histories",
+      "author": "Herodotus",
+      "before": [
+        "GRC",
+        "TUR"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Born in Halicarnassus, modern Bodrum, Turkey; Greek literary identity is separate from the modern location."
+    },
+    {
+      "id": "5b537a6cd9a5",
+      "title": "The History of Mary Prince",
+      "author": "Mary Prince",
+      "before": [
+        "BMU",
+        "GBR"
+      ],
+      "after": [
+        "BMU"
+      ],
+      "reason": "Born in Bermuda; later lived in Britain."
+    },
+    {
+      "id": "40a91e430277",
+      "title": "Home of the Gentry",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "1110b16a09cc",
+      "title": "The Hour of the Star",
+      "author": "Clarice Lispector",
+      "before": [
+        "USA",
+        "ITA",
+        "CHE",
+        "BRA"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Birthplace recorded as Chechelnyk, Ukrainian SSR. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "34a504ae17d2",
+      "title": "How the Other Half Lives",
+      "author": "Jacob A. Riis",
+      "before": [
+        "USA"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Ribe, Denmark. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c424a9dc096c",
+      "title": "Humboldt's Gift",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c3d10731a62c",
+      "title": "Hungry Hearts",
+      "author": "Anzia Yezierska",
+      "before": [
+        "POL",
+        "USA"
+      ],
+      "after": [
+        "POL"
+      ],
+      "reason": "Birthplace recorded as Płock, Congress Poland, Russian Empire. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "a05b4aa9e7af",
+      "title": "I Paint What I Want to See",
+      "author": "Philip Guston",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Montreal, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "69e6dc8ffe7d",
+      "title": "Ibn Fadlān and the Land of Darkness: Arab Travellers in the Far North",
+      "author": "Ibn Fadlān",
+      "before": [
+        "RUS"
+      ],
+      "after": [
+        "IRQ"
+      ],
+      "reason": "Baghdad is the documented Abbasid career and departure location; birthplace is uncertain. Volga Bulgaria was the destination of his travels, not an established origin."
+    },
+    {
+      "id": "4a5e26d5d439",
+      "title": "Ice",
+      "author": "Anna Kavan",
+      "before": [
+        "FRA",
+        "GBR"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Cannes, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e23da1426300",
+      "title": "If Beale Street Could Talk",
+      "author": "James Baldwin",
+      "before": [
+        "FRA",
+        "USA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9a578ccb3277",
+      "title": "The Importance of Being Earnest and Other Plays",
+      "author": "Oscar Wilde",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "bd445120d4c8",
+      "title": "In the Land of Time, and Other Fantasy Tales",
+      "author": "Lord Dunsany",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "412456cb6a4c",
+      "title": "In Search of Lost Time: In the Shadow of Young Girls in Flower",
+      "author": "Marcel Proust",
+      "before": [
+        "FRA",
+        "NLD"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "2f3025ca13d0",
+      "title": "In Search of Lost Time: The Guernmantes Way",
+      "author": "Marcel Proust",
+      "before": [
+        "FRA",
+        "NLD"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d92fe851c718",
+      "title": "Inferno and From an Occult Diary",
+      "author": "August Strindberg",
+      "before": [
+        "SWE",
+        "DEU"
+      ],
+      "after": [
+        "SWE"
+      ],
+      "reason": "Birthplace recorded as Stockholm, Sweden. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "11147ed57233",
+      "title": "Into the War",
+      "author": "Italo Calvino",
+      "before": [
+        "CUB",
+        "ITA",
+        "USA",
+        "FRA"
+      ],
+      "after": [
+        "CUB"
+      ],
+      "reason": "Born at Santiago de Las Vegas, Cuba; raised and worked in Italy."
+    },
+    {
+      "id": "2630537eb90f",
+      "title": "The Interesting Narrative and Other Writings",
+      "author": "Olaudah Equiano",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "NGA"
+      ],
+      "reason": "His autobiography identifies an Igbo birthplace in present-day Nigeria. Some surviving records instead suggest South Carolina; the map follows his own account, not a settled birthplace."
+    },
+    {
+      "id": "67cccb8f53d5",
+      "title": "Introductory Lectures on Aesthetics",
+      "author": "Georg Wilhelm Friedrich Hegel",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Stuttgart, now Germany; later worked in Bern, Switzerland, and German cities."
+    },
+    {
+      "id": "fec052ffd12e",
+      "title": "Italian Folktales",
+      "author": "Italo Calvino",
+      "before": [
+        "CUB",
+        "ITA",
+        "USA",
+        "FRA"
+      ],
+      "after": [
+        "CUB"
+      ],
+      "reason": "Born at Santiago de Las Vegas, Cuba; raised and worked in Italy."
+    },
+    {
+      "id": "7fb318392dc4",
+      "title": "Italian Hours",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "8c5071be98e5",
+      "title": "Jacques the Fatalist and His Master",
+      "author": "Denis Diderot",
+      "before": [
+        "FRA",
+        "RUS"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Langres, Champagne, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "b1527170e78e",
+      "title": "Jean Santeuil",
+      "author": "Marcel Proust",
+      "before": [
+        "FRA",
+        "NLD"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "f62ff85faf93",
+      "title": "The Jewish War",
+      "author": "Flavius Josephus",
+      "before": [
+        "ITA"
+      ],
+      "after": [
+        "ISR"
+      ],
+      "reason": "Born in Jerusalem, Roman Judaea; later lived and wrote in Rome. Modern map association is geographic and does not imply ancient nationality."
+    },
+    {
+      "id": "cd3a5580dce5",
+      "title": "The Joke and Its Relation to the Unconscious",
+      "author": "Sigmund Freud",
+      "before": [
+        "AUT",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London."
+    },
+    {
+      "id": "a436f53693b9",
+      "title": "Journey Without Maps",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "84fbf4c63bf3",
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "before": [
+        "IND",
+        "GBR"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born in Bombay (Mumbai), present-day India; later worked in Britain and elsewhere."
+    },
+    {
+      "id": "e38bbb461535",
+      "title": "Just-So Stories",
+      "author": "Rudyard Kipling",
+      "before": [
+        "IND",
+        "GBR"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born in Bombay (Mumbai), present-day India; later worked in Britain and elsewhere."
+    },
+    {
+      "id": "a84309abb134",
+      "title": "Kim",
+      "author": "Rudyard Kipling",
+      "before": [
+        "IND",
+        "GBR"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born in Bombay (Mumbai), present-day India; later worked in Britain and elsewhere."
+    },
+    {
+      "id": "6fc8dfdcba7a",
+      "title": "Kristin Lavransdatter",
+      "author": "Sigrid Undset",
+      "before": [
+        "NOR",
+        "USA"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Kalundborg, Denmark. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "056612d4e8e5",
+      "title": "Kristin Lavransdatter I: The Wreath",
+      "author": "Sigrid Undset",
+      "before": [
+        "NOR",
+        "USA"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Kalundborg, Denmark. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "ca454ad45e0e",
+      "title": "Kristin Lavransdatter II: The Wife",
+      "author": "Sigrid Undset",
+      "before": [
+        "NOR",
+        "USA"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Kalundborg, Denmark. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d5b3f13b4b34",
+      "title": "Kristin Lavransdatter III: The Cross",
+      "author": "Sigrid Undset",
+      "before": [
+        "NOR",
+        "USA"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Kalundborg, Denmark. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0b0d52d63bd9",
+      "title": "The Last Man",
+      "author": "Mary Shelley",
+      "before": [
+        "CHE",
+        "GBR"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "2ff804cb6762",
+      "title": "The Later Roman Empire",
+      "author": "Ammianus Marcellinus",
+      "before": [
+        "TUR",
+        "ITA"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Traditionally associated with Antioch (Antakya, Turkey); birthplace is uncertain. Roman Syria is not modern Syria."
+    },
+    {
+      "id": "30037e3df31b",
+      "title": "A Legacy",
+      "author": "Sybille Bedford",
+      "before": [
+        "GBR",
+        "DEU"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Charlottenburg, Berlin, Germany; later based in Britain."
+    },
+    {
+      "id": "5d9ab78c683f",
+      "title": "Letters from an American Farmer",
+      "author": "J. Hector St.John de Crèvecoeur",
+      "before": [
+        "FRA",
+        "USA"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Caen, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "25944f21e951",
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "before": [
+        "ITA"
+      ],
+      "after": [
+        "ESP"
+      ],
+      "reason": "Corduba (Córdoba), Spain. Rome was his principal career location; Corsica was a place of exile, not his origin."
+    },
+    {
+      "id": "ba4111a62acc",
+      "title": "Letters on England",
+      "author": "Voltaire",
+      "before": [
+        "FRA",
+        "CHE"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "5ac2f0afca70",
+      "title": "The Life and Opinions of the Tomcat Murr",
+      "author": "E. T. A. Hoffmann",
+      "before": [
+        "RUS",
+        "DEU"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Born in Königsberg, now Kaliningrad, Russia; German language and Prussian identity are distinct from the modern location."
+    },
+    {
+      "id": "d2e3fc0a051c",
+      "title": "A Life in Letters",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4813f0805bd9",
+      "title": "A Life in Letters",
+      "author": "Wolfgang Amadeus Mozart",
+      "before": [
+        "AUT",
+        "CZE"
+      ],
+      "after": [
+        "AUT"
+      ],
+      "reason": "Born in Salzburg, now Austria; Prague was a later performance and work location."
+    },
+    {
+      "id": "b1b71265f9db",
+      "title": "Life of Apollonius",
+      "author": "Philostratus",
+      "before": [
+        "GRC",
+        "ITA"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Traditionally associated with Lemnos, Greece; later worked in Rome. Exact birthplace is uncertain."
+    },
+    {
+      "id": "215f55f86a6b",
+      "title": "The Life of St. Columba",
+      "author": "Adomnán of Iona",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as County Donegal, Ulster, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0ebc465a55dd",
+      "title": "A Literary Review",
+      "author": "Søren Kierkegaard",
+      "before": [
+        "DNK",
+        "DEU"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Copenhagen, Denmark, Denmark–Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "53b985b0d2de",
+      "title": "Living My Life",
+      "author": "Emma Goldman",
+      "before": [
+        "USA"
+      ],
+      "after": [
+        "LTU"
+      ],
+      "reason": "Born in Kaunas, now Lithuania; the Russian Empire is not equivalent to modern Russia."
+    },
+    {
+      "id": "c5d737009307",
+      "title": "Lord Jim",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "7b35dd5bd9e8",
+      "title": "The Luck of Roaring Camp and Other Writings",
+      "author": "Bret Harte",
+      "before": [
+        "DEU"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Albany, New York, US. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "b17e10cced8f",
+      "title": "Maldoror and Poems",
+      "author": "Lautréamont",
+      "before": [
+        "URY",
+        "FRA"
+      ],
+      "after": [
+        "URY"
+      ],
+      "reason": "Birthplace recorded as Montevideo, Uruguay. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "cb1689c246e6",
+      "title": "The Man Within",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9e304a086ba5",
+      "title": "The Manifesto of the Communist Party",
+      "author": "Karl Marx and Friedrich Engels",
+      "before": [
+        "BEL"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Both authors were born in present-day Germany: Marx in Trier and Engels in Barmen. Brussels was a later work location."
+    },
+    {
+      "id": "2a1a63dfb587",
+      "title": "The Manuscript Found in Saragossa",
+      "author": "Jan Potocki",
+      "before": [
+        "RUS"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born in Pików (modern Pykiv, Ukraine), in the Polish–Lithuanian Commonwealth. His Polish literary identity is separate from the modern location of his birthplace."
+    },
+    {
+      "id": "f8f59095fe84",
+      "title": "The Marsh Arabs",
+      "author": "Wilfred Thesiger",
+      "before": [
+        "ETH",
+        "GBR"
+      ],
+      "after": [
+        "ETH"
+      ],
+      "reason": "Birthplace recorded as Addis Ababa, Ethiopian Empire. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "45113e47d9ab",
+      "title": "The Martyred",
+      "author": "Richard E. Kim",
+      "before": [
+        "PRK",
+        "USA"
+      ],
+      "after": [
+        "PRK"
+      ],
+      "reason": "Born at Hamhung, now North Korea, then under Japanese colonial rule; later a US writer."
+    },
+    {
+      "id": "05fcd78f18a6",
+      "title": "The Masque of the Red Death",
+      "author": "Edgar Allan Poe",
+      "before": [
+        "USA",
+        "GBR"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Boston, Massachusetts, US. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0310214dd682",
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "before": [
+        "UKR",
+        "RUS"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born in Kyiv, now Ukraine; later worked in Russia."
+    },
+    {
+      "id": "8e17e2241816",
+      "title": "The Master Builder and Other Plays (Rosmersholm, Little Eyolf and John Gabriel Borkman)",
+      "author": "Henrik Ibsen",
+      "before": [
+        "NOR",
+        "DNK",
+        "DEU",
+        "ITA",
+        "SWE",
+        "AUT",
+        "HUN"
+      ],
+      "after": [
+        "NOR"
+      ],
+      "reason": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "440be2c9b8e7",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "before": [
+        "AUT",
+        "SVK"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Born in Rome; the Danube campaign locations associated with Meditations are not his origin."
+    },
+    {
+      "id": "a4d1cf399dd7",
+      "title": "Meditations and Other Metaphysical Writings",
+      "author": "René Descartes",
+      "before": [
+        "FRA",
+        "SWE"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as La Haye-en-Touraine, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "13594ba6697d",
+      "title": "The Metaphysics",
+      "author": "Aristotle",
+      "before": [
+        "GRC",
+        "TUR"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Born in Stagira, now Greece; later taught in Athens and elsewhere."
+    },
+    {
+      "id": "b46987ecd39d",
+      "title": "Micromegas and Other Short Fictions",
+      "author": "Voltaire",
+      "before": [
+        "FRA",
+        "CHE"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0ef22ad14393",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "before": [
+        "GGY"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Besançon, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "78640c4e29f4",
+      "title": "Mr. Sammler's Planet",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e9aeae126871",
+      "title": "A Month in the Country",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "163822ce808e",
+      "title": "The Moon and Sixpence",
+      "author": "W. Somerset Maugham",
+      "before": [
+        "FRA",
+        "GBR"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "419d25bd0cb6",
+      "title": "More Die of Heartbreak",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e518968bc1ee",
+      "title": "The Mountains of California",
+      "author": "John Muir",
+      "before": [
+        "USA",
+        "CAN"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Dunbar, Scotland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "1c49a5af05e4",
+      "title": "Mrs Craddock",
+      "author": "W. Somerset Maugham",
+      "before": [
+        "FRA",
+        "GBR"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6449a3150904",
+      "title": "A Murder of Quality",
+      "author": "John le Carré",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Poole, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "51aa7321e92f",
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "before": [
+        "GBR",
+        "FRA",
+        "IND"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born at Motihari, Bihar, in present-day India; British literary identity and later career are separate associations."
+    },
+    {
+      "id": "20058ad92726",
+      "title": "A Nietzsche Reader",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "41536c8048d4",
+      "title": "The Nigger of the Narcissus",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "f775cbb7b2cb",
+      "title": "Nobody Knows My Name",
+      "author": "James Baldwin",
+      "before": [
+        "FRA",
+        "USA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "62e5e8a397fd",
+      "title": "Nostromo",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "65c657f1f38e",
+      "title": "The Notebooks of Malte Laurids Brigge",
+      "author": "Rainer Maria Rilke",
+      "before": [
+        "DEU"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Prague, now Czechia; later worked in several European countries."
+    },
+    {
+      "id": "f988764ab4a2",
+      "title": "Notes on the State of Virginia",
+      "author": "Thomas Jefferson",
+      "before": [
+        "USA",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Born at Shadwell, Virginia, now the United States; Paris was a later diplomatic posting."
+    },
+    {
+      "id": "8b07764d3ee6",
+      "title": "Notre-Dame of Paris",
+      "author": "Victor Hugo",
+      "before": [
+        "GGY"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Besançon, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "feaa24a22570",
+      "title": "Octavia",
+      "author": "Pseudo-Seneca (unknown author)",
+      "before": [
+        "FRA",
+        "ITA"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Octavia is no longer attributed to Seneca. The anonymous Roman drama is mapped to its original Roman context, not to Seneca’s birthplace."
+    },
+    {
+      "id": "b39ca3940f86",
+      "title": "Of Human Bondage",
+      "author": "W. Somerset Maugham",
+      "before": [
+        "FRA",
+        "GBR"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "55a4b4a85178",
+      "title": "On Revolution",
+      "author": "Hannah Arendt",
+      "before": [
+        "DEU",
+        "USA",
+        "RUS"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Linden, now Hanover, Germany; later lived in France and the United States. Königsberg childhood is a modern Russian association, not her birthplace."
+    },
+    {
+      "id": "1c2746a0190a",
+      "title": "Orient Express",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "5461d50afb0a",
+      "title": "The Origin of the Family, Private Property and the State",
+      "author": "Friedrich Engels",
+      "before": [
+        "DEU",
+        "GBR"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Barmen, now Wuppertal, Germany; later worked in Britain."
+    },
+    {
+      "id": "f5538b395412",
+      "title": "Our Man in Havana",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "becf1aec7ff4",
+      "title": "Peer Gynt",
+      "author": "Henrik Ibsen",
+      "before": [
+        "NOR",
+        "DNK",
+        "DEU",
+        "ITA",
+        "SWE",
+        "AUT",
+        "HUN"
+      ],
+      "after": [
+        "NOR"
+      ],
+      "reason": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "030825437b54",
+      "title": "The People Opposite",
+      "author": "Georges Simenon",
+      "before": [
+        "FRA",
+        "USA",
+        "CHE"
+      ],
+      "after": [
+        "BEL"
+      ],
+      "reason": "Birthplace recorded as Liège, Wallonia, Belgium. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4bf604865991",
+      "title": "Personal Narrative of a Journey to the Equinoctial Regions of the New Continent",
+      "author": "Alexander von Humboldt",
+      "before": [
+        "FRA",
+        "DEU"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Berlin, now Germany; later worked in Paris and travelled widely."
+    },
+    {
+      "id": "129f1cc1c99e",
+      "title": "Personal Writings",
+      "author": "Ignatius of Loyola",
+      "before": [
+        "ITA"
+      ],
+      "after": [
+        "ESP"
+      ],
+      "reason": "Born at Loyola near Azpeitia, now Spain; later worked in Rome."
+    },
+    {
+      "id": "8e8d2399bc0b",
+      "title": "Petals of Blood",
+      "author": "Ngũgĩ wa Thiong'o",
+      "before": [
+        "USA"
+      ],
+      "after": [
+        "KEN"
+      ],
+      "reason": "Birthplace recorded as Kamiriithu, Kenya Colony. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "11e62c9925b5",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "eeaf53cc1884",
+      "title": "Poetics",
+      "author": "Aristotle",
+      "before": [
+        "GRC",
+        "TUR"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Born in Stagira, now Greece; later taught in Athens and elsewhere."
+    },
+    {
+      "id": "61067e3bb0dd",
+      "title": "The Politics",
+      "author": "Aristotle",
+      "before": [
+        "GRC",
+        "TUR"
+      ],
+      "after": [
+        "GRC"
+      ],
+      "reason": "Born in Stagira, now Greece; later taught in Athens and elsewhere."
+    },
+    {
+      "id": "d1e77c5b2c98",
+      "title": "A Portrait of the Artist as a Young Man",
+      "author": "James Joyce",
+      "before": [
+        "FRA",
+        "ITA",
+        "CHE"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6630e5855f89",
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "ea029053d971",
+      "title": "The Power and the Glory",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4ed52b89af5e",
+      "title": "Praise of Folly",
+      "author": "Desiderius Erasmus",
+      "before": [
+        "BEL",
+        "NLD",
+        "CHE"
+      ],
+      "after": [
+        "NLD"
+      ],
+      "reason": "Birthplace recorded as Rotterdam or Gouda, Burgundian Netherlands, Holy Roman Empire. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "2aff861cd819",
+      "title": "The Princess Casamassima",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4d3b40474562",
+      "title": "The Professor",
+      "author": "Charlotte Brontë",
+      "before": [
+        "GBR",
+        "BEL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Thornton, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c304bf03498c",
+      "title": "The Psychopathology of Everyday Life",
+      "author": "Sigmund Freud",
+      "before": [
+        "AUT",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London."
+    },
+    {
+      "id": "8381bea5662f",
+      "title": "The Apocolocyntosis",
+      "author": "Seneca",
+      "before": [
+        "ESP",
+        "ITA"
+      ],
+      "after": [
+        "ESP"
+      ],
+      "reason": "Corduba (Córdoba), Spain. Rome was his principal career location; Corsica was a place of exile, not his origin."
+    },
+    {
+      "id": "f74ce544f062",
+      "title": "The Queen of Spades and Other Stories",
+      "author": "Alexander Pushkin",
+      "before": [
+        "RUS",
+        "MDA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Moscow, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "218f356dc607",
+      "title": "The Quiet American",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6cba9c28bc06",
+      "title": "Rameau's Nephew",
+      "author": "Denis Diderot",
+      "before": [
+        "FRA",
+        "RUS"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Langres, Champagne, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "ee2dd3b1973f",
+      "title": "Ravelstein",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "6a13e7a94368",
+      "title": "Relativity: The Special and the General Theory",
+      "author": "Albert Einstein",
+      "before": [
+        "DEU",
+        "CHE",
+        "USA",
+        "CZE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Ulm, Germany; later worked in Switzerland, Prague and the United States."
+    },
+    {
+      "id": "1939c4903003",
+      "title": "Reveries of the Solitary Walker",
+      "author": "Jean-Jacques Rousseau",
+      "before": [
+        "ITA",
+        "GBR"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Born in Geneva, now Switzerland; later residences belong in the broader association view."
+    },
+    {
+      "id": "3239676f6545",
+      "title": "Rights of Man",
+      "author": "Thomas Paine",
+      "before": [
+        "FRA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Thetford, Norfolk, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "308831a3c1ce",
+      "title": "Roderick Hudson",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "a844716aabf7",
+      "title": "The Roman History: The Reign of Augustus",
+      "author": "Cassius Dio",
+      "before": [
+        "TUR",
+        "ITA"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Born in Nicaea, modern İznik, Turkey; Roman political career."
+    },
+    {
+      "id": "b5094202bccd",
+      "title": "Romance in Marseille",
+      "author": "Claude McKay",
+      "before": [
+        "JAM",
+        "USA"
+      ],
+      "after": [
+        "JAM"
+      ],
+      "reason": "Birthplace recorded as Clarendon, Colony of Jamaica, British Empire. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "f7209d93621e",
+      "title": "Rudin",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0732b3d91f6d",
+      "title": "R.U.R.",
+      "author": "Karel Čapek",
+      "before": [
+        "NLD",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born at Malé Svatoňovice, now Czechia."
+    },
+    {
+      "id": "554babaf8b9d",
+      "title": "Russian Thinkers",
+      "author": "Isaiah Berlin",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "LVA"
+      ],
+      "reason": "Born in Riga, now Latvia; later based in Britain."
+    },
+    {
+      "id": "5ba151319a35",
+      "title": "Sailing Alone Around the World",
+      "author": "Joshua Slocum",
+      "before": [
+        "USA",
+        "CAN"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Born at Mount Hanley, Nova Scotia, now Canada; later a US citizen."
+    },
+    {
+      "id": "39417c8652fc",
+      "title": "Satirical Sketches",
+      "author": "Lucian",
+      "before": [
+        "TUR",
+        "GRC"
+      ],
+      "after": [
+        "TUR"
+      ],
+      "reason": "Born at Samosata, now in Turkey; Roman Syria is not equivalent to modern Syria."
+    },
+    {
+      "id": "c039d711e853",
+      "title": "The Satyricon",
+      "author": "Petronius",
+      "before": [
+        "ITA",
+        "FRA"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Petronius’s birthplace and identification are uncertain. Rome is the literary and career context; Massalia is not treated as a verified birthplace."
+    },
+    {
+      "id": "7f466529ddda",
+      "title": "The School for Scandal and Other Plays",
+      "author": "Richard Brinsley Sheridan",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d0b907aba57a",
+      "title": "The Schreber Case",
+      "author": "Sigmund Freud",
+      "before": [
+        "AUT",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London."
+    },
+    {
+      "id": "b840b1fc36a4",
+      "title": "The Sea, The Sea",
+      "author": "Iris Murdoch",
+      "before": [
+        "IRL",
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "4095b2f92d65",
+      "title": "The Secret Agent",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "1bd6f1f27599",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "before": [
+        "GBR",
+        "USA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Cheetham, Manchester, England, United Kingdom. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3e26a4ee1662",
+      "title": "The Secret History",
+      "author": "Procopius",
+      "before": [
+        "ISR",
+        "TUR"
+      ],
+      "after": [
+        "ISR"
+      ],
+      "reason": "From Caesarea Maritima, now Israel; later worked in Constantinople."
+    },
+    {
+      "id": "04cf9af01f88",
+      "title": "Seize the Day",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "1214f531acd8",
+      "title": "Selected Poems",
+      "author": "Victor Hugo",
+      "before": [
+        "GGY"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Birthplace recorded as Besançon, France. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "700f826ca017",
+      "title": "Selected Poems",
+      "author": "John Keats",
+      "before": [
+        "GBR",
+        "IRL",
+        "ITA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Moorgate, London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9ebf7e248bb0",
+      "title": "Selected Poems",
+      "author": "Jules Laforgue",
+      "before": [
+        "URY",
+        "FRA"
+      ],
+      "after": [
+        "URY"
+      ],
+      "reason": "Birthplace recorded as Montevideo, Uruguay. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9eb131bee7df",
+      "title": "Selected Poems",
+      "author": "Henry Wadsworth Longfellow",
+      "before": [
+        "USA",
+        "ITA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Portland, District of Maine, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "51609eee12bd",
+      "title": "Selected Tales",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "1daaf516f2dc",
+      "title": "Selected Works",
+      "author": "John Wilmot, Earl of Rochester",
+      "before": [
+        "FRA",
+        "GBR"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Ditchley, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "f79ed855e86f",
+      "title": "Selected Writings",
+      "author": "Sir Walter Raleigh",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as East Budleigh, Devon, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "273eae0211eb",
+      "title": "The Shadow-Line",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "de54e618bf10",
+      "title": "Shirley",
+      "author": "Charlotte Brontë",
+      "before": [
+        "GBR",
+        "BEL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Thornton, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "dc58a573f64b",
+      "title": "Sickness unto Death",
+      "author": "Søren Kierkegaard",
+      "before": [
+        "DNK",
+        "DEU"
+      ],
+      "after": [
+        "DNK"
+      ],
+      "reason": "Birthplace recorded as Copenhagen, Denmark, Denmark–Norway. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "38a6a456f298",
+      "title": "Sketches from a Hunter's Album",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "1d7d8e853660",
+      "title": "A Small Town in Germany",
+      "author": "John le Carré",
+      "before": [
+        "GBR",
+        "IRL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Poole, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "da95c5b52534",
+      "title": "The Social Contract",
+      "author": "Jean-Jacques Rousseau",
+      "before": [
+        "ITA",
+        "GBR"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Born in Geneva, now Switzerland; later residences belong in the broader association view."
+    },
+    {
+      "id": "fce0a9579332",
+      "title": "Something of Myself",
+      "author": "Rudyard Kipling",
+      "before": [
+        "IND",
+        "GBR"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Born in Bombay (Mumbai), present-day India; later worked in Britain and elsewhere."
+    },
+    {
+      "id": "101c5b0833bf",
+      "title": "The Soul of Man Under Socialism and Selected Critical Prose",
+      "author": "Oscar Wilde",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "7bbcfea7a98c",
+      "title": "The Spoils of Poynton",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "921d67323e22",
+      "title": "Spring Torrents",
+      "author": "Ivan Turgenev",
+      "before": [
+        "DEU",
+        "RUS",
+        "FRA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "82d4650ec142",
+      "title": "The Star-Child",
+      "author": "Oscar Wilde",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "726afdc23ecc",
+      "title": "The Street of Crocodiles",
+      "author": "Bruno Schulz",
+      "before": [
+        "UKR",
+        "POL"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Birthplace recorded as Drohobycz, Kingdom of Galicia and Lodomeria, Austria-Hungary (now Ukraine). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "9d459d33d906",
+      "title": "Studies on Hysteria",
+      "author": "Sigmund Freud",
+      "before": [
+        "AUT",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London."
+    },
+    {
+      "id": "439d96d0294a",
+      "title": "Tales of Belkin and Other Prose Writings",
+      "author": "Alexander Pushkin",
+      "before": [
+        "RUS",
+        "MDA"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Birthplace recorded as Moscow, Russia. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "454cbe5b8331",
+      "title": "The Cosmography and Geography of Africa",
+      "author": "Johannes Leo Africanus",
+      "before": [
+        "DZA",
+        "ITA"
+      ],
+      "after": [
+        "ESP"
+      ],
+      "reason": "Born in Granada, Spain; raised in Fez, Morocco, and later worked in Rome. A centroid for the continent of Africa is not evidence for Algeria."
+    },
+    {
+      "id": "398ea0903a2d",
+      "title": "Tales of Hoffmann",
+      "author": "E. T. A. Hoffmann",
+      "before": [
+        "RUS",
+        "DEU"
+      ],
+      "after": [
+        "RUS"
+      ],
+      "reason": "Born in Königsberg, now Kaliningrad, Russia; German language and Prussian identity are distinct from the modern location."
+    },
+    {
+      "id": "85c326daec11",
+      "title": "The Third Man",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "63f3eff91ac5",
+      "title": "Thoughts and Sentiments on the Evil of Slavery",
+      "author": "Quobna Ottobah Cugoano",
+      "before": [
+        "GBR"
+      ],
+      "after": [
+        "GHA"
+      ],
+      "reason": "Born at Ajumako in present-day Ghana; later lived in London."
+    },
+    {
+      "id": "9e8639f7876c",
+      "title": "Three Plays: (The Father, Miss Julie, Easter)",
+      "author": "August Strindberg",
+      "before": [
+        "SWE",
+        "DEU"
+      ],
+      "after": [
+        "SWE"
+      ],
+      "reason": "Birthplace recorded as Stockholm, Sweden. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "5637b7ab0ad4",
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "945accad3855",
+      "title": "To Jerusalem and Back",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "7a92b56f8cc3",
+      "title": "The Travels",
+      "author": "Marco Polo",
+      "before": [
+        "CHN"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Birthplace recorded as Venice (present-day Italy). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "2bb3d962d115",
+      "title": "Travels with My Aunt",
+      "author": "Graham Greene",
+      "before": [
+        "GBR",
+        "ESP"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "551e27513791",
+      "title": "The Treasure Chest",
+      "author": "Johann Peter Hebel",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "CHE"
+      ],
+      "reason": "Born in Basel, Switzerland; later worked in Baden, Germany."
+    },
+    {
+      "id": "f96c853933ed",
+      "title": "The Treasure of the City of Ladies",
+      "author": "Christine de Pizan",
+      "before": [
+        "FRA",
+        "ITA"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Born in Venice; raised and wrote in France."
+    },
+    {
+      "id": "04f874d87512",
+      "title": "Tristan",
+      "author": "Gottfried von Strassburg",
+      "before": [
+        "FRA",
+        "DEU"
+      ],
+      "after": [
+        "FRA"
+      ],
+      "reason": "Associated with Strasbourg, now France; German literary tradition. Biography is uncertain."
+    },
+    {
+      "id": "558cb477b9ea",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c8448aa0df32",
+      "title": "The Twilight of the Idols",
+      "author": "Friedrich Nietzsche",
+      "before": [
+        "DEU",
+        "CHE"
+      ],
+      "after": [
+        "DEU"
+      ],
+      "reason": "Born in Röcken, now Germany; later taught in Basel, Switzerland."
+    },
+    {
+      "id": "fd5b59b68d7f",
+      "title": "Typhoon and Other Stories",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "fffb8b07980e",
+      "title": "The Uncanny",
+      "author": "Sigmund Freud",
+      "before": [
+        "AUT",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London."
+    },
+    {
+      "id": "a00dc54a8ea5",
+      "title": "Under Western Eyes",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "fb292acc5fcc",
+      "title": "Untouchable",
+      "author": "Mulk Raj Anand",
+      "before": [
+        "PAK",
+        "IND"
+      ],
+      "after": [
+        "PAK"
+      ],
+      "reason": "Birthplace recorded as Peshawar, NWFP, British India (now in Khyber Pakhtunkhwa, Pakistan). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e07eddd78f00",
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "before": [
+        "IND",
+        "GBR"
+      ],
+      "after": [
+        "IND"
+      ],
+      "reason": "Birthplace recorded as Calcutta, Bengal Presidency, India. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "d927d09ddfd1",
+      "title": "The Venice Train",
+      "author": "Georges Simenon",
+      "before": [
+        "FRA",
+        "USA",
+        "CHE"
+      ],
+      "after": [
+        "BEL"
+      ],
+      "reason": "Birthplace recorded as Liège, Wallonia, Belgium. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "09fd33edced8",
+      "title": "Venus in Furs",
+      "author": "Leopold von Sacher-Masoch",
+      "before": [
+        "UKR",
+        "AUT"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Birthplace recorded as Lemberg, Kingdom of Galicia and Lodomeria, Austrian Empire (now Lviv, Ukraine). Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "bda6520df383",
+      "title": "The Vicar of Wakefield",
+      "author": "Oliver Goldsmith",
+      "before": [
+        "NLD"
+      ],
+      "after": [
+        "IRL"
+      ],
+      "reason": "Birthplace recorded as Either Ballymahon, County Longford, or Elphin, County Roscommon, Ireland. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "452379154e9b",
+      "title": "The Victim",
+      "author": "Saul Bellow",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "CAN"
+      ],
+      "reason": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "5b811017ff04",
+      "title": "Victory",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "2c3ebe78dd74",
+      "title": "Villette",
+      "author": "Charlotte Brontë",
+      "before": [
+        "GBR",
+        "BEL"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Thornton, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "c1022209623a",
+      "title": "La Vita Nuova",
+      "author": "Dante Alighieri",
+      "before": [
+        "ITA",
+        "FRA"
+      ],
+      "after": [
+        "ITA"
+      ],
+      "reason": "Born in Florence, now Italy; French links do not define his origin."
+    },
+    {
+      "id": "d0290843fd5c",
+      "title": "The Vivisector",
+      "author": "Patrick White",
+      "before": [
+        "GBR",
+        "AUS"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Knightsbridge, London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "94d945e3dd2c",
+      "title": "Voss",
+      "author": "Patrick White",
+      "before": [
+        "GBR",
+        "AUS"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Birthplace recorded as Knightsbridge, London, England. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "3fd1cf3a8b04",
+      "title": "The Voyage of Argo",
+      "author": "Apollonius of Rhodes",
+      "before": [
+        "EGY",
+        "GRC"
+      ],
+      "after": [
+        "EGY"
+      ],
+      "reason": "Traditionally born in Alexandria or Naucratis, Egypt; later associated with Rhodes."
+    },
+    {
+      "id": "8a0e538231b6",
+      "title": "Washington Square",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "0800fba1c47b",
+      "title": "What Maisie Knew",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "e97a0878040b",
+      "title": "Who Would Have Thought It?",
+      "author": "María Amparo Ruíz de Burton",
+      "before": [
+        "MEX",
+        "USA"
+      ],
+      "after": [
+        "MEX"
+      ],
+      "reason": "Born in Loreto, Baja California, now Mexico; later wrote in the United States."
+    },
+    {
+      "id": "a07e1b6591c6",
+      "title": "Why Read the Classics?",
+      "author": "Italo Calvino",
+      "before": [
+        "CUB",
+        "ITA",
+        "USA",
+        "FRA"
+      ],
+      "after": [
+        "CUB"
+      ],
+      "reason": "Born at Santiago de Las Vegas, Cuba; raised and worked in Italy."
+    },
+    {
+      "id": "9bfe5110e708",
+      "title": "The Wings of the Dove",
+      "author": "Henry James",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "326825e766ca",
+      "title": "Wolf Willow",
+      "author": "Wallace Stegner",
+      "before": [
+        "CAN",
+        "USA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as Lake Mills, Iowa, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "fd459ca2f625",
+      "title": "The Wolfman and Other Cases",
+      "author": "Sigmund Freud",
+      "before": [
+        "AUT",
+        "GBR",
+        "CZE"
+      ],
+      "after": [
+        "CZE"
+      ],
+      "reason": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London."
+    },
+    {
+      "id": "c3688b645a04",
+      "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+      "author": "Mary Seacole",
+      "before": [
+        "JAM",
+        "GBR"
+      ],
+      "after": [
+        "JAM"
+      ],
+      "reason": "Birthplace recorded as Kingston, Colony of Jamaica. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "738847e3ec06",
+      "title": "Youth, The End of the Tether",
+      "author": "Joseph Conrad",
+      "before": [
+        "UKR",
+        "POL",
+        "GBR"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations."
+    },
+    {
+      "id": "world-fada12986ba1",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "before": [
+        "COL",
+        "MEX"
+      ],
+      "after": [
+        "COL"
+      ],
+      "reason": "Born in Aracataca, Colombia; later lived and wrote in Mexico."
+    },
+    {
+      "id": "world-b2832b3b217f",
+      "title": "Giovanni’s Room",
+      "author": "James Baldwin",
+      "before": [
+        "USA",
+        "FRA"
+      ],
+      "after": [
+        "USA"
+      ],
+      "reason": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "world-074e04b134be",
+      "title": "The Pursuit of Love",
+      "author": "Nancy Mitford",
+      "before": [
+        "GBR",
+        "FRA"
+      ],
+      "after": [
+        "GBR"
+      ],
+      "reason": "Born in London, England; later lived in France."
+    },
+    {
+      "id": "world-d98a2ede8d0d",
+      "title": "The Apple in the Dark",
+      "author": "Clarice Lispector",
+      "before": [
+        "UKR",
+        "BRA"
+      ],
+      "after": [
+        "UKR"
+      ],
+      "reason": "Birthplace recorded as Chechelnyk, Ukrainian SSR. Mapped to a modern region, not a claim of modern nationality."
+    }
+  ],
+  "fallbacks": [
+    {
+      "id": "410b6eb3d7ac",
+      "title": "The Adventures of David Simple",
+      "author": "Sarah Fielding",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: East Stour, Dorset. Biography description: English author (1710–1768). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "bf6e839c3916",
+      "title": "The Adventures of Pinocchio",
+      "author": "Carlo Collodi",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Florence, Grand Duchy of Tuscany. Biography description: Italian writer (1826–1890). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "a0064e3edcee",
+      "title": "The Aeneid",
+      "author": "Virgil",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Retained documented geographic association: Italy; broad composition association. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5ca112fa5ea6",
+      "title": "The Age of Alexander",
+      "author": "Plutarch",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Chaeronea, Boeotia. Biography description: Greek philosopher and historian (c. AD 40 – 120s). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "938638ddd82e",
+      "title": "Alcestis, Hippolytus and Iphigenia in Tauris",
+      "author": "Euripides",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Salamis. Biography description: 5th-century BC Athenian playwright. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "37e3f8924149",
+      "title": "The Analects",
+      "author": "Confucius",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Retained documented geographic association: Ancient China; compiled across generations. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "86ab7d70826f",
+      "title": "The Annotated Archy and Mehitabel",
+      "author": "Don Marquis",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Biography description: American writer (1878–1937). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4cc82b1697aa",
+      "title": "Anton Reiser",
+      "author": "Karl Philipp Moritz",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Biography description: German author, editor and essayist. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "32a9cce222de",
+      "title": "Aphorisms",
+      "author": "Georg Christoph Lichtenberg",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Birthplace: Ober-Ramstadt, Landgraviate of Hesse-Darmstadt, Holy Roman Empire. Biography description: German scientist and satirist (1742–1799). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f5ae50e5706f",
+      "title": "The Archeologist and Selected Sea Stories",
+      "author": "Andreas Karkavitsas",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Biography description: Greek writer. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d7c48f3583f1",
+      "title": "Ardhakathanak (A Half Story)",
+      "author": "Banarasidas",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Birthplace: Jaunpur, Mughal Empire. Biography description: Mughal Indian writer, businessman and poet (1586–1643). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "fd3ca82dd629",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Retained documented geographic association: Ancient China; authorship and date debated. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d7eaa9dedfca",
+      "title": "The Arthashastra",
+      "author": "Kautilya",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Biography description: Ancient Indian treatise. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d8b347a4bbb4",
+      "title": "Arthurian Romances",
+      "author": "Chrétien de Troyes",
+      "countries": [
+        "FRA"
+      ],
+      "basis": "Biography description: 12th-century French poet and trouvère. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "c57816976d75",
+      "title": "The Bacchae and Other Plays (Ion, The Women of Troy, Helen)",
+      "author": "Euripides",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Salamis. Biography description: 5th-century BC Athenian playwright. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "3f762a6d8b08",
+      "title": "Behind the Scenes",
+      "author": "Elizabeth Keckley",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Dinwiddie County Court House, Dinwiddie, Virginia. Biography description: American inventor, activist, professional dressmaker and writer (1818–1907). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "daf94f415392",
+      "title": "The Betrothed",
+      "author": "Alessandro Manzoni",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "2e7fdd1d1482",
+      "title": "The Bhagavad Gita",
+      "author": "Various / unverified",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Retained documented geographic association: South Asia; composition location uncertain. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e2fc422cfe8e",
+      "title": "The Book of the Courtier",
+      "author": "Baldassare Castiglione",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: near Casatico, Margravate of Mantua. Biography description: Italian Renaissance author (1478–1529). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "28f31e3532c9",
+      "title": "The Book of Master Mo",
+      "author": "Mo Zi",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Birthplace: Lu, Zhou dynasty. Biography description: Chinese philosopher and logician (c. 470 – c. 391 BCE). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "72a3470efe82",
+      "title": "Cavalleria Rusticana and Other Stories",
+      "author": "Giovanni Verga",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Catania, Kingdom of the Two Sicilies. Biography description: Italian writer (1840–1922). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "6d12da7afe6c",
+      "title": "Chronicle of the Narváez Expedition",
+      "author": "Álvar Núñez Cabeza de Vaca",
+      "countries": [
+        "ESP"
+      ],
+      "basis": "Birthplace: Jerez de la Frontera, Castile. Biography description: Spanish explorer of the New World. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "3859f3acfd4b",
+      "title": "Chronicles",
+      "author": "Jean Froissart",
+      "countries": [
+        "FRA"
+      ],
+      "basis": "Birthplace: Valenciennes, County of Hainaut, Holy Roman Empire. Biography description: French writer and historian (c. 1337–c. 1405). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7d092023e026",
+      "title": "Cicero's Letters to Atticus",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8a791550084b",
+      "title": "The Civil War",
+      "author": "Julius Caesar",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7e859b2c3af6",
+      "title": "The Conquest of Gaul",
+      "author": "Julius Caesar",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "1a719f29bb20",
+      "title": "The Complete Plays, Lenz, and Other Writings",
+      "author": "Georg Büchner",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Birthplace: Goddelau, Grand Duchy of Hesse. Biography description: German dramatist (1813–1837). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5f2229e2aa17",
+      "title": "The Conquest of Bread",
+      "author": "Peter Kropotkin",
+      "countries": [
+        "RUS"
+      ],
+      "basis": "Birthplace: Moscow, Russian Empire. Biography description: Russian anarchist (1842–1921). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e24200605646",
+      "title": "Conversations of Socrates",
+      "author": "Xenophon",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "24b9793b5166",
+      "title": "Conversations with Goethe",
+      "author": "Johann Peter Eckermann",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "32f582108658",
+      "title": "Critias",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "c74528da9588",
+      "title": "Daddy-Long-Legs",
+      "author": "Jean Webster",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Fredonia, New York, U. S.. Biography description: American novelist (1876–1916). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "2652c3b9e5e2",
+      "title": "Daphnis and Chloe",
+      "author": "Longus",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Biography description: Ancient Greek writer. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "6db479eb190a",
+      "title": "Dear Enemy",
+      "author": "Jean Webster",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Fredonia, New York, U. S.. Biography description: American novelist (1876–1916). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "19c559fd5773",
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Retained documented geographic association: Florence; broad composition association. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8d8bb1bbabcf",
+      "title": "The Diary of Lady Murasaki",
+      "author": "Murasaki Shikibu",
+      "countries": [
+        "JPN"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "fb855911cfc9",
+      "title": "Dirty Bird Blues",
+      "author": "Clarence Major",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Atlanta, Georgia, U.S.. Biography description: American poet, painter and novelist (born 1936). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "04941bb60d62",
+      "title": "The Discourses",
+      "author": "Niccolò Machiavelli",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "c26895359f10",
+      "title": "The Discovery of India",
+      "author": "Jawaharlal Nehru",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7b26a74ca030",
+      "title": "Doveglion: Collected Poems",
+      "author": "José Garcia Villa",
+      "countries": [
+        "PHL"
+      ],
+      "basis": "Birthplace: Manila, Philippine Islands. Biography description: Filipino poet (1908–1997). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f057be59f795",
+      "title": "Early Socratic Dialogues: (Ion, Laches, Lysis, Charmides, Hippias Major, Hippias Minor, Euthydemus)",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4f9890f8cbca",
+      "title": "Edgar Huntly",
+      "author": "Charles Brockden Brown",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Philadelphia, Province of Pennsylvania, British America. Biography description: American novelist, historian and editor. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "3cbefcd283b5",
+      "title": "Effi Briest",
+      "author": "Theodor Fontane",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "0128e59e9b5d",
+      "title": "Elective Affinities",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "04cea60cefb8",
+      "title": "Electra and Other Plays (Ajax, Women of Trachis, Philoctetes)",
+      "author": "Sophocles",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "184cfdd3da33",
+      "title": "The Emigrants",
+      "author": "Gilbert Imlay",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Biography description: American businessman, author, and diplomat (1754–1828). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "62b9b51109ff",
+      "title": "The Epic of Gilgamesh",
+      "author": "Various / unverified",
+      "countries": [
+        "IRQ"
+      ],
+      "basis": "Retained documented geographic association: Mesopotamia; multiple textual traditions. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e962426d8111",
+      "title": "Essays",
+      "author": "Plutarch",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Chaeronea, Boeotia. Biography description: Greek philosopher and historian (c. AD 40 – 120s). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "6241e0e28295",
+      "title": "The Fall of the Roman Republic",
+      "author": "Plutarch",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Chaeronea, Boeotia. Biography description: Greek philosopher and historian (c. AD 40 – 120s). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "10531909564a",
+      "title": "Faust, Part I",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "dee76c40ed69",
+      "title": "Faust, Part II",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "2835b0ce67ef",
+      "title": "The Female Quixote",
+      "author": "Charlotte Lennox",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "97a2829be921",
+      "title": "El Filibusterismo",
+      "author": "José Rizal",
+      "countries": [
+        "PHL"
+      ],
+      "basis": "Birthplace: Calamba, La Laguna, Captaincy General of the Philippines, Spanish Empire. Biography description: Filipino nationalist, writer, and polymath (1861–1896). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7c68b04ae328",
+      "title": "Five-and-Twenty Tales of the Genie",
+      "author": "Śivadāsa",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Biography description: Ancient Indian writer. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "a9611637c01b",
+      "title": "Fortress Besieged",
+      "author": "Qian Zhongshu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Birthplace: Wusih, Kiangsu, Qing Empire. Biography description: Chinese literary scholar and writer (1910–1998). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8ce2ce15b776",
+      "title": "The Georgics",
+      "author": "Virgil",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4c54b03f2b6e",
+      "title": "Germinie Lacerteux",
+      "author": "Edmond and Jules de Goncourt",
+      "countries": [
+        "FRA"
+      ],
+      "basis": "Biography description: 19th-century French naturalism writers. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "68463067bf8e",
+      "title": "The Gift of the Magi",
+      "author": "O. Henry",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Greensboro, North Carolina. Biography description: American writer (1862–1910). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "dd58b1c5402c",
+      "title": "The Golovlyov Family",
+      "author": "Mikhail Saltykov-Shchedrin",
+      "countries": [
+        "RUS"
+      ],
+      "basis": "Birthplace: village Spas-Ugol, Kalyazin uyezd, Tver Governorate, Russian Empire. Biography description: Russian author and satirist (1826–1889). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "b1b579cccc1f",
+      "title": "Gorgias",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "fc451670d35c",
+      "title": "Grace Abounding to the Chief of Sinners",
+      "author": "John Bunyan",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Elstow, Bedfordshire. Biography description: English writer and preacher (1628–1688). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "230254744f7a",
+      "title": "The Guide",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d406e6548db8",
+      "title": "Hashish",
+      "author": "Henry de Monfreid",
+      "countries": [
+        "FRA"
+      ],
+      "basis": "Biography description: French adventurer, writer and sailor (1879–1974). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "dd634057c2e5",
+      "title": "Heracles and Other Plays",
+      "author": "Euripides",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Salamis. Biography description: 5th-century BC Athenian playwright. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "1a4cfc0e4df0",
+      "title": "A Hero of Our Time",
+      "author": "Mikhail Lermontov",
+      "countries": [
+        "RUS"
+      ],
+      "basis": "Birthplace: Moscow, Russian Empire. Biography description: Russian writer, poet and painter (1814–1841). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "ad76f6ff8b40",
+      "title": "A History of My Times",
+      "author": "Xenophon",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4c9c370277cf",
+      "title": "The History of the Peloponnesian War",
+      "author": "Thucydides3",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Retained documented geographic association: Greek world; written partly in exile. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "6d4ce1aa5fa7",
+      "title": "Homeric Hymns",
+      "author": "Homer",
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "44777a429dcb",
+      "title": "The House with the Green Shutters",
+      "author": "George Douglas Brown",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Ochiltree, Ayrshire. Biography description: Scottish novelist (1869–1902). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e893a249b474",
+      "title": "The Iliad",
+      "author": "Homer",
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "Retained documented geographic association: Aegean world; Homeric origins disputed. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "85e6fe4519a2",
+      "title": "Italian Journey",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "15767a020ed5",
+      "title": "A Journal of the Plague Year",
+      "author": "Daniel Defoe",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "61a09645acc8",
+      "title": "The Knockout Artist",
+      "author": "Harry Crews",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Alma, Georgia, U.S.. Biography description: American novelist. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "38a774f9868b",
+      "title": "Lady Macbeth of Mtsensk and Other Stories",
+      "author": "Nikolai Leskov",
+      "countries": [
+        "RUS"
+      ],
+      "basis": "Birthplace: Gorokhovo, Oryol Gubernia, Russian Empire. Biography description: Russian writer and novelist (1831–1895). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8310b920c833",
+      "title": "The Lais of Marie de France",
+      "author": "Marie de France",
+      "countries": [
+        "FRA"
+      ],
+      "basis": "Biography description: Medieval French poet. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "28e8f6231548",
+      "title": "The Last Days of Socrates (Euthyphro, Apology, Crito, Phaedo)",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5a8e1a495f27",
+      "title": "The Laws",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "948002723438",
+      "title": "Letters of the Late Ignatius Sancho, an African",
+      "author": "Ignatius Sancho",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Atlantic Ocean. Biography description: British abolitionist (1729–1780). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7fb4f442c9fe",
+      "title": "The Life of Milarepa",
+      "author": "Tsangnyön Heruka",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Biography description: Tibetan Buddhist master and author. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "63897d380517",
+      "title": "The Little Demon",
+      "author": "Fyodor Sologub",
+      "countries": [
+        "RUS"
+      ],
+      "basis": "Birthplace: Saint Petersburg, Russian Empire. Biography description: Russian symbolist writer (1863–1927). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "722888ac86e0",
+      "title": "Lives of the Artists (in two volumes)",
+      "author": "Giorgio Vasari",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "dc8abc8808b8",
+      "title": "London Labour and the London Poor",
+      "author": "Henry Mayhew",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Crewe. Biography description: British writer and activist (1812–1887). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "be2c48f575e1",
+      "title": "The Lost Honour of Katharina Blum",
+      "author": "Heinrich Böll",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "ccbff0436760",
+      "title": "Makers of Rome",
+      "author": "Plutarch",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Chaeronea, Boeotia. Biography description: Greek philosopher and historian (c. AD 40 – 120s). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7b40f45f14aa",
+      "title": "Malgudi Days",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e265eeaddb13",
+      "title": "The Man-Eater of Malgudi",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "c3ac84b73e9c",
+      "title": "The Marquise of O-- and Other Stories",
+      "author": "Heinrich von Kleist",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Birthplace: Frankfurt an der Oder, Kingdom of Prussia, Holy Roman Empire. Biography description: German Romantic writer (1777–1811). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "c2064c0bf371",
+      "title": "Maxims and Reflections",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f9918c7cbdbf",
+      "title": "The Mayflower Papers (including Of Plymouth Plantation",
+      "author": "William Bradford)",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Austerfield, West Riding of Yorkshire, England. Biography description: English Separatist leader (1590–1657). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "1831e91516db",
+      "title": "Medea and Other Plays (Hecabe, Electra, Heracles)",
+      "author": "Euripides",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Salamis. Biography description: 5th-century BC Athenian playwright. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "899265b97448",
+      "title": "Merits of the Plague",
+      "author": "Ibn Hajar al-'Asqalani",
+      "countries": [
+        "EGY"
+      ],
+      "basis": "Birthplace: Cairo, Mamluk Sultanate. Biography description: Egyptian Islamic scholar (1372–1449). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "a67329a43e8e",
+      "title": "Michel the Giant",
+      "author": "Tété-Michel Kpomassie",
+      "countries": [
+        "TGO"
+      ],
+      "basis": "Biography description: Togolese explorer and writer. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7a4b0c8a405a",
+      "title": "Moll Flanders",
+      "author": "Daniel Defoe",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "825e3dad76ba",
+      "title": "Mozart's Journey to Prague and a Selection of Poems",
+      "author": "Eduard Mörike",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "339acd302aba",
+      "title": "Murder Trials",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "550f0836c359",
+      "title": "A Nation of Women",
+      "author": "Luisa Capetillo",
+      "countries": [
+        "PRI"
+      ],
+      "basis": "Birthplace: Arecibo, Puerto Rico, Spanish Empire. Biography description: Puerto Rican labor organizer (1882–1922). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "92e33033c281",
+      "title": "Natural History: A Selection",
+      "author": "Pliny the Elder",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "9c1ef77aefcd",
+      "title": "The Nature of the Gods",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "df5705cd1f7c",
+      "title": "The New Atalantis",
+      "author": "Delarivier Manley",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Biography description: English writer. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f21f07c02eea",
+      "title": "New Science",
+      "author": "Giambattista Vico",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Naples, Kingdom of Naples. Biography description: Italian philosopher (1668–1744). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "65bd132df99f",
+      "title": "Nights with Uncle Remus",
+      "author": "Joel Chandler Harris",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Eatonton, Georgia, U.S.. Biography description: American writer and journalist (1848–1908). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "3f2f88955ea2",
+      "title": "Noli Me Tangere",
+      "author": "José Rizal",
+      "countries": [
+        "PHL"
+      ],
+      "basis": "Birthplace: Calamba, La Laguna, Captaincy General of the Philippines, Spanish Empire. Biography description: Filipino nationalist, writer, and polymath (1861–1896). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "09921623539b",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "basis": "Retained documented geographic association: Aegean world; Homeric origins disputed. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "ade86f891ec1",
+      "title": "The Old Wives' Tale",
+      "author": "Arnold Bennett",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Biography description: English author (1867–1931). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "2d047729dad8",
+      "title": "On the Good Life (including The Dream of Scipio)",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "bf7076ef9c52",
+      "title": "On Government",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "49d1d94b9492",
+      "title": "On Painting",
+      "author": "Leon Battista Alberti",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "413f2e763f50",
+      "title": "The Oresteia: Agamemnon, The Libation Bearers, The Eumenides",
+      "author": "Aeschylus",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Retained documented geographic association: Athens. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4174196018a3",
+      "title": "Orestes and Other Plays (The Children of Heracles, Andromache, The Suppliant Women, The Phoenician Women, Iphigenia in Aulis)",
+      "author": "Euripides",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Salamis. Biography description: 5th-century BC Athenian playwright. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "507c4e64fa72",
+      "title": "Orlando Furioso (in two volumes)",
+      "author": "Ludovico Ariosto",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Reggio Emilia, Duchy of Modena and Reggio. Biography description: Italian poet (1474–1533). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "a7ba3aa568d4",
+      "title": "The Painter of Signs",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e26700c17ab5",
+      "title": "The Pañcatantra",
+      "author": "Viśnu Sarma",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Biography description: Ancient Indian writer. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f17b41da39b5",
+      "title": "Parzival",
+      "author": "Wolfram Von Eschenbach",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Biography description: German knight, poet, and composer (died c. 1220). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "dedf8351801f",
+      "title": "A Persian Expedition",
+      "author": "Xenophon",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Retained documented geographic association: Greek world; approximate composition association. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "a0637336325a",
+      "title": "Phaedrus and Letters VII and VIII",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "67535b3e1717",
+      "title": "Philebus",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "dce1fc953768",
+      "title": "Piers the Ploughman",
+      "author": "William Langland",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Biography description: Fourteenth century English poet. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4a46a729d455",
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Elstow, Bedfordshire. Biography description: English writer and preacher (1628–1688). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "47116f264c6e",
+      "title": "The Pillow Book of Sei Shōnagon",
+      "author": "Various / unverified",
+      "countries": [
+        "JPN"
+      ],
+      "basis": "Retained documented geographic association: Heian-kyo, present-day Kyoto. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "449e5bea7e31",
+      "title": "Pinocchio: The Tale of a Puppet",
+      "author": "Carlo Collodi",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Florence, Grand Duchy of Tuscany. Biography description: Italian writer (1826–1890). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "1117b5ed7adf",
+      "title": "Plutarch on Sparta",
+      "author": "Plutarch",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Chaeronea, Boeotia. Biography description: Greek philosopher and historian (c. AD 40 – 120s). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d3cfd8661945",
+      "title": "Poems",
+      "author": "Wang Wei",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Birthplace: Qi County, Jinzhong, Shanxi, Wu Zhou dynasty. Biography description: Tang-dynasty Chinese poet, musician, painter, and statesman. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "9d7149d33b11",
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Retained documented geographic association: Sant'Andrea in Percussina, near Florence. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "6b443c7c183d",
+      "title": "Prometheus Bound and Other Plays (The Suppliants, Seven Against Thebes, The Persians)",
+      "author": "Aeschylus",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "594f7f72701b",
+      "title": "Protagoras and Meno",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "00f33cc4c1dc",
+      "title": "Raffles: The Amateur Cracksman",
+      "author": "E. W. Hornung",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Biography description: British writer (1866–1921). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "19f49019b4fb",
+      "title": "Rama the Steadfast",
+      "author": "Valmiki",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Biography description: Legendary Indian poet, author of the Ramayana. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5f3f78b22fef",
+      "title": "The Ramayana: A Shortened Modern Prose Version",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "fe5a936622b0",
+      "title": "Rebecca of Sunnybrook Farm",
+      "author": "Kate Douglas Wiggin3",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Philadelphia, Pennsylvania, U.S.. Biography description: American writer (1856–1923). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5fd284ecfd29",
+      "title": "The Republic",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Retained documented geographic association: Athens; broad composition association. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "138b703b6ac8",
+      "title": "Revelations of Divine Love",
+      "author": "Julian of Norwich",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "92a377a003bc",
+      "title": "The Rise and Fall of Athens",
+      "author": "Plutarch",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Birthplace: Chaeronea, Boeotia. Biography description: Greek philosopher and historian (c. AD 40 – 120s). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f43341d88944",
+      "title": "The Robbers and Wallenstein",
+      "author": "Friedrich Schiller",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7b02312fa1b8",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Retained documented geographic association: London. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "1ed729c458f3",
+      "title": "The Romance of the Three Kingdoms",
+      "author": "Luo Guanzhong",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Biography description: 14th-century Chinese novelist. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "6f2ee89978a9",
+      "title": "Roxana, Or The Fortunate Mistress",
+      "author": "Daniel Defoe",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "c5e230253773",
+      "title": "The Ruba'iyat of Omar Khayyam",
+      "author": "Omar Khayyam",
+      "countries": [
+        "IRN"
+      ],
+      "basis": "Birthplace: Nishapur, Khorasan, Seljuk Empire. Biography description: Persian polymath and poet (1048–1131). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8cd4c29ebf92",
+      "title": "Selected Poems and Letters",
+      "author": "Michelangelo",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Caprese, Florence. Biography description: Italian artist and architect (1475–1564). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "7d0d1bb8d4bb",
+      "title": "Selected Poems and Fragments",
+      "author": "Friedrich Hölderlin",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "49c4ddf0825a",
+      "title": "Selected Political Speeches",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "21fd81beb680",
+      "title": "Selected Prose",
+      "author": "Heinrich Heine",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "b3cc5d2d1712",
+      "title": "Selected Tales",
+      "author": "Jacob and Wilhelm Grimm",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Biography description: Brother duo of German academics and folklorists. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "9dd70b57f203",
+      "title": "Selected Verse",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "ca6e3fe6a71d",
+      "title": "Selected Works",
+      "author": "Marcus Tullius Cicero",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "31f7865964a5",
+      "title": "Selected Writings",
+      "author": "Thomas Aquinas",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f1d1b44ec605",
+      "title": "Selected Writings",
+      "author": "Meister Eckhart",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Birthplace: Tambach, Landgraviate of Thuringia, Holy Roman Empire. Biography description: German Catholic priest and philosopher (c. 1260–1328). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d6acc963b7c8",
+      "title": "The Shattered Thigh and Other Plays",
+      "author": "Bhāsa",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Biography description: Indian playwright in Sanskrit. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "a8575f70a821",
+      "title": "A Short Account of the Destruction of the Indies",
+      "author": "Bartolomé de Las Casas",
+      "countries": [
+        "ESP"
+      ],
+      "basis": "Birthplace: Seville, Crown of Castile. Biography description: Spanish Catholic clergyman and writer (1484–1566). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4365a6972070",
+      "title": "The Sorrows of Young Werther",
+      "author": "Johann Wolfgang von Goethe",
+      "countries": [
+        "DEU"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "10d8b5ab9064",
+      "title": "The Storm",
+      "author": "Daniel Defoe",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "e8ab2d4d976f",
+      "title": "The Story of an African Farm",
+      "author": "Olive Schreiner",
+      "countries": [
+        "LSO",
+        "ZAF"
+      ],
+      "basis": "Birthplace: Wittebergen Reserve, Cape Colony (in present-day Lesotho). Biography description: South African author and activist (1855–1920). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8ef0519d8fe1",
+      "title": "The Story of My Life",
+      "author": "Giacomo Casanova",
+      "countries": [
+        "ITA"
+      ],
+      "basis": "Birthplace: Venice, Republic of Venice. Biography description: Venetian adventurer and writer (1725–1798). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "9f3b2ed96127",
+      "title": "Symposium",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Retained documented geographic association: Athens; broad composition association. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "978a549ffa66",
+      "title": "The Tale of Four Dervishes",
+      "author": "Mir Amman",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Birthplace: Delhi, Mughal Empire. Biography description: Indian translator (1748–1806). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5d12c59b73dc",
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "countries": [
+        "JPN"
+      ],
+      "basis": "Retained documented geographic association: Heian-kyo, present-day Kyoto. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "95761342cf92",
+      "title": "Talkative Man",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f6df9652392a",
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Retained documented geographic association: Ancient China; authorship and date debated. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "2ee8edcc7d20",
+      "title": "A Taste of Power",
+      "author": "Elaine Brown",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Biography description: American activist and singer (born 1943). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "f95f74e59cde",
+      "title": "A Texas Cowboy",
+      "author": "Charles A. Siringo",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Matagorda County, Texas. Biography description: American detective (1855–1928). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "210756d5f92a",
+      "title": "Theaetetus",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "b0870a367c7f",
+      "title": "The Three Theban Plays: (Antigone, Oedipus the King, Oedipus at Colonus)",
+      "author": "Sophocles",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Retained documented geographic association: Athens; collection of plays from different dates. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "18d2bf2167af",
+      "title": "A Tiger for Malgudi",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "5ad84a06ae16",
+      "title": "Timaeus",
+      "author": "Plato",
+      "countries": [
+        "GRC"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "3a79adacfca7",
+      "title": "The Woman Who Had Two Navels and Tales of the Tropical Gothic",
+      "author": "Nick Joaquin",
+      "countries": [
+        "PHL"
+      ],
+      "basis": "Birthplace: Paco, Manila. Biography description: Filipino writer and journalist (1917–2004). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "35e77503da88",
+      "title": "Uncle Remus",
+      "author": "Joel Chandler Harris",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Eatonton, Georgia, U.S.. Biography description: American writer and journalist (1848–1908). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "71daf52d81bc",
+      "title": "Under the Banyan Tree",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "4e3548adce8b",
+      "title": "Vathek and Other Stories",
+      "author": "William Beckford",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "cd2ca7de0758",
+      "title": "The Vendor of Sweets",
+      "author": "R. K. Narayan",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "8c6d45c9c33a",
+      "title": "Vis and Rāmin",
+      "author": "Fakhraddin Gorgani",
+      "countries": [
+        "IRN"
+      ],
+      "basis": "Biography description: Persian poet. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "51e5b5858bdb",
+      "title": "The Way of the World and Other Plays",
+      "author": "William Congreve",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Birthplace: Bardsey, West Riding of Yorkshire. Biography description: English playwright and poet (1670-1729). Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "db8e2e58379f",
+      "title": "We",
+      "author": "Yevgeny Zamyatin",
+      "countries": [
+        "RUS"
+      ],
+      "basis": "Author residence/work association, not verified as the writing location of this particular volume; not an exhaustive list of residences. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "d2602c14b7da",
+      "title": "Wieland and Memoirs of Carwin the Biloquist",
+      "author": "Charles Brockden Brown",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Birthplace: Philadelphia, Province of Pennsylvania, British America. Biography description: American novelist, historian and editor. Modern-country browsing association; not a claim about where this work was written. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-087cdb477866",
+      "title": "Water Margin",
+      "author": "Shi Nai’an (traditional attribution)",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-384e27c1946b",
+      "title": "Essays of a Recluse",
+      "author": "Wang Fu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-b97aff272cad",
+      "title": "Kokinshū",
+      "author": "Ki no Tsurayuki, Ki no Tomonori, Ōshikōchi no Mitsune, and Mibu no Tadamine (compilers)",
+      "countries": [
+        "JPN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-d9797ccbadfb",
+      "title": "Jain Tales of Moksha",
+      "author": "Shivakotyacharya (attributed)",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-d1f3da51b97e",
+      "title": "The Kannada Mahabharata",
+      "author": "Kumaravyasa",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-1174ac35437e",
+      "title": "The Diary of 1636",
+      "author": "Na Man’gap",
+      "countries": [
+        "KOR"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-1110030c69c9",
+      "title": "The Book of Monasteries",
+      "author": "al-Shābushtī",
+      "countries": [
+        "IRQ",
+        "EGY"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-ba46b01c99d3",
+      "title": "Kebra Nagast",
+      "author": "Anonymous Ethiopian compilers",
+      "countries": [
+        "ETH"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-2ee7fc8c9b5f",
+      "title": "Tarikh al-Sudan",
+      "author": "Abd al-Rahman al-Saʿdi",
+      "countries": [
+        "MLI"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-0706a46a2d01",
+      "title": "The Life of Walatta Petros",
+      "author": "Gälawdewos",
+      "countries": [
+        "ETH"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-6902e037635e",
+      "title": "Huarochirí Manuscript",
+      "author": "Anonymous Quechua narrators and compiler",
+      "countries": [
+        "PER"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-f2d80397dc2a",
+      "title": "The First New Chronicle and Good Government",
+      "author": "Felipe Guaman Poma de Ayala",
+      "countries": [
+        "PER"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-85451678a54d",
+      "title": "Florentine Codex",
+      "author": "Bernardino de Sahagún with Nahua authors, informants, and artists",
+      "countries": [
+        "MEX"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-3ed711c50f5f",
+      "title": "The Story of Manu",
+      "author": "Allasani Peddana",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-82e1dbf3b652",
+      "title": "The Killing of Shishupala",
+      "author": "Magha",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-3d079ad91103",
+      "title": "Arjuna and the Hunter",
+      "author": "Bharavi",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-03d97d534058",
+      "title": "The Life of Harishchandra",
+      "author": "Raghavanka",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-d957b78a2108",
+      "title": "Lilavai",
+      "author": "Kouhala",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-66b313cc23fd",
+      "title": "A Treatise on Dharma",
+      "author": "Anonymous, attributed to Yajnavalkya",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-daa68055b6d7",
+      "title": "The Epic of Ram",
+      "author": "Tulsidas",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-af547b5d2f5f",
+      "title": "The History of Akbar",
+      "author": "Abu’l-Fazl",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-51f347e1fb95",
+      "title": "The Life of Padma",
+      "author": "Svayambhudeva",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-c787fc502664",
+      "title": "Theft of a Tree",
+      "author": "Nandi Timmana",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-ee3f2e33cd3a",
+      "title": "Poems from the Satsai",
+      "author": "Biharilal",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-2a57c24d32a2",
+      "title": "Sur’s Ocean",
+      "author": "Surdas",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-ab010c790771",
+      "title": "The Fragrant Companions",
+      "author": "Li Yu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-86a0412f1598",
+      "title": "Top Graduate Zhang Xie",
+      "author": "Nine Mountain Society",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-3da22d68a9ed",
+      "title": "A Couple of Soles",
+      "author": "Li Yu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-d39046c77738",
+      "title": "The Book of Swindles",
+      "author": "Zhang Yingyu",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-4500b5945388",
+      "title": "The Original Meaning of the Yijing",
+      "author": "Zhu Xi",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-092942681200",
+      "title": "The Book of Lord Shang",
+      "author": "Shang Yang and later contributors",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-b3d0b6e552c5",
+      "title": "Changchun’s Journey to the West",
+      "author": "Li Zhichang",
+      "countries": [
+        "CHN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-ef2f1a72099d",
+      "title": "The Turks and the Caliphal Army",
+      "author": "al-Jāḥiẓ",
+      "countries": [
+        "IRQ"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-d836a0b4b7a6",
+      "title": "The Rules of Logic",
+      "author": "Najm al-Dīn al-Kātibī",
+      "countries": [
+        "IRN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-468a17f3844d",
+      "title": "Life of the Buddha",
+      "author": "Ashvaghosha",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-0ed2331d6c32",
+      "title": "Handsome Nanda",
+      "author": "Ashvaghosha",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-1bf72708f3ed",
+      "title": "The Little Clay Cart",
+      "author": "Shudraka (attributed)",
+      "countries": [
+        "IND"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-032fc99eaea8",
+      "title": "Popol Vuh",
+      "author": "Anonymous K’iche’ Maya authors",
+      "countries": [
+        "GTM"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-6b903c2912bf",
+      "title": "Cantares Mexicanos",
+      "author": "Nahua poets and anonymous compilers",
+      "countries": [
+        "MEX"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-1f0b49082381",
+      "title": "Nagarakretagama",
+      "author": "Mpu Prapanca",
+      "countries": [
+        "IDN"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-04fc1be76dbe",
+      "title": "Breakfast at Tiffany’s",
+      "author": "Truman Capote",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-cf0def15c234",
+      "title": "Night Watch",
+      "author": "Terry Pratchett",
+      "countries": [
+        "GBR"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-fc5bbede21d3",
+      "title": "Coal",
+      "author": "Audre Lorde",
+      "countries": [
+        "USA"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-033b0a9cb559",
+      "title": "Kalpa Imperial",
+      "author": "Angélica Gorodischer",
+      "countries": [
+        "ARG"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    },
+    {
+      "id": "world-b3710736206b",
+      "title": "Trafalgar",
+      "author": "Angélica Gorodischer",
+      "countries": [
+        "ARG"
+      ],
+      "basis": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary. Author birthplace has not been independently resolved in this review."
+    }
+  ]
+}

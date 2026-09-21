@@ -1,4 +1,49 @@
-# Classics Atlas — portable v1
+# Classics Atlas — reader beta
+
+The next release adds ten curated reading paths, thirteen featured books, private reader accounts, cross-device synchronization, personal reading atlases, editable collections, related-book discovery, and edition/library guidance. The catalog now contains 1,492 dated and mapped records. Existing work IDs and local shelf backups remain compatible.
+
+Public account edition: https://atlas-web-production-b852.up.railway.app
+
+## Reader features
+
+- **Book guidance:** a consistent “Before you begin” section; original path annotations; general form-based reading advice; translation/edition checks; private notes; favorites; related works and stable book links.
+- **Reading paths:** Oxford/Balliol preparation, St. John’s-inspired Eastern and Middle Eastern selections, Harvard world-literature and ChinaX selections, Yale Don Quixote, named African and Latin American expert selections, China’s four novels, and a passage-based starter path. Source scope, adaptation, excerpt/abridgment status and unmatched items are explicit. Completing an assignment never marks an entire book read.
+- **Accounts and My Atlas:** optional username/password accounts; recovery codes; cloud shelf, ratings, notes, favorites and path progress; explicit guest-data migration; private reading statistics and map/timeline views.
+- **Collections:** create, reorder, annotate, copy, save books, map and share. Private by default; unlisted and public require an account. Private notes and ratings are excluded. Public discovery and server-rendered title/description previews are supported.
+- **Discovery:** filter by tradition/form, exclude read books, or find metadata-based connections from a known book. “Similar to The Odyssey” and unread phrase searches work. This is not an LLM or an external ratings service.
+- **Edition and availability guidance:** source-linked course edition notes, completeness/translation guidance, and library/edition search links. Individual availability and external ratings are not fabricated.
+
+## Development and hosting
+
+Editable source now lives directly in the repository. Node 24.14+ runs the backend without runtime npm dependencies. Python 3 rebuilds the self-contained public app:
+
+```sh
+python3 scripts/build.py
+npm test
+npm start
+```
+
+`npm start` opens port 3000. `ATLAS_DB` chooses the SQLite database file; in production it is required and must point to persistent storage. Railway uses one replica and a volume at `/data`, with `ATLAS_DB=/data/atlas.sqlite`. Docker initializes ownership and runs Node as the unprivileged `node` user. The same `index.html` remains usable on static hosting; accounts and published collections require the backend.
+
+Authentication uses scrypt password hashes, random hashed session tokens in HttpOnly SameSite cookies, recovery-code rotation, expiry, mutation-origin checks and rate limiting. Per-user state uses optimistic revisions to prevent silent overwrite across devices. Failed writes are retained in a local pending backup; conflicts require an explicit choice. Account deletion removes cloud data and published collections. Guest JSON backups remain supported; v2 export includes paths, favorites, notes and private collections.
+
+Hourly SQLite backups retain the latest seven daily snapshots on the same volume. These are recovery aids, not an independent disaster-recovery backup. Export volume snapshots off-service before a wider public launch. Server database files, credentials and user data are excluded from Git.
+
+## Validation and remaining scope
+
+`npm test` covers 26 existing filter/map regressions plus backend account and privacy integration. `npm run test:reader` runs the new Playwright flows; set `ATLAS_PLAYWRIGHT_PATH`, `ATLAS_CHROMIUM_PATH` and `ATLAS_BROWSER_EXECUTABLE` for your installed browser runtime. It checks excerpt progress, map filters, notes, favorites, atlas, collection editing, sign-up, guest migration, reload sync, anonymous collection access, dark theme and mobile overflow.
+
+Known limits: the source lists are accurately scoped selections, not complete Oxford/Harvard degrees. Seven course resources/topics remain unmatched to standalone catalog entries. General reading guidance is not an independently rated difficulty score. Full translation comparisons, public-review moderation, email recovery, Goodreads import, custom share images and LLM search remain future work. The thirteen path additions do not yet have verified cover matches; existing cover coverage is preserved.
+
+Download the current complete source from [GitHub](https://github.com/rems3n/classics-atlas/archive/refs/heads/main.zip). Historical data license and original snapshots are included under `data/historical/`.
+
+---
+
+## Earlier v1 reference (historical)
+
+The following records describe the pre-reader release and its data pipeline. Current behavior and counts are above.
+
+### Portable v1 archive notes
 
 ## Public web edition
 

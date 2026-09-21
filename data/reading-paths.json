@@ -1,0 +1,662 @@
+[
+  {
+    "id": "oxford-balliol",
+    "title": "A first term of Greek classics",
+    "curator": "Balliol College, Oxford",
+    "badge": "Preparatory reading",
+    "region": "Greece",
+    "description": "Begin with a homecoming, then two very different visions of the Greek stage.",
+    "source": "https://www.balliol.ox.ac.uk/admissions/undergraduate-admissions/classics-reading-lists",
+    "version": "2026-09-21",
+    "scope": "The three whole works assigned in translation before arrival in Balliol’s July 2026 guidance. This is a specific preparation sequence, not the Oxford degree or every Mods assignment.",
+    "items": [
+      {
+        "title": "The Odyssey",
+        "bookIds": [
+          "09921623539b"
+        ],
+        "note": "Read the whole poem in translation; Greek-language preparation additionally specifies books 9 and 12.",
+        "extent": "whole work",
+        "id": "oxford-balliol-1"
+      },
+      {
+        "title": "Bacchae",
+        "bookIds": [
+          "c57816976d75"
+        ],
+        "note": "Read Bacchae, not the other plays in this volume. Greek preparation specifies lines 1–368.",
+        "extent": "component",
+        "id": "oxford-balliol-2"
+      },
+      {
+        "title": "Lysistrata",
+        "bookIds": [
+          "708fc173225e"
+        ],
+        "note": "Read Lysistrata, not the entire collected edition. Greek preparation specifies lines 1–253.",
+        "extent": "component",
+        "id": "oxford-balliol-3"
+      }
+    ]
+  },
+  {
+    "id": "eastern-classics",
+    "title": "Eastern classics: an introduction",
+    "curator": "Classics Atlas · from St. John’s",
+    "badge": "Atlas selection",
+    "region": "China · India · Japan",
+    "description": "Follow a route through ethical questions, spiritual inquiry, and the literature of everyday life.",
+    "source": "https://www.sjc.edu/academic-programs/graduate/masters-eastern-classics/reading-lists",
+    "version": "2026-09-21",
+    "scope": "Nine Atlas-selected entry points from the published program. This shorter route is our adaptation; the college’s own public list is also selective.",
+    "items": [
+      {
+        "title": "Analects",
+        "bookIds": [
+          "37e3f8924149"
+        ],
+        "note": "Short conversations reward slow reading; keep track of recurring ideas about conduct.",
+        "extent": "whole work",
+        "id": "eastern-classics-1"
+      },
+      {
+        "title": "Mencius",
+        "bookIds": [
+          "f1a3697281a1"
+        ],
+        "note": "Compare the arguments about human nature with the Analects.",
+        "extent": "whole work",
+        "id": "eastern-classics-2"
+      },
+      {
+        "title": "The Book of Chuang Tzu",
+        "bookIds": [
+          "d060b7f73b0f"
+        ],
+        "note": "Read the parables as challenges to familiar distinctions.",
+        "extent": "whole work",
+        "id": "eastern-classics-3"
+      },
+      {
+        "title": "Tao Te Ching",
+        "bookIds": [
+          "f6df9652392a"
+        ],
+        "note": "Try a few chapters at a time and compare their language.",
+        "extent": "whole work",
+        "id": "eastern-classics-4"
+      },
+      {
+        "title": "The Bhagavad Gita",
+        "bookIds": [
+          "2e7fdd1d1482"
+        ],
+        "note": "A dialogue about action and obligation within a much larger epic.",
+        "extent": "component",
+        "id": "eastern-classics-5"
+      },
+      {
+        "title": "The Lotus Sutra",
+        "bookIds": [],
+        "note": "Catalog match pending; consult the program source.",
+        "extent": "whole work",
+        "id": "eastern-classics-6"
+      },
+      {
+        "title": "The Tale of the Heike",
+        "bookIds": [
+          "5bc2b8a65668"
+        ],
+        "note": "Follow the changing fortunes of families and political power.",
+        "extent": "whole work",
+        "id": "eastern-classics-7"
+      },
+      {
+        "title": "The Pillow Book",
+        "bookIds": [
+          "47116f264c6e"
+        ],
+        "note": "Read lists and observations alongside the longer narrative works.",
+        "extent": "whole work",
+        "id": "eastern-classics-8"
+      },
+      {
+        "title": "The Tale of Genji",
+        "bookIds": [
+          "5d12c59b73dc"
+        ],
+        "note": "Allow a longer reading period and use the edition’s character guide.",
+        "extent": "whole work",
+        "id": "eastern-classics-9"
+      }
+    ]
+  },
+  {
+    "id": "middle-eastern",
+    "title": "Epic, poetry and philosophy of the Middle East",
+    "curator": "Classics Atlas · from St. John’s",
+    "badge": "Atlas selection",
+    "region": "Middle East",
+    "description": "Move from epic journeys to questions of knowledge, community and spiritual life.",
+    "source": "https://www.sjc.edu/academic-programs/graduate/master-arts-middle-eastern-classics/reading-lists",
+    "version": "2026-09-21",
+    "scope": "Six Atlas-selected entry points, not the complete graduate program. Unmatched works are retained for future catalog expansion.",
+    "items": [
+      {
+        "title": "The Epic of Gilgamesh",
+        "bookIds": [
+          "62b9b51109ff"
+        ],
+        "note": "Start with the central friendship and the search for a response to mortality.",
+        "extent": "whole work",
+        "id": "middle-eastern-1"
+      },
+      {
+        "title": "Shahnameh",
+        "bookIds": [
+          "e5c99c209601"
+        ],
+        "note": "Use the genealogy and introduction to navigate a long epic.",
+        "extent": "whole work",
+        "id": "middle-eastern-2"
+      },
+      {
+        "title": "Rubaiyat",
+        "bookIds": [
+          "c5e230253773"
+        ],
+        "note": "Notice the translator and the selection: English versions differ substantially.",
+        "extent": "whole work",
+        "id": "middle-eastern-3"
+      },
+      {
+        "title": "The Conference of the Birds",
+        "bookIds": [
+          "7fff2ff67581"
+        ],
+        "note": "Follow the frame journey and the stories embedded within it.",
+        "extent": "whole work",
+        "id": "middle-eastern-4"
+      },
+      {
+        "title": "Hayy ibn Yaqzan",
+        "bookIds": [],
+        "note": "Catalog match pending.",
+        "extent": "whole work",
+        "id": "middle-eastern-5"
+      },
+      {
+        "title": "The Muqaddimah",
+        "bookIds": [],
+        "note": "Catalog match pending.",
+        "extent": "whole work",
+        "id": "middle-eastern-6"
+      }
+    ]
+  },
+  {
+    "id": "harvard-ancient",
+    "title": "Ancient masterpieces, across cultures",
+    "curator": "Harvard · public course outline",
+    "badge": "Course outline",
+    "region": "World",
+    "description": "Travel between foundational stories and the audiences that gave them new lives.",
+    "source": "https://pll.harvard.edu/course/ancient-masterpieces-world-literature",
+    "version": "2026-09-21",
+    "scope": "All six topics in the published outline. Exact assigned passages are not specified; progress records a topic, not completion of the entire featured book.",
+    "items": [
+      {
+        "title": "Introduction: Goethe and world literature",
+        "bookIds": [],
+        "note": "Introductory topic; the public outline does not identify a specific assigned Goethe text.",
+        "extent": "topic",
+        "id": "harvard-ancient-1"
+      },
+      {
+        "title": "The Epic of Gilgamesh",
+        "bookIds": [
+          "62b9b51109ff"
+        ],
+        "note": "",
+        "extent": "topic",
+        "id": "harvard-ancient-2"
+      },
+      {
+        "title": "The Odyssey",
+        "bookIds": [
+          "09921623539b"
+        ],
+        "note": "",
+        "extent": "topic",
+        "id": "harvard-ancient-3"
+      },
+      {
+        "title": "The 1001 Nights",
+        "bookIds": [
+          "1feea7ebc200"
+        ],
+        "note": "",
+        "extent": "topic",
+        "id": "harvard-ancient-4"
+      },
+      {
+        "title": "The Tale of Genji",
+        "bookIds": [
+          "5d12c59b73dc"
+        ],
+        "note": "",
+        "extent": "topic",
+        "id": "harvard-ancient-5"
+      },
+      {
+        "title": "The Lusiads",
+        "bookIds": [
+          "cabc9f64af16"
+        ],
+        "note": "",
+        "extent": "topic",
+        "id": "harvard-ancient-6"
+      }
+    ]
+  },
+  {
+    "id": "harvard-chinax",
+    "title": "Five views of modern China",
+    "curator": "Harvard · David Wang",
+    "badge": "Course selection",
+    "region": "China",
+    "description": "Five authors provide different ways into modern Chinese life and literary expression.",
+    "source": "https://pll.harvard.edu/course/chinax-book-club-five-authors-five-books-five-views-china",
+    "version": "2026-09-21",
+    "scope": "All five featured books. The Harvard course page marks this course archived/closed. This is not the Harvard East Asian Studies degree.",
+    "items": [
+      {
+        "title": "China in Ten Words",
+        "bookIds": [
+          "path-4bb3ad080e70"
+        ],
+        "note": "Yu Hua · ISBN 9780307739797.",
+        "extent": "whole work",
+        "id": "harvard-chinax-1"
+      },
+      {
+        "title": "Red Sorghum",
+        "bookIds": [
+          "path-86219f190f43"
+        ],
+        "note": "Mo Yan · ISBN 9780140168549.",
+        "extent": "whole work",
+        "id": "harvard-chinax-2"
+      },
+      {
+        "title": "Lenin’s Kisses",
+        "bookIds": [
+          "path-3709d47e7e5b"
+        ],
+        "note": "Yan Lianke · ISBN 9780802121776.",
+        "extent": "whole work",
+        "id": "harvard-chinax-3"
+      },
+      {
+        "title": "Waiting",
+        "bookIds": [
+          "path-97f2d26cf7ac"
+        ],
+        "note": "Ha Jin · ISBN 9780375706417.",
+        "extent": "whole work",
+        "id": "harvard-chinax-4"
+      },
+      {
+        "title": "The Song of Everlasting Sorrow",
+        "bookIds": [
+          "path-8aedde7d2b90"
+        ],
+        "note": "Wang Anyi · ISBN 9780231143431.",
+        "extent": "whole work",
+        "id": "harvard-chinax-5"
+      }
+    ]
+  },
+  {
+    "id": "yale-quixote",
+    "title": "Read Don Quixote with Yale",
+    "curator": "Yale · Roberto González Echevarría",
+    "badge": "Course syllabus",
+    "region": "Spain",
+    "description": "A chapter-by-chapter companion to an extraordinary journey, with the original lectures one click away.",
+    "source": "https://oyc.yale.edu/spanish-and-portuguese/span-300",
+    "version": "2026-09-21",
+    "scope": "Fall 2009 course. Repeated lecture sessions are grouped into reading units; all three supplementary readings are retained. Source specifies John Rutherford’s Don Quixote translation.",
+    "items": [
+      {
+        "title": "Part I: front matter and chapters 1–10",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-1"
+      },
+      {
+        "title": "Part I: chapters 11–20",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-2"
+      },
+      {
+        "title": "Part I: chapters 21–26",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-3"
+      },
+      {
+        "title": "Part I: chapters 27–35",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-4"
+      },
+      {
+        "title": "Part I: chapters 36–52",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-5"
+      },
+      {
+        "title": "Part II: introduction, front matter and chapters 1–11",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-6"
+      },
+      {
+        "title": "Part II: chapters 12–21",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-7"
+      },
+      {
+        "title": "Part II: chapters 22–35",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-8"
+      },
+      {
+        "title": "Part II: chapters 36–53",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-9"
+      },
+      {
+        "title": "Part II: chapters 54–70",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-10"
+      },
+      {
+        "title": "Part II: chapters 71–74",
+        "bookIds": [
+          "a57ba14e6a7f"
+        ],
+        "note": "Chapter groups follow the published sessions; use the source for lectures and original assignments.",
+        "extent": "excerpt",
+        "id": "yale-quixote-11"
+      },
+      {
+        "title": "Four Exemplary Stories",
+        "bookIds": [],
+        "note": "Supplementary reading; consult the original course for the assigned stories.",
+        "extent": "excerpt",
+        "id": "yale-quixote-12"
+      },
+      {
+        "title": "Cervantes’ Don Quixote: A Casebook",
+        "bookIds": [],
+        "note": "Secondary reading; edited by Roberto González Echevarría.",
+        "extent": "resource",
+        "id": "yale-quixote-13"
+      },
+      {
+        "title": "Imperial Spain, 1469–1716",
+        "bookIds": [],
+        "note": "Secondary reading; J. H. Elliott.",
+        "extent": "resource",
+        "id": "yale-quixote-14"
+      }
+    ]
+  },
+  {
+    "id": "latin-american",
+    "title": "Five routes into Latin American literature",
+    "curator": "John King · Five Books",
+    "badge": "Expert selection",
+    "region": "Latin America",
+    "description": "A compact selection that moves between labyrinths, family histories and lives at the margins.",
+    "source": "https://fivebooks.com/best-books/latin-american-novels-john-king/",
+    "version": "2026-09-21",
+    "scope": "The five works selected by John King for Five Books. Reading notes are original Atlas guidance; the interview is linked, not reproduced.",
+    "items": [
+      {
+        "title": "Labyrinths",
+        "bookIds": [
+          "path-2d954b65903b"
+        ],
+        "note": "Jorge Luis Borges.",
+        "extent": "whole work",
+        "id": "latin-american-1"
+      },
+      {
+        "title": "One Hundred Years of Solitude",
+        "bookIds": [
+          "world-fada12986ba1"
+        ],
+        "note": "Keep a family tree nearby; repeated names are part of the experience.",
+        "extent": "whole work",
+        "id": "latin-american-2"
+      },
+      {
+        "title": "Conversation in the Cathedral",
+        "bookIds": [
+          "path-e5e7bed2f2c7"
+        ],
+        "note": "Mario Vargas Llosa.",
+        "extent": "whole work",
+        "id": "latin-american-3"
+      },
+      {
+        "title": "The Hour of the Star",
+        "bookIds": [
+          "1110b16a09cc"
+        ],
+        "note": "A short work that invites questions about who gets to tell another person’s story.",
+        "extent": "whole work",
+        "id": "latin-american-4"
+      },
+      {
+        "title": "2666",
+        "bookIds": [
+          "path-b460d275e678"
+        ],
+        "note": "Roberto Bolaño.",
+        "extent": "whole work",
+        "id": "latin-american-5"
+      }
+    ]
+  },
+  {
+    "id": "african-novels",
+    "title": "African novels that stay with you",
+    "curator": "Blessing Musariri · Five Books",
+    "badge": "Expert selection",
+    "region": "Africa",
+    "description": "A writer’s personal selection, including an anthology of women’s writing.",
+    "source": "https://fivebooks.com/category/world/africa/",
+    "version": "2026-09-21",
+    "scope": "All five selections listed for Blessing Musariri in the Five Books Africa directory. A personal selection, not a comprehensive African canon.",
+    "items": [
+      {
+        "title": "The Famished Road",
+        "bookIds": [
+          "path-991bc25a049c"
+        ],
+        "note": "Ben Okri.",
+        "extent": "whole work",
+        "id": "african-novels-1"
+      },
+      {
+        "title": "The Memory of Love",
+        "bookIds": [
+          "path-8aa9ec9f1401"
+        ],
+        "note": "Aminatta Forna.",
+        "extent": "whole work",
+        "id": "african-novels-2"
+      },
+      {
+        "title": "Burma Boy",
+        "bookIds": [
+          "path-021842317c0f"
+        ],
+        "note": "Biyi Bandele.",
+        "extent": "whole work",
+        "id": "african-novels-3"
+      },
+      {
+        "title": "Half of a Yellow Sun",
+        "bookIds": [
+          "path-8926fa91637b"
+        ],
+        "note": "Chimamanda Ngozi Adichie.",
+        "extent": "whole work",
+        "id": "african-novels-4"
+      },
+      {
+        "title": "Opening Spaces",
+        "bookIds": [
+          "path-46b1057a57db"
+        ],
+        "note": "Yvonne Vera, editor. An anthology of contemporary African women’s writing;",
+        "extent": "whole work",
+        "id": "african-novels-5"
+      }
+    ]
+  },
+  {
+    "id": "china-four",
+    "title": "China’s four great novels",
+    "curator": "Classics Atlas",
+    "badge": "Atlas original",
+    "region": "China",
+    "description": "Four ambitious novels, with enough room to follow each at your own pace.",
+    "source": "https://en.wikipedia.org/wiki/Classic_Chinese_Novels",
+    "version": "2026-09-21",
+    "scope": "An Atlas sequence. Editions and abridgments are explicit, and the five Dream of the Red Chamber volumes remain separate shelf records.",
+    "items": [
+      {
+        "title": "Romance of the Three Kingdoms",
+        "bookIds": [
+          "1ed729c458f3"
+        ],
+        "note": "Check whether your edition is complete or abridged.",
+        "extent": "whole work",
+        "id": "china-four-1"
+      },
+      {
+        "title": "Water Margin",
+        "bookIds": [
+          "world-087cdb477866"
+        ],
+        "note": "Keep track of the growing cast; consult the introduction about versions.",
+        "extent": "whole work",
+        "id": "china-four-2"
+      },
+      {
+        "title": "Journey to the West",
+        "bookIds": [
+          "8d06d5c3ac44"
+        ],
+        "note": "This catalog edition is an abridgment. Completing it does not mean reading the full novel.",
+        "extent": "abridgment",
+        "id": "china-four-3"
+      },
+      {
+        "title": "Dream of the Red Chamber",
+        "bookIds": [
+          "fc985c45e23b",
+          "61f2b304edbe",
+          "0570787dde7c",
+          "403fb8ce4de7",
+          "1d7ecebde0ea"
+        ],
+        "note": "The catalog presents the work in five volumes; choose the volume you are reading.",
+        "extent": "whole work",
+        "id": "china-four-4"
+      }
+    ]
+  },
+  {
+    "id": "small-beginnings",
+    "title": "Start small: ideas that travel",
+    "curator": "Classics Atlas",
+    "badge": "Atlas original",
+    "region": "World",
+    "description": "Three works suited to reading in small passages, with time left for reflection.",
+    "source": "",
+    "version": "2026-09-21",
+    "scope": "Original Atlas curation; “small” refers to passage-based reading, not a verified page-count limit.",
+    "items": [
+      {
+        "title": "Tao Te Ching",
+        "bookIds": [
+          "f6df9652392a"
+        ],
+        "note": "Choose a few chapters; note an image or question to revisit.",
+        "extent": "whole work",
+        "id": "small-beginnings-1"
+      },
+      {
+        "title": "The Analects",
+        "bookIds": [
+          "37e3f8924149"
+        ],
+        "note": "Compare passages about learning, friendship and conduct.",
+        "extent": "whole work",
+        "id": "small-beginnings-2"
+      },
+      {
+        "title": "Meditations",
+        "bookIds": [
+          "440be2c9b8e7"
+        ],
+        "note": "Treat the entries as private exercises rather than a single continuous argument.",
+        "extent": "whole work",
+        "id": "small-beginnings-3"
+      }
+    ]
+  }
+]

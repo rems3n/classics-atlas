@@ -1,0 +1,19 @@
+{
+  "name": "classics-atlas",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Portable literary atlas with local-first reading shelves",
+  "scripts": {
+    "start": "node server.cjs",
+    "build": "python3 scripts/build.py",
+    "test": "node --test tests/core.test.cjs tests/accounts.test.cjs",
+    "test:ui": "node tests/ui.test.cjs",
+    "test:reader": "node tests/reader-browser.test.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  },
+  "engines": {
+    "node": ">=24.14.0"
+  }
+}

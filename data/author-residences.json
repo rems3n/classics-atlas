@@ -1,0 +1,2930 @@
+{
+  "Anton Chekhov": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Melikhovo",
+    "source": "https://www.wikidata.org/wiki/Q5685",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q564901"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Penelope Lively": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q262274",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Steinbeck": {
+    "countries": [
+      "USA"
+    ],
+    "location": "John Steinbeck House",
+    "source": "https://www.wikidata.org/wiki/Q39212",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q6258989"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Saul Bellow": {
+    "countries": [
+      "CAN",
+      "USA"
+    ],
+    "location": "Montreal; Brookline",
+    "source": "https://www.wikidata.org/wiki/Q83059",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q340",
+      "https://www.wikidata.org/wiki/Q49142"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Benjamin Constant": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q123089",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Mark Twain": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Mark Twain House; Mark Twain Birthplace State Historic Site",
+    "source": "https://www.wikidata.org/wiki/Q7245",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q4165331",
+      "https://www.wikidata.org/wiki/Q6770077"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Joris-Karl Huysmans": {
+    "countries": [
+      "NLD"
+    ],
+    "location": "Tilburg; Amsterdam; Haarlem; Delft; The Hague",
+    "source": "https://www.wikidata.org/wiki/Q210798",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q9871",
+      "https://www.wikidata.org/wiki/Q727",
+      "https://www.wikidata.org/wiki/Q9920",
+      "https://www.wikidata.org/wiki/Q690",
+      "https://www.wikidata.org/wiki/Q36600"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Marcel Proust": {
+    "countries": [
+      "FRA",
+      "NLD"
+    ],
+    "location": "Paris; Dordrecht",
+    "source": "https://www.wikidata.org/wiki/Q7199",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q26421"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Edith Wharton": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City; The Mount",
+    "source": "https://www.wikidata.org/wiki/Q276032",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60",
+      "https://www.wikidata.org/wiki/Q7752461"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Anne Brontë": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Yorkshire",
+    "source": "https://www.wikidata.org/wiki/Q44520",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q163"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Lewis Carroll": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "England",
+    "source": "https://www.wikidata.org/wiki/Q38082",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Arthur Miller": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City",
+    "source": "https://www.wikidata.org/wiki/Q80596",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Shakespeare": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Stratford-upon-Avon",
+    "source": "https://www.wikidata.org/wiki/Q692",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q189288"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Robert Louis Stevenson": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "New Town; Bournemouth",
+    "source": "https://www.wikidata.org/wiki/Q1512",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q590710",
+      "https://www.wikidata.org/wiki/Q170478"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Henry James": {
+    "countries": [
+      "GBR",
+      "FRA"
+    ],
+    "location": "Lamb House; Paris",
+    "source": "https://www.wikidata.org/wiki/Q170509",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q6481033",
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charles Dickens": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Charles Dickens Museum; Tavistock House; Rochester",
+    "source": "https://www.wikidata.org/wiki/Q5686",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2723633",
+      "https://www.wikidata.org/wiki/Q7689129",
+      "https://www.wikidata.org/wiki/Q507517"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Wallace": {
+    "countries": [
+      "CAN",
+      "USA"
+    ],
+    "location": "Wallace Stegner House; Hopkins Marine Station",
+    "source": "https://www.wikidata.org/wiki/Q203460",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q117662376",
+      "https://www.wikidata.org/wiki/Q14682339"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Franz Kafka": {
+    "countries": [
+      "CZE"
+    ],
+    "location": "Prague",
+    "source": "https://www.wikidata.org/wiki/Q905",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1085"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Wallace Stegner": {
+    "countries": [
+      "CAN",
+      "USA"
+    ],
+    "location": "Wallace Stegner House; Hopkins Marine Station",
+    "source": "https://www.wikidata.org/wiki/Q203460",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q117662376",
+      "https://www.wikidata.org/wiki/Q14682339"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "George Orwell": {
+    "countries": [
+      "GBR",
+      "FRA",
+      "IND"
+    ],
+    "location": "London; Paris; France; Motihari",
+    "source": "https://www.wikidata.org/wiki/Q3335",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q142",
+      "https://www.wikidata.org/wiki/Q1774606"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Leo Tolstoy": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Yapeeva Street; Dzerzhinsky Street, 11/2; Tolstoy Urama, 25/68; Pyatnitskaya Street; Lev Tolstoy Street; Denezhnyy Lane; Russian Empire",
+    "source": "https://www.wikidata.org/wiki/Q7243",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q16274476",
+      "https://www.wikidata.org/wiki/Q55868448",
+      "https://www.wikidata.org/wiki/Q56834344",
+      "https://www.wikidata.org/wiki/Q4385954",
+      "https://www.wikidata.org/wiki/Q4472955",
+      "https://www.wikidata.org/wiki/Q4157894",
+      "https://www.wikidata.org/wiki/Q34266"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Friedrich Nietzsche": {
+    "countries": [
+      "DEU",
+      "CHE"
+    ],
+    "location": "Naumburg; Bonn; Leipzig; Basel; Weimar; Schulpforte",
+    "source": "https://www.wikidata.org/wiki/Q9358",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q15986",
+      "https://www.wikidata.org/wiki/Q586",
+      "https://www.wikidata.org/wiki/Q2079",
+      "https://www.wikidata.org/wiki/Q78",
+      "https://www.wikidata.org/wiki/Q3955",
+      "https://www.wikidata.org/wiki/Q1492092"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Henry Newman": {
+    "countries": [
+      "GBR",
+      "ITA"
+    ],
+    "location": "Edgbaston; Birmingham; Rome",
+    "source": "https://www.wikidata.org/wiki/Q44490",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3047556",
+      "https://www.wikidata.org/wiki/Q2256",
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Milton": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Chalfont St Giles",
+    "source": "https://www.wikidata.org/wiki/Q79759",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1170470"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas Wentworth Higginson": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Worcester",
+    "source": "https://www.wikidata.org/wiki/Q707838",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q49179"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jules Verne": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Nantes; Paris; Amiens; Maison de Jules Verne",
+    "source": "https://www.wikidata.org/wiki/Q33977",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q12191",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q41604",
+      "https://www.wikidata.org/wiki/Q2415168"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Nellie Bly": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City; Roosevelt Island",
+    "source": "https://www.wikidata.org/wiki/Q230299",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60",
+      "https://www.wikidata.org/wiki/Q909777"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Maurice Leblanc": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Rouen; Paris; Étretat",
+    "source": "https://www.wikidata.org/wiki/Q314993",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q30974",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q290936"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Epicurus": {
+    "countries": [
+      "GRC"
+    ],
+    "location": "Gargettos; Classical Athens",
+    "source": "https://www.wikidata.org/wiki/Q43216",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q12874917",
+      "https://www.wikidata.org/wiki/Q844930"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Aristotle": {
+    "countries": [
+      "GRC",
+      "TUR"
+    ],
+    "location": "Athens; Assos; Chalcis",
+    "source": "https://www.wikidata.org/wiki/Q868",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1524",
+      "https://www.wikidata.org/wiki/Q744631",
+      "https://www.wikidata.org/wiki/Q21235810"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Benvenuto Cellini": {
+    "countries": [
+      "ITA",
+      "FRA"
+    ],
+    "location": "Florence; Rome; Mantua; Fontainebleau; Paris; Venice; Lyon; Bologna; Naples; Pisa; Siena",
+    "source": "https://www.wikidata.org/wiki/Q190116",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2044",
+      "https://www.wikidata.org/wiki/Q220",
+      "https://www.wikidata.org/wiki/Q6247",
+      "https://www.wikidata.org/wiki/Q182872",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q641",
+      "https://www.wikidata.org/wiki/Q456",
+      "https://www.wikidata.org/wiki/Q1891",
+      "https://www.wikidata.org/wiki/Q2634",
+      "https://www.wikidata.org/wiki/Q13375",
+      "https://www.wikidata.org/wiki/Q2751"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charles Darwin": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Q2412935",
+    "source": "https://www.wikidata.org/wiki/Q1035",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2412935"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Guy de Maupassant": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Q124356325",
+    "source": "https://www.wikidata.org/wiki/Q9327",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q124356325"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alessandro Manzoni": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Milan",
+    "source": "https://www.wikidata.org/wiki/Q1064",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q490"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Hannah Arendt": {
+    "countries": [
+      "DEU",
+      "USA",
+      "RUS"
+    ],
+    "location": "Hanover; New York City; Marburg; Heidelberg; Königsberg; Berlin; Lindener Marktplatz 2, Hannover",
+    "source": "https://www.wikidata.org/wiki/Q60025",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1715",
+      "https://www.wikidata.org/wiki/Q60",
+      "https://www.wikidata.org/wiki/Q3869",
+      "https://www.wikidata.org/wiki/Q2966",
+      "https://www.wikidata.org/wiki/Q4120832",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q18023391"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Herman Melville": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City; Herman Melville House",
+    "source": "https://www.wikidata.org/wiki/Q4985",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60",
+      "https://www.wikidata.org/wiki/Q5740045"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Stan Lee": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Los Angeles",
+    "source": "https://www.wikidata.org/wiki/Q181900",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q65"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jack Kirby": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Manhattan; New York City",
+    "source": "https://www.wikidata.org/wiki/Q311607",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q11299",
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alexandre Dumas": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "former 2nd arrondissement of Paris",
+    "source": "https://www.wikidata.org/wiki/Q38337",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2845753"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Margaret Cavendish": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Bolsover Castle",
+    "source": "https://www.wikidata.org/wiki/Q242640",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2968590"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Winston Churchill": {
+    "countries": [
+      "IRL",
+      "GBR"
+    ],
+    "location": "Dublin; Blenheim Palace; London",
+    "source": "https://www.wikidata.org/wiki/Q8016",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1761",
+      "https://www.wikidata.org/wiki/Q208181",
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Joseph Smith Jr.": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Newel K. Whitney Store",
+    "source": "https://www.wikidata.org/wiki/Q47102",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q138402991"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Gustave Flaubert": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Reims; Canteleu; Paris; Rouen",
+    "source": "https://www.wikidata.org/wiki/Q43444",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q41876",
+      "https://www.wikidata.org/wiki/Q744205",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q30974"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Henrik Ibsen": {
+    "countries": [
+      "NOR",
+      "DNK",
+      "DEU",
+      "ITA",
+      "SWE",
+      "AUT",
+      "HUN"
+    ],
+    "location": "Skien; Bergen; Copenhagen; Berlin; Venice; Rome; Kingdom of Bavaria; Munich; Dresden; Stockholm; Gossensass; Trondheim; Molde; Vienna; Budapest",
+    "source": "https://www.wikidata.org/wiki/Q36661",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2272",
+      "https://www.wikidata.org/wiki/Q26793",
+      "https://www.wikidata.org/wiki/Q1748",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q641",
+      "https://www.wikidata.org/wiki/Q220",
+      "https://www.wikidata.org/wiki/Q154195",
+      "https://www.wikidata.org/wiki/Q1726",
+      "https://www.wikidata.org/wiki/Q1731",
+      "https://www.wikidata.org/wiki/Q1754",
+      "https://www.wikidata.org/wiki/Q992211",
+      "https://www.wikidata.org/wiki/Q25804",
+      "https://www.wikidata.org/wiki/Q10587563",
+      "https://www.wikidata.org/wiki/Q1741",
+      "https://www.wikidata.org/wiki/Q1781"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Walter Scott": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Abbotsford House; Scotland",
+    "source": "https://www.wikidata.org/wiki/Q79025",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q246076",
+      "https://www.wikidata.org/wiki/Q22"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Graham Greene": {
+    "countries": [
+      "GBR",
+      "ESP"
+    ],
+    "location": "Berkhamsted; Monastery of Santa María a Real of Oseira",
+    "source": "https://www.wikidata.org/wiki/Q128560",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q19784",
+      "https://www.wikidata.org/wiki/Q1466868"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Adalbert Stifter": {
+    "countries": [
+      "CZE",
+      "AUT"
+    ],
+    "location": "Q31030144; Vienna",
+    "source": "https://www.wikidata.org/wiki/Q168542",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q31030144",
+      "https://www.wikidata.org/wiki/Q1741"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "August Strindberg": {
+    "countries": [
+      "SWE",
+      "DEU"
+    ],
+    "location": "Sundhetskollegiets hus; Stockholm; Uppsala; Berlin",
+    "source": "https://www.wikidata.org/wiki/Q7724",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q10683773",
+      "https://www.wikidata.org/wiki/Q1754",
+      "https://www.wikidata.org/wiki/Q25286",
+      "https://www.wikidata.org/wiki/Q64"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "H. P. Lovecraft": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Providence",
+    "source": "https://www.wikidata.org/wiki/Q169566",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q18383"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jack London": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Sonoma",
+    "source": "https://www.wikidata.org/wiki/Q45765",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q11592"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Karl Marx": {
+    "countries": [
+      "GBR",
+      "DEU",
+      "FRA",
+      "BEL"
+    ],
+    "location": "London; Trier; Berlin; Paris; The Swan; Cologne",
+    "source": "https://www.wikidata.org/wiki/Q9061",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84",
+      "https://www.wikidata.org/wiki/Q3138",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q3279995",
+      "https://www.wikidata.org/wiki/Q365"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Horace Walpole": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Strawberry Hill House",
+    "source": "https://www.wikidata.org/wiki/Q309903",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q7622436"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Fernando de Rojas": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Kingdom of France",
+    "source": "https://www.wikidata.org/wiki/Q353841",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q70972"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Stefan Zweig": {
+    "countries": [
+      "AUT",
+      "DEU",
+      "BRA"
+    ],
+    "location": "Salzburg; Vienna; Berlin; Rio de Janeiro",
+    "source": "https://www.wikidata.org/wiki/Q78491",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q34713",
+      "https://www.wikidata.org/wiki/Q1741",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q8678"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Marcus Tullius Cicero": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Rome",
+    "source": "https://www.wikidata.org/wiki/Q1541",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Julius Caesar": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Rome",
+    "source": "https://www.wikidata.org/wiki/Q1048",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Arthur Rimbaud": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Charleville",
+    "source": "https://www.wikidata.org/wiki/Q493",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2960786"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Vladimir Nabokov": {
+    "countries": [
+      "CHE",
+      "USA",
+      "RUS",
+      "DEU",
+      "FRA",
+      "ITA",
+      "GBR",
+      "CZE"
+    ],
+    "location": "Montreux; Ashland; Saint Petersburg; Berlin; Paris; Cannes; Menton; Cambridge; Prague; Antibes; Fréjus; Manhattan; Wellesley; Ithaca; Switzerland",
+    "source": "https://www.wikidata.org/wiki/Q36591",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q69354",
+      "https://www.wikidata.org/wiki/Q450100",
+      "https://www.wikidata.org/wiki/Q656",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q39984",
+      "https://www.wikidata.org/wiki/Q180083",
+      "https://www.wikidata.org/wiki/Q350",
+      "https://www.wikidata.org/wiki/Q1085",
+      "https://www.wikidata.org/wiki/Q126898",
+      "https://www.wikidata.org/wiki/Q215155",
+      "https://www.wikidata.org/wiki/Q11299",
+      "https://www.wikidata.org/wiki/Q533317",
+      "https://www.wikidata.org/wiki/Q217346",
+      "https://www.wikidata.org/wiki/Q39"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Terence": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Ancient Rome",
+    "source": "https://www.wikidata.org/wiki/Q172048",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1747689"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas Paine": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q126462",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Horace": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Rome",
+    "source": "https://www.wikidata.org/wiki/Q6197",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Blake": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Broadwick Street; Poland Street; Felpham; South Molton Street; Battersea; London",
+    "source": "https://www.wikidata.org/wiki/Q41513",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q4972570",
+      "https://www.wikidata.org/wiki/Q23647169",
+      "https://www.wikidata.org/wiki/Q2227185",
+      "https://www.wikidata.org/wiki/Q7567974",
+      "https://www.wikidata.org/wiki/Q1138912",
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Keats": {
+    "countries": [
+      "GBR",
+      "IRL",
+      "ITA"
+    ],
+    "location": "England; Ireland; Scotland; Geographical region of Italy",
+    "source": "https://www.wikidata.org/wiki/Q82083",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21",
+      "https://www.wikidata.org/wiki/Q22890",
+      "https://www.wikidata.org/wiki/Q22",
+      "https://www.wikidata.org/wiki/Q3155864"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jean-Jacques Rousseau": {
+    "countries": [
+      "ITA",
+      "GBR"
+    ],
+    "location": "Turin; Staffordshire",
+    "source": "https://www.wikidata.org/wiki/Q6527",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q495",
+      "https://www.wikidata.org/wiki/Q23105"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Oscar Wilde": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "England",
+    "source": "https://www.wikidata.org/wiki/Q30875",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charles W. Chesnutt": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Cleveland",
+    "source": "https://www.wikidata.org/wiki/Q506757",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q37320"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Johann Peter Eckermann": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Empelde",
+    "source": "https://www.wikidata.org/wiki/Q58018",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1339128"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "F. Scott Fitzgerald": {
+    "countries": [
+      "USA",
+      "FRA"
+    ],
+    "location": "Saint Paul; Buffalo; Princeton; Hollywood; Paris; Antibes",
+    "source": "https://www.wikidata.org/wiki/Q93354",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q28848",
+      "https://www.wikidata.org/wiki/Q40435",
+      "https://www.wikidata.org/wiki/Q138518",
+      "https://www.wikidata.org/wiki/Q34006",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q126898"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Denis Diderot": {
+    "countries": [
+      "FRA",
+      "RUS"
+    ],
+    "location": "Paris; Saint Petersburg",
+    "source": "https://www.wikidata.org/wiki/Q448",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q656"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "James Agee": {
+    "countries": [
+      "USA"
+    ],
+    "location": "United States",
+    "source": "https://www.wikidata.org/wiki/Q352963",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q30"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas Mann": {
+    "countries": [
+      "DEU",
+      "USA"
+    ],
+    "location": "Munich; Princeton",
+    "source": "https://www.wikidata.org/wiki/Q37030",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1726",
+      "https://www.wikidata.org/wiki/Q138518"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Evelyn Waugh": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q107002",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Gerald of Wales": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Wales",
+    "source": "https://www.wikidata.org/wiki/Q357824",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q25"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "David Hume": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Scotland",
+    "source": "https://www.wikidata.org/wiki/Q37160",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q22"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Samuel Pepys": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q106143",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "René Descartes": {
+    "countries": [
+      "FRA",
+      "SWE"
+    ],
+    "location": "La Flèche; Poitiers; Stockholm",
+    "source": "https://www.wikidata.org/wiki/Q9191",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q343",
+      "https://www.wikidata.org/wiki/Q6616",
+      "https://www.wikidata.org/wiki/Q1754"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Niccolò Machiavelli": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Italy",
+    "source": "https://www.wikidata.org/wiki/Q1399",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q38"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jawaharlal Nehru": {
+    "countries": [
+      "IND"
+    ],
+    "location": "Prayagraj; New Delhi",
+    "source": "https://www.wikidata.org/wiki/Q1047",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q162442",
+      "https://www.wikidata.org/wiki/Q987"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Dante Alighieri": {
+    "countries": [
+      "ITA",
+      "FRA"
+    ],
+    "location": "Florence; Rome; Ravenna; Bologna; Verona; Arezzo; Forlì; Treviso; Lucca; Paris; Milan; Genoa",
+    "source": "https://www.wikidata.org/wiki/Q1067",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2044",
+      "https://www.wikidata.org/wiki/Q220",
+      "https://www.wikidata.org/wiki/Q13364",
+      "https://www.wikidata.org/wiki/Q1891",
+      "https://www.wikidata.org/wiki/Q2028",
+      "https://www.wikidata.org/wiki/Q13378",
+      "https://www.wikidata.org/wiki/Q13367",
+      "https://www.wikidata.org/wiki/Q5475",
+      "https://www.wikidata.org/wiki/Q13373",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q490",
+      "https://www.wikidata.org/wiki/Q1449"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Harriet Beecher Stowe": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Florida",
+    "source": "https://www.wikidata.org/wiki/Q102513",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q812"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Anna Cora Mowatt": {
+    "countries": [
+      "USA",
+      "GBR"
+    ],
+    "location": "Ritchie Cottage; Twickenham",
+    "source": "https://www.wikidata.org/wiki/Q299545",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q141282734",
+      "https://www.wikidata.org/wiki/Q1143278"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Gregory the Great": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Rome",
+    "source": "https://www.wikidata.org/wiki/Q42827",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Bede": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "England",
+    "source": "https://www.wikidata.org/wiki/Q154938",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Theodor Fontane": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Große Hamburger Straße; Mariannenplatz",
+    "source": "https://www.wikidata.org/wiki/Q76632",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2704118",
+      "https://www.wikidata.org/wiki/Q1642243"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Søren Kierkegaard": {
+    "countries": [
+      "DNK",
+      "DEU"
+    ],
+    "location": "Copenhagen; Berlin",
+    "source": "https://www.wikidata.org/wiki/Q6512",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1748",
+      "https://www.wikidata.org/wiki/Q64"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Johann Wolfgang von Goethe": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Weimar",
+    "source": "https://www.wikidata.org/wiki/Q5879",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3955"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Sophocles": {
+    "countries": [
+      "GRC"
+    ],
+    "location": "Ancient Greece",
+    "source": "https://www.wikidata.org/wiki/Q7235",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q11772"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jane Austen": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "England",
+    "source": "https://www.wikidata.org/wiki/Q36322",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Samuel Butler": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Great Britain",
+    "source": "https://www.wikidata.org/wiki/Q312829",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q23666"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Ovid": {
+    "countries": [
+      "ROU"
+    ],
+    "location": "Constanța",
+    "source": "https://www.wikidata.org/wiki/Q7198",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q79808"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Arthur Schopenhauer": {
+    "countries": [
+      "POL",
+      "DEU"
+    ],
+    "location": "Gdańsk; Hamburg; Frankfurt",
+    "source": "https://www.wikidata.org/wiki/Q38193",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1792",
+      "https://www.wikidata.org/wiki/Q1055",
+      "https://www.wikidata.org/wiki/Q1794"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alexander Pushkin": {
+    "countries": [
+      "RUS",
+      "MDA"
+    ],
+    "location": "Simferopol; Chișinău; Moscow; Yaropolets; Nizhny Novgorod; Kazan; Layış; Ulyanovsk; Yazykov Estate; Orenburg; Saratov; Penza; Bolshoye Boldino; Saint Petersburg",
+    "source": "https://www.wikidata.org/wiki/Q7200",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q19566",
+      "https://www.wikidata.org/wiki/Q21197",
+      "https://www.wikidata.org/wiki/Q649",
+      "https://www.wikidata.org/wiki/Q4538749",
+      "https://www.wikidata.org/wiki/Q891",
+      "https://www.wikidata.org/wiki/Q900",
+      "https://www.wikidata.org/wiki/Q156648",
+      "https://www.wikidata.org/wiki/Q5627",
+      "https://www.wikidata.org/wiki/Q4536541",
+      "https://www.wikidata.org/wiki/Q5337",
+      "https://www.wikidata.org/wiki/Q5332",
+      "https://www.wikidata.org/wiki/Q5540",
+      "https://www.wikidata.org/wiki/Q4092262",
+      "https://www.wikidata.org/wiki/Q656"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Domingo F. Sarmiento": {
+    "countries": [
+      "ARG"
+    ],
+    "location": "Buenos Aires",
+    "source": "https://www.wikidata.org/wiki/Q254041",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1486"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Hans Christian Andersen": {
+    "countries": [
+      "DNK"
+    ],
+    "location": "Denmark; Slagelse; Kong Hans' Vingård; Rolighed; Copenhagen",
+    "source": "https://www.wikidata.org/wiki/Q5673",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q35",
+      "https://www.wikidata.org/wiki/Q3414556",
+      "https://www.wikidata.org/wiki/Q18948121",
+      "https://www.wikidata.org/wiki/Q3361839",
+      "https://www.wikidata.org/wiki/Q1748"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Edgar Allan Poe": {
+    "countries": [
+      "USA",
+      "GBR"
+    ],
+    "location": "Richmond; London; Boston",
+    "source": "https://www.wikidata.org/wiki/Q16867",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q43421",
+      "https://www.wikidata.org/wiki/Q84",
+      "https://www.wikidata.org/wiki/Q100"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Ivan Turgenev": {
+    "countries": [
+      "DEU",
+      "RUS",
+      "FRA"
+    ],
+    "location": "Berlin; Ivan Turgenev museum; France; Saint Petersburg",
+    "source": "https://www.wikidata.org/wiki/Q42831",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q19908749",
+      "https://www.wikidata.org/wiki/Q142",
+      "https://www.wikidata.org/wiki/Q656"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "James Madison": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Washington, D.C.",
+    "source": "https://www.wikidata.org/wiki/Q11813",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q61"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Jay": {
+    "countries": [
+      "USA"
+    ],
+    "location": "John Jay Homestead State Historic Site",
+    "source": "https://www.wikidata.org/wiki/Q310847",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q6241707"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charlotte Lennox": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Scotland",
+    "source": "https://www.wikidata.org/wiki/Q441757",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q22"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Pietro Aretino": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Italy",
+    "source": "https://www.wikidata.org/wiki/Q296272",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q38"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Giovanni Guarini": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Ferrara",
+    "source": "https://www.wikidata.org/wiki/Q542039",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q13362"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Benito Pérez Galdós": {
+    "countries": [
+      "ESP"
+    ],
+    "location": "calle de Hilarión Eslava; Madrid",
+    "source": "https://www.wikidata.org/wiki/Q189869",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q27243291",
+      "https://www.wikidata.org/wiki/Q2807"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Carlo Goldoni": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Venice",
+    "source": "https://www.wikidata.org/wiki/Q165534",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q641"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alexander Griboyedov": {
+    "countries": [
+      "GEO"
+    ],
+    "location": "Tbilisi",
+    "source": "https://www.wikidata.org/wiki/Q15001",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q994"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Seneca": {
+    "countries": [
+      "FRA",
+      "ITA"
+    ],
+    "location": "Corsica; Rome",
+    "source": "https://www.wikidata.org/wiki/Q2054",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q22011067",
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Heraclitus": {
+    "countries": [
+      "TUR"
+    ],
+    "location": "Ephesus",
+    "source": "https://www.wikidata.org/wiki/Q41155",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q47611"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Maxim Gorky": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Nizhny Novgorod; Saint Petersburg; Moscow",
+    "source": "https://www.wikidata.org/wiki/Q12706",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q891",
+      "https://www.wikidata.org/wiki/Q656",
+      "https://www.wikidata.org/wiki/Q649"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "James Jones": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q462629",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "François Rabelais": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "House of Rabelais",
+    "source": "https://www.wikidata.org/wiki/Q131018",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3279531"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Anatole France": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q42443",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "James Baldwin": {
+    "countries": [
+      "FRA",
+      "USA"
+    ],
+    "location": "Saint-Paul-de-Vence; James Baldwin House",
+    "source": "https://www.wikidata.org/wiki/Q273210",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q208260",
+      "https://www.wikidata.org/wiki/Q137261211"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Bertolt Brecht": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Chausseestraße",
+    "source": "https://www.wikidata.org/wiki/Q38757",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1068444"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jaroslav Hašek": {
+    "countries": [
+      "CZE"
+    ],
+    "location": "Lipnice nad Sázavou; Prague",
+    "source": "https://www.wikidata.org/wiki/Q2754",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1025109",
+      "https://www.wikidata.org/wiki/Q1085"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Andrew Carnegie": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Andrew Carnegie Mansion",
+    "source": "https://www.wikidata.org/wiki/Q484265",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q4756547"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas Pynchon": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Manhattan; New York City",
+    "source": "https://www.wikidata.org/wiki/Q35155",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q11299",
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "R. K. Narayan": {
+    "countries": [
+      "IND"
+    ],
+    "location": "Chennai; Mysore",
+    "source": "https://www.wikidata.org/wiki/Q334252",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1352",
+      "https://www.wikidata.org/wiki/Q10086"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Damon Runyon": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Damon Runyon House",
+    "source": "https://www.wikidata.org/wiki/Q714880",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q134904415"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Shirley Jackson": {
+    "countries": [
+      "USA"
+    ],
+    "location": "San Francisco",
+    "source": "https://www.wikidata.org/wiki/Q239910",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q62"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Dean Howells": {
+    "countries": [
+      "USA"
+    ],
+    "location": "William Dean Howells House",
+    "source": "https://www.wikidata.org/wiki/Q526709",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q20708781"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Albert Cohen": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Geneva",
+    "source": "https://www.wikidata.org/wiki/Q123553",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q71"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Herodotus": {
+    "countries": [
+      "TUR",
+      "ITA",
+      "GRC"
+    ],
+    "location": "Halicarnassus; Thurii; Ancient Greece",
+    "source": "https://www.wikidata.org/wiki/Q26825",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q5843680",
+      "https://www.wikidata.org/wiki/Q602564",
+      "https://www.wikidata.org/wiki/Q11772"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "François Guizot": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q157324",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Edward Gibbon": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Putney",
+    "source": "https://www.wikidata.org/wiki/Q161841",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2465220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Washington Irving": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Sunnyside",
+    "source": "https://www.wikidata.org/wiki/Q181667",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q847862"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Clarice Lispector": {
+    "countries": [
+      "USA",
+      "ITA",
+      "CHE",
+      "BRA"
+    ],
+    "location": "Washington, D.C.; Naples; Bern; Rio de Janeiro; Maceió",
+    "source": "https://www.wikidata.org/wiki/Q235955",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q61",
+      "https://www.wikidata.org/wiki/Q2634",
+      "https://www.wikidata.org/wiki/Q70",
+      "https://www.wikidata.org/wiki/Q8678",
+      "https://www.wikidata.org/wiki/Q168888"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jacob A. Riis": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City",
+    "source": "https://www.wikidata.org/wiki/Q379211",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Joanne Greenberg": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Colorado",
+    "source": "https://www.wikidata.org/wiki/Q462860",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1261"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Ibn Fadlān": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Volga Bulgaria",
+    "source": "https://www.wikidata.org/wiki/Q200947",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q185488"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alfred Tennyson": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q173869",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Golding": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Salisbury",
+    "source": "https://www.wikidata.org/wiki/Q44183",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q160642"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Italo Calvino": {
+    "countries": [
+      "CUB",
+      "ITA",
+      "USA",
+      "FRA"
+    ],
+    "location": "Santiago de las Vegas; Sanremo; Turin; Florence; New York City; Havana; Rome; Paris",
+    "source": "https://www.wikidata.org/wiki/Q154756",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1747267",
+      "https://www.wikidata.org/wiki/Q33962",
+      "https://www.wikidata.org/wiki/Q495",
+      "https://www.wikidata.org/wiki/Q2044",
+      "https://www.wikidata.org/wiki/Q60",
+      "https://www.wikidata.org/wiki/Q1563",
+      "https://www.wikidata.org/wiki/Q220",
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Georg Wilhelm Friedrich Hegel": {
+    "countries": [
+      "DEU",
+      "CHE"
+    ],
+    "location": "Berlin; Bern; Frankfurt; Nuremberg; Heidelberg",
+    "source": "https://www.wikidata.org/wiki/Q9235",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q70",
+      "https://www.wikidata.org/wiki/Q1794",
+      "https://www.wikidata.org/wiki/Q2090",
+      "https://www.wikidata.org/wiki/Q2966"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jean-Paul Sartre": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris; Meudon; La Rochelle; Le Havre; Laon",
+    "source": "https://www.wikidata.org/wiki/Q9364",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q234735",
+      "https://www.wikidata.org/wiki/Q82185",
+      "https://www.wikidata.org/wiki/Q42810",
+      "https://www.wikidata.org/wiki/Q167141"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charlotte Brontë": {
+    "countries": [
+      "GBR",
+      "BEL"
+    ],
+    "location": "Haworth; Brussels; Yorkshire",
+    "source": "https://www.wikidata.org/wiki/Q127332",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q384570",
+      "https://www.wikidata.org/wiki/Q239",
+      "https://www.wikidata.org/wiki/Q163"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Flavius Josephus": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Rome",
+    "source": "https://www.wikidata.org/wiki/Q134461",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Sigmund Freud": {
+    "countries": [
+      "AUT",
+      "GBR",
+      "CZE"
+    ],
+    "location": "Vienna; London; Birth house of Sigmund Freud",
+    "source": "https://www.wikidata.org/wiki/Q9215",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1741",
+      "https://www.wikidata.org/wiki/Q84",
+      "https://www.wikidata.org/wiki/Q12039013"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Snorri Sturluson": {
+    "countries": [
+      "ISL"
+    ],
+    "location": "Iceland",
+    "source": "https://www.wikidata.org/wiki/Q102323",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q189"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Sigrid Undset": {
+    "countries": [
+      "NOR",
+      "USA"
+    ],
+    "location": "Lillehammer; New York City",
+    "source": "https://www.wikidata.org/wiki/Q80889",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q101341",
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Walt Whitman": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Walt Whitman House; 99 Ryerson Street; Walt Whitman Birthplace State Historic Site",
+    "source": "https://www.wikidata.org/wiki/Q81438",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q7964081",
+      "https://www.wikidata.org/wiki/Q60581092",
+      "https://www.wikidata.org/wiki/Q7964077"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alphonse Daudet": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Clamart",
+    "source": "https://www.wikidata.org/wiki/Q228546",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q194160"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Abigail Adams": {
+    "countries": [
+      "USA"
+    ],
+    "location": "John Quincy Adams Birthplace",
+    "source": "https://www.wikidata.org/wiki/Q206191",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q14715643"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Adams": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Massachusetts; John Quincy Adams Birthplace; John Adams Birthplace; Boston",
+    "source": "https://www.wikidata.org/wiki/Q11806",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q771",
+      "https://www.wikidata.org/wiki/Q14715643",
+      "https://www.wikidata.org/wiki/Q6218202",
+      "https://www.wikidata.org/wiki/Q100"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Pliny the Younger": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Lierna; Lake Como; Ancient Rome",
+    "source": "https://www.wikidata.org/wiki/Q168707",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q42942",
+      "https://www.wikidata.org/wiki/Q15523",
+      "https://www.wikidata.org/wiki/Q1747689"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Wolfgang Amadeus Mozart": {
+    "countries": [
+      "AUT",
+      "CZE"
+    ],
+    "location": "Mozart's birthplace; Salzburg; Vienna; Olomouc",
+    "source": "https://www.wikidata.org/wiki/Q254",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3327039",
+      "https://www.wikidata.org/wiki/Q34713",
+      "https://www.wikidata.org/wiki/Q1741",
+      "https://www.wikidata.org/wiki/Q81137"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Wordsworth": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Wordsworth House and Garden; Dove Cottage",
+    "source": "https://www.wikidata.org/wiki/Q45546",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q8034490",
+      "https://www.wikidata.org/wiki/Q2485831"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charles Perrault": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q128460",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Giorgio Vasari": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Arezzo; Bologna; Florence; Naples; Pisa; Pistoia; Rimini; Rome; Venice",
+    "source": "https://www.wikidata.org/wiki/Q128027",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q13378",
+      "https://www.wikidata.org/wiki/Q1891",
+      "https://www.wikidata.org/wiki/Q2044",
+      "https://www.wikidata.org/wiki/Q2634",
+      "https://www.wikidata.org/wiki/Q13375",
+      "https://www.wikidata.org/wiki/Q13376",
+      "https://www.wikidata.org/wiki/Q13369",
+      "https://www.wikidata.org/wiki/Q220",
+      "https://www.wikidata.org/wiki/Q641"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Emma Goldman": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City",
+    "source": "https://www.wikidata.org/wiki/Q79969",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Andy Adams": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Colorado Springs",
+    "source": "https://www.wikidata.org/wiki/Q525235",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q49258"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Edward Bellamy": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Massachusetts",
+    "source": "https://www.wikidata.org/wiki/Q455776",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q771"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Heinrich Böll": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Cologne",
+    "source": "https://www.wikidata.org/wiki/Q42747",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q365"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Bret Harte": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Krefeld",
+    "source": "https://www.wikidata.org/wiki/Q301983",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2805"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Théophile Gautier": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Hôtel de Fourcy",
+    "source": "https://www.wikidata.org/wiki/Q183713",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3145840"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Sir Thomas Browne": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Norwich",
+    "source": "https://www.wikidata.org/wiki/Q313925",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q130191"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Robertson Davies": {
+    "countries": [
+      "CAN"
+    ],
+    "location": "Toronto",
+    "source": "https://www.wikidata.org/wiki/Q545375",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q172"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Friedrich Engels": {
+    "countries": [
+      "DEU",
+      "GBR"
+    ],
+    "location": "Bremen; Manchester; Elberfeld",
+    "source": "https://www.wikidata.org/wiki/Q34787",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1209",
+      "https://www.wikidata.org/wiki/Q18125",
+      "https://www.wikidata.org/wiki/Q702259"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jan Potocki": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Saint Petersburg",
+    "source": "https://www.wikidata.org/wiki/Q367109",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q656"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Marcus Aurelius": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Rome",
+    "source": "https://www.wikidata.org/wiki/Q1430",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Carter G. Woodson": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Washington, D.C.; Cambridge; Institute",
+    "source": "https://www.wikidata.org/wiki/Q5047158",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q61",
+      "https://www.wikidata.org/wiki/Q49111",
+      "https://www.wikidata.org/wiki/Q6039090"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Matthew Lewis": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q121060",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Muir": {
+    "countries": [
+      "USA",
+      "CAN"
+    ],
+    "location": "Yosemite Valley; Martinez; Portage; Meaford; Indianapolis",
+    "source": "https://www.wikidata.org/wiki/Q379580",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1996389",
+      "https://www.wikidata.org/wiki/Q506439",
+      "https://www.wikidata.org/wiki/Q260619",
+      "https://www.wikidata.org/wiki/Q3492570",
+      "https://www.wikidata.org/wiki/Q6346"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Eduard Mörike": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Ludwigsburg; Stuttgart",
+    "source": "https://www.wikidata.org/wiki/Q63699",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q622",
+      "https://www.wikidata.org/wiki/Q1022"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Frederick Douglass": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Baltimore",
+    "source": "https://www.wikidata.org/wiki/Q215562",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q5092"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Sojourner Truth": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Battle Creek",
+    "source": "https://www.wikidata.org/wiki/Q105180",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q810998"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Matsuo Bashō": {
+    "countries": [
+      "JPN"
+    ],
+    "location": "Sekiguchi Bashōan; Genjū-an; Bashō's birth house; Edo",
+    "source": "https://www.wikidata.org/wiki/Q5676",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q11655663",
+      "https://www.wikidata.org/wiki/Q11484130",
+      "https://www.wikidata.org/wiki/Q11614939",
+      "https://www.wikidata.org/wiki/Q215646"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Pliny the Elder": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Ancient Rome",
+    "source": "https://www.wikidata.org/wiki/Q82778",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1747689"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Morris": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Oxford; London; Southern England",
+    "source": "https://www.wikidata.org/wiki/Q182589",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q34217",
+      "https://www.wikidata.org/wiki/Q84",
+      "https://www.wikidata.org/wiki/Q1134643"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "George Catlin": {
+    "countries": [
+      "USA"
+    ],
+    "location": "North Dakota; Oklahoma",
+    "source": "https://www.wikidata.org/wiki/Q455133",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1207",
+      "https://www.wikidata.org/wiki/Q1649"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Rainer Maria Rilke": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Munich",
+    "source": "https://www.wikidata.org/wiki/Q76483",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1726"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas Jefferson": {
+    "countries": [
+      "USA",
+      "FRA"
+    ],
+    "location": "Monticello; Hôtel de Langeac",
+    "source": "https://www.wikidata.org/wiki/Q11812",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q199618",
+      "https://www.wikidata.org/wiki/Q3145874"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Willa Cather": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Red Cloud; Willow Shade; Park Avenue; Willa Cather House",
+    "source": "https://www.wikidata.org/wiki/Q229480",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q960478",
+      "https://www.wikidata.org/wiki/Q14713543",
+      "https://www.wikidata.org/wiki/Q109711",
+      "https://www.wikidata.org/wiki/Q8003261"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Tyndale": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "England",
+    "source": "https://www.wikidata.org/wiki/Q219639",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Lafcadio Hearn": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Lafcadio Hearn House",
+    "source": "https://www.wikidata.org/wiki/Q313638",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q135687196"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Stuart Mill": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q50020",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Leon Battista Alberti": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Padua; Rome; Florence; Ferrara; Bologna",
+    "source": "https://www.wikidata.org/wiki/Q182046",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q617",
+      "https://www.wikidata.org/wiki/Q220",
+      "https://www.wikidata.org/wiki/Q2044",
+      "https://www.wikidata.org/wiki/Q13362",
+      "https://www.wikidata.org/wiki/Q1891"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Nella Larsen": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Tompkinsville",
+    "source": "https://www.wikidata.org/wiki/Q453665",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3992952"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Blaise Pascal": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Clermont-Ferrand; Paris; Rouen",
+    "source": "https://www.wikidata.org/wiki/Q1290",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q42168",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q30974"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Georges Simenon": {
+    "countries": [
+      "FRA",
+      "USA",
+      "CHE"
+    ],
+    "location": "place des Vosges; Lakeville; Epalinges; Marsilly",
+    "source": "https://www.wikidata.org/wiki/Q128790",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q898629",
+      "https://www.wikidata.org/wiki/Q3086417",
+      "https://www.wikidata.org/wiki/Q69252",
+      "https://www.wikidata.org/wiki/Q1079449"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Montesquieu": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q15975",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Alexander von Humboldt": {
+    "countries": [
+      "FRA",
+      "DEU"
+    ],
+    "location": "rue Jacob; New Chambers; Frankfurt (Oder)",
+    "source": "https://www.wikidata.org/wiki/Q6694",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3448385",
+      "https://www.wikidata.org/wiki/Q314818",
+      "https://www.wikidata.org/wiki/Q4024"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Ignatius of Loyola": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Camere di San Ignazio; Palazzo Delfini",
+    "source": "https://www.wikidata.org/wiki/Q44281",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q128514443",
+      "https://www.wikidata.org/wiki/Q135493865"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Ngũgĩ wa Thiong'o": {
+    "countries": [
+      "USA"
+    ],
+    "location": "United States",
+    "source": "https://www.wikidata.org/wiki/Q302910",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q30"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Andrei Bely": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Q117310682; Andrei Bely house, Zheleznodorozhny",
+    "source": "https://www.wikidata.org/wiki/Q212632",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q117310682",
+      "https://www.wikidata.org/wiki/Q111590976"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Jean-Anthelme Brillat-Savarin": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q313027",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Li Po": {
+    "countries": [
+      "CHN"
+    ],
+    "location": "China",
+    "source": "https://www.wikidata.org/wiki/Q7071",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q29520"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Juana Inés de la Cruz": {
+    "countries": [
+      "MEX"
+    ],
+    "location": "Mexico City",
+    "source": "https://www.wikidata.org/wiki/Q183074",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1489"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "James Joyce": {
+    "countries": [
+      "FRA",
+      "ITA",
+      "CHE"
+    ],
+    "location": "avenue Charles-Floquet; Paris; Trieste; Zurich",
+    "source": "https://www.wikidata.org/wiki/Q6882",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2873559",
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q546",
+      "https://www.wikidata.org/wiki/Q72"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Desiderius Erasmus": {
+    "countries": [
+      "BEL",
+      "NLD",
+      "CHE"
+    ],
+    "location": "Erasmus House; Rotterdam; Basel",
+    "source": "https://www.wikidata.org/wiki/Q43499",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1216084",
+      "https://www.wikidata.org/wiki/Q34370",
+      "https://www.wikidata.org/wiki/Q78"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Horatio Alger Jr.": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City",
+    "source": "https://www.wikidata.org/wiki/Q453251",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Albert Einstein": {
+    "countries": [
+      "DEU",
+      "CHE",
+      "USA",
+      "CZE"
+    ],
+    "location": "Einsteinhaus Caputh; Einsteinhaus; Munich; Princeton; Smíchov; Schaffhausen; Bern; Prague; Zurich; Berlin; Caputh",
+    "source": "https://www.wikidata.org/wiki/Q937",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1309294",
+      "https://www.wikidata.org/wiki/Q390003",
+      "https://www.wikidata.org/wiki/Q1726",
+      "https://www.wikidata.org/wiki/Q138518",
+      "https://www.wikidata.org/wiki/Q942842",
+      "https://www.wikidata.org/wiki/Q9009",
+      "https://www.wikidata.org/wiki/Q70",
+      "https://www.wikidata.org/wiki/Q1085",
+      "https://www.wikidata.org/wiki/Q72",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q464344"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Julian of Norwich": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Norwich",
+    "source": "https://www.wikidata.org/wiki/Q236699",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q130191"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Friedrich Schiller": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Mannheim; Weimar",
+    "source": "https://www.wikidata.org/wiki/Q22670",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2119",
+      "https://www.wikidata.org/wiki/Q3955"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Karel Čapek": {
+    "countries": [
+      "NLD",
+      "CZE"
+    ],
+    "location": "Netherlands; Hradec Králové; Prague; Brno",
+    "source": "https://www.wikidata.org/wiki/Q155855",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q55",
+      "https://www.wikidata.org/wiki/Q180139",
+      "https://www.wikidata.org/wiki/Q1085",
+      "https://www.wikidata.org/wiki/Q14960"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Isaiah Berlin": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Oxford",
+    "source": "https://www.wikidata.org/wiki/Q205162",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q34217"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Richard Brinsley Sheridan": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q352725",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Charles Baudelaire": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "rue d'Amsterdam",
+    "source": "https://www.wikidata.org/wiki/Q501",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q3450470"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Robert Burns": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Edinburgh",
+    "source": "https://www.wikidata.org/wiki/Q81960",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q23436"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Dryden": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Long Acre; Gerrard Street",
+    "source": "https://www.wikidata.org/wiki/Q213355",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q893314",
+      "https://www.wikidata.org/wiki/Q16964515"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Henry Wadsworth Longfellow": {
+    "countries": [
+      "USA",
+      "ITA"
+    ],
+    "location": "Cambridge; Portland; Maine; Longfellow House–Washington's Headquarters National Historic Site; Cadenabbia",
+    "source": "https://www.wikidata.org/wiki/Q152513",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q49111",
+      "https://www.wikidata.org/wiki/Q49201",
+      "https://www.wikidata.org/wiki/Q724",
+      "https://www.wikidata.org/wiki/Q474665",
+      "https://www.wikidata.org/wiki/Q1025108"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Percy Bysshe Shelley": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Elan Valley",
+    "source": "https://www.wikidata.org/wiki/Q93343",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1324865"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Percy Shelley": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Elan Valley",
+    "source": "https://www.wikidata.org/wiki/Q93343",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1324865"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Friedrich Hölderlin": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Q15056800",
+    "source": "https://www.wikidata.org/wiki/Q75889",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q15056800"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Heinrich Heine": {
+    "countries": [
+      "DEU"
+    ],
+    "location": "Hamburg",
+    "source": "https://www.wikidata.org/wiki/Q44403",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1055"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Wilmot, Earl of Rochester": {
+    "countries": [
+      "FRA",
+      "GBR"
+    ],
+    "location": "Paris; Ditchley",
+    "source": "https://www.wikidata.org/wiki/Q358912",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90",
+      "https://www.wikidata.org/wiki/Q4453742"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas Aquinas": {
+    "countries": [
+      "ITA"
+    ],
+    "location": "Aquino",
+    "source": "https://www.wikidata.org/wiki/Q9438",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q116415"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Gérard de Nerval": {
+    "countries": [
+      "FRA"
+    ],
+    "location": "Paris",
+    "source": "https://www.wikidata.org/wiki/Q191305",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q90"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Hazlitt": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Hazlitt House",
+    "source": "https://www.wikidata.org/wiki/Q126596",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q17551028"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Sir Walter Raleigh": {
+    "countries": [
+      "GBR",
+      "IRL"
+    ],
+    "location": "England; Ireland",
+    "source": "https://www.wikidata.org/wiki/Q189144",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q21",
+      "https://www.wikidata.org/wiki/Q27"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Rachel Carson": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Silver Spring; Rachel Carson House",
+    "source": "https://www.wikidata.org/wiki/Q100948",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q755741",
+      "https://www.wikidata.org/wiki/Q7279188"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Theodore Dreiser": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Terre Haute",
+    "source": "https://www.wikidata.org/wiki/Q486096",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q492478"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "W. E. B. Du Bois": {
+    "countries": [
+      "USA",
+      "GHA",
+      "DEU"
+    ],
+    "location": "Atlanta; Ghana; Berlin; Accra",
+    "source": "https://www.wikidata.org/wiki/Q158060",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q23556",
+      "https://www.wikidata.org/wiki/Q117",
+      "https://www.wikidata.org/wiki/Q64",
+      "https://www.wikidata.org/wiki/Q3761"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Selma Lagerlöf": {
+    "countries": [
+      "SWE"
+    ],
+    "location": "Stockholm",
+    "source": "https://www.wikidata.org/wiki/Q44519",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1754"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Cao Xueqin": {
+    "countries": [
+      "CHN"
+    ],
+    "location": "China",
+    "source": "https://www.wikidata.org/wiki/Q182874",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q29520"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Buchan": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q333004",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Johannes Leo Africanus": {
+    "countries": [
+      "DZA",
+      "ITA"
+    ],
+    "location": "Africa; Rome",
+    "source": "https://www.wikidata.org/wiki/Q332790",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q15",
+      "https://www.wikidata.org/wiki/Q220"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Quobna Ottobah Cugoano": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Schomberg House",
+    "source": "https://www.wikidata.org/wiki/Q726772",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q7432105"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Liang Qichao": {
+    "countries": [
+      "CHN"
+    ],
+    "location": "Beijing; People's Republic of China",
+    "source": "https://www.wikidata.org/wiki/Q379836",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q956",
+      "https://www.wikidata.org/wiki/Q148"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Pedro Antonio de Alarcón": {
+    "countries": [
+      "ESP"
+    ],
+    "location": "calle de Atocha",
+    "source": "https://www.wikidata.org/wiki/Q313553",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q5492657"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Marco Polo": {
+    "countries": [
+      "CHN"
+    ],
+    "location": "Yuan dynasty; People's Republic of China",
+    "source": "https://www.wikidata.org/wiki/Q6101",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q7313",
+      "https://www.wikidata.org/wiki/Q148"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Johann Peter Hebel": {
+    "countries": [
+      "DEU",
+      "CHE"
+    ],
+    "location": "Schopfheim; Karlsruhe; Erlangen; Lörrach",
+    "source": "https://www.wikidata.org/wiki/Q62512",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q61734",
+      "https://www.wikidata.org/wiki/Q1040",
+      "https://www.wikidata.org/wiki/Q3126",
+      "https://www.wikidata.org/wiki/Q6855"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Reginald Rose": {
+    "countries": [
+      "USA"
+    ],
+    "location": "United States",
+    "source": "https://www.wikidata.org/wiki/Q1934890",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q30"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Richard Henry Dana Jr.": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Massachusetts",
+    "source": "https://www.wikidata.org/wiki/Q527981",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q771"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "John Ruskin": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Great Britain",
+    "source": "https://www.wikidata.org/wiki/Q179126",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q23666"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Thomas More": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q42544",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "William Beckford": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "London",
+    "source": "https://www.wikidata.org/wiki/Q361026",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q84"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Oliver Goldsmith": {
+    "countries": [
+      "NLD"
+    ],
+    "location": "Leiden",
+    "source": "https://www.wikidata.org/wiki/Q236236",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q43631"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "T. S. Eliot": {
+    "countries": [
+      "USA"
+    ],
+    "location": "Missouri; St. Louis",
+    "source": "https://www.wikidata.org/wiki/Q37767",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q1581",
+      "https://www.wikidata.org/wiki/Q38022"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Yevgeny Zamyatin": {
+    "countries": [
+      "RUS"
+    ],
+    "location": "Soviet Union",
+    "source": "https://www.wikidata.org/wiki/Q204868",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q15180"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Adam Smith": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Scotland",
+    "source": "https://www.wikidata.org/wiki/Q9381",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q22"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Apsley Cherry-Garrard": {
+    "countries": [
+      "GBR"
+    ],
+    "location": "Denford Park; Wheathampstead",
+    "source": "https://www.wikidata.org/wiki/Q498976",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q5256908",
+      "https://www.wikidata.org/wiki/Q19947"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "Emily Brontë": {
+    "countries": [
+      "GBR",
+      "BEL"
+    ],
+    "location": "Thornton; Haworth; Brussels; Yorkshire; Halifax",
+    "source": "https://www.wikidata.org/wiki/Q80137",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q2406502",
+      "https://www.wikidata.org/wiki/Q384570",
+      "https://www.wikidata.org/wiki/Q239",
+      "https://www.wikidata.org/wiki/Q163",
+      "https://www.wikidata.org/wiki/Q826561"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  },
+  "James T. Farrell": {
+    "countries": [
+      "USA"
+    ],
+    "location": "New York City",
+    "source": "https://www.wikidata.org/wiki/Q1371154",
+    "placeSources": [
+      "https://www.wikidata.org/wiki/Q60"
+    ],
+    "method": "Wikidata residence (P551) / work location (P937), coordinates intersected with modern Natural Earth borders; not publication-specific"
+  }
+}

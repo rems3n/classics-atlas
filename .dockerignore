@@ -1,0 +1,8 @@
+*
+!Dockerfile
+!docker-entrypoint.sh
+!server.cjs
+!index.html
+!data/
+!data/catalog.json
+!data/reading-paths.json

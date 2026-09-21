@@ -1,0 +1,128 @@
+{
+  "centers": [
+    {
+      "type": "Feature",
+      "id": "funj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6,
+          13.55
+        ]
+      },
+      "properties": {
+        "name": "Funj · Sennar",
+        "sovereign": "Funj · Sennar",
+        "culture": "Documented historical center",
+        "precision": 0,
+        "note": "The Funj Sultanate was founded in 1504, with its capital at Sennar. This marker locates the center; it does not use the much larger territorial extent of about 1700. Diamond markers are historical context, not book counts.",
+        "source": "https://en.wikipedia.org/wiki/Funj_Sultanate"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ndongo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          -9.3
+        ]
+      },
+      "properties": {
+        "name": "Ndongo",
+        "sovereign": "Ndongo",
+        "culture": "Documented historical center",
+        "precision": 0,
+        "note": "Ndongo was a kingdom in present-day Angola in 1600. The marker is an approximate location in its heartland, not an exact capital or boundary survey. Diamond markers are historical context, not book counts.",
+        "source": "https://en.wikipedia.org/wiki/Kingdom_of_Ndongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ajuran",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5,
+          3.5
+        ]
+      },
+      "properties": {
+        "name": "Ajuran",
+        "sovereign": "Ajuran",
+        "culture": "Documented historical center",
+        "precision": 0,
+        "note": "Ajuran ruled parts of the Horn of Africa during this period. This approximate regional marker does not assert a precise capital location or territorial boundary. Diamond markers are historical context, not book counts.",
+        "source": "https://en.wikipedia.org/wiki/Ajuran_Sultanate"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "butua",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4147,
+          -20.1556
+        ]
+      },
+      "properties": {
+        "name": "Butua · Khami",
+        "sovereign": "Butua · Khami",
+        "culture": "Documented historical center",
+        "precision": 0,
+        "note": "The Torwa rulers of Butua were based at Khami in this period. The point locates Khami, not the extent of their kingdom. Diamond markers are historical context, not book counts.",
+        "source": "https://en.wikipedia.org/wiki/Torwa_dynasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "saadi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9811,
+          31.6295
+        ]
+      },
+      "properties": {
+        "name": "Saadi · Marrakesh",
+        "sovereign": "Saadi · Marrakesh",
+        "culture": "Documented historical center",
+        "precision": 0,
+        "note": "Saadi rulers, not the earlier Wattasid dynasty, controlled Morocco in 1600. The incorrect Wattasid polygon has been removed; this marker locates Marrakesh without inventing a replacement frontier. Diamond markers are historical context, not book counts.",
+        "source": "https://en.wikipedia.org/wiki/Saadi_Sultanate"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "timbuktu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0,
+          16.77
+        ]
+      },
+      "properties": {
+        "name": "Timbuktu · Moroccan rule",
+        "sovereign": "Timbuktu · Moroccan rule",
+        "culture": "Documented historical center",
+        "precision": 0,
+        "note": "Moroccan forces defeated the Songhai Empire in 1591. The old empire polygon is omitted from the 1600 display. This point marks Timbuktu under Moroccan rule; it is not an outline of all successor territories. Diamond markers are historical context, not book counts.",
+        "source": "https://en.wikipedia.org/wiki/Songhai_Empire"
+      }
+    }
+  ],
+  "omitted": {
+    "Watassid Morocco": "https://en.wikipedia.org/wiki/Saadi_Sultanate",
+    "Songhai": "https://en.wikipedia.org/wiki/Songhai_Empire",
+    "Guanches": "https://en.wikipedia.org/wiki/Conquest_of_the_Canary_Islands",
+    "Wadai": "https://en.wikipedia.org/wiki/Wadai_Sultanate",
+    "Darfur": "https://en.wikipedia.org/wiki/Sultanate_of_Darfur",
+    "Lunda": "https://en.wikipedia.org/wiki/Kingdom_of_Lunda",
+    "Adal": "https://en.wikipedia.org/wiki/Adal_Sultanate"
+  },
+  "note": "These polygons are omitted only in AD 1600: they depict earlier or later political entities whose outlines cannot safely be relabeled as the 1600 successor. Their original geometry remains in the source archive. Coverage gaps are explicitly hatched. This is a targeted review, not a verification of every feature."
+}

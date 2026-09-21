@@ -1,0 +1,2665 @@
+[
+  {
+    "id": "world-087cdb477866",
+    "title": "Water Margin",
+    "author": "Shi Nai’an (traditional attribution)",
+    "start": 1350,
+    "end": 1400,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "Outlaws gather at Liangshan in a sprawling tale of loyalty, rebellion, and corrupt authority.",
+    "source": "https://en.wikipedia.org/wiki/Water_Margin",
+    "collections": [
+      "World classics additions",
+      "China’s Four Great Classics"
+    ],
+    "aliases": [
+      "Outlaws of the Marsh",
+      "All Men Are Brothers",
+      "Shuihu Zhuan",
+      "Shui Hu Zhuan",
+      "水滸傳",
+      "水浒传"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated formative late-fourteenth-century novel; authorship is disputed and the text evolved into the sixteenth century. The twelfth-century setting is not its composition date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Water Margin — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Water_Margin",
+        "method": "Editorial addition. Estimated formative late-fourteenth-century novel; authorship is disputed and the text evolved into the sixteenth century. The twelfth-century setting is not its composition date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-384e27c1946b",
+    "title": "Essays of a Recluse",
+    "author": "Wang Fu",
+    "start": 100,
+    "end": 162,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Classical Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Philosophy",
+      "Essays & criticism"
+    ],
+    "type": "Nonfiction",
+    "overview": "A Han thinker examines government, moral conduct, and social disorder.",
+    "source": "https://cup.columbia.edu/book/essays-of-a-recluse/9780231220323/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Qianfulun",
+      "Qian fu lun"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated second-century composition during Wang Fu’s adult lifetime (c. 85–162).",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Essays of a Recluse — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231220323.jpg?auto=format&w=350",
+    "pages": 624,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/essays-of-a-recluse/9780231220323/",
+        "method": "Editorial addition. Estimated second-century composition during Wang Fu’s adult lifetime (c. 85–162). Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/essays-of-a-recluse/9780231220323/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/essays-of-a-recluse/9780231220323/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/essays-of-a-recluse/9780231220323/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231220323"
+      ]
+    }
+  },
+  {
+    "id": "world-b97aff272cad",
+    "title": "Kokinshū",
+    "author": "Ki no Tsurayuki, Ki no Tomonori, Ōshikōchi no Mitsune, and Mibu no Tadamine (compilers)",
+    "start": 800,
+    "end": 920,
+    "countries": [
+      "JPN"
+    ],
+    "language": "Japanese",
+    "tradition": "Japanese",
+    "categories": [
+      "Poetry"
+    ],
+    "type": null,
+    "overview": "An imperial anthology arranges Japanese poems around seasons, love, and the experience of time.",
+    "source": "https://cup.columbia.edu/book/the-kokinshu/9780231207638/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Kokinshu",
+      "Kokin Wakashu"
+    ],
+    "dateKind": "Poems / compilation range",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate span of the principal early-Heian poems and compilation, commissioned in 905; some anonymous poems may be older. The linked Columbia edition is a selection, not all 1,100 poems.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Kokinshū — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231207638.jpg?auto=format&w=350",
+    "pages": 432,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/the-kokinshu/9780231207638/",
+        "method": "Editorial addition. Approximate span of the principal early-Heian poems and compilation, commissioned in 905; some anonymous poems may be older. The linked Columbia edition is a selection, not all 1,100 poems. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/the-kokinshu/9780231207638/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/the-kokinshu/9780231207638/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/the-kokinshu/9780231207638/",
+    "coverLabel": "Selected / abridged translation · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231207638"
+      ]
+    }
+  },
+  {
+    "id": "world-d9797ccbadfb",
+    "title": "Jain Tales of Moksha",
+    "author": "Shivakotyacharya (attributed)",
+    "start": 900,
+    "end": 999,
+    "countries": [
+      "IND"
+    ],
+    "language": "Kannada",
+    "tradition": "Indian",
+    "categories": [
+      "Religion & myth",
+      "Short stories"
+    ],
+    "type": null,
+    "overview": "Nineteen Jain narratives explore renunciation, endurance, and liberation.",
+    "source": "https://www.murtylibrary.com/books/jain-tales-of-moksha",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Vaddaradhane",
+      "Vaḍḍārādhane"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Jain Tales of Moksha — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/6a20c8a62f46603ba67eba06_9780674292512.png",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/jain-tales-of-moksha",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/jain-tales-of-moksha",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/jain-tales-of-moksha",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-d1f3da51b97e",
+    "title": "The Kannada Mahabharata",
+    "author": "Kumaravyasa",
+    "start": 1400,
+    "end": 1499,
+    "countries": [
+      "IND"
+    ],
+    "language": "Kannada",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "A Kannada poet reshapes the Mahabharata into an intimate devotional epic.",
+    "source": "https://www.murtylibrary.com/books/the-kannada-mahabharata-volume-1",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Karnata Bharata Kathamanjari"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Fifteenth-century Kannada work, distinct from the ancient Sanskrit Mahabharata; linked translation begins with Volume 1.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Kannada Mahabharata — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/64b558ce753910862dce9cc2_Kumaravyasa_The%20Kannada%20Mahabharata.jpg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-kannada-mahabharata-volume-1",
+        "method": "Editorial addition. Fifteenth-century Kannada work, distinct from the ancient Sanskrit Mahabharata; linked translation begins with Volume 1. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-kannada-mahabharata-volume-1",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-kannada-mahabharata-volume-1",
+    "coverLabel": "Volume 1 edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-1174ac35437e",
+    "title": "The Diary of 1636",
+    "author": "Na Man’gap",
+    "start": 1636,
+    "end": 1642,
+    "countries": [
+      "KOR"
+    ],
+    "language": "Classical Chinese",
+    "tradition": "Korean",
+    "categories": [
+      "Life writing",
+      "History"
+    ],
+    "type": "Nonfiction",
+    "overview": "A Korean official recounts the Manchu invasion and the crisis of the Joseon court.",
+    "source": "https://cup.columbia.edu/book/the-diary-of-1636/9780231197571/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Byeongjarok"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated writing interval after the 1636–1637 invasion and before the author’s death in 1642; the modern translation is from 2020.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Diary of 1636 — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231197571.jpg?auto=format&w=350",
+    "pages": 360,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/the-diary-of-1636/9780231197571/",
+        "method": "Editorial addition. Estimated writing interval after the 1636–1637 invasion and before the author’s death in 1642; the modern translation is from 2020. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/the-diary-of-1636/9780231197571/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/the-diary-of-1636/9780231197571/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/the-diary-of-1636/9780231197571/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231197571"
+      ]
+    }
+  },
+  {
+    "id": "world-1110030c69c9",
+    "title": "The Book of Monasteries",
+    "author": "al-Shābushtī",
+    "start": 900,
+    "end": 999,
+    "countries": [
+      "IRQ",
+      "EGY"
+    ],
+    "language": "Arabic",
+    "tradition": "Arabic",
+    "categories": [
+      "Essays & criticism",
+      "Poetry",
+      "History"
+    ],
+    "type": "Nonfiction",
+    "overview": "Poems and anecdotes trace the social and literary life around Middle Eastern Christian monasteries.",
+    "source": "https://www.libraryofarabicliterature.org/books/9781479835928/the-book-of-monasteries/",
+    "collections": [
+      "Library of Arabic Literature"
+    ],
+    "aliases": [
+      "Kitab al-Diyarat"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Tenth-century anthology completed by the author’s death in 998/999; some incorporated verse is earlier.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Book of Monasteries — see linked source for translation and edition scope"
+    ],
+    "cover": "https://ingram-nyu.imgix.net/covers/9781479835928.jpg?auto=format&w=298",
+    "pages": 392,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479835928/the-book-of-monasteries/",
+        "method": "Editorial addition. Tenth-century anthology completed by the author’s death in 998/999; some incorporated verse is earlier. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479835928/the-book-of-monasteries/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479835928/the-book-of-monasteries/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://www.libraryofarabicliterature.org/books/9781479835928/the-book-of-monasteries/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "NYU Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9781479835928"
+      ]
+    }
+  },
+  {
+    "id": "world-ba46b01c99d3",
+    "title": "Kebra Nagast",
+    "author": "Anonymous Ethiopian compilers",
+    "start": 1300,
+    "end": 1399,
+    "countries": [
+      "ETH"
+    ],
+    "language": "Geʽez",
+    "tradition": "Ethiopian",
+    "categories": [
+      "Religion & myth",
+      "History"
+    ],
+    "type": null,
+    "overview": "Ethiopia’s sacred royal narrative links the Queen of Sheba, Solomon, and the Ark of the Covenant.",
+    "source": "https://en.wikipedia.org/wiki/Kebra_Nagast",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "The Glory of the Kings",
+      "Kebre Negest"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Fourteenth-century Geʽez compilation incorporating older traditions; the era of Solomon is a narrative setting, not a securely dated origin.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Kebra Nagast — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Kebra_Nagast",
+        "method": "Editorial addition. Fourteenth-century Geʽez compilation incorporating older traditions; the era of Solomon is a narrative setting, not a securely dated origin. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-2ee7fc8c9b5f",
+    "title": "Tarikh al-Sudan",
+    "author": "Abd al-Rahman al-Saʿdi",
+    "start": 1655,
+    "end": 1656,
+    "countries": [
+      "MLI"
+    ],
+    "language": "Arabic",
+    "tradition": "West African",
+    "categories": [
+      "History"
+    ],
+    "type": "Nonfiction",
+    "overview": "A Timbuktu scholar chronicles Songhay, its rulers, and the intellectual life of the Niger bend.",
+    "source": "https://en.wikipedia.org/wiki/Tarikh_al-Sudan",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "History of the Sudan",
+      "Timbuktu and the Songhay Empire",
+      "Tarikh es-Sudan"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Chronicle completed around 1655–1656. Sudan in the historical title means the West African region, not today’s country of Sudan; Hunwick’s translation is selective.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Tarikh al-Sudan — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Tarikh_al-Sudan",
+        "method": "Editorial addition. Chronicle completed around 1655–1656. Sudan in the historical title means the West African region, not today’s country of Sudan; Hunwick’s translation is selective. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-0706a46a2d01",
+    "title": "The Life of Walatta Petros",
+    "author": "Gälawdewos",
+    "start": 1672,
+    "end": 1672,
+    "countries": [
+      "ETH"
+    ],
+    "language": "Geʽez",
+    "tradition": "Ethiopian",
+    "categories": [
+      "Life writing",
+      "Religion & myth"
+    ],
+    "type": "Nonfiction",
+    "overview": "An Ethiopian saint’s community remembers her leadership and resistance to religious conversion.",
+    "source": "https://en.wikipedia.org/wiki/Walatta_Petros",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "The Life and Struggles of Our Mother Walatta Petros",
+      "Gadla Walatta Petros"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "sourced",
+    "dateNote": "The core hagiography was written in 1672; miracles and other later additions are not assigned that date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Life of Walatta Petros — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Walatta_Petros",
+        "method": "Editorial addition. The core hagiography was written in 1672; miracles and other later additions are not assigned that date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-6902e037635e",
+    "title": "Huarochirí Manuscript",
+    "author": "Anonymous Quechua narrators and compiler",
+    "start": 1500,
+    "end": 1608,
+    "countries": [
+      "PER"
+    ],
+    "language": "Quechua",
+    "tradition": "Andean",
+    "categories": [
+      "Religion & myth",
+      "History"
+    ],
+    "type": null,
+    "overview": "Andean communities recount sacred beings, landscape, ritual, and their own histories.",
+    "source": "https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "Huarochiri",
+      "A Testament of Ancient and Colonial Andean Religion"
+    ],
+    "dateKind": "Estimated source tradition",
+    "dateConfidence": "estimated",
+    "dateNote": "Conservative late pre-conquest to early-colonial tradition window ending with recording around 1608; older roots cannot be dated precisely. Not the 1991 English translation.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "textDate": {
+      "start": 1608,
+      "end": 1608,
+      "label": "Quechua manuscript recording",
+      "dateConfidence": "estimated"
+    },
+    "editions": [
+      "Huarochirí Manuscript — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript",
+        "method": "Editorial addition. Conservative late pre-conquest to early-colonial tradition window ending with recording around 1608; older roots cannot be dated precisely. Not the 1991 English translation. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-f2d80397dc2a",
+    "title": "The First New Chronicle and Good Government",
+    "author": "Felipe Guaman Poma de Ayala",
+    "start": 1615,
+    "end": 1615,
+    "countries": [
+      "PER"
+    ],
+    "language": "Spanish / Quechua",
+    "tradition": "Andean",
+    "categories": [
+      "History",
+      "Essays & criticism"
+    ],
+    "type": "Nonfiction",
+    "overview": "An Indigenous Andean author uses prose and drawings to expose colonial abuses and propose better government.",
+    "source": "https://en.wikipedia.org/wiki/El_primer_nueva_cor%C3%B3nica_y_buen_gobierno",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "El primer nueva coronica y buen gobierno",
+      "Nueva cronica",
+      "Guaman Poma"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The First New Chronicle and Good Government — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/El_primer_nueva_cor%C3%B3nica_y_buen_gobierno",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-85451678a54d",
+    "title": "Florentine Codex",
+    "author": "Bernardino de Sahagún with Nahua authors, informants, and artists",
+    "start": 1545,
+    "end": 1577,
+    "countries": [
+      "MEX"
+    ],
+    "language": "Nahuatl / Spanish",
+    "tradition": "Nahua",
+    "categories": [
+      "History",
+      "Science & nature",
+      "Religion & myth"
+    ],
+    "type": "Nonfiction",
+    "overview": "Nahua collaborators document language, ceremony, natural history, and the conquest in an illustrated encyclopedia.",
+    "source": "https://www.getty.edu/projects/florentine-codex/",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "General History of the Things of New Spain",
+      "Historia general de las cosas de Nueva Espana"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Sixteenth-century collaborative research and manuscript compilation, completed in 1577; it preserves older knowledge whose individual origins are not securely dated.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Florentine Codex — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.getty.edu/projects/florentine-codex/",
+        "method": "Editorial addition. Sixteenth-century collaborative research and manuscript compilation, completed in 1577; it preserves older knowledge whose individual origins are not securely dated. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-3ed711c50f5f",
+    "title": "The Story of Manu",
+    "author": "Allasani Peddana",
+    "start": 1500,
+    "end": 1530,
+    "countries": [
+      "IND"
+    ],
+    "language": "Telugu",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "Desire and royal power shape the birth and destiny of the cosmic ruler Manu.",
+    "source": "https://www.murtylibrary.com/books/the-story-of-manu",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Manucaritramu"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Story of Manu — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc443a8398d761c8e22dbd_61bcbd5edfcf79f5a7b5ceda_MCLI004_PeddanaNRaoSchulman_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-story-of-manu",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-story-of-manu",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-story-of-manu",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-82e1dbf3b652",
+    "title": "The Killing of Shishupala",
+    "author": "Magha",
+    "start": 600,
+    "end": 699,
+    "countries": [
+      "IND"
+    ],
+    "language": "Sanskrit",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "An elaborate court poem turns Krishna’s confrontation with Shishupala into a meditation on power.",
+    "source": "https://www.murtylibrary.com/books/the-killing-of-shishupala",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Shishupalavadha"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Killing of Shishupala — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc443628ec533acb703ab3_61bcc076aaeadc787fa227bc_MCLI011_MaghaDundas_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-killing-of-shishupala",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-killing-of-shishupala",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-killing-of-shishupala",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-3d079ad91103",
+    "title": "Arjuna and the Hunter",
+    "author": "Bharavi",
+    "start": 500,
+    "end": 599,
+    "countries": [
+      "IND"
+    ],
+    "language": "Sanskrit",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "Arjuna’s encounter with Shiva tests the warrior’s courage and spiritual discipline.",
+    "source": "https://www.murtylibrary.com/books/arjuna-and-the-hunter",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Kiratarjuniya"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Arjuna and the Hunter — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc441b623c7b8da659d877_61bcc2bf628742d5d8bd0eea_MCLI009_BharaviPeterson_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/arjuna-and-the-hunter",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/arjuna-and-the-hunter",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/arjuna-and-the-hunter",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-03d97d534058",
+    "title": "The Life of Harishchandra",
+    "author": "Raghavanka",
+    "start": 1200,
+    "end": 1299,
+    "countries": [
+      "IND"
+    ],
+    "language": "Kannada",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "A king loses his family and standing while refusing to surrender his commitment to truth.",
+    "source": "https://www.murtylibrary.com/books/the-life-of-harishchandra",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Harishchandra Kavya"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Life of Harishchandra — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc4437aa7bbb64609990be_61bcc0656bd5ff015c40dcf4_MCLI013_RaghavankaViswanatha_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-life-of-harishchandra",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-life-of-harishchandra",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-life-of-harishchandra",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-d957b78a2108",
+    "title": "Lilavai",
+    "author": "Kouhala",
+    "start": 800,
+    "end": 850,
+    "countries": [
+      "IND"
+    ],
+    "language": "Prakrit",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry"
+    ],
+    "type": null,
+    "overview": "Three women’s intertwined romances unfold through magical journeys and competing desires.",
+    "source": "https://www.murtylibrary.com/books/lilavai",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Lilavati"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Lilavai — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc441feb451d3dbd848800_61bcc29842a080ad8a0c3dd0_MCLI029_Kouhala_US_comp1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/lilavai",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/lilavai",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/lilavai",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-66b313cc23fd",
+    "title": "A Treatise on Dharma",
+    "author": "Anonymous, attributed to Yajnavalkya",
+    "start": 300,
+    "end": 499,
+    "countries": [
+      "IND"
+    ],
+    "language": "Sanskrit",
+    "tradition": "Indian",
+    "categories": [
+      "Philosophy",
+      "Religion & myth"
+    ],
+    "type": "Nonfiction",
+    "overview": "A legal and religious treatise discusses rulers, courts, social duties, and spiritual practice.",
+    "source": "https://www.murtylibrary.com/books/a-treatise-on-dharma",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Yajnavalkya Smriti"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "A Treatise on Dharma — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc441b15c80a6e1efa9e27_61bcc2c8de251439adcf3cf6_MCLI020_Yajnavalkya_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/a-treatise-on-dharma",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/a-treatise-on-dharma",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/a-treatise-on-dharma",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-daa68055b6d7",
+    "title": "The Epic of Ram",
+    "author": "Tulsidas",
+    "start": 1574,
+    "end": 1577,
+    "countries": [
+      "IND"
+    ],
+    "language": "Avadhi",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "A devotional retelling of Rama’s story combines narrative with reflections on faith and philosophy.",
+    "source": "https://www.murtylibrary.com/books/the-epic-of-ram-volume-1",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Ramcharitmanas",
+      "Ramcaritmanas"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Epic of Ram — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc4426dc67ea33b1c35c27_61bcc208a9e8e570cd4c05d7_MCLI007_Tulsidas_V1_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-epic-of-ram-volume-1",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-epic-of-ram-volume-1",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-epic-of-ram-volume-1",
+    "coverLabel": "Volume 1 edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-af547b5d2f5f",
+    "title": "The History of Akbar",
+    "author": "Abu’l-Fazl",
+    "start": 1590,
+    "end": 1602,
+    "countries": [
+      "IND"
+    ],
+    "language": "Persian",
+    "tradition": "Indian",
+    "categories": [
+      "History"
+    ],
+    "type": "Nonfiction",
+    "overview": "A Mughal court historian traces Akbar’s rule and the institutions of his empire.",
+    "source": "https://www.murtylibrary.com/books/the-history-of-akbar-volume-1",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Akbarnama"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The History of Akbar — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc442c5a57e2ad58c6fba2_61bcc1b270b8925f06058425_MCLI002_AbulFazl_V1_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-history-of-akbar-volume-1",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-history-of-akbar-volume-1",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-history-of-akbar-volume-1",
+    "coverLabel": "Volume 1 edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-51f347e1fb95",
+    "title": "The Life of Padma",
+    "author": "Svayambhudeva",
+    "start": 875,
+    "end": 925,
+    "countries": [
+      "IND"
+    ],
+    "language": "Apabhramsha",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "A Jain Ramayana retelling reworks the kinships and moral choices of Rama’s world.",
+    "source": "https://www.murtylibrary.com/books/the-life-of-padma-volume-1",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Paumacariu"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated c. 900 composition following Murty’s dating of Svayambhudeva around the beginning of the tenth century; other chronologies differ. Volume 1 is an edition component, not a separate epic.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Life of Padma — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc44382563593dc91d2300_61bcbd7238738d667e2d0d24_MCLI017_Svayambhudeva_V1_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/the-life-of-padma-volume-1",
+        "method": "Editorial addition. Estimated c. 900 composition following Murty’s dating of Svayambhudeva around the beginning of the tenth century; other chronologies differ. Volume 1 is an edition component, not a separate epic. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/the-life-of-padma-volume-1",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/the-life-of-padma-volume-1",
+    "coverLabel": "Volume 1 edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-c787fc502664",
+    "title": "Theft of a Tree",
+    "author": "Nandi Timmana",
+    "start": 1500,
+    "end": 1530,
+    "countries": [
+      "IND"
+    ],
+    "language": "Telugu",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "Krishna steals a divine tree to appease Satyabhama in a tale of desire and jealousy.",
+    "source": "https://www.murtylibrary.com/books/theft-of-a-tree",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Parijatapaharanamu"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Theft of a Tree — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc443ac744b05c22238d0b_61bcbd570a32bb3fa7edde39_MCLI032_Timmana_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/theft-of-a-tree",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/theft-of-a-tree",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/theft-of-a-tree",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-ee3f2e33cd3a",
+    "title": "Poems from the Satsai",
+    "author": "Biharilal",
+    "start": 1620,
+    "end": 1663,
+    "countries": [
+      "IND"
+    ],
+    "language": "Braj Bhasha",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry"
+    ],
+    "type": null,
+    "overview": "Compact couplets combine love, wit, devotion, and observations of courtly life.",
+    "source": "https://www.murtylibrary.com/books/poems-from-the-satsai",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Bihari Satsai",
+      "He Spoke of Love"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Poems from the Satsai — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc44213bf2ba29ded7a01f_61bcc27542a080d6430c3dae_MCLI027_Biharilal_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/poems-from-the-satsai",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/poems-from-the-satsai",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/poems-from-the-satsai",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-2a57c24d32a2",
+    "title": "Sur’s Ocean",
+    "author": "Surdas",
+    "start": 1500,
+    "end": 1600,
+    "countries": [
+      "IND"
+    ],
+    "language": "Braj Bhasha",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "Devotional lyrics imagine Krishna’s childhood, lovers, and the pain of separation.",
+    "source": "https://www.murtylibrary.com/books/surs-ocean",
+    "collections": [
+      "Murty Classical Library"
+    ],
+    "aliases": [
+      "Sur Sagar",
+      "Sursagar"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Sur’s Ocean — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.prod.website-files.com/61883e6816a41fa676f729cf/61dc4425c4c87237f2a16b40_61bcc21505ddd753b9c42961_MCLI005_SurdasBryant_US_comp_1600px-min.jpeg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.murtylibrary.com/books/surs-ocean",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.murtylibrary.com/books/surs-ocean",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.murtylibrary.com/books/surs-ocean",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-ab010c790771",
+    "title": "The Fragrant Companions",
+    "author": "Li Yu",
+    "start": 1651,
+    "end": 1651,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Drama"
+    ],
+    "type": "Fiction",
+    "overview": "Two women in love devise a way to remain together despite family and social constraints.",
+    "source": "https://cup.columbia.edu/book/the-fragrant-companions/9780231206297/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Lianxiangban"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Fragrant Companions — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231206297.jpg?auto=format&w=350",
+    "pages": 400,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/the-fragrant-companions/9780231206297/",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/the-fragrant-companions/9780231206297/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/the-fragrant-companions/9780231206297/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/the-fragrant-companions/9780231206297/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231206297"
+      ]
+    }
+  },
+  {
+    "id": "world-86a0412f1598",
+    "title": "Top Graduate Zhang Xie",
+    "author": "Nine Mountain Society",
+    "start": 1200,
+    "end": 1420,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Drama"
+    ],
+    "type": "Fiction",
+    "overview": "An ambitious scholar’s success drives a darkly comic conflict between marriage, status, and loyalty.",
+    "source": "https://cup.columbia.edu/book/top-graduate-zhang-xie/9780231197939/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Zhang Xie zhuangyuan"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Wide disputed composition range: often assigned to the thirteenth century, surviving in an early-fifteenth-century textual witness; Columbia explicitly leaves earlier composition open.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Top Graduate Zhang Xie — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231197939.jpg?auto=format&w=350",
+    "pages": 464,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/top-graduate-zhang-xie/9780231197939/",
+        "method": "Editorial addition. Wide disputed composition range: often assigned to the thirteenth century, surviving in an early-fifteenth-century textual witness; Columbia explicitly leaves earlier composition open. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/top-graduate-zhang-xie/9780231197939/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/top-graduate-zhang-xie/9780231197939/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/top-graduate-zhang-xie/9780231197939/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231197939"
+      ]
+    }
+  },
+  {
+    "id": "world-3da22d68a9ed",
+    "title": "A Couple of Soles",
+    "author": "Li Yu",
+    "start": 1661,
+    "end": 1661,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Drama"
+    ],
+    "type": "Fiction",
+    "overview": "A comic play follows young lovers through theatrical mishaps and startling reversals.",
+    "source": "https://cup.columbia.edu/book/a-couple-of-soles/9780231193559/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Bimuyu"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "A Couple of Soles — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231193559.jpg?auto=format&w=350",
+    "pages": 360,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/a-couple-of-soles/9780231193559/",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/a-couple-of-soles/9780231193559/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/a-couple-of-soles/9780231193559/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/a-couple-of-soles/9780231193559/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231193559"
+      ]
+    }
+  },
+  {
+    "id": "world-d39046c77738",
+    "title": "The Book of Swindles",
+    "author": "Zhang Yingyu",
+    "start": 1617,
+    "end": 1617,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Short stories"
+    ],
+    "type": "Fiction",
+    "overview": "Ming tales expose ingenious scams and the everyday vulnerabilities that make them possible.",
+    "source": "https://cup.columbia.edu/book/more-swindles-from-the-late-ming/9780231212458/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "More Swindles from the Late Ming",
+      "Dupian xinshu"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "sourced",
+    "dateNote": "The original collection dates to 1617. The linked More Swindles edition translates a further selection from it, not a new seventeenth-century work.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Book of Swindles — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231212458.jpg?auto=format&w=350",
+    "pages": 240,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/more-swindles-from-the-late-ming/9780231212458/",
+        "method": "Editorial addition. The original collection dates to 1617. The linked More Swindles edition translates a further selection from it, not a new seventeenth-century work. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/more-swindles-from-the-late-ming/9780231212458/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/more-swindles-from-the-late-ming/9780231212458/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/more-swindles-from-the-late-ming/9780231212458/",
+    "coverLabel": "Selected / abridged translation · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231212458"
+      ]
+    }
+  },
+  {
+    "id": "world-4500b5945388",
+    "title": "The Original Meaning of the Yijing",
+    "author": "Zhu Xi",
+    "start": 1177,
+    "end": 1186,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Philosophy"
+    ],
+    "type": "Nonfiction",
+    "overview": "Zhu Xi interprets the Book of Changes as a guide to moral understanding and divination.",
+    "source": "https://cup.columbia.edu/book/the-original-meaning-of-the-yijing/9780231216609/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Zhouyi benyi"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Original Meaning of the Yijing — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231216609.jpg?auto=format&w=350",
+    "pages": 400,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/the-original-meaning-of-the-yijing/9780231216609/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/the-original-meaning-of-the-yijing/9780231216609/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/the-original-meaning-of-the-yijing/9780231216609/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/the-original-meaning-of-the-yijing/9780231216609/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231216609"
+      ]
+    }
+  },
+  {
+    "id": "world-092942681200",
+    "title": "The Book of Lord Shang",
+    "author": "Shang Yang and later contributors",
+    "start": -350,
+    "end": -200,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Philosophy"
+    ],
+    "type": "Nonfiction",
+    "overview": "A collection of political arguments advocates strict institutions and the consolidation of state power.",
+    "source": "https://cup.columbia.edu/book/the-book-of-lord-shang/9780231179898/",
+    "collections": [
+      "Columbia Asian Classics"
+    ],
+    "aliases": [
+      "Shangjun shu"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Book of Lord Shang — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cup-us.imgix.net/covers/9780231179898.jpg?auto=format&w=350",
+    "pages": 360,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://cup.columbia.edu/book/the-book-of-lord-shang/9780231179898/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://cup.columbia.edu/book/the-book-of-lord-shang/9780231179898/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://cup.columbia.edu/book/the-book-of-lord-shang/9780231179898/",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://cup.columbia.edu/book/the-book-of-lord-shang/9780231179898/",
+    "coverLabel": "Selected / abridged translation · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Columbia University Press"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780231179898"
+      ]
+    }
+  },
+  {
+    "id": "world-b3d0b6e552c5",
+    "title": "Changchun’s Journey to the West",
+    "author": "Li Zhichang",
+    "start": 1224,
+    "end": 1228,
+    "countries": [
+      "CHN"
+    ],
+    "language": "Classical Chinese",
+    "tradition": "Chinese",
+    "categories": [
+      "Life writing",
+      "History"
+    ],
+    "type": "Nonfiction",
+    "overview": "A disciple records the Daoist Qiu Chuji’s journey to meet Chinggis Khan across Central Asia.",
+    "source": "https://blog.oup.com/2023/10/on-the-launching-of-a-new-library-of-classical-chinese-literature/",
+    "collections": [
+      "Oxford Hsu-Tang Library"
+    ],
+    "aliases": [
+      "Travels of an Alchemist",
+      "Changchun zhenren xiyou ji"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated composition after the 1220–1224 journey, with a 1228 preface; a historical travelogue distinct from the Monkey King novel.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Changchun’s Journey to the West — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://blog.oup.com/2023/10/on-the-launching-of-a-new-library-of-classical-chinese-literature/",
+        "method": "Editorial addition. Estimated composition after the 1220–1224 journey, with a 1228 preface; a historical travelogue distinct from the Monkey King novel. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-ef2f1a72099d",
+    "title": "The Turks and the Caliphal Army",
+    "author": "al-Jāḥiẓ",
+    "start": 833,
+    "end": 869,
+    "countries": [
+      "IRQ"
+    ],
+    "language": "Arabic",
+    "tradition": "Arabic",
+    "categories": [
+      "Essays & criticism",
+      "History"
+    ],
+    "type": "Nonfiction",
+    "overview": "An Abbasid essay considers Turkish soldiers, military skill, and ethnic identity.",
+    "source": "https://www.libraryofarabicliterature.org/books/9781479840625/the-turks-and-the-caliphal-army/",
+    "collections": [
+      "Library of Arabic Literature"
+    ],
+    "aliases": [
+      "Manaqib al-Turk"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated composition in the Abbasid context after al-Muʿtasim’s accession in 833 and before al-Jahiz’s death in 869.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Turks and the Caliphal Army — see linked source for translation and edition scope"
+    ],
+    "cover": "https://ingram-nyu.imgix.net/covers/9781479840625.jpg?auto=format&w=298",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479840625/the-turks-and-the-caliphal-army/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479840625/the-turks-and-the-caliphal-army/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.libraryofarabicliterature.org/books/9781479840625/the-turks-and-the-caliphal-army/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-d836a0b4b7a6",
+    "title": "The Rules of Logic",
+    "author": "Najm al-Dīn al-Kātibī",
+    "start": 1200,
+    "end": 1277,
+    "countries": [
+      "IRN"
+    ],
+    "language": "Arabic",
+    "tradition": "Persian",
+    "categories": [
+      "Philosophy"
+    ],
+    "type": "Nonfiction",
+    "overview": "A compact logical manual sets out concepts, propositions, and forms of reasoning.",
+    "source": "https://www.libraryofarabicliterature.org/books/9781479840687/the-rules-of-logic/",
+    "collections": [
+      "Library of Arabic Literature"
+    ],
+    "aliases": [
+      "al-Risala al-Shamsiyya"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Rules of Logic — see linked source for translation and edition scope"
+    ],
+    "cover": "https://ingram-nyu.imgix.net/covers/9781479840687.jpg?auto=format&w=298",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479840687/the-rules-of-logic/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.libraryofarabicliterature.org/books/9781479840687/the-rules-of-logic/",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.libraryofarabicliterature.org/books/9781479840687/the-rules-of-logic/",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-468a17f3844d",
+    "title": "Life of the Buddha",
+    "author": "Ashvaghosha",
+    "start": 100,
+    "end": 200,
+    "countries": [
+      "IND"
+    ],
+    "language": "Sanskrit",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "A Sanskrit court epic narrates Siddhartha’s path from princely life toward awakening.",
+    "source": "https://claysanskritlibrary.org/volumes/life-of-the-buddha/",
+    "collections": [
+      "Clay Sanskrit Library"
+    ],
+    "aliases": [
+      "Buddhacarita"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Life of the Buddha — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://claysanskritlibrary.org/volumes/life-of-the-buddha/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-0ed2331d6c32",
+    "title": "Handsome Nanda",
+    "author": "Ashvaghosha",
+    "start": 100,
+    "end": 200,
+    "countries": [
+      "IND"
+    ],
+    "language": "Sanskrit",
+    "tradition": "Indian",
+    "categories": [
+      "Poetry",
+      "Religion & myth"
+    ],
+    "type": null,
+    "overview": "The Buddha’s half-brother struggles to exchange romantic attachment for spiritual liberation.",
+    "source": "https://claysanskritlibrary.org/volumes/handsome-nanda/",
+    "collections": [
+      "Clay Sanskrit Library"
+    ],
+    "aliases": [
+      "Saundarananda"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Handsome Nanda — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://claysanskritlibrary.org/volumes/handsome-nanda/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-1bf72708f3ed",
+    "title": "The Little Clay Cart",
+    "author": "Shudraka (attributed)",
+    "start": 200,
+    "end": 500,
+    "countries": [
+      "IND"
+    ],
+    "language": "Sanskrit",
+    "tradition": "Indian",
+    "categories": [
+      "Drama"
+    ],
+    "type": "Fiction",
+    "overview": "A courtesan and an impoverished merchant become entangled in love, intrigue, and political upheaval.",
+    "source": "https://claysanskritlibrary.org/volumes/the-little-clay-cart/",
+    "collections": [
+      "Clay Sanskrit Library"
+    ],
+    "aliases": [
+      "Mricchakatika"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "estimated",
+    "dateNote": "Approximate original composition interval, based on the period described in the linked source; not a modern translation date.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Little Clay Cart — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://claysanskritlibrary.org/volumes/the-little-clay-cart/",
+        "method": "Editorial addition. Approximate original composition interval, based on the period described in the linked source; not a modern translation date. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-032fc99eaea8",
+    "title": "Popol Vuh",
+    "author": "Anonymous K’iche’ Maya authors",
+    "start": 250,
+    "end": 1558,
+    "countries": [
+      "GTM"
+    ],
+    "language": "K’iche’",
+    "tradition": "Maya",
+    "categories": [
+      "Religion & myth",
+      "History"
+    ],
+    "type": null,
+    "overview": "Maya creation stories, the Hero Twins, and ancestral lineages connect cosmic events to communal history.",
+    "source": "https://en.wikipedia.org/wiki/Popol_Vuh",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "Popol Wuj",
+      "The Book of the People"
+    ],
+    "dateKind": "Estimated source tradition",
+    "dateConfidence": "estimated",
+    "dateNote": "Broad contextual range from Classic Maya attestations of related mythology to the sixteenth-century alphabetic text (c. 1554–1558). This does not date every episode or prove a first telling.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "textDate": {
+      "start": 1554,
+      "end": 1558,
+      "label": "Alphabetic K’iche’ text",
+      "dateConfidence": "estimated"
+    },
+    "editions": [
+      "Popol Vuh — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Popol_Vuh",
+        "method": "Editorial addition. Broad contextual range from Classic Maya attestations of related mythology to the sixteenth-century alphabetic text (c. 1554–1558). This does not date every episode or prove a first telling. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-6b903c2912bf",
+    "title": "Cantares Mexicanos",
+    "author": "Nahua poets and anonymous compilers",
+    "start": 1450,
+    "end": 1597,
+    "countries": [
+      "MEX"
+    ],
+    "language": "Nahuatl",
+    "tradition": "Nahua",
+    "categories": [
+      "Poetry"
+    ],
+    "type": null,
+    "overview": "Nahua songs explore friendship, mortality, war, and sacred life across the conquest era.",
+    "source": "https://en.wikipedia.org/wiki/Cantares_Mexicanos",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "Songs of the Aztecs",
+      "Mexican Songs"
+    ],
+    "dateKind": "Poems / compilation range",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated span of late pre-conquest and colonial songs preserved in a late-sixteenth-century manuscript; individual attributions and earlier origins are uncertain.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Cantares Mexicanos — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Cantares_Mexicanos",
+        "method": "Editorial addition. Estimated span of late pre-conquest and colonial songs preserved in a late-sixteenth-century manuscript; individual attributions and earlier origins are uncertain. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-1f0b49082381",
+    "title": "Nagarakretagama",
+    "author": "Mpu Prapanca",
+    "start": 1365,
+    "end": 1365,
+    "countries": [
+      "IDN"
+    ],
+    "language": "Old Javanese",
+    "tradition": "Javanese",
+    "categories": [
+      "Poetry",
+      "History"
+    ],
+    "type": null,
+    "overview": "A Javanese court poem describes Majapahit’s ruler, sacred sites, and political world.",
+    "source": "https://en.wikipedia.org/wiki/Nagarakretagama",
+    "collections": [
+      "World classics additions"
+    ],
+    "aliases": [
+      "Desawarnana",
+      "Desawarṇana"
+    ],
+    "dateKind": "Original composition",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Nagarakretagama — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://en.wikipedia.org/wiki/Nagarakretagama",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      }
+    ]
+  },
+  {
+    "id": "world-fada12986ba1",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "start": 1967,
+    "end": 1967,
+    "countries": [
+      "COL",
+      "MEX"
+    ],
+    "language": "Spanish",
+    "tradition": "Colombian",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "Generations of the Buendía family live through love, conflict, and repetition in the town of Macondo.",
+    "source": "https://www.penguin.co.uk/books/482987/one-hundred-years-of-solitude-by-marquez-gabriel-garcia/9780241968581",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [
+      "100 Years of Solitude",
+      "Cien anos de soledad"
+    ],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "One Hundred Years of Solitude — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.penguin.co.uk/dam-assets/books/9780241968581/9780241968581-jacket-large.jpg",
+    "pages": 432,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/books/482987/one-hundred-years-of-solitude-by-marquez-gabriel-garcia/9780241968581",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.penguin.co.uk/books/482987/one-hundred-years-of-solitude-by-marquez-gabriel-garcia/9780241968581",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://www.penguin.co.uk/books/482987/one-hundred-years-of-solitude-by-marquez-gabriel-garcia/9780241968581",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://www.penguin.co.uk/books/482987/one-hundred-years-of-solitude-by-marquez-gabriel-garcia/9780241968581",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780241968581"
+      ]
+    }
+  },
+  {
+    "id": "world-b2832b3b217f",
+    "title": "Giovanni’s Room",
+    "author": "James Baldwin",
+    "start": 1956,
+    "end": 1956,
+    "countries": [
+      "USA",
+      "FRA"
+    ],
+    "language": "English",
+    "tradition": "American",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "An American in Paris confronts desire, shame, and the consequences of denying his love.",
+    "source": "https://www.penguin.co.uk/penguin-classics/classics-list",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [
+      "Giovannis Room"
+    ],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Giovanni’s Room — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/penguin-classics/classics-list",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/Giovanni%27s_Room",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      }
+    ]
+  },
+  {
+    "id": "world-04fc1be76dbe",
+    "title": "Breakfast at Tiffany’s",
+    "author": "Truman Capote",
+    "start": 1958,
+    "end": 1958,
+    "countries": [
+      "USA"
+    ],
+    "language": "English",
+    "tradition": "American",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "A young writer recalls his fascination with the elusive Holly Golightly in wartime New York.",
+    "source": "https://www.penguin.co.uk/books/57042/breakfast-at-tiffanys-by-truman-capote/9780141182797",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [
+      "Breakfast at Tiffanys"
+    ],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Breakfast at Tiffany’s — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.penguin.co.uk/dam-assets/books/9780141182797/9780141182797-jacket-large.jpg",
+    "pages": 160,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/books/57042/breakfast-at-tiffanys-by-truman-capote/9780141182797",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.penguin.co.uk/books/57042/breakfast-at-tiffanys-by-truman-capote/9780141182797",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      },
+      {
+        "fields": "Page count of linked edition",
+        "source": "https://www.penguin.co.uk/books/57042/breakfast-at-tiffanys-by-truman-capote/9780141182797",
+        "method": "Publisher product-page page count. Applies to this edition or selection, not every version of the work."
+      }
+    ],
+    "coverSource": "https://www.penguin.co.uk/books/57042/breakfast-at-tiffanys-by-truman-capote/9780141182797",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title.",
+    "edition": {
+      "publisher": [
+        "Penguin"
+      ],
+      "publish_date": [],
+      "isbn": [
+        "9780141182797"
+      ]
+    }
+  },
+  {
+    "id": "world-074e04b134be",
+    "title": "The Pursuit of Love",
+    "author": "Nancy Mitford",
+    "start": 1945,
+    "end": 1945,
+    "countries": [
+      "GBR",
+      "FRA"
+    ],
+    "language": "English",
+    "tradition": "English",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "An aristocratic young woman pursues romance through the upheavals of interwar Europe.",
+    "source": "https://www.penguin.co.uk/books/444272/the-pursuit-of-love-by-mitford-nancy/9780241514993",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original novel published in 1945. The linked modern Penguin edition is an omnibus also containing Love in a Cold Climate and The Blessing; its 512 pages are not assigned to this single novel.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Pursuit of Love — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.penguin.co.uk/dam-assets/books/9780241514993/9780241514993-jacket-large.jpg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/books/444272/the-pursuit-of-love-by-mitford-nancy/9780241514993",
+        "method": "Editorial addition. Original novel published in 1945. The linked modern Penguin edition is an omnibus also containing Love in a Cold Climate and The Blessing; its 512 pages are not assigned to this single novel. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/The_Pursuit_of_Love",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.penguin.co.uk/books/444272/the-pursuit-of-love-by-mitford-nancy/9780241514993",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.penguin.co.uk/books/444272/the-pursuit-of-love-by-mitford-nancy/9780241514993",
+    "coverLabel": "Omnibus including this novel · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-d98a2ede8d0d",
+    "title": "The Apple in the Dark",
+    "author": "Clarice Lispector",
+    "start": 1961,
+    "end": 1961,
+    "countries": [
+      "UKR",
+      "BRA"
+    ],
+    "language": "Portuguese",
+    "tradition": "Brazilian",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "A fugitive’s refuge on a farm becomes an unsettling investigation of identity and language.",
+    "source": "https://www.penguin.co.uk/books/311515/the-apple-in-the-dark-by-lispector-clarice/9780241371350",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [
+      "A maca no escuro"
+    ],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "The Apple in the Dark — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.penguin.co.uk/dam-assets/books/9780241371350/9780241371350-jacket-large.jpg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/books/311515/the-apple-in-the-dark-by-lispector-clarice/9780241371350",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/The_Apple_in_the_Dark",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.penguin.co.uk/books/311515/the-apple-in-the-dark-by-lispector-clarice/9780241371350",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.penguin.co.uk/books/311515/the-apple-in-the-dark-by-lispector-clarice/9780241371350",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-cf0def15c234",
+    "title": "Night Watch",
+    "author": "Terry Pratchett",
+    "start": 2002,
+    "end": 2002,
+    "countries": [
+      "GBR"
+    ],
+    "language": "English",
+    "tradition": "English",
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "overview": "Sam Vimes travels into his own past and faces a revolution that shaped his city and himself.",
+    "source": "https://www.penguin.co.uk/books/468139/night-watch-by-pratchett-terry/9780241759011",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [
+      "Discworld Night Watch"
+    ],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Night Watch — see linked source for translation and edition scope"
+    ],
+    "cover": "https://cdn.penguin.co.uk/dam-assets/books/9780241759011/9780241759011-jacket-large.jpg",
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/books/468139/night-watch-by-pratchett-terry/9780241759011",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/Night_Watch",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      },
+      {
+        "fields": "Edition cover",
+        "source": "https://www.penguin.co.uk/books/468139/night-watch-by-pratchett-terry/9780241759011",
+        "method": "Publisher product-page cover image; image availability is checked at display time."
+      }
+    ],
+    "coverSource": "https://www.penguin.co.uk/books/468139/night-watch-by-pratchett-terry/9780241759011",
+    "coverLabel": "Selected edition · publisher cover",
+    "coverProvider": "Publisher",
+    "coverMatch": "Cover supplied on the publisher’s page for this title."
+  },
+  {
+    "id": "world-fc5bbede21d3",
+    "title": "Coal",
+    "author": "Audre Lorde",
+    "start": 1968,
+    "end": 1976,
+    "countries": [
+      "USA"
+    ],
+    "language": "English",
+    "tradition": "American",
+    "categories": [
+      "Poetry"
+    ],
+    "type": null,
+    "overview": "Poems examine Black identity, womanhood, language, intimacy, and political anger.",
+    "source": "https://www.penguin.co.uk/series/PENMODC/penguin-modern-classics",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [],
+    "dateKind": "Poems / collection range",
+    "dateConfidence": "estimated",
+    "dateNote": "The 1976 collection includes poems from The First Cities (1968) and Cables to Rage (1970), alongside new poems; earliest composition of every poem is not established.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Coal — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/series/PENMODC/penguin-modern-classics",
+        "method": "Editorial addition. The 1976 collection includes poems from The First Cities (1968) and Cables to Rage (1970), alongside new poems; earliest composition of every poem is not established. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/Coal",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      }
+    ]
+  },
+  {
+    "id": "world-033b0a9cb559",
+    "title": "Kalpa Imperial",
+    "author": "Angélica Gorodischer",
+    "start": 1983,
+    "end": 1983,
+    "countries": [
+      "ARG"
+    ],
+    "language": "Spanish",
+    "tradition": "Argentine",
+    "categories": [
+      "Short stories"
+    ],
+    "type": "Fiction",
+    "overview": "Linked tales describe the rise and decline of an imaginary empire through many voices.",
+    "source": "https://www.penguin.co.uk/series/PENMODC/penguin-modern-classics",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [
+      "The Greatest Empire That Never Was"
+    ],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Kalpa Imperial — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/series/PENMODC/penguin-modern-classics",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/Kalpa_Imperial",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      }
+    ]
+  },
+  {
+    "id": "world-b3710736206b",
+    "title": "Trafalgar",
+    "author": "Angélica Gorodischer",
+    "start": 1979,
+    "end": 1979,
+    "countries": [
+      "ARG"
+    ],
+    "language": "Spanish",
+    "tradition": "Argentine",
+    "categories": [
+      "Short stories"
+    ],
+    "type": "Fiction",
+    "overview": "An interstellar merchant recounts improbable adventures over coffee in an Argentine café.",
+    "source": "https://www.penguin.co.uk/series/PENMODC/penguin-modern-classics",
+    "collections": [
+      "Penguin publisher additions"
+    ],
+    "aliases": [],
+    "dateKind": "Original publication",
+    "dateConfidence": "sourced",
+    "dateNote": "Original work date; modern translation and reprint dates are excluded.",
+    "locationBasis": "author origin / original literary region",
+    "locationNote": "Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary.",
+    "editions": [
+      "Trafalgar — see linked source for translation and edition scope"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "provenance": [
+      {
+        "fields": "Title, authorship, classification, overview, original date and geographic association",
+        "source": "https://www.penguin.co.uk/series/PENMODC/penguin-modern-classics",
+        "method": "Editorial addition. Original work date; modern translation and reprint dates are excluded. Modern-country association from the author’s original cultural context; anonymous or traditionally attributed works use their source tradition. This is not an exhaustive itinerary."
+      },
+      {
+        "fields": "Original work / publication reference",
+        "source": "https://en.wikipedia.org/wiki/Trafalgar",
+        "method": "Original-language work date, separate from the linked Penguin reissue."
+      }
+    ]
+  }
+]

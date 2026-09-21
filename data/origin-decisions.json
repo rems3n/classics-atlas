@@ -1,0 +1,5289 @@
+{
+  "Abbie Hoffman": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Worcester, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abbie_Hoffman"
+    ]
+  },
+  "Abbé Prévost": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hesdin, Artois, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abbé_Prévost"
+    ]
+  },
+  "Abolqasem Ferdowsi": {
+    "countries": [
+      "IRN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Tus, Samanid Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ferdowsi"
+    ]
+  },
+  "Adam Smith": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kirkcaldy, Fife, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adam_Smith"
+    ]
+  },
+  "Adomnán of Iona": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as County Donegal, Ulster, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adomnán"
+    ]
+  },
+  "Alain-Fournier": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as La Chapelle-d'Angillon, Berry, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alain-Fournier"
+    ]
+  },
+  "Albert Cohen": {
+    "countries": [
+      "GRC"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born on Corfu, now Greece; raised in Marseille and later based in Geneva, Switzerland. Geneva must not be assigned to France.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Albert_Cohen_(novelist)"
+    ],
+    "associations": [
+      "GRC",
+      "FRA",
+      "CHE"
+    ],
+    "associationNote": "Corfu birth, Marseille upbringing, Geneva career."
+  },
+  "Alexander Pushkin": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Moscow, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexander_Pushkin"
+    ]
+  },
+  "Alexandre Dumas": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Villers-Cotterêts, Picardy, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexandre_Dumas"
+    ]
+  },
+  "Alexis de Tocqueville": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville"
+    ]
+  },
+  "Alfred Tennyson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Somersby, Lincolnshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson"
+    ]
+  },
+  "Alfred de Musset": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alfred_de_Musset"
+    ]
+  },
+  "Alfred de Vigny": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Loches, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alfred_de_Vigny"
+    ]
+  },
+  "Algernon Blackwood": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Shooter's Hill, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Algernon_Blackwood"
+    ]
+  },
+  "Algernon Charles Swinburne": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Algernon_Charles_Swinburne"
+    ]
+  },
+  "Alphonse Daudet": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nîmes, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alphonse_Daudet"
+    ]
+  },
+  "Ambrose Bierce": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Meigs County, Ohio, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ambrose_Bierce"
+    ]
+  },
+  "Anatole France": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anatole_France"
+    ]
+  },
+  "Andrei Bely": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Moscow, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andrei_Bely"
+    ]
+  },
+  "Andrew Carnegie": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dunfermline, Fife, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andrew_Carnegie"
+    ]
+  },
+  "Andrew Marvell": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Winestead, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andrew_Marvell"
+    ]
+  },
+  "Andy Adams": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thorncreek Township, Indiana, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andy_Adams_(writer)"
+    ]
+  },
+  "Anita Loos": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sisson, California, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anita_Loos"
+    ]
+  },
+  "Ann Radcliffe": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Holborn, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ann_Radcliffe"
+    ]
+  },
+  "Anna Comnena": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Porphyra Chamber, Great Palace of Constantinople, Byzantine Empire (modern-day Istanbul, Turkey). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anna_Komnene"
+    ]
+  },
+  "Anna Kavan": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cannes, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anna_Kavan"
+    ]
+  },
+  "Anne Brontë": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thornton, West Riding of Yorkshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anne_Brontë"
+    ]
+  },
+  "Anthony Hope": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Clapton, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anthony_Hope"
+    ]
+  },
+  "Anthony Trollope": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marylebone, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anthony_Trollope"
+    ]
+  },
+  "Anton Chekhov": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Taganrog, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anton_Chekhov"
+    ]
+  },
+  "Anzia Yezierska": {
+    "countries": [
+      "POL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Płock, Congress Poland, Russian Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anzia_Yezierska"
+    ]
+  },
+  "Aphra Behn": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Canterbury, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aphra_Behn"
+    ]
+  },
+  "Appian": {
+    "countries": [
+      "EGY"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Alexandria, Roman Egypt. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Appian"
+    ]
+  },
+  "Apsley Cherry-Garrard": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bedford, Bedfordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Apsley_Cherry-Garrard"
+    ]
+  },
+  "Aristophanes": {
+    "countries": [
+      "GRC"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Athens, Greece. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aristophanes"
+    ]
+  },
+  "Arthur Conan Doyle": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Edinburgh, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+    ]
+  },
+  "Arthur Miller": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Harlem, New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arthur_Miller"
+    ]
+  },
+  "Arthur Rimbaud": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Charleville, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arthur_Rimbaud"
+    ]
+  },
+  "Arthur Schopenhauer": {
+    "countries": [
+      "POL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Danzig (Gdańsk), Crown of the Kingdom of Poland, Polish–Lithuanian Commonwealth. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+    ]
+  },
+  "Astolphe de Custine": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Niderviller, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marquis_de_Custine"
+    ]
+  },
+  "August Strindberg": {
+    "countries": [
+      "SWE"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stockholm, Sweden. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/August_Strindberg"
+    ]
+  },
+  "Austin Clarke": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stoneybatter, Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Austin_Clarke_(poet)"
+    ]
+  },
+  "Bede": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kingdom of Northumbria, possibly Monkwearmouth in present-day Sunderland, Tyne and Wear, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bede"
+    ]
+  },
+  "Ben Jonson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ben_Jonson"
+    ]
+  },
+  "Benito Pérez Galdós": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Las Palmas, Canary Islands, Spain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benito_Pérez_Galdós"
+    ]
+  },
+  "Benjamin Constant": {
+    "countries": [
+      "CHE"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lausanne, Swiss Confederacy. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benjamin_Constant"
+    ]
+  },
+  "Bernal Díaz del Castillo": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Medina del Campo, Crown of Castile (modern-day Spain). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bernal_Díaz_del_Castillo"
+    ]
+  },
+  "Bernard Mandeville": {
+    "countries": [
+      "NLD"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rotterdam, Dutch Republic. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bernard_Mandeville"
+    ]
+  },
+  "Bernardin de Saint-Pierre": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Le Havre, Normandy, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
+    ]
+  },
+  "Bertolt Brecht": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Augsburg, Germany. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bertolt_Brecht"
+    ]
+  },
+  "Bill McKibben": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Palo Alto, California, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bill_McKibben"
+    ]
+  },
+  "Blaise Pascal": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Clermont-Ferrand, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Blaise_Pascal"
+    ]
+  },
+  "Booker T. Washington": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hale's Ford, Virginia, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Booker_T._Washington"
+    ]
+  },
+  "Booth Tarkington": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Indianapolis, Indiana, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Booth_Tarkington"
+    ]
+  },
+  "Bram Stoker": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Clontarf, Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bram_Stoker"
+    ]
+  },
+  "Bret Harte": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Albany, New York, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bret_Harte"
+    ]
+  },
+  "Bruce Chatwin": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sheffield, West Riding of Yorkshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bruce_Chatwin"
+    ]
+  },
+  "Bruno Schulz": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Drohobycz, Kingdom of Galicia and Lodomeria, Austria-Hungary (now Ukraine). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bruno_Schulz"
+    ]
+  },
+  "Cao Xueqin": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nanjing, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cao_Xueqin"
+    ]
+  },
+  "Carlo Goldoni": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Venice, Republic of Venice (present-day Italy). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carlo_Goldoni"
+    ]
+  },
+  "Carter G. Woodson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New Canton, Virginia, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carter_G._Woodson"
+    ]
+  },
+  "Catharine Maria Sedgwick": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stockbridge, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Catharine_Sedgwick"
+    ]
+  },
+  "Cesar Vallejo": {
+    "countries": [
+      "PER"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Santiago de Chuco, La Libertad, Peru. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/César_Vallejo"
+    ]
+  },
+  "Charles Baudelaire": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Baudelaire"
+    ]
+  },
+  "Charles Darwin": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Shrewsbury, Shropshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Darwin"
+    ]
+  },
+  "Charles Dickens": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portsmouth, Hampshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Dickens"
+    ]
+  },
+  "Charles Kingsley": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Holne, Devon, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Kingsley"
+    ]
+  },
+  "Charles Lamb": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Inner Temple, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Lamb"
+    ]
+  },
+  "Charles Lyell": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kinnordy House, Angus, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Lyell"
+    ]
+  },
+  "Charles Perrault": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Perrault"
+    ]
+  },
+  "Charles Robert Maturin": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_Maturin"
+    ]
+  },
+  "Charles W. Chesnutt": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cleveland, Ohio, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_W._Chesnutt"
+    ]
+  },
+  "Charlotte Brontë": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thornton, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charlotte_Brontë"
+    ]
+  },
+  "Charlotte Perkins Gilman": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hartford, Connecticut, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman"
+    ]
+  },
+  "Choderlos de Laclos": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Amiens, Picardy, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pierre_Choderlos_de_Laclos"
+    ]
+  },
+  "Christina Rossetti": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christina_Rossetti"
+    ]
+  },
+  "Christopher Marlowe": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Canterbury, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christopher_Marlowe"
+    ]
+  },
+  "Ciarán Carson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Belfast, Northern Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ciaran_Carson"
+    ]
+  },
+  "Clarice Lispector": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chechelnyk, Ukrainian SSR. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Clarice_Lispector"
+    ]
+  },
+  "Clark Ashton Smith": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Long Valley, California, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Clark_Ashton_Smith"
+    ]
+  },
+  "Claude McKay": {
+    "countries": [
+      "JAM"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Clarendon, Colony of Jamaica, British Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Claude_McKay"
+    ]
+  },
+  "César Chávez": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Yuma, Arizona, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cesar_Chavez"
+    ]
+  },
+  "D. H. Lawrence": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Eastwood, Nottinghamshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/D._H._Lawrence"
+    ]
+  },
+  "Damon Runyon": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manhattan, Kansas, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Damon_Runyon"
+    ]
+  },
+  "Daphne du Maurier": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Daphne_du_Maurier"
+    ]
+  },
+  "David Hume": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lawnmarket, Edinburgh, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/David_Hume"
+    ]
+  },
+  "Denis Diderot": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Langres, Champagne, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Denis_Diderot"
+    ]
+  },
+  "Desiderius Erasmus": {
+    "countries": [
+      "NLD"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rotterdam or Gouda, Burgundian Netherlands, Holy Roman Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Erasmus"
+    ]
+  },
+  "Domingo F. Sarmiento": {
+    "countries": [
+      "ARG"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as San Juan, Provinces of the Río de la Plata. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento"
+    ]
+  },
+  "Donald Barthelme": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Philadelphia, Pennsylvania, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Donald_Barthelme"
+    ]
+  },
+  "Dorothy Parker": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Long Branch, New Jersey, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dorothy_Parker"
+    ]
+  },
+  "E. M. Forster": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marylebone, Middlesex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/E._M._Forster"
+    ]
+  },
+  "Edgar Allan Poe": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Boston, Massachusetts, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+    ]
+  },
+  "Edgar Lee Masters": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Garnett, Kansas, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edgar_Lee_Masters"
+    ]
+  },
+  "Edgar Rice Burroughs": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chicago, Illinois, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs"
+    ]
+  },
+  "Edith Wharton": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manhattan, New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edith_Wharton"
+    ]
+  },
+  "Edmond Rostand": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marseille, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edmond_Rostand"
+    ]
+  },
+  "Edmund Burke": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Kingdom of Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edmund_Burke"
+    ]
+  },
+  "Edmund Gosse": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edmund_Gosse"
+    ]
+  },
+  "Edmund Spenser": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edmund_Spenser"
+    ]
+  },
+  "Edward Bellamy": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chicopee, Massachusetts, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edward_Bellamy"
+    ]
+  },
+  "Edward Gibbon": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Putney, Surrey, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edward_Gibbon"
+    ]
+  },
+  "Edwin A. Abbott": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marylebone, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott"
+    ]
+  },
+  "Elizabeth Barrett Browning": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Coxhoe, County Durham, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning"
+    ]
+  },
+  "Elizabeth Gaskell": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chelsea, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elizabeth_Gaskell"
+    ]
+  },
+  "Elizabeth Stoddard": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Mattapoisett, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elizabeth_Drew_Stoddard"
+    ]
+  },
+  "Ellen Glasgow": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Richmond, Virginia, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ellen_Glasgow"
+    ]
+  },
+  "Emilia Pardo Bazán": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as A Coruña, Spain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Emilia_Pardo_Bazán"
+    ]
+  },
+  "Emily Brontë": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thornton, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Emily_Brontë"
+    ]
+  },
+  "Epicurus": {
+    "countries": [
+      "GRC"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Samos, Greece. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Epicurus"
+    ]
+  },
+  "Eric Williams": {
+    "countries": [
+      "TTO"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Port of Spain, Trinidad and Tobago. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eric_Williams"
+    ]
+  },
+  "Ernest Shackleton": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kilkea, County Kildare, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ernest_Shackleton"
+    ]
+  },
+  "Ernst Jünger": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Heidelberg, Baden, Germany. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ernst_Jünger"
+    ]
+  },
+  "Evelyn Waugh": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as West Hampstead, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Evelyn_Waugh"
+    ]
+  },
+  "Eça de Queiroz": {
+    "countries": [
+      "PRT"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Póvoa de Varzim, Portugal. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eça_de_Queiroz"
+    ]
+  },
+  "F. Scott Fitzgerald": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Saint Paul, Minnesota, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+    ]
+  },
+  "Fanny Fern": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portland, District of Maine, United States. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fanny_Fern"
+    ]
+  },
+  "Fernando Pessoa": {
+    "countries": [
+      "PRT"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lisbon, Portugal. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fernando_Pessoa"
+    ]
+  },
+  "Fernando de Rojas": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at La Puebla de Montalbán and worked in Talavera de la Reina, Spain. The imported Kingdom of France association was erroneous.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fernando_de_Rojas"
+    ],
+    "associations": [
+      "ESP"
+    ],
+    "associationNote": "Spanish origin and career; removed erroneous France import."
+  },
+  "Ford Madox Ford": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Merton, Surrey, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ford_Madox_Ford"
+    ]
+  },
+  "Frances Burney": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lynn Regis, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frances_Burney"
+    ]
+  },
+  "Frances Hodgson Burnett": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cheetham, Manchester, England, United Kingdom. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett"
+    ]
+  },
+  "Frances Trollope": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bristol, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frances_Milton_Trollope"
+    ]
+  },
+  "Francis Bacon": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as The Strand, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Francis_Bacon"
+    ]
+  },
+  "Francis Parkman": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Boston, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Francis_Parkman"
+    ]
+  },
+  "Francoise Sagan": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cajarc, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Françoise_Sagan"
+    ]
+  },
+  "Frank Norris": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chicago, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frank_Norris"
+    ]
+  },
+  "François Guizot": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nîmes, Languedoc, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/François_Guizot"
+    ]
+  },
+  "François Rabelais": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Seuilly, Touraine, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/François_Rabelais"
+    ]
+  },
+  "François Voltaire": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Voltaire"
+    ]
+  },
+  "Frederick Douglass": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cordova, Maryland, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frederick_Douglass"
+    ]
+  },
+  "Fyodor Dostoyevsky": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Moscow, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"
+    ]
+  },
+  "Geoffrey Chaucer": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Geoffrey_Chaucer"
+    ]
+  },
+  "Geoffrey of Monmouth": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Possibly Monmouth, Wales. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Geoffrey_of_Monmouth"
+    ]
+  },
+  "George Berkeley": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dysart Castle, Thomastown, County Kilkenny, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Berkeley"
+    ]
+  },
+  "George Bernard Shaw": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portobello, Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+    ]
+  },
+  "George Catlin": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Wilkes-Barre, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Catlin"
+    ]
+  },
+  "George Eliot": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nuneaton, Warwickshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Eliot"
+    ]
+  },
+  "George Fox": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Drayton-in-the-Clay, Leicestershire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Fox"
+    ]
+  },
+  "George Gissing": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Wakefield, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Gissing"
+    ]
+  },
+  "George Herbert": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Montgomery, Montgomeryshire, Wales. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Herbert"
+    ]
+  },
+  "George MacDonald": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Huntly, Aberdeenshire, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_MacDonald"
+    ]
+  },
+  "George Meredith": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portsmouth, Hampshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Meredith"
+    ]
+  },
+  "George S. Schuyler": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Providence, Rhode Island, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Schuyler"
+    ]
+  },
+  "George Washington Cable": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New Orleans, Louisiana, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Washington_Cable"
+    ]
+  },
+  "Georges Simenon": {
+    "countries": [
+      "BEL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Liège, Wallonia, Belgium. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Georges_Simenon"
+    ]
+  },
+  "Gerald of Wales": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manorbier Castle, Pembrokeshire, Wales. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gerald_of_Wales"
+    ]
+  },
+  "Gerard Manley Hopkins": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stratford, Essex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins"
+    ]
+  },
+  "Graham Greene": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Berkhamsted, Hertfordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Graham_Greene"
+    ]
+  },
+  "Grant Allen": {
+    "countries": [
+      "CAN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Wolfe Island near Kingston, Canada West. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grant_Allen"
+    ]
+  },
+  "Gustave Flaubert": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rouen, Normandy, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gustave_Flaubert"
+    ]
+  },
+  "Guy Boothby": {
+    "countries": [
+      "AUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Adelaide, Colony of South Australia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guy_Boothby"
+    ]
+  },
+  "Guy de Maupassant": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Tourville-sur-Arques, Normandy, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guy_de_Maupassant"
+    ]
+  },
+  "Gérard de Nerval": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, French Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gérard_de_Nerval"
+    ]
+  },
+  "H. G. Wells": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bromley, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/H._G._Wells"
+    ]
+  },
+  "H. P. Lovecraft": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Providence, Rhode Island, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/H._P._Lovecraft"
+    ]
+  },
+  "H. Rider Haggard": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bradenham, Norfolk, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/H._Rider_Haggard"
+    ]
+  },
+  "H.G. Wells": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bromley, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/H._G._Wells"
+    ]
+  },
+  "Hans Christian Andersen": {
+    "countries": [
+      "DNK"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Odense, Funen, Denmark. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hans_Christian_Andersen"
+    ]
+  },
+  "Harold Frederic": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Utica, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harold_Frederic"
+    ]
+  },
+  "Harriet Beecher Stowe": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Litchfield, Connecticut, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
+    ]
+  },
+  "Harriet E. Wilson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Milford, New Hampshire, United States. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harriet_E._Wilson"
+    ]
+  },
+  "Harriet Jacobs": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Edenton, North Carolina, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harriet_Jacobs"
+    ]
+  },
+  "Henri Barbusse": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Asnières-sur-Seine, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henri_Barbusse"
+    ]
+  },
+  "Henrik Ibsen": {
+    "countries": [
+      "NOR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Skien, Telemark, Norway. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henrik_Ibsen"
+    ]
+  },
+  "Henry Adams": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Boston, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_Adams"
+    ]
+  },
+  "Henry David Thoreau": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Concord, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    ]
+  },
+  "Henry Fielding": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sharpham, Somerset, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_Fielding"
+    ]
+  },
+  "Henry Green": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Tewkesbury, Gloucestershire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_Green"
+    ]
+  },
+  "Henry Handel Richardson": {
+    "countries": [
+      "AUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as East Melbourne, Victoria, Australia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_Handel_Richardson"
+    ]
+  },
+  "Henry James": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manhattan, New York City, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_James"
+    ]
+  },
+  "Henry Wadsworth Longfellow": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portland, District of Maine, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow"
+    ]
+  },
+  "Herman Melville": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Herman_Melville"
+    ]
+  },
+  "Honoré de Balzac": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Tours, Touraine, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Honoré_de_Balzac"
+    ]
+  },
+  "Horace": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Venusia, Italy, Roman Republic. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horace"
+    ]
+  },
+  "Horace Walpole": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England, Great Britain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horace_Walpole"
+    ]
+  },
+  "Horatio Alger Jr.": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chelsea, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horatio_Alger"
+    ]
+  },
+  "Iris Murdoch": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iris_Murdoch"
+    ]
+  },
+  "Ivan Goncharov": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Simbirsk, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ivan_Goncharov"
+    ]
+  },
+  "Ivan Turgenev": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Oryol, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ivan_Turgenev"
+    ]
+  },
+  "J. Hector St.John de Crèvecoeur": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Caen, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/J._Hector_St._John_de_Crèvecœur"
+    ]
+  },
+  "J. M. Barrie": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kirriemuir, Angus, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/J._M._Barrie"
+    ]
+  },
+  "J. M. Synge": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rathfarnham, County Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Millington_Synge"
+    ]
+  },
+  "Jack Kerouac": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lowell, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jack_Kerouac"
+    ]
+  },
+  "Jack London": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as San Francisco, California, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jack_London"
+    ]
+  },
+  "Jacob A. Riis": {
+    "countries": [
+      "DNK"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Ribe, Denmark. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jacob_Riis"
+    ]
+  },
+  "Jacobus de Voragine": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Varagine, Republic of Genoa (present-day Varazze, Italy). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jacobus_de_Voragine"
+    ]
+  },
+  "James Agee": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Knoxville, Tennessee, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Agee"
+    ]
+  },
+  "James Baldwin": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Baldwin"
+    ]
+  },
+  "James Boswell": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Edinburgh, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Boswell"
+    ]
+  },
+  "James Cook": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marton, Yorkshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Cook"
+    ]
+  },
+  "James Fenimore Cooper": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Burlington, New Jersey, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Fenimore_Cooper"
+    ]
+  },
+  "James Hogg": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Ettrick, Selkirkshire, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Hogg"
+    ]
+  },
+  "James Jones": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Robinson, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Jones_(author)"
+    ]
+  },
+  "James Joyce": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Joyce"
+    ]
+  },
+  "James T. Farrell": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chicago, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_T._Farrell"
+    ]
+  },
+  "James Welch": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Browning, Montana, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Welch_(writer)"
+    ]
+  },
+  "James Weldon Johnson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Jacksonville, Florida, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Weldon_Johnson"
+    ]
+  },
+  "Jane Austen": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Steventon, Hampshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jane_Austen"
+    ]
+  },
+  "Jean Racine": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as La Ferté-Milon, Picardy, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean_Racine"
+    ]
+  },
+  "Jean de La Fontaine": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Château-Thierry, Champagne, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean_de_La_Fontaine"
+    ]
+  },
+  "Jean de la Bruyère": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean_de_La_Bruyère"
+    ]
+  },
+  "Jean-Anthelme Brillat-Savarin": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Belley, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin"
+    ]
+  },
+  "Jean-Baptiste Molière": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Molière"
+    ]
+  },
+  "Jean-Paul Sartre": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+    ]
+  },
+  "Jens Peter Jacobsen": {
+    "countries": [
+      "DNK"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thisted, Denmark. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jens_Peter_Jacobsen"
+    ]
+  },
+  "Jerome K. Jerome": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Walsall, Staffordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jerome_K._Jerome"
+    ]
+  },
+  "Joanne Greenberg": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joanne_Greenberg"
+    ]
+  },
+  "Johann Wyss": {
+    "countries": [
+      "CHE"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bern, Old Swiss Confederacy. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Johann_David_Wyss"
+    ]
+  },
+  "John Buchan": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Perth, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Buchan"
+    ]
+  },
+  "John Clare": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Helpston, Northamptonshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Clare"
+    ]
+  },
+  "John Cleland": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kingston upon Thames, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Cleland"
+    ]
+  },
+  "John Donne": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Donne"
+    ]
+  },
+  "John Dos Passos": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chicago, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Dos_Passos"
+    ]
+  },
+  "John Dryden": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Aldwincle, Northamptonshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Dryden"
+    ]
+  },
+  "John Gay": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Barnstaple, Devon, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Gay"
+    ]
+  },
+  "John Henry Newman": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Henry_Newman"
+    ]
+  },
+  "John Keats": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Moorgate, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Keats"
+    ]
+  },
+  "John Locke": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Wrington, Somerset, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Locke"
+    ]
+  },
+  "John Milton": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bread Street, City of London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Milton"
+    ]
+  },
+  "John Mortimer": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hampstead, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Mortimer"
+    ]
+  },
+  "John Muir": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dunbar, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Muir"
+    ]
+  },
+  "John O'Hara": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Pottsville, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_O'Hara"
+    ]
+  },
+  "John Reed": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portland, Oregon, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Reed_(journalist)"
+    ]
+  },
+  "John Ruskin": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Ruskin"
+    ]
+  },
+  "John Steinbeck": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Salinas, California, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Steinbeck"
+    ]
+  },
+  "John Stuart Mill": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Pentonville, Middlesex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Stuart_Mill"
+    ]
+  },
+  "John Wesley Powell": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Mount Morris, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Wesley_Powell"
+    ]
+  },
+  "John William De Forest": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Seymour, Connecticut, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_William_De_Forest"
+    ]
+  },
+  "John Wilmot, Earl of Rochester": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Ditchley, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Wilmot,_2nd_Earl_of_Rochester"
+    ]
+  },
+  "John le Carré": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Poole, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_le_Carré"
+    ]
+  },
+  "Johnston McCulley": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Ottawa, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Johnston_McCulley"
+    ]
+  },
+  "Jonathan Swift": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jonathan_Swift"
+    ]
+  },
+  "Jorge Luis Borges": {
+    "countries": [
+      "ARG"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Buenos Aires, Argentina. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+    ]
+  },
+  "Joseph Sheridan Le Fanu": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dominick Street Lower, Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sheridan_Le_Fanu"
+    ]
+  },
+  "Joseph Smith Jr.": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sharon, Vermont, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joseph_Smith"
+    ]
+  },
+  "Jules Laforgue": {
+    "countries": [
+      "URY"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Montevideo, Uruguay. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jules_Laforgue"
+    ]
+  },
+  "Jules Verne": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nantes, Brittany, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jules_Verne"
+    ]
+  },
+  "Juvenal": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Aquinum, Italy, Roman Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Juvenal"
+    ]
+  },
+  "Kabir": {
+    "countries": [
+      "IND"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Banaras, Jaunpur Sultanate (present-day Varanasi, Uttar Pradesh, India). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kabir"
+    ]
+  },
+  "Karin Boye": {
+    "countries": [
+      "SWE"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Gothenburg, Sweden. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karin_Boye"
+    ]
+  },
+  "Kate Chopin": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as St. Louis, Missouri, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kate_Chopin"
+    ]
+  },
+  "Katherine Mansfield": {
+    "countries": [
+      "NZL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thorndon, Wellington, New Zealand. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Katherine_Mansfield"
+    ]
+  },
+  "Ken Kesey": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as La Junta, Colorado, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ken_Kesey"
+    ]
+  },
+  "Kingsley Amis": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Clapham, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kingsley_Amis"
+    ]
+  },
+  "Knut Hamsun": {
+    "countries": [
+      "NOR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lom, Gudbrandsdalen, United Kingdoms of Sweden and Norway (present-day Lom, Norway). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Knut_Hamsun"
+    ]
+  },
+  "Kurt Vonnegut": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Indianapolis, Indiana, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+    ]
+  },
+  "L. Frank Baum": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chittenango, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/L._Frank_Baum"
+    ]
+  },
+  "La Rochefoucauld": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/François_de_La_Rochefoucauld_(writer)"
+    ]
+  },
+  "Lady Mary Wortley Montagu": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Holme Pierrepont Hall, Nottinghamshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu"
+    ]
+  },
+  "Lady Nijo": {
+    "countries": [
+      "JPN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kamakura Japan. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lady_Nijō"
+    ]
+  },
+  "Lady Sarashina": {
+    "countries": [
+      "JPN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kyoto, Japan. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Takasue's_daughter"
+    ]
+  },
+  "Lafcadio Hearn": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lefkada, Ionian Islands. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lafcadio_Hearn"
+    ]
+  },
+  "Laurence Sterne": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Clonmel, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Laurence_Sterne"
+    ]
+  },
+  "Lautréamont": {
+    "countries": [
+      "URY"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Montevideo, Uruguay. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Comte_de_Lautréamont"
+    ]
+  },
+  "Len Deighton": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marylebone, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Len_Deighton"
+    ]
+  },
+  "Leo Tolstoy": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Yasnaya Polyana, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+    ]
+  },
+  "Leopold von Sacher-Masoch": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lemberg, Kingdom of Galicia and Lodomeria, Austrian Empire (now Lviv, Ukraine). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch"
+    ]
+  },
+  "Leopoldo Alas": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Zamora, Spain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leopoldo_Alas"
+    ]
+  },
+  "Lewis Carroll": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Daresbury, Cheshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lewis_Carroll"
+    ]
+  },
+  "Lewis Grassic Gibbon": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hillhead of Seggat, Auchterless, Aberdeenshire, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lewis_Grassic_Gibbon"
+    ]
+  },
+  "Li Po": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Suiye, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Li_Bai"
+    ]
+  },
+  "Liang Qichao": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Xinhui, Guangdong, Qing China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liang_Qichao"
+    ]
+  },
+  "Lord Byron": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lord_Byron"
+    ]
+  },
+  "Lord Dunsany": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lord_Dunsany"
+    ]
+  },
+  "Lord Macaulay": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rothley Temple, Leicestershire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay"
+    ]
+  },
+  "Louisa May Alcott": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Germantown, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Louisa_May_Alcott"
+    ]
+  },
+  "Luís Vaz de Camõens": {
+    "countries": [
+      "PRT"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kingdom of Portugal. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Luís_de_Camões"
+    ]
+  },
+  "M. R. James": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Goodnestone, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M._R._James"
+    ]
+  },
+  "Madame de Lafayette": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madame_de_La_Fayette"
+    ]
+  },
+  "Madame de Sévigné": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marie_de_Rabutin-Chantal,_marquise_de_Sévigné"
+    ]
+  },
+  "Marcel Proust": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marcel_Proust"
+    ]
+  },
+  "Marco Polo": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Venice (present-day Italy). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marco_Polo"
+    ]
+  },
+  "Margaret Cavendish": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Colchester, Essex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Margaret_Cavendish,_Duchess_of_Newcastle-upon-Tyne"
+    ]
+  },
+  "Margery Kempe": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bishop's Lynn, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Margery_Kempe"
+    ]
+  },
+  "Marguerite de Navarre": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Angoulême, Angoumois, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marguerite_de_Navarre"
+    ]
+  },
+  "Maria Edgeworth": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Black Bourton, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maria_Edgeworth"
+    ]
+  },
+  "Marianne Moore": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kirkwood, Missouri, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marianne_Moore"
+    ]
+  },
+  "Mariano Azuela": {
+    "countries": [
+      "MEX"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lagos de Moreno, Jalisco, United Mexican States. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mariano_Azuela"
+    ]
+  },
+  "Mark Twain": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Florida, Missouri, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mark_Twain"
+    ]
+  },
+  "Mary Eleanor Wilkins Freeman": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Randolph, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman"
+    ]
+  },
+  "Mary Elizabeth Braddon": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Soho, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon"
+    ]
+  },
+  "Mary Seacole": {
+    "countries": [
+      "JAM"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kingston, Colony of Jamaica. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Seacole"
+    ]
+  },
+  "Mary Shelley": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Shelley"
+    ]
+  },
+  "Mary Wollstonecraft": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Spitalfields, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Wollstonecraft"
+    ]
+  },
+  "Matsuo Bashō": {
+    "countries": [
+      "JPN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as near Ueno, Iga Province, Japan. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matsuo_Bashō"
+    ]
+  },
+  "Matthew Arnold": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Laleham, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matthew_Arnold"
+    ]
+  },
+  "Matthew Lewis": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis"
+    ]
+  },
+  "Maurice Leblanc": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rouen, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maurice_Leblanc"
+    ]
+  },
+  "Maxim Gorky": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nizhny Novgorod, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maxim_Gorky"
+    ]
+  },
+  "Melissa Bank": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Boston, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Melissa_Bank"
+    ]
+  },
+  "Michel de Montaigne": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Château de Montaigne, Guyenne, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+    ]
+  },
+  "Miguel de Cervantes": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Alcalá de Henares, Spain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+    ]
+  },
+  "Miles Franklin": {
+    "countries": [
+      "AUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Talbingo, New South Wales, Australia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Miles_Franklin"
+    ]
+  },
+  "Montesquieu": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Château de la Brède, La Brède, Aquitaine, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Montesquieu"
+    ]
+  },
+  "Morrissey": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Old Trafford, Lancashire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Morrissey"
+    ]
+  },
+  "Mulk Raj Anand": {
+    "countries": [
+      "PAK"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Peshawar, NWFP, British India (now in Khyber Pakhtunkhwa, Pakistan). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulk_Raj_Anand"
+    ]
+  },
+  "Mário de Andrade": {
+    "countries": [
+      "BRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as São Paulo, Brazil. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mário_de_Andrade"
+    ]
+  },
+  "Nathaniel Hawthorne": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Salem, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nathaniel_Hawthorne"
+    ]
+  },
+  "Natsume Sōseki": {
+    "countries": [
+      "JPN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Edo, Musashi Province, Japan. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Natsume_Sōseki"
+    ]
+  },
+  "Nella Larsen": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Chicago, Illinois, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nella_Larsen"
+    ]
+  },
+  "Nellie Bly": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Burrell Township, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nellie_Bly"
+    ]
+  },
+  "Ngũgĩ wa Thiong'o": {
+    "countries": [
+      "KEN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kamiriithu, Kenya Colony. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ngũgĩ_wa_Thiong'o"
+    ]
+  },
+  "Nikolai Gogol": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sorochyntsi, Russian Empire (now in Ukraine). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nikolai_Gogol"
+    ]
+  },
+  "Oliver Goldsmith": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Either Ballymahon, County Longford, or Elphin, County Roscommon, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oliver_Goldsmith"
+    ]
+  },
+  "Oscar Wilde": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oscar_Wilde"
+    ]
+  },
+  "Ovid": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sulmo, Italy, Roman Republic. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ovid"
+    ]
+  },
+  "Owen Wister": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Germantown, Philadelphia, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Owen_Wister"
+    ]
+  },
+  "P. T. Barnum": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Bethel, Connecticut, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/P._T._Barnum"
+    ]
+  },
+  "Pablo Neruda": {
+    "countries": [
+      "CHL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Parral, Chile. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pablo_Neruda"
+    ]
+  },
+  "Patrick Kavanagh": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Inniskeen, County Monaghan, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Patrick_Kavanagh"
+    ]
+  },
+  "Patrick White": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Knightsbridge, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Patrick_White"
+    ]
+  },
+  "Paul Laurence Dunbar": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dayton, Ohio, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paul_Laurence_Dunbar"
+    ]
+  },
+  "Pausanias": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lydia, Asia Minor (modern-day Turkey). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pausanias_(geographer)"
+    ]
+  },
+  "Pedro Antonio de Alarcón": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Guadix, Spain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón"
+    ]
+  },
+  "Pedro Calderón de la Barca": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Madrid, Spain. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca"
+    ]
+  },
+  "Pedro Lemebel": {
+    "countries": [
+      "CHL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Santiago, Chile. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pedro_Lemebel"
+    ]
+  },
+  "Penelope Lively": {
+    "countries": [
+      "EGY"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cairo, Egypt. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Penelope_Lively"
+    ]
+  },
+  "Percy Bysshe Shelley": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Field Place, Sussex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+    ]
+  },
+  "Percy Shelley": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Field Place, Sussex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+    ]
+  },
+  "Peter Abelard": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Le Pallet near Nantes, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peter_Abelard"
+    ]
+  },
+  "Peter Matthiessen": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peter_Matthiessen"
+    ]
+  },
+  "Philip Guston": {
+    "countries": [
+      "CAN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Montreal, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philip_Guston"
+    ]
+  },
+  "Philip Sidney": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Penshurst Place, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philip_Sidney"
+    ]
+  },
+  "Pierre Beaumarchais": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pierre-Augustin_de_Beaumarchais"
+    ]
+  },
+  "Pierre Corneille": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Rouen, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pierre_Corneille"
+    ]
+  },
+  "Pierre Ronsard": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Couture-sur-Loir, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pierre_de_Ronsard"
+    ]
+  },
+  "Pierre de Marivaux": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pierre_de_Marivaux"
+    ]
+  },
+  "Pietro Aretino": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Arezzo, Republic of Florence (present-day Tuscany, Italy). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pietro_Aretino"
+    ]
+  },
+  "Pliny the Younger": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Novum Comum, Italia, Roman Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pliny_the_Younger"
+    ]
+  },
+  "Plotinus": {
+    "countries": [
+      "EGY"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Asyut or Lycopolis, Egypt, Roman Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Plotinus"
+    ]
+  },
+  "Polybius": {
+    "countries": [
+      "GRC"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Megalopolis, Arcadia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polybius"
+    ]
+  },
+  "Pu Songling": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Zibo, Shandong, Ming China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pu_Songling"
+    ]
+  },
+  "Quentin Crisp": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sutton, Surrey, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Quentin_Crisp"
+    ]
+  },
+  "R. D. Blackmore": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Longworth, Berkshire (now Oxfordshire), England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/R._D._Blackmore"
+    ]
+  },
+  "Rabindranath Tagore": {
+    "countries": [
+      "IND"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Jorasanko Thakur Bari, Calcutta, Bengal Presidency, British Raj (now Kolkata, West Bengal, India). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+    ]
+  },
+  "Rachel Carson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Springdale, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rachel_Carson"
+    ]
+  },
+  "Rafael Sabatini": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Jesi, Kingdom of Italy. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rafael_Sabatini"
+    ]
+  },
+  "Ralph Waldo Emerson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Boston, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+    ]
+  },
+  "Rebecca West": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rebecca_West"
+    ]
+  },
+  "Reginald Rose": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manhattan, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Reginald_Rose"
+    ]
+  },
+  "René Descartes": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as La Haye-en-Touraine, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/René_Descartes"
+    ]
+  },
+  "René Girard": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Avignon, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/René_Girard"
+    ]
+  },
+  "Richard Aldington": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portsmouth, Hampshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Aldington"
+    ]
+  },
+  "Richard Brinsley Sheridan": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dublin, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan"
+    ]
+  },
+  "Richard Fariña": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Fariña"
+    ]
+  },
+  "Richard Hakluyt": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hereford, Herefordshire; or London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Hakluyt"
+    ]
+  },
+  "Richard Henry Dana Jr.": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cambridge, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Henry_Dana_Jr."
+    ]
+  },
+  "Richard Penn Smith": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Philadelphia, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_Penn_Smith"
+    ]
+  },
+  "Robert Browning": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Camberwell, Surrey, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Browning"
+    ]
+  },
+  "Robert Burns": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Alloway, Ayrshire, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Burns"
+    ]
+  },
+  "Robert Burton": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lindley, Leicestershire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Burton"
+    ]
+  },
+  "Robert Louis Stevenson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Edinburgh, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+    ]
+  },
+  "Robert Owen": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Newtown, Montgomeryshire, Wales. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Owen"
+    ]
+  },
+  "Robertson Davies": {
+    "countries": [
+      "CAN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thamesville, Ontario, Canada. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robertson_Davies"
+    ]
+  },
+  "Roy Heath": {
+    "countries": [
+      "GUY"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Georgetown, British Guiana. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roy_Heath"
+    ]
+  },
+  "Rubén Darío": {
+    "countries": [
+      "NIC"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Metapa, today known as Ciudad Darío, Matagalpa, Nicaragua. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rubén_Darío"
+    ]
+  },
+  "Ryunosuke Akutagawa": {
+    "countries": [
+      "JPN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kyōbashi, Tokyo, Empire of Japan. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ryūnosuke_Akutagawa"
+    ]
+  },
+  "Samuel Butler": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Langar, Nottinghamshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)"
+    ]
+  },
+  "Samuel Johnson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lichfield, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Johnson"
+    ]
+  },
+  "Samuel Pepys": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Fleet Street, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Pepys"
+    ]
+  },
+  "Samuel Richardson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Mackworth, Derbyshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Richardson"
+    ]
+  },
+  "Samuel Taylor Coleridge": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Ottery St Mary, Devon, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge"
+    ]
+  },
+  "Sarah Orne Jewett": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as South Berwick, Maine, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sarah_Orne_Jewett"
+    ]
+  },
+  "Saul Bellow": {
+    "countries": [
+      "CAN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lachine, Quebec, Canada. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saul_Bellow"
+    ]
+  },
+  "Selma Lagerlöf": {
+    "countries": [
+      "SWE"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Mårbacka, Sweden. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Selma_Lagerlöf"
+    ]
+  },
+  "Seneca": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Corduba (Córdoba), Spain. Rome was his principal career location; Corsica was a place of exile, not his origin.",
+    "sources": [
+      "https://plato.stanford.edu/entries/seneca/"
+    ],
+    "associations": [
+      "ESP",
+      "ITA",
+      "FRA"
+    ],
+    "associationNote": "Córdoba origin; Rome career; Corsica exile (modern France)."
+  },
+  "Shen Fu": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Suzhou, Jiangsu, Qing China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shen_Fu"
+    ]
+  },
+  "Sherwood Anderson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Camden, Ohio, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sherwood_Anderson"
+    ]
+  },
+  "Shirley Jackson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as San Francisco, California, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shirley_Jackson"
+    ]
+  },
+  "Sigrid Undset": {
+    "countries": [
+      "DNK"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kalundborg, Denmark. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sigrid_Undset"
+    ]
+  },
+  "Simone Weil": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Simone_Weil"
+    ]
+  },
+  "Sinclair Lewis": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Sauk Centre, Minnesota, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sinclair_Lewis"
+    ]
+  },
+  "Sir Thomas Browne": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Browne"
+    ]
+  },
+  "Sir Walter Raleigh": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as East Budleigh, Devon, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walter_Raleigh"
+    ]
+  },
+  "Snorri Sturluson": {
+    "countries": [
+      "ISL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hvammur í Dölum, Dalasýsla, Icelandic Commonwealth. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Snorri_Sturluson"
+    ]
+  },
+  "Sojourner Truth": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Swartekill, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sojourner_Truth"
+    ]
+  },
+  "Solomon Northup": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Minerva, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solomon_Northup"
+    ]
+  },
+  "Somadeva": {
+    "countries": [
+      "IND"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kashmir, India. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Somadeva"
+    ]
+  },
+  "St. Augustine": {
+    "countries": [
+      "DZA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thagaste, Numidia Cirtensis, Roman Empire (present-day Souk Ahras, Algeria). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    ]
+  },
+  "St.Augustine": {
+    "countries": [
+      "DZA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thagaste, Numidia Cirtensis, Roman Empire (present-day Souk Ahras, Algeria). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    ]
+  },
+  "Stefan Zweig": {
+    "countries": [
+      "AUT"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Vienna, Austria-Hungary (present-day Austria). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stefan_Zweig"
+    ]
+  },
+  "Stella Gibbons": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stella_Gibbons"
+    ]
+  },
+  "Stendhal": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Grenoble, Kingdom of France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stendhal"
+    ]
+  },
+  "Stephen Crane": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Newark, New Jersey, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stephen_Crane"
+    ]
+  },
+  "Suetonius": {
+    "countries": [
+      "DZA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hippo Regius, Africa (modern Annaba, Algeria). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Suetonius"
+    ]
+  },
+  "Susanna Rowson": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Portsmouth, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Susanna_Rowson"
+    ]
+  },
+  "Sylvia Townsend Warner": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Harrow on the Hill, Middlesex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sylvia_Townsend_Warner"
+    ]
+  },
+  "Søren Kierkegaard": {
+    "countries": [
+      "DNK"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Copenhagen, Denmark, Denmark–Norway. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Søren_Kierkegaard"
+    ]
+  },
+  "T. S. Eliot": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as St. Louis, Missouri, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/T._S._Eliot"
+    ]
+  },
+  "Theodore Dreiser": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Terre Haute, Indiana, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Theodore_Dreiser"
+    ]
+  },
+  "Thomas De Quincey": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manchester, Lancashire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_De_Quincey"
+    ]
+  },
+  "Thomas Hardy": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stinsford, Dorset, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Hardy"
+    ]
+  },
+  "Thomas Hobbes": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Westport, Wiltshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Hobbes"
+    ]
+  },
+  "Thomas Malory": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kingdom of England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Malory"
+    ]
+  },
+  "Thomas Middleton": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Middleton"
+    ]
+  },
+  "Thomas More": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as City of London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_More"
+    ]
+  },
+  "Thomas Nashe": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lowestoft, Suffolk, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Nashe"
+    ]
+  },
+  "Thomas Paine": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Thetford, Norfolk, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Paine"
+    ],
+    "associations": [
+      "GBR",
+      "USA",
+      "FRA"
+    ],
+    "associationNote": "Thetford origin; American and French revolutionary career."
+  },
+  "Thomas Pynchon": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Glen Cove, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Pynchon"
+    ]
+  },
+  "Thomas Wentworth Higginson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cambridge, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson"
+    ]
+  },
+  "Thomas à Kempis": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kempen, Prince-Archbishopric of Cologne, Holy Roman Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_à_Kempis"
+    ]
+  },
+  "Théophile Gautier": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Tarbes, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Théophile_Gautier"
+    ]
+  },
+  "Titus Livy": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Patavium, Roman Republic (modern Padua, Italy). Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Livy"
+    ]
+  },
+  "Tobias Smollett": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Dalquhurn, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tobias_Smollett"
+    ]
+  },
+  "Ulysses S. Grant": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Point Pleasant, Ohio, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
+    ]
+  },
+  "Upton Sinclair": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Baltimore, Maryland, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Upton_Sinclair"
+    ]
+  },
+  "Vera Brittain": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Newcastle-under-Lyme, Staffordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vera_Brittain"
+    ]
+  },
+  "Victor Hugo": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Besançon, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Victor_Hugo"
+    ]
+  },
+  "Virginia Woolf": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as South Kensington, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virginia_Woolf"
+    ]
+  },
+  "Vladimir Nabokov": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Saint Petersburg, Russia. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vladimir_Nabokov"
+    ]
+  },
+  "Voltaire": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Voltaire"
+    ]
+  },
+  "W. E. B. Du Bois": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Great Barrington, Massachusetts, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+    ]
+  },
+  "W. Somerset Maugham": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/W._Somerset_Maugham"
+    ]
+  },
+  "Wallace Stegner": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lake Mills, Iowa, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wallace_Stegner"
+    ]
+  },
+  "Walt Whitman": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Huntington, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walt_Whitman"
+    ]
+  },
+  "Walter Pater": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stepney, London, Middlesex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walter_Pater"
+    ]
+  },
+  "Walter Scott": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Edinburgh, Scotland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walter_Scott"
+    ]
+  },
+  "Washington Irving": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Manhattan, New York, New York, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Washington_Irving"
+    ]
+  },
+  "Wilfred Thesiger": {
+    "countries": [
+      "ETH"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Addis Ababa, Ethiopian Empire. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wilfred_Thesiger"
+    ]
+  },
+  "Wilkie Collins": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Marylebone, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wilkie_Collins"
+    ]
+  },
+  "Willa Cather": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Gore, Virginia, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Willa_Cather"
+    ]
+  },
+  "William Blake": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Soho, London, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Blake"
+    ]
+  },
+  "William Dean Howells": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Martinsville, Ohio U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Dean_Howells"
+    ]
+  },
+  "William Gaddis": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, US. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Gaddis"
+    ]
+  },
+  "William Godwin": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Wisbech, Cambridgeshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Godwin"
+    ]
+  },
+  "William Golding": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Newquay, Cornwall, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Golding"
+    ]
+  },
+  "William Hazlitt": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Maidstone, Kent, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Hazlitt"
+    ]
+  },
+  "William James": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as New York City, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_James"
+    ]
+  },
+  "William Makepeace Thackeray": {
+    "countries": [
+      "IND"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Calcutta, Bengal Presidency, India. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray"
+    ]
+  },
+  "William Morris": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Walthamstow, Essex, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Morris"
+    ]
+  },
+  "William Reynolds": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lancaster, Pennsylvania, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Reynolds_(naval_officer)"
+    ]
+  },
+  "William Shakespeare": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Stratford-upon-Avon, Warwickshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Shakespeare"
+    ]
+  },
+  "William Tecumseh Sherman": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lancaster, Ohio, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman"
+    ]
+  },
+  "William Trevor": {
+    "countries": [
+      "IRL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Mitchelstown, County Cork, Ireland. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Trevor"
+    ]
+  },
+  "William Tyndale": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Gloucestershire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Tyndale"
+    ]
+  },
+  "William Wells Brown": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Lexington, Kentucky, U.S.. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Wells_Brown"
+    ]
+  },
+  "William Wordsworth": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Cockermouth, Cumberland, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Wordsworth"
+    ]
+  },
+  "Winston Churchill": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Blenheim, Oxfordshire, England. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Winston_Churchill"
+    ]
+  },
+  "Wu Cheng’en": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Huai'an, Jiangsu, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wu_Cheng'en"
+    ]
+  },
+  "Émile Durkheim": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Épinal, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Émile_Durkheim"
+    ]
+  },
+  "Émile Zola": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Paris, France. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Émile_Zola"
+    ]
+  },
+  "Joris-Karl Huysmans": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born and worked in Paris, France. Visits to the Netherlands do not establish Dutch origin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joris-Karl_Huysmans"
+    ]
+  },
+  "Ibn Fadlān": {
+    "countries": [
+      "IRQ"
+    ],
+    "basis": "documented career fallback; birthplace uncertain",
+    "note": "Baghdad is the documented Abbasid career and departure location; birthplace is uncertain. Volga Bulgaria was the destination of his travels, not an established origin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan"
+    ],
+    "associations": [
+      "IRQ",
+      "RUS"
+    ],
+    "associationNote": "Baghdad career; journey to Volga Bulgaria in modern Russia."
+  },
+  "Quobna Ottobah Cugoano": {
+    "countries": [
+      "GHA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Ajumako in present-day Ghana; later lived in London.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ottobah_Cugoano"
+    ]
+  },
+  "Johannes Leo Africanus": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Granada, Spain; raised in Fez, Morocco, and later worked in Rome. A centroid for the continent of Africa is not evidence for Algeria.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leo_Africanus"
+    ],
+    "associations": [
+      "ESP",
+      "MAR",
+      "ITA"
+    ],
+    "associationNote": "Granada, Fez and Rome; removed continent-centroid Algeria match."
+  },
+  "Isaiah Berlin": {
+    "countries": [
+      "LVA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Riga, now Latvia; later based in Britain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Isaiah_Berlin"
+    ]
+  },
+  "Jean-Jacques Rousseau": {
+    "countries": [
+      "CHE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Geneva, now Switzerland; later residences belong in the broader association view.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+    ]
+  },
+  "Rainer Maria Rilke": {
+    "countries": [
+      "CZE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Prague, now Czechia; later worked in several European countries.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+    ]
+  },
+  "Jan Potocki": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Pików (modern Pykiv, Ukraine), in the Polish–Lithuanian Commonwealth. His Polish literary identity is separate from the modern location of his birthplace.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jan_Potocki"
+    ]
+  },
+  "Emma Goldman": {
+    "countries": [
+      "LTU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Kaunas, now Lithuania; the Russian Empire is not equivalent to modern Russia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Emma_Goldman"
+    ]
+  },
+  "Sigmund Freud": {
+    "countries": [
+      "CZE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Freiberg in Moravia (modern Příbor, Czechia); later based in Vienna and London.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sigmund_Freud"
+    ]
+  },
+  "Flavius Josephus": {
+    "countries": [
+      "ISR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Jerusalem, Roman Judaea; later lived and wrote in Rome. Modern map association is geographic and does not imply ancient nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Josephus"
+    ]
+  },
+  "George Orwell": {
+    "countries": [
+      "IND"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Motihari, Bihar, in present-day India; British literary identity and later career are separate associations.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Orwell"
+    ]
+  },
+  "Rudyard Kipling": {
+    "countries": [
+      "IND"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Bombay (Mumbai), present-day India; later worked in Britain and elsewhere.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rudyard_Kipling"
+    ]
+  },
+  "Franz Kafka": {
+    "countries": [
+      "CZE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Prague, now Czechia. Austria-Hungary must not be mapped to Austria and Hungary as his birthplace.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Franz_Kafka"
+    ]
+  },
+  "Heraclitus": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "From Ephesus, now near Selçuk in Turkey; a Greek philosopher, not born in modern Iran because Ephesus was under Persian rule.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heraclitus"
+    ]
+  },
+  "Ammianus Marcellinus": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Traditionally associated with Antioch (Antakya, Turkey); birthplace is uncertain. Roman Syria is not modern Syria.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammianus_Marcellinus"
+    ]
+  },
+  "Eusebius": {
+    "countries": [
+      "ISR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Associated with Caesarea Maritima, now Israel; exact birthplace is uncertain. Syria Palaestina is not modern Syria.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eusebius"
+    ]
+  },
+  "Lucian": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Samosata, now in Turkey; Roman Syria is not equivalent to modern Syria.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lucian"
+    ]
+  },
+  "Benjamin Franklin": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Boston, now the United States; English America does not locate Boston in Britain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    ]
+  },
+  "José Martí": {
+    "countries": [
+      "CUB"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Havana, Cuba, then a Spanish colony.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/José_Martí"
+    ]
+  },
+  "Richard E. Kim": {
+    "countries": [
+      "PRK"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Hamhung, now North Korea, then under Japanese colonial rule; later a US writer.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Richard_E._Kim"
+    ]
+  },
+  "Zitkala-Ša": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born on the Yankton Indian Reservation in present-day South Dakota, United States. Indian Reservation does not mean India.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zitkala-Ša"
+    ]
+  },
+  "Roger Lancelyn Green": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Norwich, England. A linked historical United Kingdom title does not establish Irish origin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roger_Lancelyn_Green"
+    ]
+  },
+  "Italo Calvino": {
+    "countries": [
+      "CUB"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Santiago de Las Vegas, Cuba; raised and worked in Italy.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Italo_Calvino"
+    ]
+  },
+  "Joseph Conrad": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Berdychiv, now Ukraine; Polish background and British literary career are additional associations.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joseph_Conrad"
+    ]
+  },
+  "Mikhail Bulgakov": {
+    "countries": [
+      "UKR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Kyiv, now Ukraine; later worked in Russia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+    ]
+  },
+  "E. T. A. Hoffmann": {
+    "countries": [
+      "RUS"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Königsberg, now Kaliningrad, Russia; German language and Prussian identity are distinct from the modern location.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/E._T._A._Hoffmann"
+    ]
+  },
+  "Justinian": {
+    "countries": [
+      "MKD"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Traditionally born at Tauresium, near modern Skopje, North Macedonia; later based in Constantinople. Birthplace identification is approximate.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Justinian_I"
+    ]
+  },
+  "Apollonius of Rhodes": {
+    "countries": [
+      "EGY"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Traditionally born in Alexandria or Naucratis, Egypt; later associated with Rhodes.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Apollonius_of_Rhodes"
+    ]
+  },
+  "Arrian": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Nicomedia, modern İzmit, Turkey; a Greek-speaking Roman author.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arrian"
+    ]
+  },
+  "Epictetus": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Traditionally born at Hierapolis, near Pamukkale in modern Turkey; later taught in Greece.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Epictetus"
+    ]
+  },
+  "Cassius Dio": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Nicaea, modern İznik, Turkey; Roman political career.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cassius_Dio"
+    ]
+  },
+  "Procopius": {
+    "countries": [
+      "ISR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "From Caesarea Maritima, now Israel; later worked in Constantinople.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Procopius"
+    ]
+  },
+  "Philostratus": {
+    "countries": [
+      "GRC"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Traditionally associated with Lemnos, Greece; later worked in Rome. Exact birthplace is uncertain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philostratus"
+    ]
+  },
+  "Gottfried von Strassburg": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Associated with Strasbourg, now France; German literary tradition. Biography is uncertain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gottfried_von_Strassburg"
+    ]
+  },
+  "María Amparo Ruíz de Burton": {
+    "countries": [
+      "MEX"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Loreto, Baja California, now Mexico; later wrote in the United States.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/María_Ruiz_de_Burton"
+    ]
+  },
+  "Mary Prince": {
+    "countries": [
+      "BMU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Bermuda; later lived in Britain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mary_Prince"
+    ]
+  },
+  "Adalbert Stifter": {
+    "countries": [
+      "CZE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Oberplan (Horní Planá), now Czechia; Austrian literary career.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adalbert_Stifter"
+    ]
+  },
+  "Jaroslav Hašek": {
+    "countries": [
+      "CZE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Prague, now Czechia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jaroslav_Hašek"
+    ]
+  },
+  "Karel Čapek": {
+    "countries": [
+      "CZE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Malé Svatoňovice, now Czechia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karel_Čapek"
+    ]
+  },
+  "Christine de Pizan": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Venice; raised and wrote in France.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christine_de_Pizan"
+    ]
+  },
+  "Joshua Slocum": {
+    "countries": [
+      "CAN"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Mount Hanley, Nova Scotia, now Canada; later a US citizen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joshua_Slocum"
+    ]
+  },
+  "Marcus Aurelius": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Rome; the Danube campaign locations associated with Meditations are not his origin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    ]
+  },
+  "Aristotle": {
+    "countries": [
+      "GRC"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Stagira, now Greece; later taught in Athens and elsewhere.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aristotle"
+    ]
+  },
+  "Herodotus": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Halicarnassus, modern Bodrum, Turkey; Greek literary identity is separate from the modern location.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Herodotus"
+    ]
+  },
+  "Karl Marx": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Trier, now Germany; later lived in Paris, Brussels and London.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karl_Marx"
+    ]
+  },
+  "Karl Marx and Friedrich Engels": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Both authors were born in present-day Germany: Marx in Trier and Engels in Barmen. Brussels was a later work location.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karl_Marx_and_Friedrich_Engels"
+    ]
+  },
+  "Friedrich Engels": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Barmen, now Wuppertal, Germany; later worked in Britain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Friedrich_Engels"
+    ]
+  },
+  "Friedrich Nietzsche": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Röcken, now Germany; later taught in Basel, Switzerland.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    ]
+  },
+  "Hannah Arendt": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Linden, now Hanover, Germany; later lived in France and the United States. Königsberg childhood is a modern Russian association, not her birthplace.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hannah_Arendt"
+    ]
+  },
+  "Thomas Mann": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Lübeck, Germany; later lived in Switzerland and the United States.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Mann"
+    ]
+  },
+  "Georg Wilhelm Friedrich Hegel": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Stuttgart, now Germany; later worked in Bern, Switzerland, and German cities.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+    ]
+  },
+  "Wolfgang Amadeus Mozart": {
+    "countries": [
+      "AUT"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Salzburg, now Austria; Prague was a later performance and work location.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    ]
+  },
+  "Alexander von Humboldt": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Berlin, now Germany; later worked in Paris and travelled widely.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexander_von_Humboldt"
+    ]
+  },
+  "Albert Einstein": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Ulm, Germany; later worked in Switzerland, Prague and the United States.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Albert_Einstein"
+    ]
+  },
+  "Sybille Bedford": {
+    "countries": [
+      "DEU"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Charlottenburg, Berlin, Germany; later based in Britain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sybille_Bedford"
+    ]
+  },
+  "Thomas Jefferson": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Shadwell, Virginia, now the United States; Paris was a later diplomatic posting.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    ]
+  },
+  "Dante Alighieri": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Florence, now Italy; French links do not define his origin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dante_Alighieri"
+    ]
+  },
+  "Benvenuto Cellini": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Florence, now Italy; later worked in France.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benvenuto_Cellini"
+    ]
+  },
+  "Ignatius of Loyola": {
+    "countries": [
+      "ESP"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Loyola near Azpeitia, now Spain; later worked in Rome.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+    ]
+  },
+  "Carlos Bulosan": {
+    "countries": [
+      "PHL"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born at Binalonan, Pangasinan, Philippines; later wrote in the United States.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carlos_Bulosan"
+    ]
+  },
+  "Johann Peter Hebel": {
+    "countries": [
+      "CHE"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Basel, Switzerland; later worked in Baden, Germany.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Johann_Peter_Hebel"
+    ]
+  },
+  "Terence": {
+    "countries": [
+      "TUN"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Traditionally born in Carthage, now Tunisia; enslaved and later a playwright in Rome. Biographical details are uncertain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Terence"
+    ]
+  },
+  "Olaudah Equiano": {
+    "countries": [
+      "NGA"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "His autobiography identifies an Igbo birthplace in present-day Nigeria. Some surviving records instead suggest South Carolina; the map follows his own account, not a settled birthplace.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Olaudah_Equiano"
+    ]
+  },
+  "Phillis Wheatley": {
+    "countries": [
+      "SEN",
+      "GMB"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in West Africa, possibly present-day Senegal or Gambia; the exact birthplace is unknown. These regions are an approximate source-region range, not a verified country. Later wrote in Boston.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phillis_Wheatley"
+    ]
+  },
+  "Gabriel García Márquez": {
+    "countries": [
+      "COL"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in Aracataca, Colombia; later lived and wrote in Mexico.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gabriel_García_Márquez"
+    ]
+  },
+  "Nancy Mitford": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "reviewed origin / geographic fallback",
+    "note": "Born in London, England; later lived in France.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nancy_Mitford"
+    ]
+  },
+  "Apuleius": {
+    "countries": [
+      "DZA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born at Madaura, modern Mdaourouch in Algeria.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Apuleius"
+    ]
+  },
+  "Boethius": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Roman author, born and active in Italy.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Boethius"
+    ]
+  },
+  "Lucretius": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Exact birthplace is unknown; the Roman author's Italian literary context is the fallback.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lucretius"
+    ]
+  },
+  "Plautus": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born at Sarsina in modern Italy.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Plautus"
+    ]
+  },
+  "Sallust": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born at Amiternum in modern Italy.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sallust"
+    ]
+  },
+  "Quintus Curtius Rufus": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "The author's biography is uncertain; Roman literary context is used as the regional fallback.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Quintus_Curtius_Rufus"
+    ]
+  },
+  "Tacitus": {
+    "countries": [
+      "ITA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Birthplace is disputed; documented Roman career supplies the Italian association.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tacitus"
+    ]
+  },
+  "Gregory of Tours": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born at Clermont and active in Tours, both in modern France.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gregory_of_Tours"
+    ]
+  },
+  "Michael Psellus": {
+    "countries": [
+      "TUR"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born and active in Constantinople, modern Istanbul, Turkey.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Michael_Psellos"
+    ]
+  },
+  "Beroul": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Probable Norman/Old French literary origin; exact biography is uncertain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/B%C3%A9roul"
+    ]
+  },
+  "Farid Ud-Din Attar": {
+    "countries": [
+      "IRN"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Associated with Nishapur in modern Iran.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Attar_of_Nishapur"
+    ]
+  },
+  "Usama ibn Munqidh": {
+    "countries": [
+      "SYR"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born at Shaizar in modern Syria.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Usama_ibn_Munqidh"
+    ]
+  },
+  "Rumi": {
+    "countries": [
+      "TJK",
+      "AFG",
+      "TUR"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Birth is associated with Wakhsh in modern Tajikistan or traditionally Balkh in Afghanistan; later lived in Konya, Turkey. Both disputed birth traditions are represented.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rumi"
+    ]
+  },
+  "Black Hawk": {
+    "countries": [
+      "USA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "From the Sauk settlement of Saukenuk in present-day Illinois, United States.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Hawk_(Sauk_leader)"
+    ]
+  },
+  "Philippe de Commynes": {
+    "countries": [
+      "FRA"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Born at Renescure, now in France, and active at the French court; historical Flanders is not treated as modern Belgium.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philippe_de_Commines"
+    ]
+  },
+  "Aesop": {
+    "countries": [
+      "GRC",
+      "TUR"
+    ],
+    "basis": "author origin / documented regional fallback",
+    "note": "Traditional Greek/Phrygian association, represented by modern Greece and Turkey; historicity and birthplace are uncertain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aesop"
+    ]
+  }
+}

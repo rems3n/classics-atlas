@@ -1,0 +1,574 @@
+[
+  {
+    "id": "path-4bb3ad080e70",
+    "title": "China in Ten Words",
+    "author": "Yu Hua",
+    "start": 2010,
+    "end": 2010,
+    "countries": [
+      "CHN"
+    ],
+    "associationCountries": [
+      "CHN"
+    ],
+    "categories": [
+      "Essays & criticism"
+    ],
+    "type": "Nonfiction",
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "overview": "Ten everyday words frame personal memories and reflections on China’s social transformation.",
+    "source": "https://en.wikipedia.org/wiki/China_in_Ten_Words",
+    "editions": [
+      "China in Ten Words — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/China_in_Ten_Words",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-86219f190f43",
+    "title": "Red Sorghum",
+    "author": "Mo Yan",
+    "start": 1986,
+    "end": 1987,
+    "countries": [
+      "CHN"
+    ],
+    "associationCountries": [
+      "CHN"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "overview": "Family memory, rural life and wartime violence intertwine across generations in Shandong.",
+    "source": "https://en.wikipedia.org/wiki/Red_Sorghum_(novel)",
+    "editions": [
+      "Red Sorghum — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original writings",
+    "dateConfidence": "estimated",
+    "dateNote": "1986–1987 covers the initial publication sequence and collected novel.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/Red_Sorghum_(novel)",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-3709d47e7e5b",
+    "title": "Lenin’s Kisses",
+    "author": "Yan Lianke",
+    "start": 2004,
+    "end": 2004,
+    "countries": [
+      "CHN"
+    ],
+    "associationCountries": [
+      "CHN"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "overview": "A village becomes entangled in an official’s extravagant scheme in a satire of power and ambition.",
+    "source": "https://en.wikipedia.org/wiki/Lenin%27s_Kisses",
+    "editions": [
+      "Lenin’s Kisses — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/Lenin%27s_Kisses",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-97f2d26cf7ac",
+    "title": "Waiting",
+    "author": "Ha Jin",
+    "start": 1999,
+    "end": 1999,
+    "countries": [
+      "CHN"
+    ],
+    "associationCountries": [
+      "CHN"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "English",
+    "tradition": "Chinese",
+    "overview": "A doctor’s divided loyalties turn a hoped-for new life into years of waiting.",
+    "source": "https://en.wikipedia.org/wiki/Waiting_(novel)",
+    "editions": [
+      "Waiting — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/Waiting_(novel)",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-8aedde7d2b90",
+    "title": "The Song of Everlasting Sorrow",
+    "author": "Wang Anyi",
+    "start": 1995,
+    "end": 1995,
+    "countries": [
+      "CHN"
+    ],
+    "associationCountries": [
+      "CHN"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "Chinese",
+    "tradition": "Chinese",
+    "overview": "A woman’s changing fortunes trace decades of private life in Shanghai.",
+    "source": "https://en.wikipedia.org/wiki/The_Song_of_Everlasting_Sorrow_(novel)",
+    "editions": [
+      "The Song of Everlasting Sorrow — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/The_Song_of_Everlasting_Sorrow_(novel)",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-2d954b65903b",
+    "title": "Labyrinths",
+    "author": "Jorge Luis Borges",
+    "start": 1935,
+    "end": 1960,
+    "countries": [
+      "ARG"
+    ],
+    "associationCountries": [
+      "ARG"
+    ],
+    "categories": [
+      "Short stories"
+    ],
+    "type": "Fiction",
+    "language": "Spanish",
+    "tradition": "Argentine",
+    "overview": "Stories, essays and parables turn libraries, mirrors and puzzles into questions about reality.",
+    "source": "https://en.wikipedia.org/wiki/Labyrinths_(short_story_collection)",
+    "editions": [
+      "Labyrinths — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original writings",
+    "dateConfidence": "estimated",
+    "dateNote": "Estimated span of the original writings, approximately 1935–1960; the English selection appeared in 1962. Individual components need a full date audit.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/Labyrinths_(short_story_collection)",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-e5e7bed2f2c7",
+    "title": "Conversation in the Cathedral",
+    "author": "Mario Vargas Llosa",
+    "start": 1969,
+    "end": 1969,
+    "countries": [
+      "PER"
+    ],
+    "associationCountries": [
+      "PER"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "Spanish",
+    "tradition": "Peruvian",
+    "overview": "A chance conversation opens a complex portrait of private compromise under a Peruvian dictatorship.",
+    "source": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral",
+    "editions": [
+      "Conversation in the Cathedral — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-b460d275e678",
+    "title": "2666",
+    "author": "Roberto Bolaño",
+    "start": 2004,
+    "end": 2004,
+    "countries": [
+      "CHL"
+    ],
+    "associationCountries": [
+      "CHL"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "Spanish",
+    "tradition": "Chilean",
+    "overview": "Five connected narratives move through literature, obsession and violence toward a Mexican border city.",
+    "source": "https://en.wikipedia.org/wiki/2666",
+    "editions": [
+      "2666 — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/2666",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-991bc25a049c",
+    "title": "The Famished Road",
+    "author": "Ben Okri",
+    "start": 1991,
+    "end": 1991,
+    "countries": [
+      "NGA"
+    ],
+    "associationCountries": [
+      "NGA"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "English",
+    "tradition": "Nigerian",
+    "overview": "A spirit-child moves between worlds while observing the struggles of his family and community.",
+    "source": "https://en.wikipedia.org/wiki/The_Famished_Road",
+    "editions": [
+      "The Famished Road — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/The_Famished_Road",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-8aa9ec9f1401",
+    "title": "The Memory of Love",
+    "author": "Aminatta Forna",
+    "start": 2010,
+    "end": 2010,
+    "countries": [
+      "GBR"
+    ],
+    "associationCountries": [
+      "GBR",
+      "SLE"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "English",
+    "tradition": "Sierra Leonean / British",
+    "overview": "Entangled memories and relationships reveal the lasting wounds of conflict in Sierra Leone.",
+    "source": "https://en.wikipedia.org/wiki/The_Memory_of_Love",
+    "editions": [
+      "The Memory of Love — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Aminatta Forna was born in Glasgow (United Kingdom) and grew up partly in Sierra Leone. Sierra Leone is a broader life and literary association, not her birthplace.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/The_Memory_of_Love",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-021842317c0f",
+    "title": "Burma Boy",
+    "author": "Biyi Bandele",
+    "start": 2007,
+    "end": 2007,
+    "countries": [
+      "NGA"
+    ],
+    "associationCountries": [
+      "NGA"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "English",
+    "tradition": "Nigerian",
+    "overview": "A young Nigerian soldier encounters the dangers and absurdities of the Second World War in Burma.",
+    "source": "https://macmillan.yale.edu/africa/biyi-bandele",
+    "editions": [
+      "Burma Boy — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://macmillan.yale.edu/africa/biyi-bandele",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-46b1057a57db",
+    "title": "Opening Spaces",
+    "author": "Various African women writers; edited by Yvonne Vera",
+    "start": 1970,
+    "end": 1999,
+    "countries": [
+      "GHA",
+      "ZWE",
+      "ZAF",
+      "SDN",
+      "MUS",
+      "CIV",
+      "ZMB"
+    ],
+    "associationCountries": [
+      "GHA",
+      "ZWE",
+      "ZAF",
+      "SDN",
+      "MUS",
+      "CIV",
+      "ZMB"
+    ],
+    "categories": [
+      "Short stories"
+    ],
+    "type": "Fiction",
+    "language": "English",
+    "tradition": "African",
+    "overview": "An anthology brings together women’s short fiction from several African literary traditions.",
+    "source": "https://books.google.com/books/about/Opening_Spaces.html?id=xbuCAAAAIAAJ",
+    "editions": [
+      "Opening Spaces — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original writings",
+    "dateConfidence": "estimated",
+    "dateNote": "Tentative 1970–1999 contemporary-writing span, not a verified date for each story. The anthology appeared in 1999; component first-publication dates remain to be researched.",
+    "locationBasis": "Contributor traditions",
+    "locationNote": "Representative contributor traditions across Africa; not an exhaustive map, and not based solely on the editor’s birthplace.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://books.google.com/books/about/Opening_Spaces.html?id=xbuCAAAAIAAJ",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  },
+  {
+    "id": "path-8926fa91637b",
+    "title": "Half of a Yellow Sun",
+    "author": "Chimamanda Ngozi Adichie",
+    "start": 2006,
+    "end": 2006,
+    "countries": [
+      "NGA"
+    ],
+    "associationCountries": [
+      "NGA"
+    ],
+    "categories": [
+      "Novels"
+    ],
+    "type": "Fiction",
+    "language": "English",
+    "tradition": "Nigerian",
+    "overview": "Interwoven lives are transformed by the Biafran war and the pressures it places on love and loyalty.",
+    "source": "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun",
+    "editions": [
+      "Half of a Yellow Sun — see source for edition details"
+    ],
+    "collections": [
+      "Reading path additions"
+    ],
+    "cover": null,
+    "pages": null,
+    "goodreads": null,
+    "verified": false,
+    "dateKind": "Original publication",
+    "dateConfidence": "documented",
+    "dateNote": "Original publication date, distinct from later translations and reissues.",
+    "locationBasis": "Author origin",
+    "locationNote": "Author origin in the modern region shown; this is not the story setting or publication location.",
+    "provenance": [
+      {
+        "fields": "Work, original date, overview and literary context",
+        "source": "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun",
+        "method": "Editorial reading-path addition; approximate spans are labeled."
+      }
+    ]
+  }
+]
