@@ -1,3 +1,9 @@
+# Cover enrichment — September 21, 2026
+
+`scripts/cover_editions.py` queries cached, throttled Open Library metadata for the 514 uncovered entries. Queries constrain publisher to Penguin and normalize main titles while verifying authors for attributed books. Searches produced 175 candidates. Review excluded ten wrong or unresolved volume/translation/selection matches, retaining 165. Existing cover links and work IDs were preserved. Final coverage: 1,130 of 1,479; 349 remain without confident covers.
+
+Candidate, accepted, and rejected audit files are `data/cover-review-2026-09-21.json`, `data/cover-accepted-2026-09-21.json`, and `data/cover-rejected-2026-09-21.json`. The accepted records are merged into `data/online-covers.json`; rebuilding uses this saved input. Running the research script only writes candidates and does not automatically accept them. Metadata matching is not a claim that every cover image has been visually reviewed. Publisher-family metadata does not guarantee the Classics imprint. Artwork stays linked to Open Library, loads lazily, and falls back to explicit title art on failure.
+
 # Catalog enrichment
 
 The full supplied Wikipedia index is retained. Dates now have explicit sourced or editorial assignments, with probable dates and estimated ranges visibly distinguished. Every work also has a geographic association: documented residence/work locations, author origin/birthplace, or a labeled original-work/anthology regional fallback. Origin is not presented as residence. Other metadata gaps remain explicit, including edition page counts and ratings.

@@ -1,3 +1,11 @@
+Cover update: 514 missing records researched; 175 candidates reviewed; 165 accepted, 10 rejected. Current cover links: 1,130; unmatched: 349. Sample image checks for Hindu Myths, Guide to Greece Volume 1, and The History of Mary Prince show the correct titles and Penguin Classics art. Artwork was sampled, not exhaustively inspected.
+
+# Collection and book-notes update — September 21, 2026
+
+Implemented reversible collection expansion, preserving the country, filters, rendered batch, and reading shelf. Large screens use a wider book grid beside the map; tablets use the central reading area; mobile can expand the list below the map. Notes now separate overview/facts, reading controls, date history, geography, edition information, and expandable provenance. Rating changes preserve open note disclosures and scroll position.
+
+Validation: application syntax and offline build pass; the UI integration suite passes, including country selection and expansion/collapse, invariant result IDs, note-section ordering, disclosure preservation after rating, and existing desktop/mobile events. Core suite: 26 passed. Data suite: 13 passed. Simulated DOM checks do not establish physical-device ergonomics. Live publication checks are recorded separately when completed.
+
 # Current validation — September 20, 2026
 
 - Globe pinch update: focused simulated-DOM gesture regression passes for trackpad Ctrl+wheel, wheel units, actual SVG repaint, scale limits, two-contact pinch, single-contact rotation, finger lift without jumping, ordinary taps, drag/pinch click suppression, cancelled/lost contacts, coincident contacts, projection switching and window blur. Physical touchscreen and Safari gesture validation remain outstanding.

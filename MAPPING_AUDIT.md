@@ -1,6 +1,6 @@
-# Current map policy
+# Current geography policy
 
-All 1,479 works are mapped. Default author origin/source context is separate from broader life associations. See GEOGRAPHY_QA.md for the latest policy and historical-map review. The following is the earlier fallback mapping report, not verified birthplaces.
+All 1,479 works are mapped. The default uses author origin or original literary/source region. Broader life and work associations are separately selectable. See GEOGRAPHY_QA.md for the latest review; the historic fallback audit below is retained for provenance.
 
 # Geographic mapping audit
 
