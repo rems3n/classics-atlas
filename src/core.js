@@ -1,7 +1,7 @@
 (function(root){
   'use strict';
   const categories=['Novels','Short stories','Poetry','Drama','Philosophy','History','Life writing','Religion & myth','Science & nature','Essays & criticism'];
-  const colors=['#5486b8','#8476b8','#218b88','#ad709b','#647eb7','#6f9b82','#ad7a75','#8d7bb4','#528f9a','#738d68'];
+  const colors=['#4e79a7','#f28e2b','#b07aa1','#e15759','#76b7b2','#9c755f','#edc948','#59a14f','#d37295','#8c8c8c'];
   const defaults=()=>({workIds:[],scopeLabel:'',readFilter:'all',from:-2500,to:2050,categories:[],type:'All',tradition:'All',language:'All',collection:'All',country:'',q:'',includeUnknown:true,color:'count',view:'map',shelf:'all',projection:'map',mapPeriod:'modern',geography:'origin',bookPins:true,overlay:true,hideEmpty:false,sort:'relevance',before:false,after:false});
   const year=y=>y==null?'Unknown':y<0?Math.abs(y)+' BC':y===0?'BC / AD':y+' AD';
   const date=b=>b.start==null?'Date unknown':(b.dateConfidence==='estimated'?'c. ':b.dateConfidence==='probable'?'Likely ':'')+(b.start===b.end?year(b.start):(b.start<0&&b.end<0?Math.abs(b.start)+'–'+Math.abs(b.end)+' BC':year(b.start)+' – '+year(b.end)));

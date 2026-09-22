@@ -1,7 +1,7 @@
 /* Product tour */
 .tour-block{position:fixed;inset:0;z-index:200;background:transparent}
-.tour-spot{position:fixed;z-index:201;border-radius:14px;box-shadow:0 0 0 3px var(--accent),0 0 0 200vmax #09212680;pointer-events:none}
-.tour-spot.empty{box-shadow:0 0 0 200vmax #09212680}
+.tour-spot{position:fixed;z-index:201;border-radius:14px;box-shadow:0 0 0 3px var(--accent),0 0 0 200vmax #11141880;pointer-events:none}
+.tour-spot.empty{box-shadow:0 0 0 200vmax #11141880}
 .tour-tip{position:fixed;z-index:202;width:min(360px,calc(100vw - 24px));padding:20px 20px 16px;border-radius:16px;background:var(--glass-heavy);color:var(--ink);border:1px solid var(--rim);box-shadow:var(--shadow);font-size:14px;line-height:1.55}
 .tour-tip.docked{width:calc(100vw - 24px)}
 .tour-tip h2{font-family:var(--serif);font-weight:400;font-size:24px;line-height:1.15;margin:2px 0 8px}.tour-tip h2:focus{outline:none}
