@@ -1,3 +1,27 @@
+# Production hardening — September 22, 2026
+
+**Production outage found.** Every public route, including `/health`, returned Railway's `502 Application failed to respond`. The container was running and logged `Classics Atlas ready`. The public domain targets port 3000, while `PORT` was unset, so the app listened on Railway's injected port. Railway's healthcheck uses the injected port, so the deployment still showed `SUCCESS`. The fix is to set `PORT=3000` on the service; see DEPLOY.md.
+
+Server changes:
+- The 11.7 MB page was gzip-compressed synchronously on every request, blocking the event loop for about 270 ms each time. Page variants are now compressed once off the event loop, cached (64 variants maximum), and served with brotli (1.52 MB) or gzip (3.25 MB).
+- Strong ETags and `304 Not Modified` revalidation are restored. Returning visitors no longer re-download the page.
+- `/health` checks the database and returns 503 when SQLite cannot be read.
+- A malformed `Origin` header, such as `null`, returned 500. It now returns 403.
+- Non-object collection items returned 500. They now return 400.
+- Added HSTS in production. Unexpected errors log method, path and stack.
+- Backups are written to a temporary file and renamed, with mode 600.
+- `SIGTERM` closes idle connections and exits within 8 seconds.
+
+Client change: when the sync server is unreachable or returns 502–504, the reader shows one clear message per outage instead of a generic "Request failed" toast every 5 seconds. Pending changes stay on the device and retry as before. Pending changes are also sent when the tab is hidden.
+
+Validation:
+- `npm test`: 34 passed. That is the 27 existing tests plus 7 server tests. Five of the new server tests fail against the previous `server.cjs`.
+- `npm run test:ui`: passed. The suite had been failing since the reader beta: stale 1,479 counts and note-section list, and a teardown race that closed the jsdom window before the session check settled.
+- `node tests/globe.test.cjs`: passed after the same teardown fix.
+- `python3 tests/data.test.py`: 13 passed after updating stale counts. The 13 reading-path additions were never included in the geography QA audit. The test now states this explicitly instead of hiding it.
+- Local production-mode smoke test: HSTS header, `Secure` session cookie, backup written and reopened with the expected user, clean `SIGTERM` exit.
+- Not run: Playwright browser suites. They need a local Chromium runtime.
+
 Cover update: 514 missing records researched; 175 candidates reviewed; 165 accepted, 10 rejected. Current cover links: 1,130; unmatched: 349. Sample image checks for Hindu Myths, Guide to Greece Volume 1, and The History of Mary Prince show the correct titles and Penguin Classics art. Artwork was sampled, not exhaustively inspected.
 
 # Collection and book-notes update — September 21, 2026

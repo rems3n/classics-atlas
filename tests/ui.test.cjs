@@ -17,13 +17,13 @@ let dom=load(),w=dom.window,d=w.document;
 const click=s=>{const e=d.querySelector(s);assert(e,'Missing '+s);e.click?e.click():e.dispatchEvent(new w.MouseEvent('click',{bubbles:true}));};
 const change=(s,value)=>{const e=d.querySelector(s);e.value=value;e.dispatchEvent(new w.Event('change',{bubbles:true}));};
 const search=q=>{d.querySelector('#searchInput').value=q;d.querySelector('#searchForm').dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));};
-assert(w.ClassicsAtlas,'application initialized: '+errors.join('; '));assert.equal(w.ClassicsAtlas.catalogSize,1479);
+assert(w.ClassicsAtlas,'application initialized: '+errors.join('; '));assert.equal(w.ClassicsAtlas.catalogSize,1492);
 assert.equal(d.querySelector('.map-caption'),null,'promotional headline removed, not merely hidden');
 assert(!d.querySelector('#filters').hidden,'desktop filters start open');
 click('#collapseFilters');
 click('#mobileFilters');assert(!d.querySelector('#filters').hidden);assert(d.body.classList.contains('filters-open'));assert.equal(d.querySelector('#mobileFilters').getAttribute('aria-expanded'),'true');click('#collapseFilters');assert(d.querySelector('#filters').hidden);
 assert.equal(d.querySelectorAll('.country').length,177);assert(d.querySelector('.country').getAttribute('d').length>10);
-assert.equal(w.ClassicsAtlas.getResults().length,1479);assert.equal(d.querySelectorAll('.book-card').length,30);
+assert.equal(w.ClassicsAtlas.getResults().length,1492);assert.equal(d.querySelectorAll('.book-card').length,30);
 assert.equal(d.querySelectorAll('#mapPeriod option').length,13);
 // Country expansion changes presentation without changing the selected books.
 click('.country[data-country="CHN"]');
@@ -34,7 +34,7 @@ assert.equal(w.ClassicsAtlas.getResults().join(','),countryResults);
 click('#expandCollection');assert(!d.body.classList.contains('collection-expanded'));
 assert.equal(w.ClassicsAtlas.getState().country,'CHN');
 click('.book-title');
-assert.deepEqual([...d.querySelectorAll('#detailContent>.notes-section>h3')].map(x=>x.textContent),['At a glance','When it began','Its place on the map','About this edition']);
+assert.deepEqual([...d.querySelectorAll('#detailContent>.notes-section>h3')].map(x=>x.textContent),['At a glance','Before you begin','When it began','Its place on the map','About this edition','Follow another thread']);
 const sourceNotes=d.querySelector('[data-notes="sources"]');sourceNotes.open=true;
 click('#detailContent [data-rate][data-rating="3"]');assert(d.querySelector('[data-notes="sources"]').open,'rating preserves open notes');
 assert.equal(d.querySelector('#detailDialog').getAttribute('aria-labelledby'),'bookNotesTitle');
@@ -63,7 +63,7 @@ change('#countrySelect','ESP');click('.book-title');assert(d.querySelector('#det
 click('[data-close="detailDialog"]');click('#resetBtn');assert.equal(d.querySelector('#searchInput').value,'');assert(d.querySelector('#searchReply').hidden);
 
 const mappedIds=new Set(Object.values(w.AtlasCore.counts(w.ATLAS_DATA.books)).flat().map(b=>typeof b==='string'?b:b.id));
-assert.equal(mappedIds.size,1479,'all works contribute to actual country counts');
+assert.equal(mappedIds.size,1492,'all works contribute to actual country counts');
 assert(w.ATLAS_DATA.places.some(p=>p.id==='BMU'),'Bermuda has map coordinates');
 change('#countrySelect','BMU');assert(w.ClassicsAtlas.getResults().length>0);assert(d.querySelector('#bookList').textContent.includes('Mary Prince'));click('#resetBtn');
 change('#collectionSelect','China’s Four Great Classics');
@@ -97,13 +97,13 @@ search('The Memorial Feast');assert(d.querySelector('#bookList').textContent.inc
 click('[data-detail="128c93724417"]');assert(d.querySelector('#detailContent').textContent.includes('1922 AD – 1926 AD'));assert(d.querySelector('#detailContent').textContent.includes('1400 AD – 1800 AD'));
 click('[data-origin-from="1400"]');assertRange(1400,1800);assert(!d.querySelector('#detailDialog').open);click('#resetBtn');
 search('African Myths of Origin');click('[data-detail="5739e0183ff5"]');assert.equal(d.querySelectorAll('.origin-layers li').length,5);assert(d.querySelector('#detailContent').textContent.includes('Origin not securely dated'));click('[data-origin-from="-2400"]');assertRange(-2400,-500);click('#resetBtn');
-assert(d.querySelector('#coverageLabel').textContent.includes('1479 dates / ranges'));
+assert(d.querySelector('#coverageLabel').textContent.includes('1492 dates / ranges'));
 search('A Nation of Women');assert(d.querySelector('#bookList').textContent.includes('1911 AD'));
 click('[data-detail="550f0836c359"]');assert(d.querySelector('#detailContent').textContent.includes('Mi opinión'));click('[data-close="detailDialog"]');
 click('#resetBtn');search('A History of My Times');assert(d.querySelector('#bookList').textContent.includes('c. 362–350 BC'));
 click('[data-detail="ad76f6ff8b40"]');assert(d.querySelector('#detailContent').textContent.includes('composition'));click('[data-close="detailDialog"]');click('#resetBtn');
 search('ancient Greek poetry before the 4th century BC');assert(w.ClassicsAtlas.getResults().length>=2);assert(d.querySelector('#bookList').textContent.includes('The Iliad'));assert.equal(w.ClassicsAtlas.getState().mapPeriod,'greece');
-click('#undoSearch');assert.equal(w.ClassicsAtlas.getResults().length,1479);
+click('#undoSearch');assert.equal(w.ClassicsAtlas.getResults().length,1492);
 change('#countrySelect','TUR');assert(w.ClassicsAtlas.getResults().length>0);assert.equal(d.querySelector('#resultsTitle').textContent,'Turkey');
 change('#countrySelect','ATA');assert.equal(w.ClassicsAtlas.getResults().length,0);assert(d.querySelector('.empty'));
 click('#resetBtn');change('#traditionSelect','Japanese');assert(w.ClassicsAtlas.getResults().length>=2);
@@ -114,7 +114,7 @@ const firstId=d.querySelector('.book-card').dataset.book;change(`[data-status="$
 click('#shelfBtn');assert.equal(w.ClassicsAtlas.getResults().length,1);assert(d.body.classList.contains('shelf-view'));
 click(`[data-detail="${firstId}"]`);assert(d.querySelector('#detailDialog').open);const selectedBook=w.ATLAS_DATA.books.find(b=>b.id===firstId);assert(d.querySelector('#detailContent').textContent.includes(selectedBook.pages?selectedBook.pages+' pages':'Unknown — edition not verified'));assert(d.querySelector('#detailContent').textContent.includes('Collection')); click('[data-close="detailDialog"]');
 click('#shareBtn');assert(d.querySelector('#shareDialog').open);const share=d.querySelector('#shareText').value;assert(!share.includes(firstId));assert(!share.includes('rating'));click('[data-close="shareDialog"]');
-const saved={};for(let i=0;i<w.localStorage.length;i++){const k=w.localStorage.key(i);saved[k]=w.localStorage.getItem(k);}dom.window.close();
+const saved={};for(let i=0;i<w.localStorage.length;i++){const k=w.localStorage.key(i);saved[k]=w.localStorage.getItem(k);}{const previous=dom;setTimeout(()=>previous.window.close(),100);}
 dom=load(saved,true);w=dom.window;d=w.document;assert.equal(w.ClassicsAtlas.getShelf()[firstId].status,'read');assert.equal(w.ClassicsAtlas.getShelf()[firstId].rating,4);assert.equal(d.documentElement.dataset.theme,'dark');
 assert(d.querySelector('#results').hidden,'mobile starts with the map exposed');assert(d.body.classList.contains('results-closed'));
 assert(!d.querySelector('#filters').hidden,'mobile filters default open in a bounded section');change('#mapPeriod','greece');assert(d.querySelector('.historical-region'));d.querySelector('#bookPinsToggle').click();assert.equal(d.querySelectorAll('.marker').length,0);d.querySelector('#bookPinsToggle').click();assert(d.querySelectorAll('.marker').length>0);assert(d.querySelector('#filters').classList.contains('mobile-open'));click('#collapseFilters');assert(!d.querySelector('#filters').classList.contains('mobile-open'));
@@ -122,4 +122,5 @@ click('.mobile-views [data-view="timeline"]');assert.equal(w.ClassicsAtlas.getSt
 click('.mobile-views [data-view="map"]');change('#fromNumber',-700);change('#toNumber',-400);assert.equal(w.ClassicsAtlas.getState().from,-700);assert.equal(w.ClassicsAtlas.getState().to,-400);assert(!w.ClassicsAtlas.getState().includeUnknown);
 click('#resetBtn');click('#closeResults');assert(d.querySelector('#results').hidden);click('#openResults');assert(!d.querySelector('#results').hidden);click('#expandCollection');assert(d.body.classList.contains('collection-expanded'));click('#expandCollection');assert(!d.body.classList.contains('collection-expanded'));
 click('#coverageBtn');assert(d.querySelector('#aboutDialog').open);click('[data-close="aboutDialog"]');
-assert.equal(errors.length,0,errors.join('\n'));dom.window.close();console.log('UI event checks passed: initialization, real map paths, filters, search/undo, empty states, themes, globe, shelves, ratings, reload persistence, details, private sharing, mobile controls, timeline, and dialogs.');
+assert.equal(errors.length,0,errors.join('\n'));// Let the reader's asynchronous session check settle before tearing down the window.
+setTimeout(()=>dom.window.close(),100);console.log('UI event checks passed: initialization, real map paths, filters, search/undo, empty states, themes, globe, shelves, ratings, reload persistence, details, private sharing, mobile controls, timeline, and dialogs.');
