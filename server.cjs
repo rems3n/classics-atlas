@@ -7,7 +7,8 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
  // Google sign-in is enabled only when a client ID and secret are configured.
  google={clientId:process.env.GOOGLE_CLIENT_ID,clientSecret:process.env.GOOGLE_CLIENT_SECRET,publicUrl:process.env.ATLAS_PUBLIC_URL,
   authUrl:'https://accounts.google.com/o/oauth2/v2/auth',tokenUrl:'https://oauth2.googleapis.com/token',...google};
- const googleEnabled=Boolean(google.clientId&&google.clientSecret);
+ let googleEnabled=Boolean(google.clientId&&google.clientSecret);
+ if(googleEnabled&&secure&&!google.publicUrl){googleEnabled=false;console.error('Google sign-in disabled: set ATLAS_PUBLIC_URL so the redirect URI does not depend on the Host header.');}
  if(secure&&!process.env.ATLAS_DB)throw Error('ATLAS_DB must point to persistent storage in production');
  fs.mkdirSync(path.dirname(dbPath),{recursive:true,mode:0o700});
  const db=new DatabaseSync(dbPath);db.exec(`PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON;
@@ -64,7 +65,7 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
   if(req.method!=='GET')throw error(405,'Method not allowed');
   if(!googleEnabled)return redirect(res,'/atlas?auth=unavailable');
   if(url.pathname==='/auth/google'){
-   rate(req,'google',30);
+   try{rate(req,'google',30);}catch{return redirect(res,'/atlas?auth=busy');}
    const link=url.searchParams.get('mode')==='link'?getUser(req):null;
    if(url.searchParams.get('mode')==='link'&&!link)return redirect(res,'/atlas?auth=failed');
    const state=random(),verifier=b64url(crypto.randomBytes(32)),nonce=random();
@@ -95,14 +96,22 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
   let account=db.prepare('SELECT id,username FROM users WHERE google_sub=?').get(claims.sub);
   if(row.link_user){
    if(account&&account.id!==row.link_user)return redirect(res,'/atlas?auth=linked-elsewhere');
-   db.prepare('UPDATE users SET google_sub=? WHERE id=?').run(claims.sub,row.link_user);
+   try{if(!db.prepare('UPDATE users SET google_sub=? WHERE id=? AND google_sub IS NULL').run(claims.sub,row.link_user).changes)return redirect(res,'/atlas?auth=already-linked');}
+   catch{return redirect(res,'/atlas?auth=linked-elsewhere');}
    return redirect(res,'/atlas?auth=linked');
   }
   let created=false;
   if(!account){
    // Usernames for Google accounts are random so public collections do not reveal an email address.
-   for(let n=0;n<5&&!account;n++){const username='reader-'+crypto.randomBytes(3).toString('hex'),id=crypto.randomUUID();
-    try{db.prepare('INSERT INTO users(id,username,password,salt,recovery,created,google_sub) VALUES(?,?,?,?,?,?,?)').run(id,username,'','','',Date.now(),claims.sub);db.prepare('INSERT INTO reader_state(user_id) VALUES(?)').run(id);account={id,username};created=true;}catch(e){if(db.prepare('SELECT 1 FROM users WHERE google_sub=?').get(claims.sub))account=db.prepare('SELECT id,username FROM users WHERE google_sub=?').get(claims.sub);}}
+   for(let n=0;n<5&&!account;n++){
+    const username='reader-'+crypto.randomBytes(3).toString('hex'),id=crypto.randomUUID();
+    try{db.exec('BEGIN IMMEDIATE');
+     db.prepare('INSERT INTO users(id,username,password,salt,recovery,created,google_sub) VALUES(?,?,?,?,?,?,?)').run(id,username,'','','',Date.now(),claims.sub);
+     db.prepare('INSERT INTO reader_state(user_id) VALUES(?)').run(id);db.exec('COMMIT');account={id,username};created=true;}
+    catch(e){db.exec('ROLLBACK');
+     const existing=db.prepare('SELECT id,username FROM users WHERE google_sub=?').get(claims.sub);
+     if(existing)account=existing;else if(!/users\.username/.test(e.message)){console.error('Google account creation failed:',e.message);return redirect(res,'/atlas?auth=failed');}}
+   }
    if(!account)return redirect(res,'/atlas?auth=failed');
   }
   const token=random();db.prepare('DELETE FROM sessions WHERE expires<?').run(Date.now());db.prepare('INSERT INTO sessions VALUES(?,?,?)').run(hash(token),account.id,Date.now()+2592000000);

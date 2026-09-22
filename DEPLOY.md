@@ -37,7 +37,7 @@ Off until both `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` are set. While off,
 
 1. Open https://console.cloud.google.com/ and create or select a project.
 2. Go to **Google Auth Platform** and fill in **Branding**: app name `Classics Atlas`, a support email, and the home page `https://atlas-web-production-b852.up.railway.app`.
-3. In **Audience**, choose **External**, then **Publish app**. The app asks only for the `openid` scope, which does not need Google verification. While in testing mode, only listed test users can sign in.
+3. In **Audience**, choose **External**, then **Publish app**. The app asks only for the `openid` scope, which does not need Google verification. While in testing mode, only listed test users can sign in. Without brand verification, Google's consent screen shows the `railway.app` domain instead of the app name. Brand verification is optional and requires a domain you own.
 4. In **Clients**, choose **Create client**, type **Web application**, and add these **Authorized redirect URIs**:
    - `https://atlas-web-production-b852.up.railway.app/auth/google/callback`
    - `http://localhost:3000/auth/google/callback` (local development only)
@@ -51,7 +51,7 @@ railway variable set ATLAS_PUBLIC_URL=https://atlas-web-production-b852.up.railw
 railway variable set GOOGLE_CLIENT_SECRET --stdin --service atlas-web --environment production
 ```
 
-The last command reads the secret from standard input, so it stays out of shell history. Paste it and end input with Ctrl-D. This `--stdin` step is untested; confirm with `railway variables --kv | cut -d= -f1` that `GOOGLE_CLIENT_SECRET` is listed. `ATLAS_PUBLIC_URL` fixes the redirect URI so it does not depend on the request's Host header. It must match the URI registered with Google exactly.
+The last command reads the secret from standard input, so it stays out of shell history. Paste it and end input with Ctrl-D. This `--stdin` step is untested; confirm with `railway variables --kv | cut -d= -f1` that `GOOGLE_CLIENT_SECRET` is listed. `ATLAS_PUBLIC_URL` fixes the redirect URI so it does not depend on the request's Host header. It must match the URI registered with Google exactly. In production, Google sign-in stays off and the log says why if `ATLAS_PUBLIC_URL` is missing.
 
 ### Verify
 

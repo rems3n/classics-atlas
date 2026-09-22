@@ -5,7 +5,7 @@
 .tour-tip{position:fixed;z-index:202;width:min(360px,calc(100vw - 24px));padding:20px 20px 16px;border-radius:16px;background:var(--glass-heavy);color:var(--ink);border:1px solid var(--rim);box-shadow:var(--shadow);font-size:14px;line-height:1.55}
 .tour-tip.docked{width:calc(100vw - 24px)}
 .tour-tip h2{font-family:var(--serif);font-weight:400;font-size:24px;line-height:1.15;margin:2px 0 8px}.tour-tip h2:focus{outline:none}
-.tour-tip p{margin:0}.tour-count{font-size:12px;color:var(--muted);letter-spacing:.02em}
+.tour-tip p{margin:0}.tour-live{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}.tour-count{font-size:12px;color:var(--muted);letter-spacing:.02em}
 .tour-dots{display:flex;gap:6px;margin:14px 0 12px}.tour-dots span{width:7px;height:7px;border-radius:50%;background:var(--line)}.tour-dots span.on{background:var(--accent)}
 .tour-actions{display:flex;align-items:center;gap:8px}.tour-actions>span{flex:1}.tour-actions button{min-height:44px;min-width:44px;padding:8px 14px;font-weight:600}
 .tour-skip{color:var(--muted);font-weight:500!important;padding-left:4px!important}
@@ -14,4 +14,4 @@
 .tour-tip.above .tour-arrow{display:block;bottom:-8px;border-left:0;border-top:0}
 .tour-prompt{position:fixed;z-index:150;left:50%;bottom:24px;transform:translateX(-50%);width:min(440px,calc(100vw - 24px));padding:16px 18px;border-radius:16px;display:flex;flex-direction:column;gap:10px;font-size:14px;box-shadow:var(--shadow)}
 .tour-prompt p{margin:0}.tour-prompt div{display:flex;gap:8px}.tour-prompt button{min-height:44px;padding:8px 16px;font-weight:600}
-@media(max-width:600px){.tour-prompt{bottom:12px}}
+@media(max-width:600px){.tour-prompt{bottom:12px;padding:10px 12px;gap:6px;font-size:13px}}

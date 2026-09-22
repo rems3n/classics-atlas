@@ -51,6 +51,10 @@ test('state must match the cookie, is single-use, and ID token claims are checke
   claims=bad;f=await begin();assert.equal((await callback(f,{code:f.grant.code,state:f.state})).headers.get('location'),'/atlas?auth=failed',JSON.stringify(bad));
  }
  claims={};f=await begin();assert.equal((await callback(f,{error:'access_denied',state:f.state})).headers.get('location'),'/atlas?auth=cancelled');
+ const a=await begin(),b=await begin();
+ assert.equal((await callback(a,{code:a.grant.code,state:a.state},b.oauth)).headers.get('location'),'/atlas?auth=failed','cookie from a different flow');
+ f=await begin();app.atlasDB.prepare('UPDATE oauth_states SET expires=1').run();
+ assert.equal((await callback(f,{code:f.grant.code,state:f.state})).headers.get('location'),'/atlas?auth=failed','expired state');
 });
 
 test('a password account can connect Google; a Google account cannot be connected twice',async()=>{
@@ -62,6 +66,8 @@ test('a password account can connect Google; a Google account cannot be connecte
  const other=cookieOf(await api('register','POST',{username:'second',password:'second-password-123'}),'atlas_session');
  f=await begin('?mode=link',other);assert.equal((await callback(f,{code:f.grant.code,state:f.state})).headers.get('location'),'/atlas?auth=linked-elsewhere');
  assert.equal((await fetch(base+'/auth/google?mode=link',{redirect:'manual'})).headers.get('location'),'/atlas?auth=failed','link requires a session');
+ claims={sub:'google-sub-9'};f=await begin('?mode=link',c);
+ assert.equal((await callback(f,{code:f.grant.code,state:f.state})).headers.get('location'),'/atlas?auth=already-linked','an existing Google link is never replaced');
  claims={};
 });
 
@@ -71,6 +77,13 @@ test('Google-only accounts cannot use password login or recovery, and delete by 
  assert.equal((await api('recover','POST',{username:user.username,password:'any-password-12345',recovery:''})).status,401);
  assert.equal((await api('account','DELETE',{confirm:'wrong'},c)).status,401);
  assert.equal((await api('account','DELETE',{confirm:user.username},c)).status,200);assert.equal((await session(c)).user,null);
+});
+
+test('production without ATLAS_PUBLIC_URL keeps Google sign-in off',async()=>{
+ const d=fs.mkdtempSync(path.join(os.tmpdir(),'atlas-nourl-')),prev=process.env.ATLAS_DB;process.env.ATLAS_DB=path.join(d,'n.sqlite');const s=createServer({dbPath:path.join(d,'n.sqlite'),secure:true,google:{clientId:'id',clientSecret:'secret',publicUrl:''}});
+ await new Promise(r=>s.listen(0,'127.0.0.1',r));
+ try{assert.equal((await (await fetch('http://127.0.0.1:'+s.address().port+'/api/session')).json()).google,false);}
+ finally{if(prev===undefined)delete process.env.ATLAS_DB;else process.env.ATLAS_DB=prev;await new Promise(r=>s.close(r));fs.rmSync(d,{recursive:true,force:true});}
 });
 
 test('without credentials Google sign-in is reported unavailable',async()=>{
