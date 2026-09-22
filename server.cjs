@@ -3,7 +3,11 @@ const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),
 const {DatabaseSync,backup}=require('node:sqlite');
 const hash=s=>crypto.createHash('sha256').update(s).digest('hex'),random=()=>crypto.randomBytes(32).toString('hex'),scrypt=promisify(crypto.scrypt);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime/atlas.sqlite'),secure=process.env.NODE_ENV==='production'}={}){
+function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime/atlas.sqlite'),secure=process.env.NODE_ENV==='production',google={}}={}){
+ // Google sign-in is enabled only when a client ID and secret are configured.
+ google={clientId:process.env.GOOGLE_CLIENT_ID,clientSecret:process.env.GOOGLE_CLIENT_SECRET,publicUrl:process.env.ATLAS_PUBLIC_URL,
+  authUrl:'https://accounts.google.com/o/oauth2/v2/auth',tokenUrl:'https://oauth2.googleapis.com/token',...google};
+ const googleEnabled=Boolean(google.clientId&&google.clientSecret);
  if(secure&&!process.env.ATLAS_DB)throw Error('ATLAS_DB must point to persistent storage in production');
  fs.mkdirSync(path.dirname(dbPath),{recursive:true,mode:0o700});
  const db=new DatabaseSync(dbPath);db.exec(`PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON;
@@ -11,7 +15,11 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
  CREATE TABLE IF NOT EXISTS sessions(token TEXT PRIMARY KEY,user_id TEXT REFERENCES users(id) ON DELETE CASCADE,expires INTEGER NOT NULL);
  CREATE TABLE IF NOT EXISTS reader_state(user_id TEXT PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,revision INTEGER NOT NULL DEFAULT 0,payload TEXT NOT NULL DEFAULT '{}');
  CREATE TABLE IF NOT EXISTS collections(id TEXT PRIMARY KEY,user_id TEXT REFERENCES users(id) ON DELETE CASCADE,title TEXT NOT NULL,description TEXT NOT NULL,visibility TEXT NOT NULL,payload TEXT NOT NULL,updated INTEGER NOT NULL);
- CREATE TABLE IF NOT EXISTS rate_limits(key TEXT PRIMARY KEY,count INTEGER NOT NULL,expires INTEGER NOT NULL);`);
+ CREATE TABLE IF NOT EXISTS rate_limits(key TEXT PRIMARY KEY,count INTEGER NOT NULL,expires INTEGER NOT NULL);
+ CREATE TABLE IF NOT EXISTS oauth_states(state TEXT PRIMARY KEY,verifier TEXT NOT NULL,nonce TEXT NOT NULL,link_user TEXT,expires INTEGER NOT NULL);`);
+ // Google accounts are keyed by Google's stable subject ID. No email or name is stored.
+ if(!db.prepare('PRAGMA table_info(users)').all().some(c=>c.name==='google_sub'))db.exec('ALTER TABLE users ADD COLUMN google_sub TEXT');
+ db.exec('CREATE UNIQUE INDEX IF NOT EXISTS users_google_sub ON users(google_sub) WHERE google_sub IS NOT NULL');
  fs.chmodSync(dbPath,0o600);
  const file=fs.readFileSync(path.join(__dirname,'index.html'),'utf8'),books=JSON.parse(fs.readFileSync(path.join(__dirname,'data/catalog.json'))),bookMap=new Map(books.map(b=>[b.id,b]));
  const paths=JSON.parse(fs.readFileSync(path.join(__dirname,'data/reading-paths.json')));
@@ -39,7 +47,7 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
  }
  const json=(res,status,body)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(body));};
  const error=(code,message)=>Object.assign(Error(message),{code});
- const getUser=req=>{const tok=req.headers.cookie?.match(/(?:^|;\s*)atlas_session=([a-f0-9]{64})(?:;|$)/)?.[1];return tok?db.prepare('SELECT users.id,username FROM sessions JOIN users ON users.id=sessions.user_id WHERE token=? AND expires>?').get(hash(tok),Date.now()):null;};
+ const getUser=req=>{const tok=req.headers.cookie?.match(/(?:^|;\s*)atlas_session=([a-f0-9]{64})(?:;|$)/)?.[1];return tok?db.prepare('SELECT users.id,username,google_sub IS NOT NULL AS google,password!=\'\' AS hasPassword FROM sessions JOIN users ON users.id=sessions.user_id WHERE token=? AND expires>?').get(hash(tok),Date.now()):null;};
  const cookie=(res,token,age=2592000)=>res.setHeader('Set-Cookie',`atlas_session=${token}; Path=/; HttpOnly; SameSite=Strict; Max-Age=${age}${secure?'; Secure':''}`);
  async function body(req){const chunks=[];let size=0;for await(const c of req){size+=c.length;if(size>1500000)throw error(413,'Request too large');chunks.push(c);}try{return JSON.parse(Buffer.concat(chunks).toString('utf8')||'{}');}catch{throw error(400,'Invalid JSON');}}
  function rate(req,name,max=20){const ip=secure?(req.headers['x-forwarded-for']||req.socket.remoteAddress).split(',').at(-1).trim():req.socket.remoteAddress,key=hash(`${ip}:${name}`),now=Date.now();db.prepare('DELETE FROM rate_limits WHERE expires<?').run(now);const row=db.prepare('SELECT * FROM rate_limits WHERE key=?').get(key);if(row?.count>=max)throw error(429,'Too many attempts. Try again in 15 minutes.');db.prepare('INSERT INTO rate_limits VALUES(?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1').run(key,now+900000);}
@@ -48,6 +56,62 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
  const safeEqual=(a,b)=>a.length===b.length&&crypto.timingSafeEqual(Buffer.from(a),Buffer.from(b));
  function validateState(v){if(!v||typeof v!=='object'||Array.isArray(v))throw error(400,'Invalid reading data');return JSON.stringify(v);}
  const collectionRow=row=>row&&({id:row.id,title:row.title,description:row.description,visibility:row.visibility,items:JSON.parse(row.payload),updated:row.updated});
+ const b64url=buf=>Buffer.from(buf).toString('base64url');
+ const redirect=(res,location)=>{res.writeHead(302,{Location:location,'Cache-Control':'no-store'});res.end();};
+ const oauthCookie=(res,value,age)=>res.setHeader('Set-Cookie',`atlas_oauth=${value}; Path=/auth/google; HttpOnly; SameSite=Lax; Max-Age=${age}${secure?'; Secure':''}`);
+ function redirectUri(req){const base=google.publicUrl||`${secure?'https':'http'}://${req.headers.host}`;return base.replace(/\/$/,'')+'/auth/google/callback';}
+ async function googleAuth(req,res,url){
+  if(req.method!=='GET')throw error(405,'Method not allowed');
+  if(!googleEnabled)return redirect(res,'/atlas?auth=unavailable');
+  if(url.pathname==='/auth/google'){
+   rate(req,'google',30);
+   const link=url.searchParams.get('mode')==='link'?getUser(req):null;
+   if(url.searchParams.get('mode')==='link'&&!link)return redirect(res,'/atlas?auth=failed');
+   const state=random(),verifier=b64url(crypto.randomBytes(32)),nonce=random();
+   db.prepare('DELETE FROM oauth_states WHERE expires<?').run(Date.now());
+   db.prepare('INSERT INTO oauth_states VALUES(?,?,?,?,?)').run(hash(state),verifier,nonce,link?.id||null,Date.now()+600000);
+   oauthCookie(res,state,600);
+   const q=new URLSearchParams({client_id:google.clientId,redirect_uri:redirectUri(req),response_type:'code',scope:'openid',state,nonce,
+    code_challenge:b64url(crypto.createHash('sha256').update(verifier).digest()),code_challenge_method:'S256',prompt:'select_account'});
+   return redirect(res,google.authUrl+'?'+q);
+  }
+  // Callback: the state must match both the one-time database row and this browser's cookie.
+  const state=url.searchParams.get('state')||'',cookieState=req.headers.cookie?.match(/(?:^|;\s*)atlas_oauth=([a-f0-9]{64})(?:;|$)/)?.[1];
+  oauthCookie(res,'',0);
+  const row=/^[a-f0-9]{64}$/.test(state)&&db.prepare('SELECT * FROM oauth_states WHERE state=?').get(hash(state));
+  if(row)db.prepare('DELETE FROM oauth_states WHERE state=?').run(hash(state));
+  if(url.searchParams.get('error'))return redirect(res,'/atlas?auth=cancelled');
+  if(!row||row.expires<Date.now()||!cookieState||!safeEqual(cookieState,state)||!url.searchParams.get('code'))return redirect(res,'/atlas?auth=failed');
+  let claims;
+  try{
+   const r=await fetch(google.tokenUrl,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},signal:AbortSignal.timeout(10000),
+    body:new URLSearchParams({code:url.searchParams.get('code'),client_id:google.clientId,client_secret:google.clientSecret,redirect_uri:redirectUri(req),grant_type:'authorization_code',code_verifier:row.verifier})});
+   const t=await r.json();if(!r.ok||typeof t.id_token!=='string')throw Error('Token exchange failed: '+r.status);
+   // The ID token comes straight from Google's token endpoint over TLS, so its claims are checked
+   // without verifying the signature (OpenID Connect Core 3.1.3.7).
+   claims=JSON.parse(Buffer.from(t.id_token.split('.')[1]||'','base64url').toString('utf8'));
+   if(!['https://accounts.google.com','accounts.google.com'].includes(claims.iss)||claims.aud!==google.clientId||!(claims.exp*1000>Date.now())||claims.nonce!==row.nonce||typeof claims.sub!=='string'||!claims.sub)throw Error('Invalid ID token claims');
+  }catch(e){console.error('Google sign-in failed:',e.message);return redirect(res,'/atlas?auth=failed');}
+  let account=db.prepare('SELECT id,username FROM users WHERE google_sub=?').get(claims.sub);
+  if(row.link_user){
+   if(account&&account.id!==row.link_user)return redirect(res,'/atlas?auth=linked-elsewhere');
+   db.prepare('UPDATE users SET google_sub=? WHERE id=?').run(claims.sub,row.link_user);
+   return redirect(res,'/atlas?auth=linked');
+  }
+  let created=false;
+  if(!account){
+   // Usernames for Google accounts are random so public collections do not reveal an email address.
+   for(let n=0;n<5&&!account;n++){const username='reader-'+crypto.randomBytes(3).toString('hex'),id=crypto.randomUUID();
+    try{db.prepare('INSERT INTO users(id,username,password,salt,recovery,created,google_sub) VALUES(?,?,?,?,?,?,?)').run(id,username,'','','',Date.now(),claims.sub);db.prepare('INSERT INTO reader_state(user_id) VALUES(?)').run(id);account={id,username};created=true;}catch(e){if(db.prepare('SELECT 1 FROM users WHERE google_sub=?').get(claims.sub))account=db.prepare('SELECT id,username FROM users WHERE google_sub=?').get(claims.sub);}}
+   if(!account)return redirect(res,'/atlas?auth=failed');
+  }
+  const token=random();db.prepare('DELETE FROM sessions WHERE expires<?').run(Date.now());db.prepare('INSERT INTO sessions VALUES(?,?,?)').run(hash(token),account.id,Date.now()+2592000000);
+  res.setHeader('Set-Cookie',[res.getHeader('Set-Cookie'),`atlas_session=${token}; Path=/; HttpOnly; SameSite=Strict; Max-Age=2592000${secure?'; Secure':''}`]);
+  // A same-site page load follows, so the SameSite=Strict session cookie is sent on the next request.
+  const next='/atlas?auth='+(created?'google-new':'google');
+  res.writeHead(200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store'});
+  return res.end(`<!doctype html><meta charset="utf-8"><title>Signing in</title><meta http-equiv="refresh" content="0;url=${next}"><p>Signed in. <a href="${next}">Continue to Classics Atlas</a>.</p>`);
+ }
  const server=http.createServer(async(req,res)=>{
   res.setHeader('X-Content-Type-Options','nosniff');res.setHeader('Referrer-Policy','no-referrer');res.setHeader('X-Frame-Options','DENY');if(secure)res.setHeader('Strict-Transport-Security','max-age=15552000');
   const url=new URL(req.url,'http://localhost');
@@ -59,13 +123,13 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
      const origin=req.headers.origin;if(origin){let host;try{host=new URL(origin).host;}catch{}if(host!==req.headers.host)throw error(403,'Cross-origin request denied');}
     }
     const user=getUser(req);
-    if(url.pathname==='/api/session'&&req.method==='GET')return json(res,200,{user:user||null});
+    if(url.pathname==='/api/session'&&req.method==='GET')return json(res,200,{user:user?{id:user.id,username:user.username,google:!!user.google,password:!!user.hasPassword}:null,google:googleEnabled});
     if(['/api/register','/api/login','/api/recover'].includes(url.pathname)&&req.method==='POST'){
      rate(req,'auth');const b=await body(req);const username=String(b.username||'').toLowerCase().trim();if(!/^[a-z0-9_-]{3,32}$/.test(username)||!validPassword(b.password))throw error(400,'Use a 3–32 character username and a password of at least 12 characters.');
      let row=db.prepare('SELECT * FROM users WHERE username=?').get(username),recovery;
      if(url.pathname==='/api/register'){
       if(row)throw error(409,'That username is unavailable');const salt=random(),password=await credential(b.password,salt);recovery=random();row={id:crypto.randomUUID(),username};
-      try{db.prepare('INSERT INTO users VALUES(?,?,?,?,?,?)').run(row.id,username,password,salt,hash(recovery),Date.now());}catch{throw error(409,'That username is unavailable');}
+      try{db.prepare('INSERT INTO users(id,username,password,salt,recovery,created) VALUES(?,?,?,?,?,?)').run(row.id,username,password,salt,hash(recovery),Date.now());}catch{throw error(409,'That username is unavailable');}
       db.prepare('INSERT INTO reader_state(user_id) VALUES(?)').run(row.id);
      }else if(url.pathname==='/api/recover'){
       if(!row||!safeEqual(hash(String(b.recovery||'')),row.recovery))throw error(401,'Recovery details do not match');const salt=random(),password=await credential(b.password,salt);recovery=random();db.prepare('UPDATE users SET password=?,salt=?,recovery=? WHERE id=?').run(password,salt,hash(recovery),row.id);db.prepare('DELETE FROM sessions WHERE user_id=?').run(row.id);
@@ -89,9 +153,13 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
      db.prepare('INSERT INTO collections VALUES(?,?,?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET title=excluded.title,description=excluded.description,visibility=excluded.visibility,payload=excluded.payload,updated=excluded.updated').run(id,user.id,b.title.trim(),b.description,b.visibility,JSON.stringify(items),Date.now());return json(res,200,{collection:collectionRow(db.prepare('SELECT * FROM collections WHERE id=?').get(id))});
     }
     if(cm&&req.method==='DELETE'){const r=db.prepare('DELETE FROM collections WHERE id=? AND user_id=?').run(cm[1],user.id);if(!r.changes)throw error(404,'Collection not found');return json(res,200,{ok:true});}
-    if(url.pathname==='/api/account'&&req.method==='DELETE'){const b=await body(req),row=db.prepare('SELECT * FROM users WHERE id=?').get(user.id);if(typeof b.password!=='string'||b.password.length>256||!safeEqual(await credential(b.password,row.salt),row.password))throw error(401,'Password does not match');db.prepare('DELETE FROM users WHERE id=?').run(user.id);cookie(res,'',0);return json(res,200,{ok:true});}
+    if(url.pathname==='/api/account'&&req.method==='DELETE'){const b=await body(req),row=db.prepare('SELECT * FROM users WHERE id=?').get(user.id);
+     // Accounts without a password (Google sign-in only) confirm by typing the username.
+     if(row.password===''){if(b.confirm!==row.username)throw error(401,'Type your username to confirm');}
+     else if(typeof b.password!=='string'||b.password.length>256||!safeEqual(await credential(b.password,row.salt),row.password))throw error(401,'Password does not match');db.prepare('DELETE FROM users WHERE id=?').run(user.id);cookie(res,'',0);return json(res,200,{ok:true});}
     throw error(404,'Not found');
    }
+   if(url.pathname==='/auth/google'||url.pathname==='/auth/google/callback')return await googleAuth(req,res,url);
    if(!['GET','HEAD'].includes(req.method))throw error(405,'Method not allowed');
    if(url.pathname==='/classics-atlas-source.zip'){res.writeHead(302,{Location:'https://github.com/rems3n/classics-atlas/archive/refs/heads/main.zip'});return res.end();}
    // `/` is the home page. Links that carry app state (book, path, collection, tour) go straight to the atlas.

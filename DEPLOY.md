@@ -29,6 +29,48 @@ railway variable set PORT=3000 --service atlas-web --environment production
 
 The startup log line now prints the listening port, for example `Classics Atlas ready on port 3000 (database /data/atlas.sqlite)`. Compare it with the domain's target port in the service's Networking settings.
 
+## Google sign-in
+
+Off until both `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` are set. While off, the account dialog shows only username and password.
+
+### Create the OAuth client (Google Cloud Console)
+
+1. Open https://console.cloud.google.com/ and create or select a project.
+2. Go to **Google Auth Platform** and fill in **Branding**: app name `Classics Atlas`, a support email, and the home page `https://atlas-web-production-b852.up.railway.app`.
+3. In **Audience**, choose **External**, then **Publish app**. The app asks only for the `openid` scope, which does not need Google verification. While in testing mode, only listed test users can sign in.
+4. In **Clients**, choose **Create client**, type **Web application**, and add these **Authorized redirect URIs**:
+   - `https://atlas-web-production-b852.up.railway.app/auth/google/callback`
+   - `http://localhost:3000/auth/google/callback` (local development only)
+5. Copy the client ID and client secret.
+
+### Configure Railway
+
+```sh
+railway variable set GOOGLE_CLIENT_ID=<client-id>.apps.googleusercontent.com --service atlas-web --environment production
+railway variable set ATLAS_PUBLIC_URL=https://atlas-web-production-b852.up.railway.app --service atlas-web --environment production
+railway variable set GOOGLE_CLIENT_SECRET --stdin --service atlas-web --environment production
+```
+
+The last command reads the secret from standard input, so it stays out of shell history. Paste it and end input with Ctrl-D. This `--stdin` step is untested; confirm with `railway variables --kv | cut -d= -f1` that `GOOGLE_CLIENT_SECRET` is listed. `ATLAS_PUBLIC_URL` fixes the redirect URI so it does not depend on the request's Host header. It must match the URI registered with Google exactly.
+
+### Verify
+
+```sh
+curl -s https://atlas-web-production-b852.up.railway.app/api/session           # "google":true
+curl -s -o /dev/null -D - https://atlas-web-production-b852.up.railway.app/auth/google | grep -i ^location
+```
+
+The location must start with `https://accounts.google.com/` and contain the production `redirect_uri`. Then sign in once in a browser. A new Google account gets a username like `reader-3fa2c1`.
+
+### How it works
+
+- `GET /auth/google` stores a one-time state, a PKCE verifier and a nonce in `oauth_states` (10 minutes). It also sets a `SameSite=Lax` cookie holding the state, then redirects to Google.
+- `GET /auth/google/callback` requires the state in the URL, the cookie and the database row to agree. It exchanges the code with the PKCE verifier, and checks the ID token's issuer, audience, expiry and nonce. Signature checks are not needed because the token comes straight from Google's token endpoint over TLS (OpenID Connect Core 3.1.3.7).
+- Accounts are matched by Google's `sub` ID, stored in `users.google_sub`. No email or name is stored.
+- A signed-in password account can connect Google from the account menu. A Google account cannot be connected to two Classics Atlas accounts.
+- Google-only accounts have no password or recovery code. They delete the account by typing the username.
+- The `google_sub` column is added automatically on startup to databases created by earlier versions. This was tested against a database created by commit 56e6bfe.
+
 ## Verifying a deployment
 
 A deployment is verified only when all of these pass against the public URL. Railway's `SUCCESS` status alone is not sufficient.
@@ -36,8 +78,9 @@ A deployment is verified only when all of these pass against the public URL. Rai
 ```sh
 B=https://atlas-web-production-b852.up.railway.app
 curl -s -o /dev/null -w "%{http_code}\n" $B/health          # 200 and {"ok":true}
-curl -s -o /dev/null -w "%{http_code} %{size_download}\n" -H 'Accept-Encoding: br' $B/   # 200, about 1.5 MB
-curl -s $B/api/session                                         # {"user":null}
+curl -s -o /dev/null -w "%{http_code} %{size_download}\n" -H 'Accept-Encoding: br' $B/        # home page, 200, about 30 KB
+curl -s -o /dev/null -w "%{http_code} %{size_download}\n" -H 'Accept-Encoding: br' $B/atlas   # app, 200, about 1.5 MB
+curl -s $B/api/session                                         # {"user":null,"google":true|false}
 curl -s -o /dev/null -w "%{http_code}\n" $B/server.cjs         # 404
 railway logs --deployment --service atlas-web | tail -5        # "ready on port 3000", "Backup written"
 ```

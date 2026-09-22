@@ -10,3 +10,4 @@ runtime/
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
+.claude/worktrees/
