@@ -12,7 +12,7 @@ function storageSet(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch{if
 function cleanShelf(raw){const out={};if(!raw||typeof raw!=='object')return out;for(const [id,v]of Object.entries(raw))if(byId.has(id)&&v&&typeof v==='object'){const status=['want','reading','read'].includes(v.status)?v.status:'';const rating=Number.isInteger(v.rating)&&v.rating>=0&&v.rating<=5?v.rating:0;if(status||rating)out[id]={status:status||'want',rating};}return out;}
 let shelf=cleanShelf(storageGet('classics-atlas-shelf-v1',{}));
 let state=C.decode(location.hash)||C.defaults(),previous=null,limit=30,filtered=[],mapBooks=[],countryCounts={},mapTransform=d3.zoomIdentity,projection,path,width,height,rotation=[-10,-20,0],globeScale=1,detailId=null;
-let resultsOpen=innerWidth>700,filtersOpen=true,collectionExpanded=false;
+let resultsOpen=innerWidth>700,filtersOpen=true;
 const theme=storageGet('classics-atlas-theme','light');document.documentElement.dataset.theme=theme==='dark'?'dark':'light';
 document.body.classList.toggle('reduced-glass',storageGet('classics-atlas-reduced-glass',false));
 // Map color schemes: country shading by matching works, count markers and the legend ramp.
@@ -256,14 +256,56 @@ function syncPanels(){
  const contentView=state.view==='books'||state.view==='shelf';
  const visible=resultsOpen||contentView;
  document.body.classList.toggle('results-closed',!visible);
- document.body.classList.toggle('collection-expanded',visible&&collectionExpanded&&!contentView&&state.view==='map');
- $('expandCollection').hidden=contentView||state.view==='timeline';
- $('expandCollection').textContent=collectionExpanded?'Collapse collection':'Expand collection';
- $('expandCollection').setAttribute('aria-expanded',String(collectionExpanded));
+ updateRail();
  document.body.classList.toggle('filters-open',filtersOpen);
  $('results').hidden=!visible;$('openResults').hidden=visible;$('filters').hidden=!filtersOpen;
  $('mobileFilters').setAttribute('aria-expanded',String(filtersOpen));
  $('filters').classList.toggle('mobile-open',filtersOpen&&innerWidth<=700);
+}
+// The book list is resized by dragging its left edge. The width is a grid column on #atlas, so the map
+// re-measures itself afterwards. Only the docked layouts (above 700px) have a side rail.
+const RAIL_DEFAULT=324,RAIL_MIN=260;
+const railMax=()=>Math.max(RAIL_MIN,Math.min(920,Math.round(innerWidth*.62)));
+const railFits=()=>innerWidth>700;
+let rail=Math.min(Math.max(storageGet('classics-atlas-rail',RAIL_DEFAULT)||RAIL_DEFAULT,RAIL_MIN),1000);
+function applyRail(){
+ const on=railFits()&&!document.body.classList.contains('results-closed')&&state.view!=='books'&&state.view!=='shelf';
+ if(on)document.documentElement.style.setProperty('--rail',Math.min(rail,railMax())+'px');
+ else document.documentElement.style.removeProperty('--rail');
+ const r=$('railResizer');r.hidden=!on;
+ r.setAttribute('aria-valuemin',RAIL_MIN);r.setAttribute('aria-valuemax',railMax());
+ r.setAttribute('aria-valuenow',Math.round(Math.min(rail,railMax())));
+ r.setAttribute('aria-valuetext',Math.round(Math.min(rail,railMax()))+' pixels wide');
+}
+function setRail(px,save){
+ rail=Math.min(Math.max(Math.round(px),RAIL_MIN),railMax());
+ applyRail();resize();
+ if(save)storageSet('classics-atlas-rail',rail);
+}
+function updateRail(){applyRail();}
+{
+ const handle=$('railResizer');let startX=0,startRail=0,frame=0;
+ handle.addEventListener('pointerdown',e=>{
+  if(e.button)return;
+  startX=e.clientX;startRail=Math.min(rail,railMax());
+  handle.setPointerCapture(e.pointerId);document.body.classList.add('rail-dragging');e.preventDefault();
+ });
+ handle.addEventListener('pointermove',e=>{
+  if(!handle.hasPointerCapture?.(e.pointerId)||!document.body.classList.contains('rail-dragging'))return;
+  const next=startRail-(e.clientX-startX);
+  if(frame)return;frame=requestAnimationFrame(()=>{frame=0;setRail(next);});
+ });
+ const stop=e=>{if(!document.body.classList.contains('rail-dragging'))return;document.body.classList.remove('rail-dragging');
+  if(frame){cancelAnimationFrame(frame);frame=0;}
+  try{handle.releasePointerCapture(e.pointerId);}catch{}
+  setRail(rail,true);};
+ handle.addEventListener('pointerup',stop);handle.addEventListener('pointercancel',stop);
+ handle.addEventListener('dblclick',()=>setRail(RAIL_DEFAULT,true));
+ handle.addEventListener('keydown',e=>{
+  const step=e.shiftKey?64:24,moves={ArrowLeft:step,ArrowRight:-step,Home:railMax()-rail,End:RAIL_MIN-rail,PageUp:step*3,PageDown:-step*3};
+  if(!(e.key in moves))return;
+  e.preventDefault();setRail(rail+moves[e.key],true);
+ });
 }
 function showResults(){resultsOpen=true;syncPanels();resize();}
 function setFilters(open){filtersOpen=open;syncPanels();resize();}
@@ -310,7 +352,7 @@ for(const [id,key]of [['bookPinsToggle','bookPins'],['overlayToggle','overlay'],
 for(const [id,key]of [['fromRange','from'],['fromNumber','from'],['toRange','to'],['toNumber','to']])$(id).addEventListener(id.includes('Range')?'input':'change',e=>{let v=Math.round(+e.target.value/50)*50;v=Math.max(-2500,Math.min(2050,v));if(key==='from')v=Math.min(v,state.to);else v=Math.max(v,state.from);change({[key]:v,before:false,after:false,includeUnknown:false},{keepScroll:true});});
 $('resetBtn').onclick=resetAtlas;$('clearCategories').onclick=()=>change({categories:[]});$('clearPlace').onclick=()=>change({country:''});
 $('collapseFilters').onclick=()=>setFilters(false);$('mobileFilters').onclick=()=>setFilters(!filtersOpen);
-$('expandCollection').onclick=()=>{collectionExpanded=!collectionExpanded;syncPanels();resize();};
+
 $('closeResults').onclick=()=>{resultsOpen=false;if(state.view==='books'||state.view==='shelf')change({view:'map'});else{syncPanels();resize();}};$('openResults').onclick=showResults;
 $('shelfBtn').onclick=()=>{change({...C.defaults(),view:'shelf'});showResults();};function setTheme(t){document.documentElement.dataset.theme=t;storageSet('classics-atlas-theme',t);applyMapScheme();render();}
 $('themeBtn').onclick=()=>setTheme(document.documentElement.dataset.theme==='dark'?'light':'dark');

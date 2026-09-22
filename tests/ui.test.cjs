@@ -28,10 +28,18 @@ assert.equal(d.querySelectorAll('#mapPeriod option').length,13);
 // Country expansion changes presentation without changing the selected books.
 click('.country[data-country="CHN"]');
 const countryResults=w.ClassicsAtlas.getResults().join(',');
-click('#expandCollection');assert(d.body.classList.contains('collection-expanded'));
-assert.equal(d.querySelector('#expandCollection').getAttribute('aria-expanded'),'true');
+// Dragging the book list wider keeps the selected books and the country filter.
+const rail=()=>d.documentElement.style.getPropertyValue('--rail');
+const railKey=key=>d.querySelector('#railResizer').dispatchEvent(new w.KeyboardEvent('keydown',{key,bubbles:true}));
+assert.equal(rail(),'324px','default width');
+railKey('ArrowLeft');assert.equal(rail(),'348px','left widens the list');
 assert.equal(w.ClassicsAtlas.getResults().join(','),countryResults);
-click('#expandCollection');assert(!d.body.classList.contains('collection-expanded'));
+railKey('Home');const widest=rail();assert(parseInt(widest)>348,'Home goes to the widest');
+railKey('End');assert.equal(rail(),'260px','End goes to the narrowest');
+railKey('End');assert.equal(rail(),'260px','the narrowest is a floor');
+d.querySelector('#railResizer').dispatchEvent(new w.MouseEvent('dblclick',{bubbles:true}));
+assert.equal(rail(),'324px','double click resets the width');
+assert.equal(w.localStorage.getItem('classics-atlas-rail'),'324','width is saved');
 assert.equal(w.ClassicsAtlas.getState().country,'CHN');
 click('.book-title');
 assert.deepEqual([...d.querySelectorAll('#detailContent>.notes-section>h3')].map(x=>x.textContent),['At a glance','Before you begin','When it began','Its place on the map','About this edition','Follow another thread']);
@@ -120,7 +128,7 @@ assert(d.querySelector('#results').hidden,'mobile starts with the map exposed');
 assert(!d.querySelector('#filters').hidden,'mobile filters default open in a bounded section');change('#mapPeriod','greece');assert(d.querySelector('.historical-region'));d.querySelector('#bookPinsToggle').click();assert.equal(d.querySelectorAll('.marker').length,0);d.querySelector('#bookPinsToggle').click();assert(d.querySelectorAll('.marker').length>0);assert(d.querySelector('#filters').classList.contains('mobile-open'));click('#collapseFilters');assert(!d.querySelector('#filters').classList.contains('mobile-open'));
 click('.mobile-views [data-view="timeline"]');assert.equal(w.ClassicsAtlas.getState().view,'timeline');assert(!d.querySelector('#timelineList').hidden);assert(d.querySelector('.timeline-group'));
 click('.mobile-views [data-view="map"]');change('#fromNumber',-700);change('#toNumber',-400);assert.equal(w.ClassicsAtlas.getState().from,-700);assert.equal(w.ClassicsAtlas.getState().to,-400);assert(!w.ClassicsAtlas.getState().includeUnknown);
-click('#resetBtn');click('#closeResults');assert(d.querySelector('#results').hidden);click('#openResults');assert(!d.querySelector('#results').hidden);click('#expandCollection');assert(d.body.classList.contains('collection-expanded'));click('#expandCollection');assert(!d.body.classList.contains('collection-expanded'));
+click('#resetBtn');click('#closeResults');assert(d.querySelector('#results').hidden);click('#openResults');assert(!d.querySelector('#results').hidden);assert(d.querySelector('#railResizer').hidden,'no resize handle on narrow screens, where the list is stacked');
 click('#coverageBtn');assert(d.querySelector('#aboutDialog').open);click('[data-close="aboutDialog"]');
 assert.equal(errors.length,0,errors.join('\n'));// Let the reader's asynchronous session check settle before tearing down the window.
 setTimeout(()=>dom.window.close(),100);console.log('UI event checks passed: initialization, real map paths, filters, search/undo, empty states, themes, globe, shelves, ratings, reload persistence, details, private sharing, mobile controls, timeline, and dialogs.');

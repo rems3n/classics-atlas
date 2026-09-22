@@ -151,13 +151,8 @@ select:disabled{opacity:.5}.map-source{font-size:11px;overflow-wrap:anywhere}
 .time-panel .eras{flex-wrap:wrap;justify-content:flex-start}.time-panel .eras button{white-space:nowrap;flex:none}.date-card strong{font-size:20px;white-space:nowrap}.filters{overflow-x:hidden}
 
 /* An optional wide collection keeps the selected place and all filters intact. */
-.collection-size{padding:0 20px 12px}.collection-size button{border:1px solid var(--line);border-radius:8px;padding:7px 11px;font-size:11px;color:var(--accent);width:100%;text-align:center}
-.collection-size:has(button[hidden]){display:none}
-body.collection-expanded{--rail:clamp(520px,52vw,850px)}
-.collection-expanded .book-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(225px,1fr));align-content:start;gap:0 24px}
-.collection-expanded .book-card{min-width:0}.collection-expanded .load-more{grid-column:1/-1}.collection-expanded .empty{grid-column:1/-1}
-@media(min-width:701px) and (max-width:1100px){body.collection-expanded{--rail:0px}.collection-expanded #mapCanvas{display:none}.collection-expanded .results{grid-column:2/-1}}
-@media(max-width:700px){body.collection-expanded{--rail:0px}.collection-expanded .results{max-height:none;min-height:50dvh}.collection-expanded .book-list{display:block;overflow:visible}.collection-expanded .collection-size{position:sticky;top:0;background:var(--surface);z-index:2;padding-top:10px}.collection-size{padding:0 15px 9px}}
+
+
 /* Book notes use a single reading rhythm; only the book title uses serif type. */
 #detailDialog{width:min(760px,94vw);padding:36px 40px;background:var(--surface);backdrop-filter:none;color:var(--ink);border-radius:20px}
 #detailContent{font-family:var(--font);font-size:14px;line-height:1.7}
@@ -177,6 +172,19 @@ body.collection-expanded{--rail:clamp(520px,52vw,850px)}
 #detailContent .origin-layers{padding:0;list-style:none}#detailContent .origin-layers li{padding:16px;margin:12px 0;border:1px solid var(--line);border-radius:10px;background:none}#detailContent .origin-layers .button-row{font-size:12px;gap:16px}
 #detailContent .provenance-list{list-style:none;padding:0}#detailContent .provenance-list li{padding:16px 0;border-bottom:1px solid var(--line)}#detailContent .provenance-list a{font-size:12px}.notes-links{display:flex;flex-wrap:wrap;gap:12px 22px;padding-top:20px;font-size:12px}
 @media(max-width:700px){#detailDialog{padding:32px 22px;width:94vw}#detailContent .detail-head{gap:16px;padding-right:0}#detailContent .detail-head .cover{width:76px;height:114px}#detailContent h2{font-size:27px}.notes-facts{gap:16px}.reading-controls{gap:12px;padding:14px}.reading-controls .stars button{font-size:22px;padding:1px}}
+
+/* Drag handle on the left edge of the book list */
+#railResizer{position:absolute;left:0;top:0;bottom:0;width:11px;z-index:6;cursor:col-resize;display:flex;align-items:center;justify-content:center;touch-action:none;background:transparent;border:0}
+#railResizer[hidden]{display:none}
+#railResizer span{width:3px;height:44px;border-radius:3px;background:var(--line)}
+#railResizer:hover span,#railResizer:focus-visible span,.rail-dragging #railResizer span{background:var(--accent);height:72px}
+#railResizer:focus-visible{outline:3px solid var(--accent);outline-offset:-3px}
+.rail-dragging{cursor:col-resize;user-select:none}
+.rail-dragging #map,.rail-dragging .book-list{pointer-events:none}
+@media(max-width:700px){#railResizer{display:none}}
+/* A wide book list uses columns; this follows the dragged width, not the window width. */
+.results{container-type:inline-size}
+@container (min-width:520px){.book-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));align-content:start;gap:0 24px}.book-list .load-more,.book-list .empty{grid-column:1/-1}.book-card{min-width:0}}
 
 /* Reading spaces are pages; the map remains an unobstructed destination. */
 .topbar{gap:22px}.topbar nav button{padding:8px 10px}.topactions{gap:0}.topactions #accountBtn{font-size:11px;max-width:120px;overflow:hidden;text-overflow:ellipsis}.topbar .version{display:none}
@@ -930,7 +938,7 @@ SOFTWARE.
   <label class="toggle-row"><input type="checkbox" id="unknownToggle"> Include undated entries</label>
   <button id="resetBtn" class="reset" data-icon-label="reset">Reset all filters</button>
  </div></aside>
- <aside id="results" tabindex="-1" class="results" aria-label="Matching books"><div class="panel-heading"><div><span id="resultsKicker" class="eyebrow">THE COLLECTION</span><h2 id="resultsTitle">Around the world</h2><p id="resultCount" class="muted"></p></div><button id="closeResults" aria-label="Close book list" data-icon="close"></button></div><div id="shelfTabs" class="segmented" hidden><button data-shelf="all">All saved</button><button data-shelf="want">Want to read</button><button data-shelf="reading">Reading</button><button data-shelf="read">Read</button></div><div class="collection-size"><button id="expandCollection" aria-expanded="false" aria-controls="bookList">Expand collection</button></div><div class="result-toolbar"><label>Sort <select id="sortSelect"><option value="relevance">Mapped first</option><option value="oldest">Oldest first</option><option value="newest">Newest first</option><option value="title">Title A–Z</option><option value="rating">My rating</option></select></label><button id="clearPlace">Everywhere</button></div><div id="bookList" class="book-list"></div><div class="result-footer"><span id="coverageLabel"></span><button id="coverageBtn">Data notes ↗</button></div></aside>
+ <aside id="results" tabindex="-1" class="results" aria-label="Matching books"><div id="railResizer" role="separator" aria-orientation="vertical" tabindex="0" aria-label="Resize the book list. Use the left and right arrow keys, or drag." title="Drag to resize the book list"><span aria-hidden="true"></span></div><div class="panel-heading"><div><span id="resultsKicker" class="eyebrow">THE COLLECTION</span><h2 id="resultsTitle">Around the world</h2><p id="resultCount" class="muted"></p></div><button id="closeResults" aria-label="Close book list" data-icon="close"></button></div><div id="shelfTabs" class="segmented" hidden><button data-shelf="all">All saved</button><button data-shelf="want">Want to read</button><button data-shelf="reading">Reading</button><button data-shelf="read">Read</button></div><div class="result-toolbar"><label>Sort <select id="sortSelect"><option value="relevance">Mapped first</option><option value="oldest">Oldest first</option><option value="newest">Newest first</option><option value="title">Title A–Z</option><option value="rating">My rating</option></select></label><button id="clearPlace">Everywhere</button></div><div id="bookList" class="book-list"></div><div class="result-footer"><span id="coverageLabel"></span><button id="coverageBtn">Data notes ↗</button></div></aside>
 <section id="readerHub" hidden aria-label="Reading paths and your atlas"></section><section id="chronology" hidden aria-label="Books through time"><div class="chronology-heading"><div><span class="eyebrow">YOUR FILTERED COLLECTION</span><h2>Through the centuries</h2></div><button data-edit-time class="primary">Change dates</button></div><div id="timelineList"></div></section>
  <footer class="attribution"><button id="dataStatus"></button><span>Natural Earth · Wikipedia · Independent, not affiliated with Penguin</span></footer>
  <div id="tooltip" role="tooltip" hidden></div><div id="toast" role="status" aria-live="polite" hidden></div>
@@ -1031,7 +1039,7 @@ function storageSet(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch{if
 function cleanShelf(raw){const out={};if(!raw||typeof raw!=='object')return out;for(const [id,v]of Object.entries(raw))if(byId.has(id)&&v&&typeof v==='object'){const status=['want','reading','read'].includes(v.status)?v.status:'';const rating=Number.isInteger(v.rating)&&v.rating>=0&&v.rating<=5?v.rating:0;if(status||rating)out[id]={status:status||'want',rating};}return out;}
 let shelf=cleanShelf(storageGet('classics-atlas-shelf-v1',{}));
 let state=C.decode(location.hash)||C.defaults(),previous=null,limit=30,filtered=[],mapBooks=[],countryCounts={},mapTransform=d3.zoomIdentity,projection,path,width,height,rotation=[-10,-20,0],globeScale=1,detailId=null;
-let resultsOpen=innerWidth>700,filtersOpen=true,collectionExpanded=false;
+let resultsOpen=innerWidth>700,filtersOpen=true;
 const theme=storageGet('classics-atlas-theme','light');document.documentElement.dataset.theme=theme==='dark'?'dark':'light';
 document.body.classList.toggle('reduced-glass',storageGet('classics-atlas-reduced-glass',false));
 // Map color schemes: country shading by matching works, count markers and the legend ramp.
@@ -1275,14 +1283,56 @@ function syncPanels(){
  const contentView=state.view==='books'||state.view==='shelf';
  const visible=resultsOpen||contentView;
  document.body.classList.toggle('results-closed',!visible);
- document.body.classList.toggle('collection-expanded',visible&&collectionExpanded&&!contentView&&state.view==='map');
- $('expandCollection').hidden=contentView||state.view==='timeline';
- $('expandCollection').textContent=collectionExpanded?'Collapse collection':'Expand collection';
- $('expandCollection').setAttribute('aria-expanded',String(collectionExpanded));
+ updateRail();
  document.body.classList.toggle('filters-open',filtersOpen);
  $('results').hidden=!visible;$('openResults').hidden=visible;$('filters').hidden=!filtersOpen;
  $('mobileFilters').setAttribute('aria-expanded',String(filtersOpen));
  $('filters').classList.toggle('mobile-open',filtersOpen&&innerWidth<=700);
+}
+// The book list is resized by dragging its left edge. The width is a grid column on #atlas, so the map
+// re-measures itself afterwards. Only the docked layouts (above 700px) have a side rail.
+const RAIL_DEFAULT=324,RAIL_MIN=260;
+const railMax=()=>Math.max(RAIL_MIN,Math.min(920,Math.round(innerWidth*.62)));
+const railFits=()=>innerWidth>700;
+let rail=Math.min(Math.max(storageGet('classics-atlas-rail',RAIL_DEFAULT)||RAIL_DEFAULT,RAIL_MIN),1000);
+function applyRail(){
+ const on=railFits()&&!document.body.classList.contains('results-closed')&&state.view!=='books'&&state.view!=='shelf';
+ if(on)document.documentElement.style.setProperty('--rail',Math.min(rail,railMax())+'px');
+ else document.documentElement.style.removeProperty('--rail');
+ const r=$('railResizer');r.hidden=!on;
+ r.setAttribute('aria-valuemin',RAIL_MIN);r.setAttribute('aria-valuemax',railMax());
+ r.setAttribute('aria-valuenow',Math.round(Math.min(rail,railMax())));
+ r.setAttribute('aria-valuetext',Math.round(Math.min(rail,railMax()))+' pixels wide');
+}
+function setRail(px,save){
+ rail=Math.min(Math.max(Math.round(px),RAIL_MIN),railMax());
+ applyRail();resize();
+ if(save)storageSet('classics-atlas-rail',rail);
+}
+function updateRail(){applyRail();}
+{
+ const handle=$('railResizer');let startX=0,startRail=0,frame=0;
+ handle.addEventListener('pointerdown',e=>{
+  if(e.button)return;
+  startX=e.clientX;startRail=Math.min(rail,railMax());
+  handle.setPointerCapture(e.pointerId);document.body.classList.add('rail-dragging');e.preventDefault();
+ });
+ handle.addEventListener('pointermove',e=>{
+  if(!handle.hasPointerCapture?.(e.pointerId)||!document.body.classList.contains('rail-dragging'))return;
+  const next=startRail-(e.clientX-startX);
+  if(frame)return;frame=requestAnimationFrame(()=>{frame=0;setRail(next);});
+ });
+ const stop=e=>{if(!document.body.classList.contains('rail-dragging'))return;document.body.classList.remove('rail-dragging');
+  if(frame){cancelAnimationFrame(frame);frame=0;}
+  try{handle.releasePointerCapture(e.pointerId);}catch{}
+  setRail(rail,true);};
+ handle.addEventListener('pointerup',stop);handle.addEventListener('pointercancel',stop);
+ handle.addEventListener('dblclick',()=>setRail(RAIL_DEFAULT,true));
+ handle.addEventListener('keydown',e=>{
+  const step=e.shiftKey?64:24,moves={ArrowLeft:step,ArrowRight:-step,Home:railMax()-rail,End:RAIL_MIN-rail,PageUp:step*3,PageDown:-step*3};
+  if(!(e.key in moves))return;
+  e.preventDefault();setRail(rail+moves[e.key],true);
+ });
 }
 function showResults(){resultsOpen=true;syncPanels();resize();}
 function setFilters(open){filtersOpen=open;syncPanels();resize();}
@@ -1329,7 +1379,7 @@ for(const [id,key]of [['bookPinsToggle','bookPins'],['overlayToggle','overlay'],
 for(const [id,key]of [['fromRange','from'],['fromNumber','from'],['toRange','to'],['toNumber','to']])$(id).addEventListener(id.includes('Range')?'input':'change',e=>{let v=Math.round(+e.target.value/50)*50;v=Math.max(-2500,Math.min(2050,v));if(key==='from')v=Math.min(v,state.to);else v=Math.max(v,state.from);change({[key]:v,before:false,after:false,includeUnknown:false},{keepScroll:true});});
 $('resetBtn').onclick=resetAtlas;$('clearCategories').onclick=()=>change({categories:[]});$('clearPlace').onclick=()=>change({country:''});
 $('collapseFilters').onclick=()=>setFilters(false);$('mobileFilters').onclick=()=>setFilters(!filtersOpen);
-$('expandCollection').onclick=()=>{collectionExpanded=!collectionExpanded;syncPanels();resize();};
+
 $('closeResults').onclick=()=>{resultsOpen=false;if(state.view==='books'||state.view==='shelf')change({view:'map'});else{syncPanels();resize();}};$('openResults').onclick=showResults;
 $('shelfBtn').onclick=()=>{change({...C.defaults(),view:'shelf'});showResults();};function setTheme(t){document.documentElement.dataset.theme=t;storageSet('classics-atlas-theme',t);applyMapScheme();render();}
 $('themeBtn').onclick=()=>setTheme(document.documentElement.dataset.theme==='dark'?'light':'dark');

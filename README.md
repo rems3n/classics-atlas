@@ -53,7 +53,7 @@ A functional, local-first literary atlas with a searchable Penguin Classics inde
 
 ### Current layout
 
-The promotional headline has been removed completely. Search sits in a toolbar above the map; filters start open in a left dock on desktop. The book list uses a right dock with an Expand collection / Collapse collection button. Expanding reveals a wider multi-column grid on large screens, a full reading area on tablets, and an unrestricted list below the map on mobile; selected country and filters stay intact. Book notes follow a consistent reading order: overview and key facts, reading controls, date history, geography, edition details, then expandable provenance. Time & borders lives at the top of the left sidebar; its date card opens a large draggable date picker. There is no bottom timeline strip. Mobile uses a bounded, scrollable filter section above the map. The projection resizes to the actual available map canvas when either dock changes. Small zoom/projection controls retain the glass treatment. Mobile starts with books closed and opens them below the map, rather than on top of it. Dense count markers group nearby countries and deduplicate work IDs; click a dashed-ring group to zoom in. Country fills remain individual country counts.
+The promotional headline has been removed completely. Search sits in a toolbar above the map; filters start open in a left dock on desktop. The book list uses a right dock whose width you drag from its left edge. Drag it wider for a multi-column grid, or narrower to give the map more room; double-click the handle to return to the default width, and the arrow keys resize it from the keyboard. The width is saved in the browser. Selected country and filters stay intact, and narrow screens stack the list below the map instead. Time & borders lives at the top of the left sidebar; its date card opens a large draggable date picker. There is no bottom timeline strip. Mobile uses a bounded, scrollable filter section above the map. The projection resizes to the actual available map canvas when either dock changes. Small zoom/projection controls retain the glass treatment. Mobile starts with books closed and opens them below the map, rather than on top of it. Dense count markers group nearby countries and deduplicate work IDs; click a dashed-ring group to zoom in. Country fills remain individual country counts.
 
 ## Geographic QA and historical borders
 
@@ -85,7 +85,7 @@ In the extracted source folder, `npm start` serves the app at http://localhost:3
 - Browser-local persistence plus JSON backup export/import. Selecting Remove from shelf removes that item and its rating; exports are recommended.
 - Shareable URL state when hosted; portable view codes when opened as a file. Shelf and ratings are excluded.
 - Local phrase search, editable filter chips, and Undo. Try `Greek poetry before the 4th century BC`, `Japanese novels`, `French nonfiction`, or an author/title. This is a deterministic parser, **not a connected LLM**. Unsupported page-count and similarity requests explain the limitation.
-- Responsive docked panels, light/dark themes, reduced-transparency option, keyboard-accessible controls.
+- Responsive docked panels, a drag-resizable book list, six map color schemes in Settings, light/dark themes, reduced-transparency option, keyboard-accessible controls.
 
 ## Data boundaries — important
 
