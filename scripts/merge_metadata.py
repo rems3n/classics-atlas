@@ -174,6 +174,10 @@ def merge(records):
         if not b.get('cover') and c:
             b.update(c)
             b['provenance'].append({'fields':'Cover / selected edition','source':c['coverSource'],'method':c['match']})
+    # Reading-path additions (scripts/path_books.py) join before the geography review so they get the same
+    # origin decisions, association lists and audit entries as the rest of the catalog.
+    path_books=ROOT/'data/path-books.json'
+    if path_books.exists():records+=json.loads(path_books.read_text())
     from geography_qa import apply_geography_qa
     records=apply_geography_qa(records)
     counts={k:sum(b.get(f) is not None if f=='start' else bool(b.get(f)) for b in records) for k,f in [('dated','start'),('mapped','countries'),('classified','categories'),('covers','cover'),('languages','language'),('pageCounts','pages')]}

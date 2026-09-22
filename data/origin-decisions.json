@@ -5285,5 +5285,168 @@
     "sources": [
       "https://en.wikipedia.org/wiki/Aesop"
     ]
+  },
+  "Yu Hua": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Hangzhou, Zhejiang, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yu_Hua"
+    ]
+  },
+  "Mo Yan": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Gaomi, Shandong, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mo_Yan"
+    ]
+  },
+  "Yan Lianke": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Song County, Henan, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yan_Lianke"
+    ]
+  },
+  "Ha Jin": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Jinzhou, Liaoning, China. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ha_Jin"
+    ],
+    "associations": [
+      "CHN",
+      "USA"
+    ],
+    "associationNote": "Born and raised in China; emigrated to the United States in 1985 and writes in English."
+  },
+  "Wang Anyi": {
+    "countries": [
+      "CHN"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Nanjing, China; raised in Shanghai. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wang_Anyi"
+    ]
+  },
+  "Mario Vargas Llosa": {
+    "countries": [
+      "PER"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Arequipa, Peru. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa"
+    ],
+    "associations": [
+      "PER",
+      "ESP"
+    ],
+    "associationNote": "Peruvian birth and early career; later lived in Spain and took Spanish citizenship."
+  },
+  "Roberto Bolaño": {
+    "countries": [
+      "CHL"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Santiago, Chile. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roberto_Bola%C3%B1o"
+    ],
+    "associations": [
+      "CHL",
+      "MEX",
+      "ESP"
+    ],
+    "associationNote": "Chilean birth; lived in Mexico City as a young writer and later in Catalonia, Spain."
+  },
+  "Ben Okri": {
+    "countries": [
+      "NGA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Minna, Nigeria. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ben_Okri"
+    ],
+    "associations": [
+      "NGA",
+      "GBR"
+    ],
+    "associationNote": "Nigerian birth; part of his childhood and most of his career in London."
+  },
+  "Aminatta Forna": {
+    "countries": [
+      "GBR"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Glasgow, Scotland, United Kingdom. Sierra Leone is a childhood and literary association, not her birthplace. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aminatta_Forna"
+    ],
+    "associations": [
+      "GBR",
+      "SLE"
+    ],
+    "associationNote": "Born in Glasgow; grew up partly in Sierra Leone, the setting of much of her work."
+  },
+  "Biyi Bandele": {
+    "countries": [
+      "NGA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Kafanchan, Nigeria. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Biyi_Bandele"
+    ],
+    "associations": [
+      "NGA",
+      "GBR"
+    ],
+    "associationNote": "Nigerian birth; moved to London in 1990, where most of his work was written."
+  },
+  "Chimamanda Ngozi Adichie": {
+    "countries": [
+      "NGA"
+    ],
+    "basis": "documented birthplace",
+    "note": "Birthplace recorded as Enugu, Nigeria. Mapped to a modern region, not a claim of modern nationality.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
+    ],
+    "associations": [
+      "NGA",
+      "USA"
+    ],
+    "associationNote": "Nigerian birth and upbringing in Nsukka; studied and partly lives in the United States."
+  },
+  "Various African women writers; edited by Yvonne Vera": {
+    "countries": [
+      "GHA",
+      "ZWE",
+      "ZAF",
+      "SDN",
+      "MUS",
+      "CIV",
+      "ZMB"
+    ],
+    "basis": "representative contributor traditions",
+    "note": "Anthology of short fiction by African women writers, edited by Yvonne Vera (born in Bulawayo, Zimbabwe). Countries represent contributor traditions; the per-story contributor list has not been independently verified.",
+    "sources": [
+      "https://books.google.com/books/about/Opening_Spaces.html?id=xbuCAAAAIAAJ",
+      "https://en.wikipedia.org/wiki/Yvonne_Vera"
+    ]
   }
 }

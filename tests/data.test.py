@@ -144,12 +144,19 @@ class MetadataTests(unittest.TestCase):
             self.assertTrue(set(b['countries'])<=set(b['associationCountries']),b['title'])
             self.assertTrue(b['locationBasis'])
         audit=json.loads((ROOT/'data/geography-audit.json').read_text())
-        # The geography QA pass predates the 13 reading-path additions, which carry their own location notes
-        # (checked above). Known gap: they have not been through scripts/geography_qa.py review.
+        self.assertEqual(audit['screenedWorks'],len(books))
+        self.assertEqual(audit['sourceBackedWorks']+audit['retainedFallbackWorks'],len(books))
+        # Reading-path additions go through the same geography review as the rest of the catalog.
         path_ids={b['id'] for b in json.loads((ROOT/'data/path-books.json').read_text())}
         self.assertEqual(len(path_ids),13)
-        self.assertEqual(audit['screenedWorks'],len(books)-len(path_ids))
-        self.assertEqual(audit['sourceBackedWorks']+audit['retainedFallbackWorks'],len(books)-len(path_ids))
+        by_id={b['id']:b for b in books}
+        for i in path_ids:
+            b=by_id[i]
+            self.assertEqual(b['originReview'],'source-backed decision',b['title'])
+            self.assertTrue(set(b['countries'])<=set(b['associationCountries']),b['title'])
+            self.assertTrue(any(p['fields']=='Author origin / literary-region mapping' for p in b['provenance']),b['title'])
+        forna=next(by_id[i] for i in path_ids if by_id[i]['title']=='The Memory of Love')
+        self.assertEqual(forna['countries'],['GBR']);self.assertIn('SLE',forna['associationCountries'])
     def test_historical_snapshots_have_real_dated_sources(self):
         from historical_maps import historical_maps
         h=historical_maps()

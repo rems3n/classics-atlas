@@ -58,7 +58,7 @@ def world():
     return raw
 def build():
     compile_dates()
-    books=catalog();books+=json.loads((ROOT/'data/path-books.json').read_text()) if (ROOT/'data/path-books.json').exists() else [];geo=world();(ROOT/'data/catalog.json').write_text(json.dumps(books,ensure_ascii=False,indent=2))
+    books=catalog();geo=world()
     coverage_path=ROOT/'data/coverage.json'
     coverage=json.loads(coverage_path.read_text());coverage.update(total=len(books),dated=sum(b['start'] is not None for b in books),mapped=sum(bool(b['countries']) for b in books),classified=sum(bool(b['categories']) for b in books),languages=sum(bool(b.get('language')) for b in books),pathAdditions=13,estimatedDates=sum(b.get('dateConfidence')=='estimated' for b in books));coverage_path.write_text(json.dumps(coverage,indent=2))
     assert all(b['start'] is not None and b['end'] is not None for b in books), 'Undated catalog entry: add a documented date decision before publishing'
