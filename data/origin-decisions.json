@@ -5434,19 +5434,24 @@
   },
   "Various African women writers; edited by Yvonne Vera": {
     "countries": [
-      "GHA",
       "ZWE",
+      "GHA",
       "ZAF",
-      "SDN",
       "MUS",
+      "NGA",
+      "MOZ",
+      "SDN",
       "CIV",
+      "MLI",
+      "NAM",
       "ZMB"
     ],
-    "basis": "representative contributor traditions",
-    "note": "Anthology of short fiction by African women writers, edited by Yvonne Vera (born in Bulawayo, Zimbabwe). Countries represent contributor traditions; the per-story contributor list has not been independently verified.",
+    "basis": "contributor countries from the publisher description",
+    "note": "Anthology of short fiction by African women writers, edited by Yvonne Vera (born in Bulawayo, Zimbabwe). Countries are those of the contributors named in the publisher’s description: Zimbabwe, Ghana, South Africa, Mauritius, Nigeria, Mozambique, Sudan, Côte d’Ivoire, Mali, Namibia and Zambia.",
     "sources": [
-      "https://books.google.com/books/about/Opening_Spaces.html?id=xbuCAAAAIAAJ",
-      "https://en.wikipedia.org/wiki/Yvonne_Vera"
+      "https://www.abebooks.com/9780435910105/Opening-Spaces-Anthology-Contemporary-African-0435910108/plp",
+      "https://www.goodreads.com/book/show/420460.Opening_Spaces",
+      "https://books.google.com/books/about/Opening_Spaces.html?id=xbuCAAAAIAAJ"
     ]
   }
 }
