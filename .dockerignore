@@ -3,6 +3,7 @@
 !docker-entrypoint.sh
 !server.cjs
 !index.html
+!home.html
 !data/
 !data/catalog.json
 !data/reading-paths.json

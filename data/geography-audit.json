@@ -1,6 +1,6 @@
 {
   "screenedWorks": 1492,
-  "changedWorks": 298,
+  "changedWorks": 299,
   "sourceBackedWorks": 1275,
   "retainedFallbackWorks": 217,
   "changes": [
@@ -3934,6 +3934,34 @@
         "UKR"
       ],
       "reason": "Birthplace recorded as Chechelnyk, Ukrainian SSR. Mapped to a modern region, not a claim of modern nationality."
+    },
+    {
+      "id": "path-46b1057a57db",
+      "title": "Opening Spaces",
+      "author": "Various African women writers; edited by Yvonne Vera",
+      "before": [
+        "GHA",
+        "ZWE",
+        "ZAF",
+        "SDN",
+        "MUS",
+        "CIV",
+        "ZMB"
+      ],
+      "after": [
+        "ZWE",
+        "GHA",
+        "ZAF",
+        "MUS",
+        "NGA",
+        "MOZ",
+        "SDN",
+        "CIV",
+        "MLI",
+        "NAM",
+        "ZMB"
+      ],
+      "reason": "Anthology of short fiction by African women writers, edited by Yvonne Vera (born in Bulawayo, Zimbabwe). Countries are those of the contributors named in the publisher’s description: Zimbabwe, Ghana, South Africa, Mauritius, Nigeria, Mozambique, Sudan, Côte d’Ivoire, Mali, Namibia and Zambia."
     }
   ],
   "fallbacks": [

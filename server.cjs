@@ -18,16 +18,25 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
  // Each distinct title/description renders one page variant. Compression of the 11 MB bundle is expensive,
  // so variants are compressed once off the event loop, cached (bounded), and revalidated with a strong ETag.
  const gzipAsync=promisify(zlib.gzip),brotliAsync=promisify(zlib.brotliCompress),variants=new Map(),MAX_VARIANTS=64;
+ const homeFile=path.join(__dirname,'home.html'),home=fs.existsSync(homeFile)?fs.readFileSync(homeFile):null;
+ const compressed=html=>{const v={raw:html,etag:'"'+crypto.createHash('sha1').update(html).digest('base64url')+'"',gzip:gzipAsync(html,{level:9}),br:brotliAsync(html,{params:{[zlib.constants.BROTLI_PARAM_QUALITY]:9,[zlib.constants.BROTLI_PARAM_SIZE_HINT]:html.length}})};v.gzip.catch(()=>{});v.br.catch(()=>{});return v;};
+ const homePage=home&&compressed(home);
  function renderPage(title,desc){
   const key=title+'\n'+desc;let v=variants.get(key);
   if(v){variants.delete(key);variants.set(key,v);return v;}
   const html=Buffer.from(file.replace(/<title>[^<]*<\/title>/,`<title>${esc(title)}</title>`).replace('</head>',`<meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="website"></head>`));
-  v={raw:html,etag:'"'+crypto.createHash('sha1').update(html).digest('base64url')+'"',gzip:gzipAsync(html,{level:9}),br:brotliAsync(html,{params:{[zlib.constants.BROTLI_PARAM_QUALITY]:9,[zlib.constants.BROTLI_PARAM_SIZE_HINT]:html.length}})};
-  v.gzip.catch(()=>{});v.br.catch(()=>{});
+  v=compressed(html);
   variants.set(key,v);if(variants.size>MAX_VARIANTS)variants.delete(variants.keys().next().value);return v;
  }
  const DEFAULT_TITLE='Classics Atlas — A world of stories',DEFAULT_DESC='Discover books through places, periods and curated reading paths.';
  const ready=Promise.all([renderPage(DEFAULT_TITLE,DEFAULT_DESC).gzip,renderPage(DEFAULT_TITLE,DEFAULT_DESC).br]);
+ async function send(req,res,page){
+  const accept=req.headers['accept-encoding']||'',encoding=/\bbr\b/.test(accept)?'br':/\bgzip\b/.test(accept)?'gzip':null;
+  const headers={'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-cache','ETag':page.etag,'Vary':'Accept-Encoding'};
+  if((req.headers['if-none-match']||'').split(/\s*,\s*/).includes(page.etag)){res.writeHead(304,headers);return res.end();}
+  const bodyBytes=encoding?await page[encoding]:page.raw;if(encoding)headers['Content-Encoding']=encoding;headers['Content-Length']=bodyBytes.length;
+  res.writeHead(200,headers);res.end(req.method==='HEAD'?undefined:bodyBytes);
+ }
  const json=(res,status,body)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(body));};
  const error=(code,message)=>Object.assign(Error(message),{code});
  const getUser=req=>{const tok=req.headers.cookie?.match(/(?:^|;\s*)atlas_session=([a-f0-9]{64})(?:;|$)/)?.[1];return tok?db.prepare('SELECT users.id,username FROM sessions JOIN users ON users.id=sessions.user_id WHERE token=? AND expires>?').get(hash(tok),Date.now()):null;};
@@ -85,16 +94,17 @@ function createServer({dbPath=process.env.ATLAS_DB||path.join(__dirname,'runtime
    }
    if(!['GET','HEAD'].includes(req.method))throw error(405,'Method not allowed');
    if(url.pathname==='/classics-atlas-source.zip'){res.writeHead(302,{Location:'https://github.com/rems3n/classics-atlas/archive/refs/heads/main.zip'});return res.end();}
-   if(!['/','/index.html','/classics-atlas.html'].includes(url.pathname))throw error(404,'Not found');
+   // `/` is the home page. Links that carry app state (book, path, collection, tour) go straight to the atlas.
+   if(url.pathname==='/'&&home){
+    if(['book','path','collection','tour'].some(k=>url.searchParams.has(k))){res.writeHead(302,{Location:'/atlas'+url.search});return res.end();}
+    return send(req,res,homePage);
+   }
+   if(!['/','/atlas','/index.html','/classics-atlas.html'].includes(url.pathname))throw error(404,'Not found');
    let title=DEFAULT_TITLE,desc=DEFAULT_DESC;
    if(url.searchParams.has('book')){const b=bookMap.get(url.searchParams.get('book'));if(b){title=b.title+' · Classics Atlas';desc=b.overview||b.author;}}
    if(url.searchParams.has('path')){const p=paths.find(p=>p.id===url.searchParams.get('path'));if(p){title=p.title+' · Classics Atlas';desc=p.description;}}
    if(url.searchParams.has('collection')){const c=db.prepare("SELECT * FROM collections WHERE id=? AND visibility!='private'").get(url.searchParams.get('collection'));if(c){title=c.title+' · Classics Atlas';desc=c.description;}}
-   const page=renderPage(title,desc),accept=req.headers['accept-encoding']||'',encoding=/\bbr\b/.test(accept)?'br':/\bgzip\b/.test(accept)?'gzip':null;
-   const headers={'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-cache','ETag':page.etag,'Vary':'Accept-Encoding'};
-   if((req.headers['if-none-match']||'').split(/\s*,\s*/).includes(page.etag)){res.writeHead(304,headers);return res.end();}
-   const bodyBytes=encoding?await page[encoding]:page.raw;if(encoding)headers['Content-Encoding']=encoding;headers['Content-Length']=bodyBytes.length;
-   res.writeHead(200,headers);res.end(req.method==='HEAD'?undefined:bodyBytes);
+   return send(req,res,renderPage(title,desc));
   }catch(e){if(!Number.isInteger(e.code))console.error(req.method,url.pathname,e.stack||e);if(res.headersSent)return res.destroy();json(res,Number.isInteger(e.code)?e.code:500,{error:Number.isInteger(e.code)?e.message:'Something went wrong. Please try again.'});}
  });
  server.on('close',()=>db.close());server.atlasDB=db;server.atlasReady=ready;return server;

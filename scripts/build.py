@@ -56,6 +56,40 @@ def world():
             return [rounded(x) for x in v] if isinstance(v,list) else round(v,3) if isinstance(v,float) else v
         f['geometry']['coordinates']=rounded(f['geometry']['coordinates'])
     return raw
+
+def home(books,geo,places,paths):
+    """Static home page: counts, reading-path table and a dot map of book origins (equirectangular)."""
+    import math
+    esc=lambda v:html.escape(str(v),quote=True)
+    W,H=720,360;px=lambda lon,lat:(round((lon+180)*W/360,1),round((90-lat)*H/180,1))
+    land=[]
+    for f in geo['features']:
+        g=f['geometry'];polys=g['coordinates'] if g['type']=='MultiPolygon' else [g['coordinates']]
+        for poly in polys:
+            ring=poly[0]
+            if len(ring)<8:continue
+            pts=[];last=None
+            for lon,lat in ring:
+                p=(round((lon+180)*W/360),round((90-lat)*H/180))
+                if p!=last:pts.append(p);last=p
+            if len(pts)>=4:land.append('M'+'L'.join(f'{x} {y}' for x,y in pts)+'Z')
+    anchor={f['id']:f['properties']['label'] for f in geo['features']}|{p['id']:p['label'] for p in places}
+    counts={}
+    for b in books:
+        for c in set(b['countries']):counts[c]=counts.get(c,0)+1
+    names={f['id']:f['properties']['name'] for f in geo['features']}|{p['id']:p['name'] for p in places}
+    dots=''.join(f'<circle cx="{x}" cy="{y}" r="{round(1.6+math.sqrt(n)*0.9,1)}"><title>{esc(names.get(c,c))}: {n}</title></circle>' for c,n in sorted(counts.items(),key=lambda kv:-kv[1]) for x,y in [px(*anchor[c])])
+    svg=(f'<svg viewBox="0 {H*0.08:.0f} {W} {H*0.72:.0f}" role="img" aria-label="World map with a dot for each of {len(counts)} countries and regions, sized by number of books">'
+         f'<path d="{"".join(land)}" fill="currentColor" opacity=".13"/><g fill="var(--dot)" fill-opacity=".55" stroke="var(--dot)" stroke-width=".6">{dots}</g></svg>')
+    def year(y):return f'{-y} BC' if y<0 else f'AD {y}' if y<1000 else str(y)
+    rows=''.join(f'<tr><td><a href="/atlas?path={esc(p["id"])}">{esc(p["title"])}</a> <span class="badge">{esc(p["badge"])}</span></td><td class="hide-sm">{esc(p["curator"])}</td><td class="n">{len(p["items"])}</td></tr>' for p in paths)
+    fill={'BOOK_COUNT':f'{len(books):,}','COUNTRY_COUNT':str(len(counts)),'PATH_COUNT':str(len(paths)),
+          'SPAN':f'{year(min(b["start"] for b in books))} to {year(max(b["end"] for b in books))}','DOT_MAP':svg,'PATH_ROWS':rows}
+    page=(ROOT/'src/home.html').read_text()
+    for k,v in fill.items():page=page.replace('{{'+k+'}}',v)
+    assert '{{' not in page,'Unfilled home page placeholder'
+    (ROOT/'home.html').write_text(page)
+    print('Home page:',len(page),'characters')
 def build():
     compile_dates()
     books=catalog();geo=world()
@@ -80,4 +114,5 @@ def build():
     (dest/'classics-atlas.html').write_text(template)
     (ROOT/'index.html').write_text(template)
     print('Built',dest/'classics-atlas.html', len(template),'characters')
+    home(books,geo,places,json.loads((ROOT/'data/reading-paths.json').read_text()))
 if __name__=='__main__':build()

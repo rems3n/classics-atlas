@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d7779">
+<title>Classics Atlas · Classic books by place and time</title>
+<meta name="description" content="{{BOOK_COUNT}} classic books on a world map and timeline. Browse by country or period, follow reading paths based on university courses, and track what you read.">
+<meta property="og:title" content="Classics Atlas"><meta property="og:description" content="{{BOOK_COUNT}} classic books on a world map and timeline, with reading paths and a reading tracker."><meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230d7779'/%3E%3Cpath d='M12 17q10-5 20 2q10-7 20-2v31q-10-5-20 2q-10-7-20-2zM32 19v31' fill='none' stroke='white' stroke-width='3'/%3E%3C/svg%3E">
+<script>
+// Old share links put the view in the hash, which the server never sees. Send them to the atlas.
+if(/^#atlas=/.test(location.hash))location.replace('/atlas'+location.search+location.hash);
+try{var t=localStorage.getItem('classics-atlas-theme');if(t)document.documentElement.dataset.theme=JSON.parse(t)==='dark'?'dark':'light';}catch(e){}
+</script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap');
+:root{color-scheme:light;--ink:#233b3e;--muted:#5b7275;--accent:#087e80;--accent-ink:#fff;--soft:#087e8014;--line:#6d949433;--bg:#f4f8f7;--card:#fff;--sea:#dcebea;--dot:#087e80;--serif:'Libre Caslon Display',Georgia,serif;--font:'DM Sans',system-ui,-apple-system,sans-serif}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){color-scheme:dark;--ink:#e2eeeb;--muted:#a3bdc0;--accent:#73dbca;--accent-ink:#0b2029;--soft:#73dbca14;--line:#afd5d82a;--bg:#0b2029;--card:#112b35;--sea:#0f2a36;--dot:#73dbca}}
+:root[data-theme=dark]{color-scheme:dark;--ink:#e2eeeb;--muted:#a3bdc0;--accent:#73dbca;--accent-ink:#0b2029;--soft:#73dbca14;--line:#afd5d82a;--bg:#0b2029;--card:#112b35;--sea:#0f2a36;--dot:#73dbca}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--font)}
+a{color:var(--accent)}a:focus-visible,.btn:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line)}header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:64px}
+.brand{display:flex;align-items:center;gap:9px;color:var(--ink);text-decoration:none;font-family:var(--serif);font-size:24px}.brand em{color:var(--accent)}
+.brand svg{width:28px;height:28px;flex:none}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 20px;border-radius:10px;font-weight:600;font-size:15px;text-decoration:none;border:1px solid var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-ink)}.btn.secondary{color:var(--accent);background:transparent}
+.hero{display:grid;grid-template-columns:1fr 1.1fr;gap:40px;align-items:center;padding:56px 0 40px}
+h1,h2,h3{font-family:var(--serif);font-weight:400;line-height:1.15;margin:0}
+h1{font-size:clamp(34px,5vw,52px)}h2{font-size:30px;margin-bottom:8px}h3{font-size:21px;margin-bottom:6px}
+.lead{font-size:18px;color:var(--muted);margin:18px 0 26px}.actions{display:flex;flex-wrap:wrap;gap:12px}
+.stats{display:flex;flex-wrap:wrap;gap:8px 28px;margin:26px 0 0;padding:0;list-style:none;color:var(--muted);font-size:14px}.stats strong{display:block;color:var(--ink);font-size:22px;font-weight:600}
+figure{margin:0;background:var(--sea);border-radius:16px;padding:14px 14px 10px}figure svg{display:block;width:100%;height:auto}figcaption{font-size:13px;color:var(--muted);margin-top:6px}
+section{padding:40px 0;border-top:1px solid var(--line)}.intro{color:var(--muted);margin:0 0 22px;max-width:680px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}.card p{margin:0 0 8px}.card .how{font-size:14px;color:var(--muted);margin:0}
+table{width:100%;border-collapse:collapse;font-size:15px}th,td{text-align:left;padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}th{font-size:13px;color:var(--muted);font-weight:600}td.n{text-align:right;white-space:nowrap}th.n{text-align:right}
+.badge{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;background:var(--soft);color:var(--ink);white-space:nowrap}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}ul.plain{margin:0;padding-left:20px}ul.plain li{margin:4px 0}
+footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--muted);font-size:14px}
+@media(max-width:820px){.hero{grid-template-columns:1fr;padding-top:36px;gap:28px}.two{grid-template-columns:1fr}.hide-sm{display:none}th,td{padding:10px 6px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head>
+<body>
+<header><div class="wrap"><a class="brand" href="/"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="16" fill="#0d7779"/><path d="M12 17q10-5 20 2q10-7 20-2v31q-10-5-20 2q-10-7-20-2zM32 19v31" fill="none" stroke="white" stroke-width="3"/></svg>Classics <em>Atlas</em></a><a class="btn primary" href="/atlas">Open the atlas</a></div></header>
+<main>
+<div class="wrap hero">
+ <div>
+  <h1>Classic books, mapped by place and time</h1>
+  <p class="lead">Classics Atlas puts {{BOOK_COUNT}} classic works on a world map and a timeline. Pick a country or a period to see what was written there, follow a reading list based on a university course, and keep track of what you have read.</p>
+  <div class="actions"><a class="btn primary" href="/atlas">Open the atlas</a><a class="btn secondary" href="/atlas?tour=1">Take the 1-minute tour</a></div>
+  <ul class="stats"><li><strong>{{BOOK_COUNT}}</strong>books</li><li><strong>{{COUNTRY_COUNT}}</strong>countries and regions</li><li><strong>{{PATH_COUNT}}</strong>reading paths</li><li><strong>{{SPAN}}</strong>date range</li></ul>
+ </div>
+ <figure>{{DOT_MAP}}<figcaption>Each dot is a country or region. Larger dots have more books. Based on author origin or the work’s literary tradition.</figcaption></figure>
+</div>
+
+<section><div class="wrap">
+ <h2>What you can do</h2>
+ <p class="intro">Everything below works in your browser without an account.</p>
+ <div class="grid">
+  <div class="card"><h3>Browse by place</h3><p>See which books come from a country or region.</p><p class="how">Click a country on the map. Switch to historical borders, from 1500 BC to AD 1600, in the Time &amp; borders panel.</p></div>
+  <div class="card"><h3>Browse by period</h3><p>Show only books written in a date range.</p><p class="how">Drag across the timeline, or pick an era such as Ancient or Medieval.</p></div>
+  <div class="card"><h3>Search and filter</h3><p>Find a title or author, or narrow by form, tradition and language.</p><p class="how">Type a title, an author, or a phrase like “Japanese novels” or “Greek poetry before 400 BC”.</p></div>
+  <div class="card"><h3>Follow a reading path</h3><p>Work through a list based on a course or expert selection, one assignment at a time.</p><p class="how">Open Paths. Each path shows its source, what it covers, and which items are excerpts or adaptations.</p></div>
+  <div class="card"><h3>Track your reading</h3><p>Mark books as want to read, reading or read. Add ratings, notes and favourites.</p><p class="how">Open any book and use the controls under its title. My Atlas shows your reading on the map.</p></div>
+  <div class="card"><h3>Make collections</h3><p>Group books into your own lists with notes, and share them by link.</p><p class="how">Open a book and choose Add to collection. Sharing a collection needs an account.</p></div>
+ </div>
+</div></section>
+
+<section><div class="wrap">
+ <h2>Reading paths</h2>
+ <p class="intro">Paths are based on public course pages and published expert lists. They are not complete degree syllabuses. Each path says what it includes and what it leaves out.</p>
+ <table><thead><tr><th>Path</th><th class="hide-sm">Based on</th><th class="n">Items</th></tr></thead><tbody>{{PATH_ROWS}}</tbody></table>
+</div></section>
+
+<section><div class="wrap">
+ <h2>Guest or account</h2>
+ <div class="two">
+  <div class="card"><h3>Without an account</h3><ul class="plain"><li>All browsing, search, paths and book notes</li><li>Shelf, ratings, notes, favourites and private collections</li><li>Saved in this browser only. Clearing site data removes it.</li><li>Export a backup file at any time from My Atlas.</li></ul></div>
+  <div class="card"><h3>With a free account</h3><ul class="plain"><li>Your reading syncs across devices</li><li>Share collections by link, or list them publicly</li><li>Your guest reading can be copied into the account when you sign up</li><li>Notes and ratings stay private. Deleting the account deletes its data.</li></ul></div>
+ </div>
+</div></section>
+
+<section><div class="wrap">
+ <h2>About the data</h2>
+ <ul class="plain">
+  <li>The catalog starts from the Wikipedia list of Penguin Classics and adds curated world literature. It is not the full current Penguin catalog.</li>
+  <li>Dates are when a work was first written or published, not the date of a modern edition. Estimated dates are marked “c.” and explained in each book’s notes.</li>
+  <li>Map locations use the author’s birthplace where known, otherwise the work’s literary tradition. Each book says which one applies.</li>
+  <li>Covers come from publishers and Open Library. No ratings are invented.</li>
+ </ul>
+</div></section>
+</main>
+<footer><div class="wrap">Independent project. Not affiliated with Penguin Random House. <a href="https://github.com/rems3n/classics-atlas">Source on GitHub</a>.</div></footer>
+</body></html>
