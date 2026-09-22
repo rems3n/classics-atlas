@@ -78,7 +78,7 @@ def home(books,geo,places,paths):
     for b in books:
         for c in set(b['countries']):counts[c]=counts.get(c,0)+1
     names={f['id']:f['properties']['name'] for f in geo['features']}|{p['id']:p['name'] for p in places}
-    dots=''.join(f'<circle cx="{x}" cy="{y}" r="{round(1.6+math.sqrt(n)*0.9,1)}"><title>{esc(names.get(c,c))}: {n}</title></circle>' for c,n in sorted(counts.items(),key=lambda kv:-kv[1]) for x,y in [px(*anchor[c])])
+    dots=''.join(f'<circle cx="{x}" cy="{y}" r="{round(1.6+math.sqrt(n)*0.9,1)}"><title>{esc(names.get(c,c))}: {n}</title></circle>' for c,n in sorted(counts.items(),key=lambda kv:(-kv[1],kv[0])) for x,y in [px(*anchor[c])])
     svg=(f'<svg viewBox="0 {H*0.08:.0f} {W} {H*0.72:.0f}" role="img" aria-label="World map with a dot for each of {len(counts)} countries and regions, sized by number of books">'
          f'<path d="{"".join(land)}" fill="currentColor" opacity=".13"/><g fill="var(--dot)" fill-opacity=".55" stroke="var(--dot)" stroke-width=".6">{dots}</g></svg>')
     def year(y):return f'{-y} BC' if y<0 else f'AD {y}' if y<1000 else str(y)
@@ -97,9 +97,9 @@ def build():
     coverage=json.loads(coverage_path.read_text());coverage.update(total=len(books),dated=sum(b['start'] is not None for b in books),mapped=sum(bool(b['countries']) for b in books),classified=sum(bool(b['categories']) for b in books),languages=sum(bool(b.get('language')) for b in books),pathAdditions=13,estimatedDates=sum(b.get('dateConfidence')=='estimated' for b in books));coverage_path.write_text(json.dumps(coverage,indent=2))
     assert all(b['start'] is not None and b['end'] is not None for b in books), 'Undated catalog entry: add a documented date decision before publishing'
     template=(ROOT/'src/index.html').read_text()
-    for name,path in [('STYLE','src/style.css'),('D3','vendor/d3.min.js'),('CORE','src/core.js'),('APP','src/app.js'),('READER','src/reader.js')]:
+    for name,path in [('STYLE','src/style.css'),('D3','vendor/d3.min.js'),('CORE','src/core.js'),('APP','src/app.js'),('READER','src/reader.js'),('TOUR','src/tour.js')]:
         content=(ROOT/path).read_text()
-        if name=='STYLE':content+='\n'+(ROOT/'src/layout.css').read_text()+'\n'+(ROOT/'src/reader.css').read_text()
+        if name=='STYLE':content+='\n'+(ROOT/'src/layout.css').read_text()+'\n'+(ROOT/'src/reader.css').read_text()+'\n'+(ROOT/'src/tour.css').read_text()
         template=template.replace('/*__'+name+'__*/',content)
     places=json.loads((ROOT/'data/map-places.json').read_text())
     map_ids={f['id'] for f in geo['features']}|{p['id'] for p in places}

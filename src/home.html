@@ -12,7 +12,7 @@ try{var t=localStorage.getItem('classics-atlas-theme');if(t)document.documentEle
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap');
-:root{color-scheme:light;--ink:#233b3e;--muted:#5b7275;--accent:#087e80;--accent-ink:#fff;--soft:#087e8014;--line:#6d949433;--bg:#f4f8f7;--card:#fff;--sea:#dcebea;--dot:#087e80;--serif:'Libre Caslon Display',Georgia,serif;--font:'DM Sans',system-ui,-apple-system,sans-serif}
+:root{color-scheme:light;--ink:#233b3e;--muted:#4a6164;--accent:#087e80;--accent-ink:#fff;--soft:#087e8014;--line:#6d949433;--bg:#f4f8f7;--card:#fff;--sea:#dcebea;--dot:#087e80;--serif:'Libre Caslon Display',Georgia,serif;--font:'DM Sans',system-ui,-apple-system,sans-serif}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]){color-scheme:dark;--ink:#e2eeeb;--muted:#a3bdc0;--accent:#73dbca;--accent-ink:#0b2029;--soft:#73dbca14;--line:#afd5d82a;--bg:#0b2029;--card:#112b35;--sea:#0f2a36;--dot:#73dbca}}
 :root[data-theme=dark]{color-scheme:dark;--ink:#e2eeeb;--muted:#a3bdc0;--accent:#73dbca;--accent-ink:#0b2029;--soft:#73dbca14;--line:#afd5d82a;--bg:#0b2029;--card:#112b35;--sea:#0f2a36;--dot:#73dbca}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--font)}
@@ -32,7 +32,7 @@ figure{margin:0;background:var(--sea);border-radius:16px;padding:14px 14px 10px}
 section{padding:40px 0;border-top:1px solid var(--line)}.intro{color:var(--muted);margin:0 0 22px;max-width:680px}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}.card p{margin:0 0 8px}.card .how{font-size:14px;color:var(--muted);margin:0}
-table{width:100%;border-collapse:collapse;font-size:15px}th,td{text-align:left;padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}th{font-size:13px;color:var(--muted);font-weight:600}td.n{text-align:right;white-space:nowrap}th.n{text-align:right}
+table{width:100%;border-collapse:collapse;font-size:15px}th,td{text-align:left;padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}th{font-size:13px;color:var(--muted);font-weight:600}td.n{text-align:right;white-space:nowrap}td a{display:inline-block;padding:10px 0;margin:-10px 0}th.n{text-align:right}
 .badge{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;background:var(--soft);color:var(--ink);white-space:nowrap}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:16px}ul.plain{margin:0;padding-left:20px}ul.plain li{margin:4px 0}
 footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--muted);font-size:14px}
@@ -54,12 +54,12 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--muted);f
 
 <section><div class="wrap">
  <h2>What you can do</h2>
- <p class="intro">Everything below works in your browser without an account.</p>
+ <p class="intro">Everything below works without an account, except sharing collections.</p>
  <div class="grid">
   <div class="card"><h3>Browse by place</h3><p>See which books come from a country or region.</p><p class="how">Click a country on the map. Switch to historical borders, from 1500 BC to AD 1600, in the Time &amp; borders panel.</p></div>
   <div class="card"><h3>Browse by period</h3><p>Show only books written in a date range.</p><p class="how">Drag across the timeline, or pick an era such as Ancient or Medieval.</p></div>
   <div class="card"><h3>Search and filter</h3><p>Find a title or author, or narrow by form, tradition and language.</p><p class="how">Type a title, an author, or a phrase like “Japanese novels” or “Greek poetry before 400 BC”.</p></div>
-  <div class="card"><h3>Follow a reading path</h3><p>Work through a list based on a course or expert selection, one assignment at a time.</p><p class="how">Open Paths. Each path shows its source, what it covers, and which items are excerpts or adaptations.</p></div>
+  <div class="card"><h3>Follow a reading path</h3><p>Work through a list based on a course or expert selection, one assignment at a time.</p><p class="how">Open Paths. Each path shows its source, what it covers, and which items are excerpts or abridgments.</p></div>
   <div class="card"><h3>Track your reading</h3><p>Mark books as want to read, reading or read. Add ratings, notes and favourites.</p><p class="how">Open any book and use the controls under its title. My Atlas shows your reading on the map.</p></div>
   <div class="card"><h3>Make collections</h3><p>Group books into your own lists with notes, and share them by link.</p><p class="how">Open a book and choose Add to collection. Sharing a collection needs an account.</p></div>
  </div>
@@ -75,7 +75,7 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--muted);f
  <h2>Guest or account</h2>
  <div class="two">
   <div class="card"><h3>Without an account</h3><ul class="plain"><li>All browsing, search, paths and book notes</li><li>Shelf, ratings, notes, favourites and private collections</li><li>Saved in this browser only. Clearing site data removes it.</li><li>Export a backup file at any time from My Atlas.</li></ul></div>
-  <div class="card"><h3>With a free account</h3><ul class="plain"><li>Your reading syncs across devices</li><li>Share collections by link, or list them publicly</li><li>Your guest reading can be copied into the account when you sign up</li><li>Notes and ratings stay private. Deleting the account deletes its data.</li></ul></div>
+  <div class="card"><h3>With a free account</h3><ul class="plain"><li>Your reading syncs across devices</li><li>Share collections by link, or list them publicly</li><li>Copy your guest reading into the account from the account menu</li><li>Notes and ratings stay private. Deleting the account deletes its data.</li></ul></div>
  </div>
 </div></section>
 
