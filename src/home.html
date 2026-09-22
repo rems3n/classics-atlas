@@ -9,6 +9,9 @@
 // Old share links put the view in the hash, which the server never sees. Send them to the atlas.
 if(/^#atlas=/.test(location.hash))location.replace('/atlas'+location.search+location.hash);
 try{var t=localStorage.getItem('classics-atlas-theme');if(t)document.documentElement.dataset.theme=JSON.parse(t)==='dark'?'dark':'light';}catch(e){}
+// Use the map colors chosen in the atlas settings for the dot map.
+try{var m={terracotta:['#c2552c','#f0875a'],ocean:['#2166a8','#7ab3ef'],forest:['#357a43','#84cc94'],plum:['#7a4599','#cfa8ea'],graphite:['#45474c','#d4d6db'],viridis:['#3b528b','#b5de2b']}[JSON.parse(localStorage.getItem('classics-atlas-map-colors'))];
+ if(m){var dk=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.style.setProperty('--dot',m[dk?1:0]);}}catch(e){}
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap');

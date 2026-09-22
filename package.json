@@ -7,7 +7,7 @@
     "start": "node server.cjs",
     "build": "python3 scripts/build.py",
     "test": "node --test tests/core.test.cjs tests/accounts.test.cjs tests/server.test.cjs tests/google.test.cjs",
-    "test:ui": "node tests/ui.test.cjs && node tests/tour.test.cjs",
+    "test:ui": "node tests/ui.test.cjs && node tests/tour.test.cjs && node tests/settings.test.cjs",
     "test:reader": "node tests/reader-browser.test.cjs"
   },
   "devDependencies": {

@@ -2,7 +2,7 @@
 (()=>{'use strict';
 const C=AtlasCore,books=ATLAS_DATA.books,world=ATLAS_DATA.world,historical=ATLAS_DATA.historical,byId=new Map(books.map(b=>[b.id,b]));
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const icons={book:'M3 4h6a4 4 0 0 1 3 2 4 4 0 0 1 3-2h6v15h-6a4 4 0 0 0-3 2 4 4 0 0 0-3-2H3zM12 6v15',shelf:'M4 3v18M9 3v18M14 3v18M18 3l4 17',search:'M21 21l-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0',arrow:'M5 12h14M13 6l6 6-6 6',share:'M12 16V3M7 8l5-5 5 5M5 13v7h14v-7',moon:'M20 14A9 9 0 0 1 10 3a9 9 0 1 0 10 11',sun:'M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1 1M18 18l1 1M5 19l1-1M18 6l1-1',info:'M12 11v6M12 7v1M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0',chevron:'M6 9l6 6 6-6',close:'M6 6l12 12M6 18L18 6',plus:'M12 5v14M5 12h14',minus:'M5 12h14',locate:'M12 2v4M12 18v4M2 12h4M18 12h4M19 12a7 7 0 1 1-14 0 7 7 0 0 1 14 0',reset:'M3 4v6h6M3 10a9 9 0 1 1 2 9',expand:'M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5',filter:'M3 6h18M6 12h12M9 18h6'};
+const icons={settings:'M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1',book:'M3 4h6a4 4 0 0 1 3 2 4 4 0 0 1 3-2h6v15h-6a4 4 0 0 0-3 2 4 4 0 0 0-3-2H3zM12 6v15',shelf:'M4 3v18M9 3v18M14 3v18M18 3l4 17',search:'M21 21l-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0',arrow:'M5 12h14M13 6l6 6-6 6',share:'M12 16V3M7 8l5-5 5 5M5 13v7h14v-7',moon:'M20 14A9 9 0 0 1 10 3a9 9 0 1 0 10 11',sun:'M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1 1M18 18l1 1M5 19l1-1M18 6l1-1',info:'M12 11v6M12 7v1M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0',chevron:'M6 9l6 6 6-6',close:'M6 6l12 12M6 18L18 6',plus:'M12 5v14M5 12h14',minus:'M5 12h14',locate:'M12 2v4M12 18v4M2 12h4M18 12h4M19 12a7 7 0 1 1-14 0 7 7 0 0 1 14 0',reset:'M3 4v6h6M3 10a9 9 0 1 1 2 9',expand:'M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5',filter:'M3 6h18M6 12h12M9 18h6'};
 const icon=k=>`<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="${icons[k]||icons.book}"/></svg>`;
 function applyIcons(){document.querySelectorAll('[data-icon]').forEach(e=>e.innerHTML=icon(e.dataset.icon));document.querySelectorAll('[data-icon-label]').forEach(e=>{if(!e.querySelector('svg'))e.insertAdjacentHTML('afterbegin',icon(e.dataset.iconLabel));});}
 applyIcons();
@@ -14,7 +14,26 @@ let shelf=cleanShelf(storageGet('classics-atlas-shelf-v1',{}));
 let state=C.decode(location.hash)||C.defaults(),previous=null,limit=30,filtered=[],mapBooks=[],countryCounts={},mapTransform=d3.zoomIdentity,projection,path,width,height,rotation=[-10,-20,0],globeScale=1,detailId=null;
 let resultsOpen=innerWidth>700,filtersOpen=true,collectionExpanded=false;
 const theme=storageGet('classics-atlas-theme','light');document.documentElement.dataset.theme=theme==='dark'?'dark':'light';
-document.body.classList.toggle('reduced-glass',storageGet('classics-atlas-reduced-glass',false));$('reduceGlass').checked=document.body.classList.contains('reduced-glass');
+document.body.classList.toggle('reduced-glass',storageGet('classics-atlas-reduced-glass',false));
+// Map color schemes: country shading by matching works, count markers and the legend ramp.
+// Each has a light and a dark version; marker colors keep 4.5:1 contrast with their label text.
+const MAP_SCHEMES={
+ terracotta:{label:'Terracotta',light:['#f6dcc6','#b8481f'],dark:['#3d2c25','#f0875a'],marker:['#c2552c','#f0875a']},
+ ocean:{label:'Ocean',light:['#d9e7f5','#1d5a96'],dark:['#1c2a3b','#6fa8e6'],marker:['#2166a8','#7ab3ef']},
+ forest:{label:'Forest',light:['#dcebd5','#2e6b3a'],dark:['#1f2e22','#7cc48c'],marker:['#357a43','#84cc94']},
+ plum:{label:'Plum',light:['#ecdff2','#6b3a8a'],dark:['#2b2233','#c69ee3'],marker:['#7a4599','#cfa8ea']},
+ graphite:{label:'Graphite',light:['#e4e4e2','#2f3033'],dark:['#2a2d33','#dcdee3'],marker:['#45474c','#d4d6db']},
+ viridis:{label:'Viridis (color-blind safe)',scale:d3.interpolateViridis,marker:['#3b528b','#b5de2b']}
+};
+let mapScheme=storageGet('classics-atlas-map-colors','terracotta');if(!MAP_SCHEMES[mapScheme])mapScheme='terracotta';
+function mapRamp(scheme=mapScheme){const s=MAP_SCHEMES[scheme],dark=document.documentElement.dataset.theme==='dark';
+ // Viridis runs dark to light; on a light page the most books should be the darkest shade.
+ return s.scale?(t=>s.scale(dark?.12+.88*t:1-.88*t)):d3.interpolateRgb(...(dark?s.dark:s.light));}
+function applyMapScheme(){const s=MAP_SCHEMES[mapScheme],dark=document.documentElement.dataset.theme==='dark',root=document.documentElement.style,r=mapRamp();
+ root.setProperty('--data',s.marker[dark?1:0]);root.setProperty('--data-soft',s.marker[dark?1:0]+(dark?'26':'1f'));
+ root.setProperty('--ramp',`linear-gradient(to right,${[0,.25,.5,.75,1].map(t=>r(.18+.82*t)).join(',')})`);
+ document.documentElement.dataset.map=mapScheme;}
+applyMapScheme();$('reduceGlass').checked=document.body.classList.contains('reduced-glass');
 const mapPlaces=[...world.features,...(ATLAS_DATA.places||[]).map(p=>({id:p.id,properties:{name:p.name,label:p.label}}))];
 const names=new Map(mapPlaces.map(f=>[f.id,f.properties.name]));
 const languages=[...new Set(books.map(b=>b.language).filter(Boolean))].sort();
@@ -207,7 +226,7 @@ function setGlobeScale(value){
 }
 
 function resize(){const w=$('mapCanvas').clientWidth,h=$('mapCanvas').clientHeight;if(!w||!h)return;width=w;height=h;svg.attr('viewBox',`0 0 ${width} ${height}`);renderMap();}
-function colorFor(list){if(!list?.length)return 'var(--land)';if(state.color==='count'){const max=Math.max(1,...Object.values(countryCounts).map(a=>a.length));return d3.interpolateRgb(document.documentElement.dataset.theme==='dark'?'#3d2c25':'#f6dcc6',document.documentElement.dataset.theme==='dark'?'#f0875a':'#b8481f')(.18+.82*Math.sqrt(list.length/max));}if(state.color==='category'){const c=d3.rollups(list,b=>b.length,b=>b.categories[0]||'Unknown').sort((a,b)=>b[1]-a[1])[0][0];return C.colors[C.categories.indexOf(c)]||'#8c8c8c';}if(state.color==='era'){const y=Math.min(...list.map(b=>b.start??3000));return y<500?'#b8481f':y<1500?'#2f4a8a':y<1800?'#3f8a5a':'#c79a2e';}const l=d3.rollups(list,b=>b.length,b=>b.language).sort((a,b)=>b[1]-a[1])[0][0];return C.colors[languages.indexOf(l)%10];}
+function colorFor(list){if(!list?.length)return 'var(--land)';if(state.color==='count'){const max=Math.max(1,...Object.values(countryCounts).map(a=>a.length));return mapRamp()(.18+.82*Math.sqrt(list.length/max));}if(state.color==='category'){const c=d3.rollups(list,b=>b.length,b=>b.categories[0]||'Unknown').sort((a,b)=>b[1]-a[1])[0][0];return C.colors[C.categories.indexOf(c)]||'#8c8c8c';}if(state.color==='era'){const y=Math.min(...list.map(b=>b.start??3000));return y<500?'#b8481f':y<1500?'#2f4a8a':y<1800?'#3f8a5a':'#c79a2e';}const l=d3.rollups(list,b=>b.length,b=>b.language).sort((a,b)=>b[1]-a[1])[0][0];return C.colors[languages.indexOf(l)%10];}
 function renderMap(){if(state.projection!=='globe')clearGlobeGesture();if(!width)return;
  if(state.projection==='globe'){projection=d3.geoOrthographic().rotate(rotation).scale(Math.min(width*.44,height*.44)*globeScale).translate([width*.5,height*.48]);mapGroup.attr('transform',null);}else{projection=d3.geoEqualEarth().fitExtent([[20,18],[Math.max(40,width-20),Math.max(50,height-60)]],{type:'Sphere'});mapGroup.attr('transform',mapTransform);}
  path=d3.geoPath(projection);countryPaths.attr('fill',f=>state.mapPeriod==='modern'?colorFor(countryCounts[f.id]):'url(#coverageGap)').classed('selected',f=>state.mapPeriod==='modern'&&f.id===state.country).style('stroke',state.mapPeriod==='modern'?null:'none').style('pointer-events',state.mapPeriod==='modern'?null:'none');
@@ -293,7 +312,17 @@ $('resetBtn').onclick=resetAtlas;$('clearCategories').onclick=()=>change({catego
 $('collapseFilters').onclick=()=>setFilters(false);$('mobileFilters').onclick=()=>setFilters(!filtersOpen);
 $('expandCollection').onclick=()=>{collectionExpanded=!collectionExpanded;syncPanels();resize();};
 $('closeResults').onclick=()=>{resultsOpen=false;if(state.view==='books'||state.view==='shelf')change({view:'map'});else{syncPanels();resize();}};$('openResults').onclick=showResults;
-$('shelfBtn').onclick=()=>{change({...C.defaults(),view:'shelf'});showResults();};$('themeBtn').onclick=()=>{const t=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=t;storageSet('classics-atlas-theme',t);render();};
+$('shelfBtn').onclick=()=>{change({...C.defaults(),view:'shelf'});showResults();};function setTheme(t){document.documentElement.dataset.theme=t;storageSet('classics-atlas-theme',t);applyMapScheme();render();}
+$('themeBtn').onclick=()=>setTheme(document.documentElement.dataset.theme==='dark'?'light':'dark');
+function settings(){const d=$('settingsDialog'),dark=document.documentElement.dataset.theme==='dark';
+ $('settingsTheme').innerHTML=['light','dark'].map(t=>`<label class="choice"><input type="radio" name="theme" value="${t}" ${(t==='dark')===dark?'checked':''}> ${t==='dark'?'Dark':'Light'}</label>`).join('');
+ $('settingsMap').innerHTML=Object.entries(MAP_SCHEMES).map(([id,s])=>{const r=mapRamp(id);return `<label class="scheme"><input type="radio" name="mapColors" value="${id}" ${id===mapScheme?'checked':''}><span class="scheme-ramp" aria-hidden="true" style="background:linear-gradient(to right,${[0,.33,.66,1].map(t=>r(.18+.82*t)).join(',')})"></span><span>${esc(s.label)}</span></label>`;}).join('');
+ if(!d.open)d.showModal();}
+$('settingsBtn').onclick=settings;
+$('settingsDialog').addEventListener('change',e=>{
+ if(e.target.name==='theme'){const v=e.target.value;setTheme(v);settings();$('settingsDialog').querySelector(`input[name=theme][value=${v}]`).focus();}
+ else if(e.target.name==='mapColors'&&MAP_SCHEMES[e.target.value]){mapScheme=e.target.value;storageSet('classics-atlas-map-colors',mapScheme);applyMapScheme();render();}
+});
 $('flatBtn').onclick=()=>change({projection:'map'});$('globeBtn').onclick=()=>change({projection:'globe'});
 function zoomBy(k){if(state.projection==='globe'){setGlobeScale(globeScale*k);}else svg.transition().duration(220).call(zoom.scaleBy,k);}
 $('zoomIn').onclick=()=>zoomBy(1.4);$('zoomOut').onclick=()=>zoomBy(1/1.4);$('homeMap').onclick=()=>{clearGlobeGesture();rotation=[-10,-20,0];globeScale=1;svg.call(zoom.transform,d3.zoomIdentity);renderMap();};
@@ -303,7 +332,7 @@ $('searchForm').onsubmit=e=>{e.preventDefault();const prompt=$('searchInput').va
 $('undoSearch').onclick=()=>{if(previous){state=previous;previous=null;render();$('replyText').textContent='Previous filters restored.';$('undoSearch').disabled=true;}};$('dismissReply').onclick=()=>$('searchReply').hidden=true;
 function about(){$('aboutStats').innerHTML=`<div><strong>${books.length.toLocaleString()}</strong><span>catalog works</span></div><div><strong>${books.filter(b=>b.start!=null).length}</strong><span>dated works</span></div><div><strong>${books.filter(b=>b.countries.length).length}</strong><span>mapped works</span></div><div><strong>${books.filter(b=>b.cover).length}</strong><span>cover matches</span></div>`;$('aboutDialog').showModal();}
 for(const id of ['aboutBtn','coverageBtn','dataStatus'])$(id).onclick=about;
-$('reduceGlass').onchange=e=>{document.body.classList.toggle('reduced-glass',e.target.checked);storageSet('classics-atlas-reduced-glass',e.target.checked);};
+window.AtlasSettings={schemes:Object.keys(MAP_SCHEMES),get:()=>mapScheme};$('reduceGlass').onchange=e=>{document.body.classList.toggle('reduced-glass',e.target.checked);storageSet('classics-atlas-reduced-glass',e.target.checked);};
 $('shareBtn').onclick=()=>{$('shareHelp').textContent=location.protocol==='file:'?'This portable file is not hosted. Copy this view code; another person with Classics Atlas can paste it here and choose Load this view. Once hosted, this becomes a shareable web link.':'Share this link to open the same filters and timeline. The recipient needs access to this website.';$('shareText').value=location.protocol==='file:'?C.encode(state):location.href.split('#')[0]+C.encode(state);$('shareDialog').showModal();};
 $('copyShare').onclick=async()=>{try{await navigator.clipboard.writeText($('shareText').value);toast('Copied. Your reading data is not included.');}catch{$('shareText').select();toast('Select and copy the view code with your keyboard.');}};
 $('loadShare').onclick=()=>{const raw=$('shareText').value,hash=raw.includes('#atlas=')?raw.slice(raw.indexOf('#atlas=')):raw;const parsed=C.decode(hash);if(parsed){state=parsed;render();showResults();$('shareDialog').close();toast('Shared view loaded.');}else toast('That is not a valid Classics Atlas view.');};
